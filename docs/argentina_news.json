@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-28T16:04:33Z",
+  "generated_at": "2026-03-29T00:01:41Z",
   "country": "Argentina",
-  "total_stories": 94,
+  "total_stories": 100,
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,6 +10,55 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Jeannette Jara: “I fight because in Chile it is once again shameful to be a Pinochet supporter”",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/03/28/jeannette-jara-brego-porque-en-chile-vuelva-a-dar-verguenza-ser-pinochetista/",
+      "published_date": "2026-03-28T22:28:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States Chamber of Commerce in Argentina celebrated the favorable ruling in the YPF case",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/la-camara-de-comercio-de-estados-unidos-en-argentina-en-argentina-celebro-el-fallo-favorable-en-el-nid28032026/",
+      "published_date": "2026-03-28T22:25:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The YPF ruling. María Ibarzábal: “Milei's relationship with Trump had fundamental relevance”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-fallo-de-ypf-maria-ibarzabal-la-relacion-de-milei-con-trump-tuvo-una-relevancia-fundamental-nid28032026/",
+      "published_date": "2026-03-28T22:21:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Máximo Kirchner went to the intersection of Milei and Macri after the ruling by YPF in favor of Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-salio-al-cruce-de-milei-y-macri-tras-el-fallo-por-ypf-a-favor-de-la-argentina-nid28032026/",
+      "published_date": "2026-03-28T21:53:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Argentine team beat the Sub 20 1-0, while Scaloni thinks about variants to play against Zambia",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-seleccion-argentina-vencio-1-0-a-la-sub-20-mientras-scaloni-piensa-en-variantes-para-jugar-ante-nid28032026/",
+      "published_date": "2026-03-28T20:34:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "An Argentine professor was arrested for stealing biological material from a virology laboratory in Brazil",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/una-profesora-argentina-fue-arrestada-por-robar-material-biologico-en-un-laboratorio-de-virologia-de-nid28032026/",
+      "published_date": "2026-03-28T20:03:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Renting a premises: what to look at before closing the negotiation",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/alquilar-un-local-que-hay-que-mirar-antes-de-cerrar-la-negociacion-nid28032026/",
+      "published_date": "2026-03-28T19:01:07Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Another irrelevant victory: the world champion deserves to be treated as such by the AFA",
       "source": "La Nación",
@@ -102,11 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump ordered the first gesture of de-escalation, although Iran denies that there are talks",
+      "title": "Yemen entered the war with two attacks on Israel",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/03/24/trump-ordeno-el-primer-gesto-de-desescalada-pero-iran-niega-que-existan-conversaciones/",
-      "published_date": "2026-03-24T03:01:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/03/28/yemen-entro-a-la-guerra-con-dos-ataques-a-israel/",
+      "published_date": "2026-03-28T23:46:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "The hidden town in La Pampa that hides the largest monument of John F. Kennedy outside the United States",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/el-pueblo-oculto-en-la-pampa-que-esconde-el-monumento-mas-grande-de-john-f-kennedy-fuera-de-estados-nid28032026/",
+      "published_date": "2026-03-28T22:53:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "What are jammers, the devices that bring aviation and military operations into play?",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/jammers-dispositivos-ponen-juego-aviacion-operaciones-militares_0_x1kFUH93ng.html",
+      "published_date": "2026-03-28T22:31:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Peace, truce or scorched earth",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/03/28/paz-tregua-o-tierra-arrasada/",
+      "published_date": "2026-03-28T22:07:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rudi Haymann: “I was on the waiting list for the concentration camp”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/rudi-haymann-estaba-en-la-lista-de-espera-hacia-el-campo-de-concentracion-nid28032026/",
+      "published_date": "2026-03-28T20:40:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "Millions march against Trump in the US and Europe and denounce abuse of power and military escalation in the Middle East",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/millones-marchan-contra-trump-en-eeuu-y-europa-y-denuncian-abuso-de-poder-y-la-escalada-militar-en-nid28032026/",
+      "published_date": "2026-03-28T20:00:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli police crack down on anti-war protests",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/03/28/la-policia-de-israel-reprimio-manifestaciones-contra-la-guerra/",
+      "published_date": "2026-03-28T19:52:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "At the request of prosecutors, the Army discharged 34 soldiers with final convictions for crimes against humanity",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/por-pedido-de-los-fiscales-el-ejercito-dio-de-baja-a-34-militares-con-condena-firme-por-delitos-de-nid28032026/",
+      "published_date": "2026-03-28T19:23:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Three journalists killed by an Israeli attack in Lebanon",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/03/28/tres-periodistas-muertos-por-un-ataque-de-israel-en-libano/",
+      "published_date": "2026-03-28T16:10:37Z",
+      "category": "Military"
     },
     {
       "title": "Day 29 of the war between the United States, Israel and Iran: everything you need to know",
@@ -186,67 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "A month of war: the three scenarios of the coming world and the outcomes for Argentina",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/un-mes-de-guerra-los-tres-escenarios-del-mundo-que-viene-y-los-desenlaces-para-la-argentina/",
-      "published_date": "2026-03-27T15:20:31Z",
-      "category": "Military"
+      "title": "Ferocious fire in a refinery in the Pilar Industrial Park: at least one dead",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/feroz-incendio-en-una-refineria-del-parque-industrial-de-pilar-al-menos-un-herido-nid28032026/",
+      "published_date": "2026-03-28T23:20:30Z",
+      "category": "Energy"
     },
     {
-      "title": "Gasoline: the Government relaxed a rule to reduce the impact of increases due to the war in the Middle East",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/naftas-el-gobierno-flexibilizo-una-norma-para-reducir-el-impacto-de-los-aumentos-por-la-guerra-en-medio-oriente/",
-      "published_date": "2026-03-27T13:34:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nicolás Maduro appeared before the New York justice system",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/03/26/nicolas-maduro-comparecio-ante-la-justicia-de-nueva-york/",
-      "published_date": "2026-03-27T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel killed Iranian commander responsible for closing the Strait of Hormuz",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/03/26/israel-mato-al-comandante-irani-responsable-del-cierre-del-estrecho-de-ormuz/",
-      "published_date": "2026-03-27T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "A country that is forgotten, always gray",
+      "title": "After the 24th, politics",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/03/18/un-pais-que-esta-de-olvido-siempre-gris/",
-      "published_date": "2026-03-27T02:50:00Z",
-      "category": "Military"
+      "url": "https://www.pagina12.com.ar/2026/03/28/despues-del-24-la-politica/",
+      "published_date": "2026-03-28T23:15:13Z",
+      "category": "Energy"
     },
     {
-      "title": "“My parents were terrorists”: the recovered granddaughter who stars in the Government video for the 50 years of the Coup spoke",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/mis-padres-eran-terroristas-hablo-la-nieta-recuperada-que-protagoniza-el-video-del-gobierno-por-los-50-anos-del-golpe/",
-      "published_date": "2026-03-27T02:11:00Z",
-      "category": "Military"
+      "title": "YPF's ruling “is mine, mine”; Adorni, a lead backpack; Kicillof also adjusts",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/fallo-ypf-adorni-mochila-plomo-kicillof-ajusta_0_UhojYtBDMd.html",
+      "published_date": "2026-03-28T23:11:55Z",
+      "category": "Energy"
     },
     {
-      "title": "Karina Milei appoints a Menem bishop to control the SIDE while they deepen ties with the CIA",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/karina-milei-pone-a-un-alfil-de-menem-para-controlar-la-side-mientras-profundizan-vinculos-con-la-cia/",
-      "published_date": "2026-03-26T21:03:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran rejected Trump's peace proposal",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/03/26/iran-rechazo-la-propuesta-de-paz-que-le-hizo-trump/",
-      "published_date": "2026-03-26T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo XIV met with Palestinian and Israeli mothers fighting for peace",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/03/25/el-papa-leon-xiv-se-encontro-con-madres-palestinas-e-israelies-que-luchan-por-la-paz/",
-      "published_date": "2026-03-25T21:17:41Z",
-      "category": "Military"
+      "title": "Putin intensifies his offensive in Ukraine favored by chaos in the Middle East",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/putin-intensifica-su-ofensiva-en-ucrania-favorecido-por-el-caos-en-medio-oriente-nid28032026/",
+      "published_date": "2026-03-28T20:27:18Z",
+      "category": "Energy"
     },
     {
       "title": "Cristina Kirchner's message after the US Justice ruling on YPF",
@@ -361,32 +431,39 @@
       "category": "Energy"
     },
     {
-      "title": "YPF: Milei celebrated the ruling and harshly charged against Axel Kicillof and Cristina Kirchner",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/ypf-milei-celebro-el-fallo-a-favor-del-pais-y-cargo-contra-kicillof-y-cristina-kirchner/",
-      "published_date": "2026-03-27T18:43:37Z",
-      "category": "Energy"
+      "title": "Milei doubled the budget for travel expenses and trips abroad compared to last year",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/03/28/milei-se-duplico-el-presupuesto-para-viaticos-y-viajes-al-exterior-respecto-del-ano-pasado/",
+      "published_date": "2026-03-28T23:47:43Z",
+      "category": "Economy"
     },
     {
-      "title": "Cristina Kirchner and Kicillof celebrated the ruling by YPF and targeted Milei: “He supported the vulture funds”",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/cristina-kirchner-y-kicillof-celebraron-al-fallo-por-ypf-y-apuntaron-contra-milei-apoyo-a-los-fondos-buitre/",
-      "published_date": "2026-03-27T18:39:17Z",
-      "category": "Energy"
+      "title": "What are the rights when losing work authorization: frequently asked questions for immigrant workers",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/derechos-perder-autorizacion-trabajo-preguntas-frecuentes-trabajadores-inmigrantes_0_t3RAkHab08.html",
+      "published_date": "2026-03-28T23:01:54Z",
+      "category": "Economy"
     },
     {
-      "title": "To contain increases in gasoline, the Government suspends tax increases",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/para-contener-aumentos-en-la-nafta-el-gobierno-suspende-subas-de-impuestos/",
-      "published_date": "2026-03-27T16:06:11Z",
-      "category": "Energy"
+      "title": "In Little Havana: How to Rent in the New Affordable Homes in Miami's Latin Quarter",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/en-little-havana-como-alquilar-en-las-nuevas-viviendas-asequibles-en-el-barrio-latino-de-miami-nid26032026/",
+      "published_date": "2026-03-28T21:08:29Z",
+      "category": "Economy"
     },
     {
-      "title": "Nationalization of YPF: the US Justice revoked the ruling and Argentina will not have to pay the 16 billion",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/03/27/estatizacion-de-ypf-la-justicia-de-eeuu-revoco-el-fallo-contra-argentina/",
-      "published_date": "2026-03-27T15:04:48Z",
-      "category": "Energy"
+      "title": "In Brooklyn: reveals how he pays rent and lives on a salary of US$55,000 a year",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/en-en-brooklyn-revela-como-paga-el-alquiler-y-vive-con-un-sueldo-de-us55000-al-ano-nid28032026/",
+      "published_date": "2026-03-28T19:48:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Official | The Government will regulate a new salary slip with a key change in salary settlement",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/oficial-el-gobierno-reglamentara-un-nuevo-recibo-de-sueldo-con-un-cambio-clave-en-la-liquidacion-del-salario/",
+      "published_date": "2026-03-28T18:40:24Z",
+      "category": "Economy"
     },
     {
       "title": "War of the United States and Israel against Iran, live: tension in the Middle East today, Saturday, March 28",
@@ -494,178 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "New index to measure family vulnerability",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/03/27/nuevo-indice-para-medir-la-vulnerabilidad-familiar/",
-      "published_date": "2026-03-28T03:01:00Z",
-      "category": "Economy"
+      "title": "Blow to the champion: the SIC was pure forcefulness and retaliated against Newman",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/golpe-al-campeon-el-sic-fue-pura-contundencia-y-se-desquito-ante-newman-nid28032026/",
+      "published_date": "2026-03-28T23:52:38Z",
+      "category": "Local Events"
     },
     {
-      "title": "Caputo pays more tax but blames the K's",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/03/27/caputo-paga-mas-tasa-pero-culpa-a-los-k/",
-      "published_date": "2026-03-28T03:01:00Z",
-      "category": "Economy"
+      "title": "Better than running or spinning: the fitness machine that activates muscles faster than running",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/fitness/la-maquina-furor-en-tiktok-que-es-capaz-de-calentar-los-musculos-mas-rapido-que-el-spinning-o-el-nid10032026/",
+      "published_date": "2026-03-28T23:44:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Ministers with doubled salaries, universities with cut budgets: the adjustment that lowers the classrooms",
+      "title": "Jorge Martín wins a sprint marked by falls in Austin, including his own at the celebration",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/motociclismo/jorge-martin-se-impone-en-una-sprint-marcada-por-caidas-en-austin-incluida-la-suya-en-el-festejo-nid28032026/",
+      "published_date": "2026-03-28T23:42:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From prison in New York, Nicolás Maduro called for \"national unity\" and \"reconciliation\" in Venezuela",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/carcel-nueva-york-nicolas-maduro-llamo-union-nacional-reconciliacion-venezuela_0_IA8kyT9PWK.html",
+      "published_date": "2026-03-28T23:42:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "He went to the garden of his house and saw a small wild bird that needed help: \"It was a very different experience for me\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/jardin-casa-vio-pequena-ave-silvestre-necesitaba-ayuda-experiencia-diferente_0_W5JuOTgIF2.html",
+      "published_date": "2026-03-28T23:41:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jessie Inchauspé, glucose expert biochemist: “There is no need to restrict foods, the order and combinations shape the glycemic curve”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/jessie-inchauspe-bioquimica-experta-en-glucosa-no-hay-que-restringir-alimentos-el-orden-y-las-nid27032026/",
+      "published_date": "2026-03-28T23:37:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The “spertization” of the Government",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/espertizacion-gobierno_0_kf9yVjsMO8.html",
+      "published_date": "2026-03-28T23:33:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The unmissable European circuit, ideal to explore for 5 days by bicycle",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/el-imperdible-circuito-europeo-ideal-para-recorrer-durante-5-dias-en-bicicleta-nid28032026/",
+      "published_date": "2026-03-28T23:31:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horoscope: what your week will be like from March 29 to April 4, 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-29-de-marzo-al-4-de-abril-de-2026-nid28032026/",
+      "published_date": "2026-03-28T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multipolarism and its limits",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/03/28/el-multipolarismo-y-sus-limites/",
+      "published_date": "2026-03-28T23:29:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marina Simian, scientist: “We are developing a test to detect breast cancer with a blood test”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/vida_sana/marina-simian-cientifica-estamos-desarrollando-un-test-para-detectar-el-cancer-de-mama-con-un-simple-nid26032026/",
+      "published_date": "2026-03-28T23:28:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ana Ibañez, neuroscientist: “The brain's ability to create new connections is always maintained”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/ana-ibanez-neurocientifica-la-capacidad-del-cerebro-para-crear-nuevas-conexiones-se-mantiene-siempre-nid27032026/",
+      "published_date": "2026-03-28T23:27:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "He was dead for five minutes and his revelation about what he felt left everyone frozen.",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/estuvo-muerto-por-cinco-minutos-y-su-revelacion-sobre-lo-que-sintio-dejo-a-todos-helados-nid28032026/",
+      "published_date": "2026-03-28T23:26:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Oro blanco’: the “star” fish of Easter that provides protein and potassium",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/nutricion/oro-blanco-el-pescado-estrella-de-semana-santa-que-aporta-proteinas-y-potasio-nid25032026/",
+      "published_date": "2026-03-28T23:26:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aristotle on the 10 human virtues: “A person with a great soul is indifferent to good and bad fortune”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/vida_sana/aristoteles-sobre-las-10-virtudes-humanas-una-persona-de-gran-alma-es-indiferente-a-la-buena-y-a-la-nid27032026/",
+      "published_date": "2026-03-28T23:25:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The resistance classic: Alumni and Belgrano played an intense match, which was celebrated in Tortuguitas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/el-clasico-de-la-resistencia-alumni-y-belgrano-jugaron-un-partido-intenso-que-se-festejo-en-nid28032026/",
+      "published_date": "2026-03-28T23:25:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They seek to confirm the existence of graves of victims of the death flights",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/03/27/ministros-con-sueldos-duplicados-universidades-con-presupuesto-recortado-el-ajuste-que-baja-a-las-aulas/",
-      "published_date": "2026-03-27T23:16:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fees, promos and miles: how to finance a trip at Easter without going overboard",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/cuotas-promos-y-millas-como-financiar-un-viaje-en-semana-santa-sin-desbordarse/",
-      "published_date": "2026-03-27T20:41:53Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Caputo advanced favorable data, highly “regarded” by specialists",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/caputo-adelanto-un-dato-favorable-muy-mirado-por-los-especialistas-en-cuentas-publicas/",
-      "published_date": "2026-03-27T18:28:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The media Lilia Lemoine, key shield of the ruling party in Impeachment",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-mediatica-lilia-lemoine-blindaje-clave-del-oficialismo-en-juicio-politico/",
-      "published_date": "2026-03-28T15:54:51Z",
+      "url": "https://www.pagina12.com.ar/2026/03/28/buscan-confirmar-la-existencia-de-tumbas-de-victimas-de-los-vuelos-de-la-muerte/",
+      "published_date": "2026-03-28T23:24:26Z",
       "category": "Local Events"
     },
     {
-      "title": "This is the marriage permit in the Quebrada de las Conchas that Salta denounces as false",
+      "title": "This is how the table of historical champions of the Miami Masters 1000 remained, after Aryna Sabalenka's title",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/este-es-el-permiso-de-la-boda-en-la-quebrada-de-las-conchas-que-salta-denuncia-como-falso-nid28032026/",
-      "published_date": "2026-03-28T15:54:30Z",
+      "url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-de-campeonas-historicas-del-masters-1000-de-miami-tras-el-titulo-de-aryna-nid28032026/",
+      "published_date": "2026-03-28T23:23:48Z",
       "category": "Local Events"
     },
     {
-      "title": "He was in one of the most successful franchises and ended up sentenced to life in prison for a chilling murder",
+      "title": "Tension in the Middle East: United States deploys the USS Tripoli with thousands of marines",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/tension-en-medio-oriente-estados-unidos-despliega-el-uss-tripoli-con-miles-de-marines.phtml",
+      "published_date": "2026-03-28T23:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Repechage hot: Italy apologizes for video Bosnia took as an understatement",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/estuvo-en-una-de-las-franquicias-mas-exitosas-pero-termino-condenado-a-cadena-perpetua-por-un-nid28032026/",
-      "published_date": "2026-03-28T15:52:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 50-year-old astronomical mystery is solved by a Japanese mission",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ciencia/un-misterio-astronomico-de-50-anos-de-antiguedad-es-resuelto-por-una-mision-japonesa-nid24032026/",
-      "published_date": "2026-03-28T15:32:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At what age are a cat and dog considered old? The care, food and routines that change",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/a-que-edad-se-considera-a-un-gato-y-a-un-perro-viejos-los-cuidados-comida-y-rutinas-que-cambian-nid12032026/",
-      "published_date": "2026-03-28T15:31:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Córdoba Lottery: result of today's Primera draw, Saturday, March 28",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-primera-hoy-sabado-28-marzo_0_w2piIjnjWD.html",
-      "published_date": "2026-03-28T15:30:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provincial Lottery: result of today's Primera draw, Saturday, March 28",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-primera-hoy-sabado-28-marzo_0_3OT0UhxJPd.html",
-      "published_date": "2026-03-28T15:30:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drug violence in Rosario: four crimes in less than 24 hours shook the city and set off all the alarms",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/policiales/violencia-narco-rosario-crimenes-24-horas-horas-sacudieron-ciudad-encendieron-todas-alarmas_0_xRbyZfPhiM.html",
-      "published_date": "2026-03-28T15:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senegal stood on its hands and paraded the African Cup of Nations trophy that they want to take away from them in front of their fans in Paris.",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/senegal-paro-manos-paseo-hinchas-paris-trofeo-copa-africana-naciones-quieren-sacar_0_EWqa4wFTnL.html",
-      "published_date": "2026-03-28T15:29:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Microplastics detected for the first time on the coast of Deception Island in Antarctica",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/detectan-primera-vez-microplasticos-costas-isla-decepcion-antartida_0_Pl5U1HfFWq.html",
-      "published_date": "2026-03-28T15:26:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conversations with AI, Discord chats and a fascination with fictional serial killers: this is how a young man planned the murder of his own mother",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/conversaciones-ia-chats-discord-fascinacion-asesinos-seriales-ficticios-joven-planeo-asesinato-propia-madre_0_e8NoAdI7nV.html",
-      "published_date": "2026-03-28T15:25:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salted fish recipe at Easter: two delicious options to try and conquer diners",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/recetas/receta-de-pescado-salado-en-semana-santa-dos-opciones-deliciosas-para-probar-y-conquistar-a-los-nid28032026/",
-      "published_date": "2026-03-28T15:24:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tan Biónica shone on his first night in Vélez despite the rain: the surprise of Andrés Calamaro and an unexpected announcement",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/bionica-brillo-primera-noche-velez-pese-lluvia-sorpresa-andres-calamaro-anuncio-inesperado_0_5zlhZEPBVV.html",
-      "published_date": "2026-03-28T15:11:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "We tested the Biwin CL100 Mini SSD: great performance in the size of a coin",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/infotechnology/gadgets/probamos-el-mini-ssd-biwin-cl100-gran-rendimiento-en-el-tamano-de-una-moneda/",
-      "published_date": "2026-03-28T15:09:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Max Verstappen has more reasons to prolong his anger: “I'm not even frustrated anymore”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/max-verstappen-tiene-mas-motivos-para-prolongar-su-enojo-el-auto-es-completamente-inmanejable-nid28032026/",
-      "published_date": "2026-03-28T15:05:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two black widows fell in Salta for telling the \"uncle's story\" to an older man to steal his retirement: his daughter took them out for a run",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/policiales/cayeron-viudas-negras-salta-hacerle-cuento-tio-hombre-mayor-robarle-jubilacion-salio-correr-hija_0_ZPkBbnnCFU.html",
-      "published_date": "2026-03-28T15:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pascual Sánchez Juan, neurologist: “Alzheimer's is a disease of young people”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/pascual-sanchez-juan-neurologo-el-alzheimer-es-una-enfermedad-de-gente-joven-nid22032026/",
-      "published_date": "2026-03-28T15:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It's official: Greg Abbott has banned the use of food stamps to buy candy and soda in Texas since April",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/oficial-greg-abbott-prohibe-abril-usar-cupones-comida-comprar-dulces-refrescos-texas_0_M4cD1tJquL.html",
-      "published_date": "2026-03-28T15:01:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Trade Union obtained an injunction against the Labor Reform",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/03/28/el-sindicato-de-comercio-consiguio-una-cautelar-contra-la-reforma-laboral/",
-      "published_date": "2026-03-28T14:59:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government evaluates a key change in the Single Ballot due to the risk of split elections",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-gobierno-evalua-un-cambio-clave-en-la-boleta-unica-ante-el-riesgo-de-elecciones-desdobladas/",
-      "published_date": "2026-03-28T14:58:40Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/repechaje-caliente-italia-se-disculpa-por-un-video-que-bosnia-tomo-como-una-subestimacion-nid28032026/",
+      "published_date": "2026-03-28T23:12:28Z",
       "category": "Local Events"
     }
   ]
