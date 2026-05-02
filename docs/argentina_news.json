@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:38:28Z",
+  "generated_at": "2026-05-02T23:54:43Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "They denounce torture of Global Sumud flotilla activists in Israeli custody",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/05/02/denuncian-torturas-a-los-activistas-de-la-flotilla-global-sumud-bajo-custodia-israeli/",
+      "published_date": "2026-05-02T23:46:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From STEP to PAS? The Government evaluates alternatives in the face of the resistance of its allies to eliminate the primaries in 2027",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/de-paso-a-pas-el-gobierno-evalua-alternativas-frente-a-la-resistencia-de-sus-aliados-a-eliminar-las-nid02052026/",
+      "published_date": "2026-05-02T23:29:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peronist leaders met to create an alternative space to the leadership of Cristina Kirchner and Kicillof",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/dirigentes-del-peronismo-se-reunieron-para-armar-un-espacio-alternativo-a-los-liderazgos-de-cristina-nid01052026/",
+      "published_date": "2026-05-02T23:15:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fulfilling dreams after 60",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/cumplir-suenos-despues-60_0_Mls3BOkvk2.html",
+      "published_date": "2026-05-02T23:00:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Díaz Canel asked for international support in the face of new US threats against Cuba",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/05/02/diaz-canel-pidio-apoyo-internacional-ante-las-amenazas-de-eeuu-contra-cuba/",
+      "published_date": "2026-05-02T22:57:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Norma Aleandro: the great figure of art and entertainment in Argentina turns 90 today",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/cine/norma-aleandro-la-gran-figura-del-arte-y-del-espectaculo-de-la-argentina-cumple-hoy-90-anos-nid02052026/",
+      "published_date": "2026-05-02T22:34:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The opinion and caution of experts regarding the probability of an extreme version of El Niño developing in Argentina",
       "source": "La Nación",
@@ -109,46 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Máximo Kirchner called to “organize Argentina's debt relief”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/01/maximo-kirchner-llamo-a-organizar-el-desendeudamiento-de-argentina/",
-      "published_date": "2026-05-01T17:54:33Z",
-      "category": "Diplomacy"
+      "title": "Shared hegemony, in a divided global south",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/hegemonia-compartida-sur-global-dividido_0_WyOwNsDFYF.html",
+      "published_date": "2026-05-02T22:39:24Z",
+      "category": "Military"
     },
     {
-      "title": "Javier Milei collaborates with the media war against Petro and Sheinbaum",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/01/javier-milei-colabora-con-la-guerra-mediatica-contra-petro-y-sheinbaum/",
-      "published_date": "2026-05-01T16:56:51Z",
-      "category": "Diplomacy"
+      "title": "Germany and NATO call to strengthen European defense in the face of the withdrawal of US troops.",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/alemania-y-la-otan-llaman-a-reforzar-la-defensa-europea-ante-la-retirada-de-tropas-de-eeuu-nid02052026/",
+      "published_date": "2026-05-02T22:19:47Z",
+      "category": "Military"
     },
     {
-      "title": "Geopolitical reasons why the United States could support Argentina in the Malvinas cause",
+      "title": "Malvinas: the United Kingdom assured that it remains on “high alert”",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/05/02/malvinas-el-reino-unido-aseguro-que-se-mantiene-en-alerta-maxima/",
+      "published_date": "2026-05-02T22:04:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "From two prisons they controlled the rental of high-firepower weapons that were used by criminal gangs",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/desde-dos-carceles-controlaban-el-alquiler-de-armas-de-alto-poder-de-fuego-que-eran-usadas-por-nid02052026/",
+      "published_date": "2026-05-02T20:36:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "The head of the British Air Force said he was on “maximum alert” to defend the Malvinas Islands: “It is non-negotiable”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-jefe-de-la-fuerza-aerea-britanica-dijo-estar-en-alerta-maxima-para-defender-las-islas-malvinas-nid02052026/",
+      "published_date": "2026-05-02T19:17:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "The head of the British Air Force confirmed that the defense of the Malvinas is “non-negotiable”",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/razones-geopoliticas-por-las-que-estados-unidos-podria-apoyar-a-la-argentina-en-la-causa-malvinas/",
-      "published_date": "2026-05-01T16:41:42Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/el-jefe-de-la-fuerza-aerea-britanica-ratifico-que-la-defensa-de-malvinas-es-innegociable/",
+      "published_date": "2026-05-02T19:05:55Z",
+      "category": "Military"
     },
     {
-      "title": "Disability in Argentina: rights on paper, lives on pause",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/discapacidad-en-argentina-derechos-en-papel-vidas-en-pausa/",
-      "published_date": "2026-05-01T15:49:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercosur and the European Union activate their historic pact: impact on exports, investments and global trade",
+      "title": "From “useless” to “imbecile and incompetent”, Bullrich took up Milei's manual against Kicillof",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/mercosur-union-europea-activan-pacto-historico-impacto-exportaciones-inversiones-comercio-global-a40.phtml",
-      "published_date": "2026-05-01T15:41:18Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/politica/bullrich-a-lo-milei-contra-kicillof-por-la-inseguridad-inutil.phtml",
+      "published_date": "2026-05-02T18:42:00Z",
+      "category": "Military"
     },
     {
-      "title": "The Government's favorite company expands: 60 jobs and 15 new premises",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/lumilagro-se-expande-contratara-60-empleados-y-abrira-15-locales-tras-la-polemica-por-importaciones-a40.phtml",
-      "published_date": "2026-05-01T15:28:36Z",
-      "category": "Diplomacy"
+      "title": "Face to face, great Latin American authors reflect on contemporary debates in the Writers' Dialogue at the Book Fair",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/cultura/cara-a-cara-grandes-autores-latinoamericanos-reflexionan-sobre-debates-contemporaneos-en-el-dialogo-nid02052026/",
+      "published_date": "2026-05-02T18:39:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "The key point of the Iranian proposal that does not convince the US and complicates Trump",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-punto-clave-de-la-propuesta-irani-que-no-convence-a-eeuu-y-complica-a-trump-nid02052026/",
+      "published_date": "2026-05-02T18:31:58Z",
+      "category": "Military"
     },
     {
       "title": "They turn a Lamborghini into a car that looks like a war tank",
@@ -228,67 +291,39 @@
       "category": "Military"
     },
     {
-      "title": "Trump defies legal war deadline, rejects new Iran deal proposal",
+      "title": "How much does a dog walker charge in New York?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/iran-presenta-su-ultimo-propuesta-a-eeuu-tras-la-pausa-en-las-negociaciones-nid01052026/",
-      "published_date": "2026-05-01T22:08:22Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/cuanto-cobra-un-paseador-de-perros-en-nueva-york-nid02052026/",
+      "published_date": "2026-05-02T21:58:00Z",
+      "category": "Energy"
     },
     {
-      "title": "The inflationary impact of the war in the Middle East",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/01/el-impacto-inflacionario-de-la-guerra-en-medio-oriente/",
-      "published_date": "2026-05-01T21:26:16Z",
-      "category": "Military"
+      "title": "Spirit Airlines, one of the first low-cost airlines in the United States, closed",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/05/02/cerro-spirit-airlines-una-de-las-primeras-aerolineas-low-cost-de-estados-unidos/",
+      "published_date": "2026-05-02T21:30:37Z",
+      "category": "Energy"
     },
     {
-      "title": "The Cecim La Plata repudiated Milei's visit to the American aircraft carrier that navigates the Argentine Sea",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/01/el-cecim-la-plata-repudio-la-visita-de-milei-al-portaviones-estadounidense-que-navega-el-mar-argentino/",
-      "published_date": "2026-05-01T20:56:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Day 63 of the war between the United States, Israel and Iran: everything you need to know",
+      "title": "The Government removed electricity subsidies from 2.1 million homes and gas subsidies from almost 900,000",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/dia-63-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid01052026/",
-      "published_date": "2026-05-01T11:41:08Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-les-quito-los-subsidios-a-la-luz-a-16-millones-de-hogares-y-al-gas-a-casi-900000-nid02052026/",
+      "published_date": "2026-05-02T19:53:07Z",
+      "category": "Energy"
     },
     {
-      "title": "New setback for Milei: Marco Rubio denied that the United States is going to withdraw its support from the United Kingdom on the Malvinas issue",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/nuevo-reves-para-milei-marco-rubio-nego-que-estados-unidos-vaya-a-quitarle-su-apoyo-al-reino-unido-en-el-tema-malvinas.phtml",
-      "published_date": "2026-05-01T00:53:00Z",
-      "category": "Military"
+      "title": "“Net-zero” in Florida: what DeSantis' new law says that impacts electricity bill increases",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/net-zero-en-florida-que-dice-la-nueva-ley-de-desantis-que-impacta-en-los-aumentos-de-la-factura-de-nid02052026/",
+      "published_date": "2026-05-02T18:44:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Malvinas and realpolitik to build sovereignty",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/malvinas-y-realpolitik-para-construir-soberania.phtml",
-      "published_date": "2026-05-01T00:52:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leonardo Nardini had a meeting with Sergio Uñac",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/01/leonardo-nardini-mantuvo-un-encuentro-con-sergio-unac/",
-      "published_date": "2026-05-01T00:35:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Lumineers lit up Buenos Aires: total communion, chanted classics and a Malvinas that beat to the rhythm of folk",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cultura/the-lumineers-encendio-buenos-aires-comunion-total-clasicos-coreados-y-un-malvinas-que-latio-al-ritmo-del-folk.phtml",
-      "published_date": "2026-04-30T23:42:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The war of the future: they reveal a Pentagon project to connect the brains of soldiers with military weapons",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/tecnologia/la-guerra-del-futuro-revelan-un-proyecto-del-pentagono-para-conectar-el-cerebro-de-soldados-con-armamento-militar-a35.phtml",
-      "published_date": "2026-04-30T23:42:00Z",
-      "category": "Military"
+      "title": "Canada changes its citizenship law and millions of Americans are now eligible: what are the requirements and fees",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/canada-cambia-su-ley-de-ciudadania-y-millones-de-estadounidenses-ya-son-elegibles-cuales-son-los-nid02052026/",
+      "published_date": "2026-05-02T18:17:00Z",
+      "category": "Energy"
     },
     {
       "title": "According to experts: a change in the weather pattern in May would impact the intensity of severe weather phenomena",
@@ -396,39 +431,81 @@
       "category": "Energy"
     },
     {
-      "title": "Javier Milei visits the US aircraft carrier USS Nimitz during a joint naval operation in the Argentine Sea",
+      "title": "If there is no gas, there are already people responsible",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/print/2026/05/02/si-falta-gas-ya-hay-responsanles-clone/",
+      "published_date": "2026-05-03T11:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "If there is no gas, there are already people responsible",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/05/02/si-falta-gas-ya-hay-responsanles/",
+      "published_date": "2026-05-02T23:01:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "What are the main cities of the automotive industry",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/tendencias/fabricas-en-china-cuales-son-las-principales-ciudades-de-la-industria-automotriz-nid25042026/",
+      "published_date": "2026-05-02T22:57:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Milei cut electricity and gas subsidies to 3 million homes and lowered spending by US$5.6 billion",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/milei-visita-portaaviones-estadounidense-uss-nimitz-operativo-naval-conjunto-mar-argentino.phtml",
-      "published_date": "2026-04-30T19:44:00Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/politica/milei-recorto-subsidios-de-luz-y-gas-a-3-millones-de-hogares-y-bajo-el-gasto-en-us5600-millones.phtml",
+      "published_date": "2026-05-02T22:22:00Z",
+      "category": "Economy"
     },
     {
-      "title": "New public-private financing of routes begins in Vaca Muerta: the details",
+      "title": "Opinion. Scrapie: a sign that requires rigor and prudence",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/ganaderia/opinion-scrapie-una-senal-que-exige-rigor-y-prudencia-nid02052026/",
+      "published_date": "2026-05-02T21:55:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A JP Morgan report analyzed the impact of the next El Niño phenomenon for the country and was categorical",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/un-informe-de-jp-morgan-analizo-el-impacto-del-proximo-fenomeno-el-nino-para-el-pais-y-fue-nid01052026/",
+      "published_date": "2026-05-02T21:31:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Income Tax: guidelines for upcoming due dates for companies and individuals",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/arranca-en-vaca-muerta-un-nuevo-financiamiento-publico-privado-de-las-rutas-los-detalles/",
-      "published_date": "2026-04-30T17:45:07Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/columnistas/impuesto-a-las-ganancias-pautas-para-los-proximos-vencimientos-de-las-empresas-y-de-las-personas/",
+      "published_date": "2026-05-02T21:15:02Z",
+      "category": "Economy"
     },
     {
-      "title": "“They are going to improve the frequencies”: the promise of the bus companies in exchange for a new increase in the ticket",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/04/30/van-a-mejorar-las-frecuencias-la-promesa-de-las-empresas-de-colectivos-a-cambio-de-un-nuevo-aumento-en-el-boleto/",
-      "published_date": "2026-04-30T17:44:39Z",
-      "category": "Energy"
+      "title": "Argentina facing the new technological frontier: data centers, energy and a federal opportunity",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/argentina-frente-a-la-nueva-frontera-tecnologica-data-centers-energia-y-una-oportunidad-federal.phtml",
+      "published_date": "2026-05-02T20:40:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Milei boarded a US nuclear aircraft carrier and deepens the geopolitical turn",
+      "title": "Milestone in the market: a car of Chinese origin reached the podium for the first time, in an April of declining sales",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/milei-se-sube-a-un-portaaviones-nuclear-de-estados-unidos-y-profundiza-el-giro-geopolitico/",
-      "published_date": "2026-04-30T16:02:59Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/negocios/freno-en-abril-las-ventas-de-autos-cayeron-136-con-un-fuerte-avance-de-las-marcas-china/",
+      "published_date": "2026-05-02T16:51:30Z",
+      "category": "Economy"
     },
     {
-      "title": "Milei went to pay tribute to the American aircraft carrier that sails the Argentine Sea",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/04/30/milei-fue-a-rendir-pleitesia-al-portaviones-estadounidense-que-navega-el-mar-argentino/",
-      "published_date": "2026-04-30T15:13:13Z",
-      "category": "Energy"
+      "title": "The Government achieved a key step to close the last default trials: how the agreement continues",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-gobierno-logro-un-paso-clave-para-cerrar-los-ultimos-juicios-del-default-como-sigue-el-acuerdo/",
+      "published_date": "2026-05-02T14:52:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "China eliminated tariffs for almost all of Africa and challenges Trump's market",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/05/02/china-elimino-los-aranceles-para-casi-toda-africa-y-desafia-el-mercado-de-trump/",
+      "published_date": "2026-05-02T13:35:35Z",
+      "category": "Economy"
     },
     {
       "title": "Income Tax: the definitive guide to salaries, deductions, scales and everything you need to know",
@@ -494,87 +571,66 @@
       "category": "Economy"
     },
     {
-      "title": "Real today and real blue today: how much it is trading at and what is the price of the Brazilian currency this Saturday, May 2",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-sabado-02-mayo_0_1ZSTulhUvC.html",
-      "published_date": "2026-05-02T10:00:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Due to active demand, sunflowers are sold in dribs and drabs",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/con-una-demanda-activa-no-hay-apuro-para-vender-girasol-nid02052026/",
-      "published_date": "2026-05-02T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Estanislao Bachrach, specialist in neuroscience: “There is a lot of scientific evidence of the impact that meditation has on feeling better in life”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-especialista-en-neurociencia-hay-muchisima-evidencia-cientifica-del-impacto-que-nid02052026/",
-      "published_date": "2026-05-02T08:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "FreSu demanded “decent wages” and promised to continue the “fight in the streets”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-fresu-reclamo-salarios-dignos-y-prometio-seguir-la-pelea-en-las-calles.phtml",
-      "published_date": "2026-05-02T06:41:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Goodbye Gavin Newsom: new survey reveals what California voters are looking for when choosing their candidate",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/california/adios-gavin-newsom-nueva-encuesta-revela-que-buscan-los-votantes-de-california-para-elegir-a-su-nid02052026/",
-      "published_date": "2026-05-02T06:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Psychology says that real time has nothing to do with emotional time; one second something can happen to you that changes your story",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-el-tiempo-real-no-tiene-que-ver-con-el-emocional-un-segundo-puede-pasarte-nid02052026/",
-      "published_date": "2026-05-02T06:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The pact between Moyano and the Government is broader than signing downward parities",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-pacto-entre-moyano-y-el-gobierno-es-mas-amplio-que-firmar-paritarias-a-la-baja-nid02052026/",
-      "published_date": "2026-05-02T03:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Another hand from Trump to pay the Fund",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/01/otra-mano-de-trump-para-pagarle-al-fondo/",
-      "published_date": "2026-05-01T23:22:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pablo Toviggino is linked to companies that move millions but he is registered with ARCA as self-employed and last year he did not pay profits",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/pablo-toviggino-vinculado-empresas-mueven-millones-arca-registrado-autonomo-ano-pasado-pago-ganancias_0_IJbHPDvCOi.html",
-      "published_date": "2026-05-01T23:16:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "They anticipate a significant change in the climate for the next few days",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/anticipan-un-importante-cambio-en-el-clima-para-los-proximos-dias-nid30042026/",
-      "published_date": "2026-05-01T21:57:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Caputo went out to sell confidence in Llao Llao",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/01/caputo-salio-a-vender-confianza-en-el-llao-llao/",
-      "published_date": "2026-05-01T21:48:43Z",
-      "category": "Economy"
-    },
-    {
       "title": "How much does it cost to expand a kitchen in May 2026",
       "source": "La Nación",
       "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-ampliar-una-cocina-en-mayo-2026-nid01052026/",
       "published_date": "2026-05-03T11:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inter Miami vs. Orlando City, with Messi, live: minute by minute of the MLS match",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-vs-orlando-city-con-messi-en-vivo-nid02052026/",
+      "published_date": "2026-05-02T23:45:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "She was a Disney star, she left everything to dedicate herself to the networks and it went viral because they believe that her husband is her son",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/fue-estrella-de-disney-lo-dejo-todo-para-dedicarse-a-las-redes-y-se-volvio-viral-porque-creen-que-su-nid02052026/",
+      "published_date": "2026-05-02T23:45:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "San Lorenzo vs. Independiente, live from the Apertura tournament: minute by minute of the match",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/san-lorenzo-vs-independiente-en-vivo-por-el-torneo-apertura-nid02052026/",
+      "published_date": "2026-05-02T23:42:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horoscope: what your week will be like from May 3 to 9, 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-3-al-9-de-mayo-de-2026-nid02052026/",
+      "published_date": "2026-05-02T23:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plan B worked again for Boca and they can take care of recovering ground in the Copa Libertadores",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/a-boca-le-volvio-a-funcionar-el-plan-b-y-puede-ocuparse-de-recuperar-terreno-en-la-copa-libertadores-nid02052026/",
+      "published_date": "2026-05-02T23:28:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is how the round of 16 matches of the 2026 Apertura Tournament are, live: one by one, the qualifiers",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/octavos-de-final-del-torneo-apertura-2026-en-vivo-asi-se-definen-los-clasificados-a-los-playoffs-nid02052026/",
+      "published_date": "2026-05-02T23:28:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "And one day, Franco Colapinto was able to smile after a good qualy in Alpine: “Very happy after so much suffering”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/automovilismo/y-un-dia-franco-colapinto-pudo-sonreir-por-una-buena-qualy-en-alpine-muy-feliz-despues-de-tanto-nid02052026/",
+      "published_date": "2026-05-02T23:25:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alex Zanardi, the pilot of the unbreakable will, the man who defied the blows of destiny, died",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/automovilismo/murio-alex-zanardi-el-piloto-de-la-voluntad-inquebrantable-el-hombre-que-desafio-al-destino-nid02052026/",
+      "published_date": "2026-05-02T23:25:08Z",
       "category": "Local Events"
     },
     {
@@ -585,129 +641,73 @@
       "category": "Local Events"
     },
     {
-      "title": "Wanda Nara showed the romantic gift that Martín Migueles gave her from a distance: “I love you”",
+      "title": "The anger of a defeated president",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/wanda-nara-mostro-el-romantico-regalo-que-le-hizo-martin-migueles-a-la-distancia-te-amo-nid02052026/",
-      "published_date": "2026-05-02T11:34:37Z",
+      "url": "https://www.lanacion.com.ar/politica/la-bronca-de-un-presidente-deslomado-nid02052026/",
+      "published_date": "2026-05-02T23:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Signs that your dog is stressed and how to help him",
+      "title": "The ranking of the 15 most chosen baby names in 2025 and the most popular in the last five years",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/senales-de-que-tu-perro-esta-estresado-y-como-ayudarlo-nid02052026/",
-      "published_date": "2026-05-02T11:14:22Z",
+      "url": "https://www.lanacion.com.ar/salud/el-ranking-de-los-15-nombres-de-bebes-mas-elegidos-en-2025-y-los-mas-populares-de-los-ultimos-cinco-nid30042026/",
+      "published_date": "2026-05-02T23:18:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Spirit Airlines announced the closure of its operations and canceled all flights",
+      "title": "Valter Hugo Mãe: “Harry Potter is rubbish”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/spirit-airlines-anuncio-el-cierre-de-sus-operaciones-y-cancelo-todos-los-vuelos-nid02052026/",
-      "published_date": "2026-05-02T11:13:49Z",
+      "url": "https://www.lanacion.com.ar/cultura/valter-hugo-mae-harry-potter-es-una-porqueria-nid02052026/",
+      "published_date": "2026-05-02T23:16:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Spotify's most listened to albums in its 20 years of musical revolution",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/los-albumes-mas-escuchados-de-spotify-en-sus-20-anos-de-revolucion-musical-nid02052026/",
-      "published_date": "2026-05-02T11:10:01Z",
+      "title": "Milei is out like never before, the news that Cristina celebrates and something smells bad in Justice",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/milei-sacado-noticia-festeja-cristina-huele-mal-justicia_0_RmRGHiWdkg.html",
+      "published_date": "2026-05-02T23:15:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Fights, alliances and illusions in Milei's new business map",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/peleas-alianzas-e-ilusiones-en-el-nuevo-mapa-de-negocios-de-milei/",
-      "published_date": "2026-05-02T11:00:00Z",
+      "title": "Thank you very much for making me viral, sir @braga_dito",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/muchas-gracias-por-viralizarme-senor-braga-dito-nid02052026/",
+      "published_date": "2026-05-02T23:11:50Z",
       "category": "Local Events"
     },
     {
-      "title": "There is an orange and yellow alert for storms and winds for this Saturday, May 2: the affected provinces",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-vientos-para-este-sabado-2-de-mayo-las-provincias-nid02052026/",
-      "published_date": "2026-05-02T10:54:50Z",
+      "title": "PAMI: overbilling, phantom benefits and improper charges were detected throughout the country",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/pami-se-detecto-sobrefacturacion-prestaciones-fantasma-y-cobros-indebidos-en-todo-el-pais.phtml",
+      "published_date": "2026-05-02T23:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "More and more electric cars are being sold: 300% more were patented than last year",
+      "title": "Another criminal was killed by a Buenos Aires police officer whom he tried to assault",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/la-razon-por-la-que-los-autos-electrificados-se-venden-un-300-mas-que-en-2025-nid30042026/",
-      "published_date": "2026-05-02T10:38:48Z",
+      "url": "https://www.lanacion.com.ar/seguridad/otro-delincuente-fue-abatido-por-un-policia-bonaerense-al-que-intento-asaltar-nid02052026/",
+      "published_date": "2026-05-02T23:09:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Up to what age can the driver's license be renewed?",
+      "title": "How to recognize a psychopath just by looking at him, according to a psychologist",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/hasta-que-edad-se-puede-renovar-la-licencia-de-conducir-nid23042026/",
-      "published_date": "2026-05-02T10:37:41Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/como-reconocer-a-un-psicopata-con-solo-mirarlo-segun-una-psicologa-nid02052026/",
+      "published_date": "2026-05-02T23:07:30Z",
       "category": "Local Events"
     },
     {
-      "title": "VTV: How much does it cost after last week's increase and who is exempt",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/vtv-cuanto-cuesta-tras-el-aumento-de-la-ultima-semana-y-quienes-estan-exentos-nid01052026/",
-      "published_date": "2026-05-02T10:35:40Z",
+      "title": "What science discovered about Dalí's painting that degraded in less than 20 years",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/descubrio-ciencia-cuadro-dali-degrado-20-anos_0_fTeUsGoGSm.html",
+      "published_date": "2026-05-02T23:00:39Z",
       "category": "Local Events"
     },
     {
-      "title": "A new motorcycle arrives in Argentina and seeks to compete in the highest segment",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/lanzan-una-nueva-familia-de-motos-adventure-en-el-pais-como-son-y-cuanto-cuestan-nid30042026/",
-      "published_date": "2026-05-02T10:32:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A weekend is coming with polar air, gusts of 50 km/h and minimums of 2°C: the affected areas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-fin-de-semana-con-aire-polar-rafagas-de-50-km-h-y-minimas-de-2c-las-zonas-afectadas-nid02052026/",
-      "published_date": "2026-05-02T10:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Argentine invention that seeks to end one of the most common problems when driving",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/el-invento-argentino-que-busca-terminar-con-uno-de-los-problemas-mas-comunes-al-manejar-nid30042026/",
-      "published_date": "2026-05-02T10:31:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the Miami GP circuit like that marks Colapinto's return to Formula 1",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/como-es-el-circuito-del-gp-de-miami-que-marca-el-regreso-de-colapinto-a-la-formula-1-nid02052026/",
-      "published_date": "2026-05-02T10:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The violation with the car that you can do without realizing it",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/la-infraccion-con-el-auto-que-podes-hacer-sin-darte-cuenta-nid30042026/",
-      "published_date": "2026-05-02T10:29:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What to do if you are rear-ended and how to make an insurance claim",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/que-hacer-si-te-chocan-de-atras-y-como-reclamarle-al-seguro-nid02052026/",
-      "published_date": "2026-05-02T10:29:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A specialist reveals what to do if a car cuts you off to rob you: the key maneuver to escape",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/un-especialista-revela-que-hacer-si-te-cruzan-un-auto-para-robarte-la-maniobra-clave-para-escapar-nid23042026/",
-      "published_date": "2026-05-02T10:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Patagonia: Easy Hikes in the Challhuaco Valley to Enjoy Fall Colors",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/patagonia-caminatas-faciles-en-el-valle-del-challhuaco-para-disfrutar-de-los-colores-de-otono-nid02052026/",
-      "published_date": "2026-05-02T10:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "According to Harvard: a study reveals why the relationship between siblings has effects on health",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/mente/un-estudio-de-harvard-determino-que-la-relacion-entre-hermanos-tiene-efectos-en-la-salud-nid17042026/",
-      "published_date": "2026-05-02T10:23:46Z",
+      "title": "Bad news for New York: the city will lose $74 million for not revoking driver's licenses",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/malas-noticias-nueva-york-ciudad-perdera-74-millones-dolares-revocar-licencias-conducir_0_Tjqzc0xiSs.html",
+      "published_date": "2026-05-02T23:00:39Z",
       "category": "Local Events"
     }
   ]
