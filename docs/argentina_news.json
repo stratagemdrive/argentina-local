@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T00:05:41Z",
+  "generated_at": "2026-05-12T13:02:39Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Ecuadorian María Fernanda Espinosa enters the race to succeed Guterres at the UN",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-ecuatoriana-maria-fernanda-espinosa-entra-en-la-carrera-para-suceder-a-guterres-en-la-onu-nid12052026/",
+      "published_date": "2026-05-12T12:48:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The motorcycle brand that returns to Argentina with four launches after 10 years of absence",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/una-recordada-marca-de-motos-vuelve-a-la-argentina-con-cuatro-lanzamientos-y-una-inversion-nid07052026/",
+      "published_date": "2026-05-12T10:38:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump struck down Iran's peace proposal and warned that the ceasefire is \"on life support\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/trump-fulmino-la-propuesta-de-paz-de-iran-y-advirtio-que-el-alto-el-fuego-esta-con-soporte-vital.phtml",
+      "published_date": "2026-05-12T04:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The National University of Río Negro took the complaint against Milei's adjustment to the UN",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/05/11/la-universidad-nacional-de-rio-negro-llevo-a-la-onu-la-denuncia-contra-el-ajuste-de-milei/",
+      "published_date": "2026-05-11T23:11:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fitch's improvement revives bets on Argentina's return to international markets",
       "source": "Perfil",
@@ -123,32 +151,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fitch asked that the Government generate a “cushion” of dollars by 2027 and believes that the course could survive even without Milei",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/fitch-pidio-que-el-gobierno-genere-un-colchon-de-dolares-para-2027-y-cree-que-el-rumbo-podria-nid10052026/",
-      "published_date": "2026-05-10T21:00:08Z",
-      "category": "Diplomacy"
+      "title": "Tension in the Middle East: Trump calls the Iranian proposal \"garbage\" and Tehran threatens to enrich uranium to 90%",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/tension-medio-oriente-trump-califica-propuesta-irani-basura-teheran-amenaza-enriquecer-uranio-90_0_TzRzSOKXQG.html",
+      "published_date": "2026-05-12T12:24:51Z",
+      "category": "Military"
     },
     {
-      "title": "Moscow and kyiv accuse each other of breaking the truce as negotiations for 1,000 prisoners progress",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/moscu-y-kiev-se-acusan-de-romper-la-tregua-mientras-avanzan-las-negociaciones-por-1000-prisioneros-nid10052026/",
-      "published_date": "2026-05-10T20:36:41Z",
-      "category": "Diplomacy"
+      "title": "Putin said the war \"is coming to an end,\" but that wasn't all he said",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/new-york-times-international-weekly/putin-dijo-guerra-llegando-fin-dijo_0_RWHiogvdBm.html",
+      "published_date": "2026-05-12T12:18:11Z",
+      "category": "Military"
     },
     {
-      "title": "Rafael Grossi collects support, but the Government's debt to the UN conditions his aspirations",
+      "title": "Day 74 of the war between the United States, Israel and Iran: everything you need to know",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/rafael-grossi-recoge-apoyos-pero-la-deuda-del-gobierno-con-la-onu-complica-sus-aspiraciones-nid10052026/",
-      "published_date": "2026-05-10T19:47:33Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/el-mundo/dia-74-de-la-guerra-entre-estados-unidos-israel-e-iran-todo-lo-que-hay-que-saber-nid12052026/",
+      "published_date": "2026-05-12T12:16:37Z",
+      "category": "Military"
     },
     {
-      "title": "Retail sales: sharp drop in April and they already have a whole year in decline",
+      "title": "The Tenerife disaster: communication errors, fog and a terrorist attack",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/el-desastre-de-tenerife-errores-de-comunicacion-niebla-y-un-atentado-terrorista-nid12052026/",
+      "published_date": "2026-05-12T12:02:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "Actor Jack Taylor, horror film icon, dies",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-jack-taylor-icono-del-cine-de-terror-nid12052026/",
+      "published_date": "2026-05-12T11:36:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Gendarmerie rescued 33 fossils from 300 million years ago that were transported in a car",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/gendarmeria-rescato-33-fosiles-de-hace-300-millones-de-anos-que-eran-transportados-en-un-auto-nid06052026/",
+      "published_date": "2026-05-12T10:43:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Karina Milei turned her back on the PRO and seeks to put one of her own to control the SIDE",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/ventas-minoristas-fuerte-caida-en-abril-y-ya-suman-un-ano-entero-en-retroceso.phtml",
-      "published_date": "2026-05-10T18:11:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/politica/karina-milei-le-dio-la-espalda-al-pro-y-busca-poner-a-uno-de-los-suyos-para-controlar-a-la-side.phtml",
+      "published_date": "2026-05-12T06:00:00Z",
+      "category": "Military"
     },
     {
       "title": "The defunding of public universities compromises our future as a society",
@@ -242,53 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "The two most powerful men in the world will meet again. This is what you should know",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/new-york-times-international-weekly/hombres-poderosos-mundo-reuniran-nuevo-debes-saber_0_ydyUYJgVw4.html",
-      "published_date": "2026-05-11T12:48:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carlos Belloso: from the memory of “Vasquito” to the pain for the Malvinas and an experience that still leaves him “trembling”",
+      "title": "Night magic: which flowers open at night and how to care for them",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/teatro/carlos-belloso-sus-personajes-dementes-su-protagonico-en-la-avenida-corrientes-y-el-peso-de-la-nid11052026/",
-      "published_date": "2026-05-11T11:42:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign fighters forcibly enlisted in the Russian army to fight against Ukraine",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/combatientes-extranjeros-enrolados-por-la-fuerza-en-el-ejercito-ruso-para-luchar-contra-ucrania.phtml",
-      "published_date": "2026-05-11T11:19:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Navy launched the “Mare Nostrum XI” operation: this is the campaign to stop illegal fishing in the Atlantic",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-armada-puso-en-marcha-el-operativo-mare-nostrum-xi-asi-es-la-campana-para-frenar-la-pesca-ilegal-nid07052026/",
-      "published_date": "2026-05-11T11:07:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "How much members of the Armed Forces earn in May 2026, after the official increase",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-miembros-de-las-fuerzas-armadas-en-mayo-de-2026-tras-el-aumento-oficial-nid04052026/",
-      "published_date": "2026-05-11T11:05:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cuba, the influencer and the cognitive war",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/05/11/cuba-el-influencer-y-la-guerra-cognitiva/",
-      "published_date": "2026-05-11T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rejects Iran's peace proposal and warns it could \"annihilate\" its targets in two weeks",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/trump-rechaza-la-propuesta-de-paz-de-iran-y-advierte-que-podria-aniquilar-sus-objetivos-en-dos-semanas.phtml",
-      "published_date": "2026-05-11T00:10:00Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/lifestyle/magia-nocturna-cuales-son-las-flores-que-se-abren-de-noche-y-como-cuidarlas-nid05052026/",
+      "published_date": "2026-05-12T11:38:46Z",
+      "category": "Energy"
     },
     {
       "title": "Glucose spikes: how to avoid them and why they affect your energy and health",
@@ -424,290 +431,283 @@
       "category": "Energy"
     },
     {
-      "title": "New increase in gasoline?",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/10/nuevo-aumento-de-la-nafta/",
-      "published_date": "2026-05-10T00:10:32Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bioceres Crop Solutions lost US$10 million, explained the reasons and highlighted a business that grew",
+      "title": "War of the United States and Israel against Iran, live: tension in the Middle East today, Tuesday, May 12",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/bioceres-crop-solutions-perdio-us10-millones-explico-los-motivos-y-destaco-un-negocio-que-crecio-nid11052026/",
-      "published_date": "2026-05-11T23:47:32Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-12-de-mayo-nid12052026/",
+      "published_date": "2026-05-12T12:53:29Z",
       "category": "Economy"
     },
     {
-      "title": "The Government transferred 100% of its shares in Transener to a private consortium",
+      "title": "Dollar today and blue dollar, live: how much is the official price and what is the price of the parallel this Tuesday, May 12, minute by minute",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-precio-en-vivo-a-cuanto-cotiza-este-martes-12-de-mayo-nid12052026/",
+      "published_date": "2026-05-12T12:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“It should not stop”: a rural entity asked to maintain the course of change and demanded an end to withholdings for the sector",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/no-debe-detenerse-una-entidad-del-campo-pidio-sostener-el-rumbo-del-cambio-y-reclamo-para-el-sector-nid12052026/",
+      "published_date": "2026-05-12T12:43:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Parkinson's: a specialist explained in detail what the first detectable symptom is",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/parkinson-un-especialista-explico-en-detalle-cual-es-el-primer-sintoma-detectable-nid11052026/",
+      "published_date": "2026-05-12T12:15:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "University teachers: \"Salary loss of about 40% and the lowest salary since the late 90s\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/el-gobierno-transfirio-su-participacion-en-transener-a-un-consorcio-privado.phtml",
-      "published_date": "2026-05-11T23:40:00Z",
+      "url": "https://www.perfil.com/noticias/cordoba/docentes-universitarios-perdida-salarial-de-cerca-del-40-y-el-salario-mas-bajo-desde-fines-de-los-anos-90.phtml",
+      "published_date": "2026-05-12T12:13:24Z",
       "category": "Economy"
     },
     {
-      "title": "Texas News: Attorney General Accuses Netflix of Deceiving Users to Sell Their Data",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-de-texas-hoy-en-vivo-ultimas-actualizaciones-del-lunes-11-de-mayo-nid11052026/",
-      "published_date": "2026-05-11T23:31:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Buenos Aires inflation, 2.5%",
+      "title": "Blue dollar, dollar today: how much they are trading at on Tuesday, May 12, 2026",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/11/inflacion-portena-25/",
-      "published_date": "2026-05-11T22:51:40Z",
+      "url": "https://www.pagina12.com.ar/2026/05/12/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-martes-12-de-mayo-de-2026/",
+      "published_date": "2026-05-12T12:00:47Z",
       "category": "Economy"
     },
     {
-      "title": "Fourth university march against the Milei administration: renewed pressure against the adjustment and broad support from the opposition",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/cuarta-marcha-universitaria-gestion-milei-renovada-presion-ajuste-amplio-respaldo-oposicion_0_FIn85zMrQ0.html",
-      "published_date": "2026-05-11T22:48:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The dollar gave way and the exchange rate calm continues",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/11/el-dolar-cedio-y-sigue-la-calma-cambiaria/",
-      "published_date": "2026-05-11T22:35:19Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Chile bets on pro-market reforms and fiscal adjustment to get out of economic stagnation",
+      "title": "Watch Canal E live!: all the economic information",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-ministro-de-hacienda-de-chile-apunta-a-crecimiento-de-2-en-medio-de-agenda-de-reformas.phtml",
-      "published_date": "2026-05-11T22:35:00Z",
+      "url": "https://www.perfil.com/noticias/canal-e/mira-canal-e-en-vivo-toda-la-informacion-economica-de-la-argentina-y-el-mundo.phtml",
+      "published_date": "2026-05-12T11:55:00Z",
       "category": "Economy"
     },
     {
-      "title": "What type of apartment you choose can skyrocket your budget up to $20,000/m2: all options",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/que-tipo-de-piso-elegis-puede-disparar-el-presupuesto-hasta-20000m2-todas-las-opciones-nid10052026/",
-      "published_date": "2026-05-11T22:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Are financial investments moral?",
+      "title": "Contrary to the market, the \"blue guru\" anticipates less inflation, but warns about the dollar",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/tienen-moral-las-inversiones-financieras.phtml",
-      "published_date": "2026-05-11T22:29:32Z",
+      "url": "https://www.perfil.com/noticias/economia/a-contramano-del-mercado-el-guru-del-blue-cree-que-la-inflacion-puede-bajar-mas-pero-advierte-por-el-dolar-a40.phtml",
+      "published_date": "2026-05-12T11:46:06Z",
       "category": "Economy"
     },
     {
-      "title": "The Government advances in the tender for 2,500 kilometers of national routes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-gobierno-avanza-en-la-licitacion-de-2500-kilometros-de-rutas-nacionales-nid11052026/",
-      "published_date": "2026-05-11T22:21:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jobs were left without cushion",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/11/el-desempleo-se-quedo-sin-colchon/",
-      "published_date": "2026-05-11T22:20:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The reusable alternative that replaces plastic wrap and is all the rage on social networks",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/la-alternativa-reutilizable-que-sustituye-al-papel-film-y-es-furor-en-las-redes-sociales-nid10052026/",
-      "published_date": "2026-05-11T22:17:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The global real estate sale that anticipates how the market will function in the near future",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/la-venta-inmobiliaria-mundial-que-anticipa-como-funcionara-el-mercado-en-un-futuro-proximo-nid09052026/",
-      "published_date": "2026-05-11T22:17:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Confucius: “He who demands a lot from himself and expects little from others will keep resentment far away.”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/confucio-aquel-que-se-exige-mucho-a-si-mismo-y-espera-poco-de-los-demas-mantendra-lejos-el-nid04052026/",
-      "published_date": "2026-05-11T22:12:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Government redoubles the pace of fiscal adjustment",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/11/el-gobierno-redobla-el-ritmo-del-ajuste-fiscal/",
-      "published_date": "2026-05-11T22:12:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Government auctions an unusual piece of land on Libertador Avenue in the heart of Palermo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inversiones/el-gobierno-subasta-un-terreno-insolito-en-el-nuevo-triangulo-del-lujo-porteno-nid09052026/",
-      "published_date": "2026-05-11T22:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Keys to understanding the new real estate market: prices are not taking off and buying to rent can be a good business",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/claves-para-entender-al-nuevo-mercado-inmobiliario-los-precios-no-despegan-y-comprar-para-alquilar-nid05052026/",
-      "published_date": "2026-05-11T22:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Strong mismatch between inflation and interest rates: Will they converge?",
+      "title": "“Caputo” vacuum cleaner: the items it cut and the programs that the Economy paralyzed to sustain the surplus",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/finanzas-mercados/fuerte-descalce-entre-inflacion-y-tasas-de-interes-convergeran/",
-      "published_date": "2026-05-11T22:07:12Z",
+      "url": "https://www.cronista.com/economia-politica/aspiradora-caputo-que-partidas-recorta-y-paraliza-programas-para-sostener-el-superavit/",
+      "published_date": "2026-05-12T11:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "Leandro Molina, CEO of Zonaprop: “The real estate market has left its most disordered stage behind, it is no longer on autopilot”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/leandro-molina-ceo-de-zonaprop-el-mercado-inmobiliario-dejo-atras-su-etapa-mas-desordenada-ya-no-nid11052026/",
-      "published_date": "2026-05-11T22:03:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The university in dispute",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/11/la-universidad-en-disputa/",
-      "published_date": "2026-05-11T21:57:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The company that remodeled the Monumental and Ezeiza, and will make the Puerto Madero Wheel, decided to request its preventive competition",
+      "title": "Fourth Federal University March: the Government faces a new mobilization for the budget",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/la-empresa-que-remodelo-el-monumental-y-ezeiza-y-hara-la-rueda-de-puerto-madero-decidio-pedir-su-concurso-preventivo/",
-      "published_date": "2026-05-11T23:57:07Z",
-      "category": "Local Events"
+      "url": "https://www.cronista.com/economia-politica/cuarta-marcha-federal-universitaria-el-gobierno-enfrenta-una-nueva-movilizacion-por-el-presupuesto/",
+      "published_date": "2026-05-12T10:58:56Z",
+      "category": "Economy"
     },
     {
-      "title": "Curaçao never ceases to surprise: the technical director who had resigned in February returns",
+      "title": "Bonus calculator 2026: how to know how much I will earn in June",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/curazao-no-deja-de-sorprender-vuelve-el-director-tecnico-que-habia-renunciado-en-febrero-nid11052026/",
-      "published_date": "2026-05-11T23:57:05Z",
-      "category": "Local Events"
+      "url": "https://www.lanacion.com.ar/economia/calculadora-de-aguinaldo-2026-como-saber-cuanto-voy-a-cobrar-en-junio-nid08052026/",
+      "published_date": "2026-05-12T10:50:12Z",
+      "category": "Economy"
     },
     {
-      "title": "Bribes in Andis: what the Government's own report says that further complicates Spagnuolo",
+      "title": "There is a new parity: how much do supervisors earn in May 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-supervisores-en-mayo-de-2026-nid28042026/",
+      "published_date": "2026-05-12T10:46:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "They closed a new joint venture: how much do domestic workers earn in May 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-empleadas-domesticas-en-mayo-2026-nid21042026/",
+      "published_date": "2026-05-12T10:46:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The closed circuit of money: how the Treasury's fiscal strategy neutralizes the Central Bank's issuance",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/el-circuito-cerrado-del-dinero-como-la-estrategia-fiscal-del-tesoro-neutraliza-la-emision-del-banco-central-a40.phtml",
+      "published_date": "2026-05-12T10:39:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The dollar in Córdoba: how much is it trading at this Tuesday, May 12",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-12-de-mayo-120526.phtml",
+      "published_date": "2026-05-12T10:20:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How much is the dollar trading at today, Tuesday, May 12, 2026",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-hoy-martes-12-de-mayo-de-2026.phtml",
+      "published_date": "2026-05-12T09:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Quote of the euro and euro blue today, Tuesday, May 12",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/cotizacion-del-euro-y-euro-blue-hoy-martes-12-de-mayo.phtml",
+      "published_date": "2026-05-12T09:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The Government opens a dialogue table for hospital funds, but ratifies the brake on the university financing law",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/el-gobierno-abre-una-mesa-de-dialogo-por-los-fondos-de-los-hospitales-pero-ratifica-el-freno-a-la-ley-de-financiamiento.phtml",
+      "published_date": "2026-05-12T08:43:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The failure of Caputo, the end of Macri and the populist threat",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/el-fallido-de-caputo-el-final-de-macri-y-la-amenaza-populista.phtml",
+      "published_date": "2026-05-12T08:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Challenge to the university march: the Government yesterday cut more than 100 billion in science and education",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-gobierno-profundiza-el-ajuste-a-la-ciencia-y-agita-la-previa-de-la-marcha-universitaria.phtml",
+      "published_date": "2026-05-12T08:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "University march to the Plaza de Mayo to complain to Milei for financing",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/11/coimas-en-la-andis-que-dice-el-informe-del-propio-gobierno-que-complica-aun-mas-a-spagnuolo/",
-      "published_date": "2026-05-11T23:54:40Z",
+      "url": "https://www.pagina12.com.ar/2026/05/12/marcha-universitaria-a-la-plaza-de-mayo-para-reclamarle-a-milei-por-el-financiamiento/",
+      "published_date": "2026-05-12T13:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lamine Yamal waved a Palestinian flag during Barcelona's celebrations after winning the League",
+      "title": "Unexpected double discovery of nearly 70 kilos of drugs during a routine check on a bus",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/lamine-yamal-ondeo-una-bandera-palestina-durante-los-festejos-de-barcelona-tras-conquistar-la-liga-nid11052026/",
-      "published_date": "2026-05-11T23:51:43Z",
+      "url": "https://www.lanacion.com.ar/seguridad/inesperado-doble-hallazgo-de-cerca-de-70-kilos-de-droga-en-un-control-de-rutina-a-un-micro-nid12052026/",
+      "published_date": "2026-05-12T12:54:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Neymar was called up to the national team after more than two and a half years and in Brazil opinions are divided",
+      "title": "Milei attacked a journalist for talking about the Gini Coefficient with a UBA student",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/neymar-fue-citado-a-la-seleccion-tras-mas-de-dos-anos-y-medio-y-en-brasil-las-opiniones-estan-nid11052026/",
-      "published_date": "2026-05-11T23:49:35Z",
+      "url": "https://www.lanacion.com.ar/politica/milei-ataco-a-un-periodista-por-hablar-del-coeficiente-de-gini-con-un-estudiante-de-la-uba-nid12052026/",
+      "published_date": "2026-05-12T12:54:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Federico Chingotto's spectacular definition to win the final of the Premier Padel in Asunción",
+      "title": "Adam Bareiro suffered a double tear and is almost ruled out for the last matches of the Copa Libertadores",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/padel/la-espectacular-definicion-de-federico-chingotto-para-ganar-la-final-del-premier-padel-de-asuncion-nid11052026/",
-      "published_date": "2026-05-11T23:46:21Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/adam-bareiro-sufrio-un-desgarro-y-boca-lo-perdera-para-los-ultimos-partidos-de-la-copa-libertadores-nid11052026/",
+      "published_date": "2026-05-12T12:53:45Z",
       "category": "Local Events"
     },
     {
-      "title": "It's official: US revokes passports of parents with child support debts",
+      "title": "Official and definitive | More than 3 million retirees will receive a super increase from the next payment",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/oficial-y-definitivo-mas-de-3-millones-de-jubilados-recibiran-un-super-aumento-desde-el-proximo-pago/",
+      "published_date": "2026-05-12T12:53:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mario Pergolini returned to his TV show and spoke after the death of his mother",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/ya-es-oficial-eeuu-revoca-pasaportes-a-padres-con-deudas-de-manutencion-infantil-nid11052026/",
-      "published_date": "2026-05-11T23:43:53Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/entre-la-emocion-y-el-humor-las-primeras-palabras-de-mario-pergolini-en-la-television-luego-del-nid12052026/",
+      "published_date": "2026-05-12T12:53:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Gisela Gilges, life coach, on crises: “It's not that it doesn't hurt; it's not staying where life hit you”",
+      "title": "At what age does a cat age?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/gisela-gilges-life-coach-la-gente-no-se-hunde-solo-por-lo-que-pasa-sino-por-los-recursos-que-tiene-nid11052026/",
-      "published_date": "2026-05-11T23:42:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/a-que-edad-envejece-un-gato-nid12052026/",
+      "published_date": "2026-05-12T12:50:20Z",
       "category": "Local Events"
     },
     {
-      "title": "The secret to making people not forget about you: the answer will surprise you",
+      "title": "What is known about Analía Corte, the 52-year-old woman who has been searching since Friday in Bariloche",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/el-secreto-para-lograr-que-la-gente-no-se-olvide-de-uno-la-respuesta-te-sorprendera-nid11052026/",
-      "published_date": "2026-05-11T23:37:52Z",
+      "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-analia-corte-la-mujer-de-52-anos-que-buscan-desde-el-viernes-en-bariloche-nid12052026/",
+      "published_date": "2026-05-12T12:49:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Tension in Boedo: the video of the persecution and arrest of a Colombian motochorro with a record and arrest warrant",
+      "title": "Is Monday, May 25, a holiday?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/el-video-de-la-persecucion-y-detencion-de-un-motochorro-colombiano-con-antecedentes-y-pedido-de-nid11052026/",
-      "published_date": "2026-05-11T23:35:58Z",
+      "url": "https://www.lanacion.com.ar/feriados/2026/es-feriado-el-lunes-25-de-mayo-nid12052026/",
+      "published_date": "2026-05-12T12:48:27Z",
       "category": "Local Events"
     },
     {
-      "title": "The moment a plane hits and kills a person while taking off at the Denver airport",
+      "title": "News from South Florida today, live: the new immigration law that impacts Cubans",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/colorado/el-momento-en-el-que-un-avion-atropella-y-mata-a-una-persona-mientras-despegaba-en-el-aeropuerto-de-nid10052026/",
-      "published_date": "2026-05-11T23:33:50Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/noticias-del-sur-de-florida-y-miami-hoy-en-vivo-ultimas-actualizaciones-del-martes-12-de-mayo-nid12052026/",
+      "published_date": "2026-05-12T12:47:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Who are the man and woman who were arrested for having sex on a plane: a witness's account",
+      "title": "Javier Milei and his measures, live: the march for university financing and the Adorni cause",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/quienes-son-el-hombre-y-la-mujer-que-fueron-detenidos-por-tener-sexo-en-un-avion-el-relato-de-una-nid11052026/",
-      "published_date": "2026-05-11T23:33:39Z",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-marcha-por-el-financiamiento-universitario-y-la-causa-adorni-nid12052026/",
+      "published_date": "2026-05-12T12:46:11Z",
       "category": "Local Events"
     },
     {
-      "title": "The UIA imploded against the Milei model",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/05/11/implosiono-la-uia-contra-el-modelo-milei/",
-      "published_date": "2026-05-11T23:31:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This will be the university march tomorrow, which will measure the strength of the demand for financing in the face of the Government's refusal",
+      "title": "University march, live: everything about the mobilization to Plaza de Mayo today, Tuesday, May 12",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/asi-sera-la-marcha-universitaria-de-manana-que-medira-la-fuerza-del-reclamo-frente-a-la-negativa-del-nid11052026/",
-      "published_date": "2026-05-11T23:27:51Z",
+      "url": "https://www.lanacion.com.ar/sociedad/marcha-universitaria-en-vivo-todo-sobre-la-movilizacion-a-plaza-de-mayo-hoy-martes-12-de-mayo-nid12052026/",
+      "published_date": "2026-05-12T12:45:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Mamdani advances: New York could freeze rent increases from June 25 of this year",
+      "title": "Yanina Latorre gave details of the separation of Pampita and Martín Pepa: “He begged her on the phone”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/avanza-mamdani-nueva-york-podria-congelar-los-aumentos-de-los-alquileres-desde-el-25-de-junio-de-nid11052026/",
-      "published_date": "2026-05-11T23:24:45Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/yanina-latorre-dio-detalles-de-la-separacion-de-pampita-y-martin-pepa-le-mendigo-por-telefono-nid12052026/",
+      "published_date": "2026-05-12T12:45:08Z",
       "category": "Local Events"
     },
     {
-      "title": "University March: the actors, singers and cultural leaders who call to march",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/05/11/marcha-universitaria-los-actores-cantantes-y-referentes-de-la-cultura-que-convocan-a-marchar/",
-      "published_date": "2026-05-11T23:21:27Z",
+      "title": "Chinese cell phone giant opened a physical store and presented new equipment in Argentina",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/gadgets/gigante-chino-de-los-celulares-abrio-una-tienda-fisica-y-presento-nuevos-equipos-en-argentina/",
+      "published_date": "2026-05-12T12:44:53Z",
       "category": "Local Events"
     },
     {
-      "title": "20 years ago there were less than 100 left: today there are 2,401 and the return of the lynx excites Europe",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/hace-20-anos-quedaban-100-hoy-2401-regreso-lince-emociona-europa_0_duqMCxZOGk.html",
-      "published_date": "2026-05-11T23:15:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hinojosa celebrates Democratic victories in Texas suburbs: analysts warn that they are not enough to defeat Abbott",
+      "title": "LeBron James and the disturbing phrase about his future after the elimination of the Los Angeles Lakers",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/hinojosa-celebra-victorias-democratas-en-suburbios-de-texas-los-analistas-advierten-que-no-alcanzan-nid10052026/",
-      "published_date": "2026-05-11T23:14:07Z",
+      "url": "https://www.lanacion.com.ar/deportes/basquetbol/lebron-james-y-la-inquietante-frase-sobre-su-futuro-tras-la-eliminacion-de-los-angeles-lakers-nid12052026/",
+      "published_date": "2026-05-12T12:39:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Judicial offensive by publishing groups against Mark Zuckerberg for the illegal use of books protected by copyright",
+      "title": "Survey: \"Hope, trust, shame and disgust\", the emotions that Javier Milei awakens",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/encuesta-las-emociones-que-despierta-javier-milei-se-dividen-entre-esperanza-confianza-verguenza-y-asco.phtml",
+      "published_date": "2026-05-12T12:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is “food noise” and what is the immediate connection it has with new weight loss drugs?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/cultura/ofensiva-judicial-de-grupos-editoriales-contra-mark-zuckerberg-por-el-uso-ilegal-de-libros-nid11052026/",
-      "published_date": "2026-05-11T23:13:26Z",
+      "url": "https://www.lanacion.com.ar/sociedad/el-food-noise-el-habito-negativo-relacionado-con-la-comida-que-eliminan-los-medicamentos-para-nid09052026/",
+      "published_date": "2026-05-12T12:35:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Without Cuti Romero, Tottenham's life is complicated again: with two dates left, they missed a great chance to escape relegation",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/cuti-romero-tottenham-vuelve-complicar-vida-falta-fechas-dejo-pasar-gran-chance-zafar-descenso_0_6MS4aBSoph.html",
-      "published_date": "2026-05-11T23:13:10Z",
+      "title": "Kitarō Nishida, Japanese philosopher: “The truth is not found in objects, but in the very act of seeking it”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/kitaro-nishida-filosofo-japones-la-verdad-no-se-encuentra-en-los-objetos-sino-en-el-acto-mismo-de-nid11052026/",
+      "published_date": "2026-05-12T12:32:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“It is as if we had not been paid for seven months”: the harsh claim of the rector of the UNC in the Federal University March",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/es-como-si-siete-meses-no-hubieramos-cobrado-el-duro-reclamo-del-rector-de-la-unc-en-la-marcha-federal-universitaria.phtml",
+      "published_date": "2026-05-12T12:31:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A woman wanted to avoid having her car stolen and climbed on the hood: she traveled there 50 meters",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/una-mujer-quiso-evitar-que-le-robaran-el-auto-y-se-subio-al-capot-viajo-alli-50-metros-nid12052026/",
+      "published_date": "2026-05-12T12:29:11Z",
       "category": "Local Events"
     }
   ]
