@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:42:39Z",
+  "generated_at": "2026-06-09T00:11:58Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Petro celebrates Sánchez's advantage and promises to restore relations with Peru",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/06/08/petro-celebra-la-ventaja-de-sanchez-y-promete-restablecer-las-relaciones-con-peru/",
+      "published_date": "2026-06-08T23:07:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Companies without humans: the Argentine law that divides the world",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/opinion/empresas-sin-humanos-la-ley-argentina-que-divide-al-mundo-nid08062026/",
+      "published_date": "2026-06-08T22:05:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Government opens a new stage of appointing judges and political tension returns to the Senate",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-abre-una-nueva-etapa-de-designacion-de-jueces-y-vuelve-la-tension-politica-al-senado-nid08062026/",
+      "published_date": "2026-06-08T21:52:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kylie Minogue appeared in River with Lali Espósito and revolutionized Buenos Aires with a song",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/kylie-minogue-aparecio-en-river-con-lali-esposito-y-revoluciono-buenos-aires-con-una-cancion-nid07062026/",
+      "published_date": "2026-06-08T21:33:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Writers, intellectuals and academics sign a new letter for the Casa Argentina in Paris and ask for the resignation of its director",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/cultura/escritores-intelectuales-y-academicos-firman-una-nueva-carta-por-la-casa-argentina-en-paris-y-piden-nid08062026/",
+      "published_date": "2026-06-08T21:16:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "June 15 holiday: how will banks operate next Monday?",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/feriado-del-15-de-junio-como-operaran-los-bancos-el-proximo-lunes.phtml",
+      "published_date": "2026-06-08T20:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Medical report of the Argentine team: how are the injured players eight days before their debut",
       "source": "La Nación",
@@ -109,46 +151,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What to watch on Disney+ today: the 10 series and movies that lead the ranking this Sunday, June 7, 2026 in Argentina",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-7-de-junio-de-2026-en-argentina_0_idLiibwUnf.html",
-      "published_date": "2026-06-07T10:15:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina and a trade agreement with the United Kingdom",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/argentina-y-un-acuerdo-de-comercio-con-reino-unido.phtml",
-      "published_date": "2026-06-07T06:14:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The other facet of Dibu Martínez: he was a photographer for the national team in the friendly against Honduras",
+      "title": "Good news for migrants in New Jersey: the million-dollar project created by Sherrill to fight against ICE",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-otra-faceta-de-dibu-martinez-fue-fotografo-de-la-seleccion-en-el-amistoso-contra-honduras-nid07062026/",
-      "published_date": "2026-06-07T05:49:50Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-jersey/buenas-noticias-para-migrantes-en-nueva-jersey-el-millonario-proyecto-creado-por-sherrill-para-nid08062026/",
+      "published_date": "2026-06-08T23:24:11Z",
+      "category": "Military"
     },
     {
-      "title": "Lionel Scaloni, after Argentina's 2-0 win over Honduras: from the blow by Balerdi to the World Cup hope",
+      "title": "An international analyst gave his opinion on whether the end of the war in the Middle East is coming soon",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-tras-el-2-0-de-argentina-a-honduras-del-golpe-por-balerdi-a-la-ilusion-mundialista-nid07062026/",
-      "published_date": "2026-06-07T05:32:42Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-opino-si-se-avecina-pronto-el-final-de-la-guerra-en-medio-oriente-nid08062026/",
+      "published_date": "2026-06-08T22:51:00Z",
+      "category": "Military"
     },
     {
-      "title": "Milei, Silicon Valley and technological sovereignty in the 21st century",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/milei-silicon-valley-y-la-soberania-tecnologica-en-el-siglo-xxi-por-sabino-vaca-narvaja.phtml",
-      "published_date": "2026-06-07T04:17:04Z",
-      "category": "Diplomacy"
+      "title": "Milei will visit Córdoba to witness military exercises with US troops",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/06/08/milei-visitara-cordoba-para-presenciar-ejercicios-militares-junto-a-tropas-de-eeuu/",
+      "published_date": "2026-06-08T21:17:49Z",
+      "category": "Military"
     },
     {
-      "title": "Biodiesel: Argentina has the capacity to lead a business that remains stuck",
+      "title": "Presidential agenda: Javier Milei leads a tribute to the Lubavitch Rebbe and travels to Córdoba for military exercises",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/columnistas/biodiesel-la-argentina-tiene-capacidad-para-liderar-un-negocio-que-sigue-trabado-por-carlos-burgueno.phtml",
-      "published_date": "2026-06-07T03:25:22Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/politica/agenda-presidencial-javier-milei-encabeza-un-tributo-al-rebe-de-lubavitch-y-viaja-a-cordoba-por-ejercicios-militares.phtml",
+      "published_date": "2026-06-08T20:35:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pete Hegseth's dangerous call to arms in Asia",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/project-syndicate/el-peligroso-llamado-a-las-armas-de-pete-hegseth-en-asia.phtml",
+      "published_date": "2026-06-08T19:20:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Ministry of Economy was evacuated due to a bomb threat",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/evacuaron-el-ministerio-de-economia-por-amenaza-de-bomba.phtml",
+      "published_date": "2026-06-08T19:16:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The silent debt shock that suffocates the Global South due to the Iran war",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/project-syndicate/el-silencioso-shock-de-deuda-que-asfixia-al-sur-global-por-la-guerra-de-iran.phtml",
+      "published_date": "2026-06-08T19:15:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Presti signs two new agreements with the US: access to military fuel and drone technology",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/presti-firma-dos-nuevos-acuerdos-con-eeuu-acceso-a-combustible-militar-y-tecnologia-de-drones/",
+      "published_date": "2026-06-08T15:10:20Z",
+      "category": "Military"
     },
     {
       "title": "Israel and Iran promise a de-escalation, but the latest attacks raise fears of a new regional war in the Middle East",
@@ -235,60 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Glinski brought to Washington an agenda on democracy, sovereignty and environmental remediation",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/06/06/glinski-llevo-a-washington-una-agenda-sobre-democracia-soberania-y-remediacion-ambiental/",
-      "published_date": "2026-06-06T23:27:03Z",
-      "category": "Military"
+      "title": "Hidrovía: the losing company offers to operate it with a rate 17% lower than that set in the tender",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/hidrovia-la-empresa-perdedora-ofrece-operarla-con-una-tarifa-17-mas-baja-que-la-fijada-en-la-nid08062026/",
+      "published_date": "2026-06-09T00:00:42Z",
+      "category": "Energy"
     },
     {
-      "title": "A Florida lab just unveiled a robot that could change the way militaries send troops to war",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/laboratorio-florida-acaba-presentar-robot-podria-cambiar-forma-ejercitos-envian-tropas-guerra_0_lovCnQddzr.html",
-      "published_date": "2026-06-06T22:57:50Z",
-      "category": "Military"
+      "title": "New rise in oil",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/06/08/nueva-suba-del-petroleo/",
+      "published_date": "2026-06-08T23:16:51Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran opens new round of negotiations as it trades attacks with the United States in the Gulf",
+      "title": "Setback for Trump: Justice annulled the US$100,000 fee for H-1B visas",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/iran-ataco-kuwait-y-bahrein-tras-los-bombardeos-de-eeuu-en-ormuz-y-recrudece-la-crisis-en-el-golfo.phtml",
-      "published_date": "2026-06-06T21:15:00Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-juez-federal-anula-la-tarifa-de-us100000-impuesta-por-trump-a-visas-h-1b.phtml",
+      "published_date": "2026-06-08T22:29:00Z",
+      "category": "Energy"
     },
     {
-      "title": "2026 World Cup: Iran's team must enter and leave the United States on the days it has to play a match",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-la-seleccion-de-iran-debera-entrar-y-salir-de-estados-unidos-los-dias-que-le-toque-nid06062026/",
-      "published_date": "2026-06-06T20:16:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers kill seven-month-old baby in West Bank",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/soldados-israelies-mataron-a-un-bebe-de-siete-meses-en-cisjordania-nid06062026/",
-      "published_date": "2026-06-06T19:49:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's decision impacts Brazil's sovereignty",
+      "title": "Today he doesn't trust, tomorrow he does",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/decision-de-trump-impacta-en-la-soberania-de-brasil.phtml",
-      "published_date": "2026-06-06T13:31:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Neither gym nor intense exercises: the simple habit that combats body stiffness",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/ni-gimnasio-ni-ejercicios-intensos-el-habito-simple-que-combate-la-rigidez-corporal-nid06062026/",
-      "published_date": "2026-06-06T11:39:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carrie turns 50 - and no one better not ruin her party -",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/carrie-cumple-50-y-mejor-que-nadie-le-arruine-la-fiesta--nid06062026/",
-      "published_date": "2026-06-06T09:00:00Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/opinion/hoy-no-se-fia-manana-si.phtml",
+      "published_date": "2026-06-08T21:54:51Z",
+      "category": "Energy"
     },
     {
       "title": "Oil rises again due to tension in the Middle East and hits Asian stock markets",
@@ -403,171 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Ricardo Echegaray, outside: the Government expelled him from ARCA when his conviction in the Oil Combustibles case became final",
+      "title": "The World Cup economy",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/judiciales/ricardo-echegaray-exonerado-el-estado-ejecuta-la-inhabilitacion-perpetua-y-lo-expulsa-de-arca.phtml",
-      "published_date": "2026-06-04T20:29:42Z",
-      "category": "Energy"
-    },
-    {
-      "title": "JetSmart returns to Jujuy with daily flights",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/jetsmart-regresa-a-jujuy-con-vuelos-diarios/",
-      "published_date": "2026-06-04T18:16:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The Government approves the RIGI for the US$1.3 billion gas pipeline that will be built to export LNG from Vaca Muerta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/el-gobierno-aprueba-el-rigi-para-el-gasoducto-de-us-1300-millones-que-southern-energy-hara-para-exportar-gnl-de-vaca-muerta/",
-      "published_date": "2026-06-04T17:43:03Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Shell stations change hands: a Swiss company linked to Manzano takes over the business for US$1.42 billion",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/shell-cambia-de-manos-manzano-y-mercuria-se-quedan-con-las-894-estaciones-y-la-refineria-por-us1420-nid04062026/",
-      "published_date": "2026-06-04T12:33:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Inflation in the City of Buenos Aires was 2.1% in May",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/08/la-inflacion-de-la-ciudad-de-buenos-aires-fue-del-21-en-mayo/",
-      "published_date": "2026-06-08T14:36:21Z",
+      "url": "https://www.perfil.com/noticias/sociedad/la-economia-del-mundial.phtml",
+      "published_date": "2026-06-08T23:44:00Z",
       "category": "Economy"
     },
     {
-      "title": "Inflation slowed down in the City: it was 2.1% in May and has accumulated 14% so far this year",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/la-inflacion-en-la-ciudad-desacelero-al-21-en-mayo-y-acumula-14-en-lo-que-va-del-ano-nid08062026/",
-      "published_date": "2026-06-08T14:30:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The real estate map that the market ignored: the CABA neighborhoods with the most room for growth and those that are saturated",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-mapa-inmobiliario-que-el-mercado-ignoro-los-barrios-de-caba-con-mas-margen-de-crecimiento-y-los-que-estan-saturados/",
-      "published_date": "2026-06-08T14:26:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dollar today and blue dollar, live: how much is the official price and what is the price of the parallel this Monday, June 8, minute by minute",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid08062026/",
-      "published_date": "2026-06-08T14:23:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CABA inflation slowed to 2.1% in May and accumulates 14% in the first 5 months of 2026",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/la-inflacion-de-caba-desacelero-a-21-en-mayo-y-acumula-14-en-los-primeros-5-meses-de-2026-a40.phtml",
-      "published_date": "2026-06-08T14:21:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Agostina Vega Case: The opposition was unified to ask that prosecutor Garzón be prosecuted for poor performance",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/caso-agostina-vega-la-oposicion-se-unifico-para-pedir-enjuiciar-por-mal-desempeno-al-fiscal-garzon.phtml",
-      "published_date": "2026-06-08T14:17:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mexico on the limit: the economic cost of autocratic drift",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/project-syndicate/mexico-al-limite-el-costo-economico-de-la-deriva-autocratica.phtml",
-      "published_date": "2026-06-08T14:17:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Agostina Vega Case: The opposition demands the dismissal of the prosecutor who freed Barrelier in 2025",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/caso-agostina-vega-la-oposicion-reclama-la-destitucion-del-fiscal-que-libero-a-barrelier-en-2025.phtml",
-      "published_date": "2026-06-08T14:11:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The dollar in Córdoba: how much is it trading at this Monday, June 8",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-8-de-junio-080626.phtml",
-      "published_date": "2026-06-08T14:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Confirmed: NASA chose the new astronauts for the new Artemis III mission",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/confirmado-la-nasa-eligio-a-los-nuevos-astronautas-para-la-nueva-mision-artemis-iii-nid08062026/",
-      "published_date": "2026-06-08T14:07:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CABA inflation was 2.1% in May and totals 14% so far this year",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-inflacion-de-caba-fue-del-21-en-mayo-y-suma-14-en-lo-que-va-del-ano/",
-      "published_date": "2026-06-08T14:02:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Parkinson's, the disease that Indio Solari suffered from: what is the first detectable symptom and possible treatments",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/parkinson-la-enfermedad-que-padecia-el-indio-solari-cual-es-el-primer-sintoma-detectable-y-los-nid05062026/",
-      "published_date": "2026-06-08T13:56:31Z",
-      "category": "Economy"
-    },
-    {
-      "title": "How much is the dollar trading at today, Monday, June 8, 2026",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-hoy-lunes-8-de-junio-de-2026.phtml",
-      "published_date": "2026-06-08T13:53:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Quote of the euro and euro blue today Monday, June 8",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/cotizacion-del-euro-y-euro-blue-hoy-lunes-8-de-junio.phtml",
-      "published_date": "2026-06-08T13:41:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Japan imposed new fees and taxes for tourists traveling starting this year",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/japon-impuso-nuevas-tasas-e-impuestos-para-los-turistas-que-viajen-a-partir-de-este-ano-nid08062026/",
-      "published_date": "2026-06-08T13:38:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The seed industry supported the new varietal control system: \"Innovation must be seen as a tool for the producer, not a cost\"",
+      "title": "A Martín Fierro for the endless intern",
       "source": "Clarín",
-      "url": "https://www.clarin.com/rural/industria-semillera-respaldo-nuevo-sistema-control-varietal-innovacion-debe-vista-herramienta-productor-costo_0_y0vYf769P7.html",
-      "published_date": "2026-06-08T13:38:00Z",
+      "url": "https://www.clarin.com/opinion/martin-fierro-interna-interminable_0_ltu8RKdK4L.html",
+      "published_date": "2026-06-08T23:00:17Z",
       "category": "Economy"
     },
     {
-      "title": "Consumption does not rebound: SME retail sales fell 1.2% in May",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/el-consumo-no-repunta-las-ventas-minoristas-pymes-cayeron-12-en-mayo-a40.phtml",
-      "published_date": "2026-06-08T13:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Generation of dollars for Argentina: “Agriculture is going to lose relative weight as a generator of foreign currency”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/generacion-de-dolares-para-argentina-el-agro-va-a-ir-perdiendo-peso-relativo-como-generador-de-divisas.phtml",
-      "published_date": "2026-06-08T13:29:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Rates and exchange rate: the combo that made investments in pesos yield up to 20% in dollars in the first half of the year",
+      "title": "Jobs in high demand and best salaries in the US already have scholarships: courses starting July 1",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/tasas-y-tipo-de-cambio-el-combo-que-hizo-que-las-inversiones-en-pesos-rindieran-hasta-20-en-dolares-nid08062026/",
-      "published_date": "2026-06-08T13:22:47Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/los-trabajos-de-alta-demanda-y-mejores-salarios-en-eeuu-ya-tienen-beca-cursos-desde-el-1-de-julio-nid08062026/",
+      "published_date": "2026-06-08T22:58:25Z",
       "category": "Economy"
     },
     {
-      "title": "Gabriel Caamaño: “The economy is not in recession, but there are no elements that allow me to say that it is flying either”",
+      "title": "Peru enters the second day of the ballot count wrapped in uncertainty and with nervousness in the markets",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/gabriel-caamano-la-economia-no-esta-en-recesion-pero-tampoco-hay-elementos-que-me-permitan-decir-que-nid07062026/",
-      "published_date": "2026-06-08T13:21:55Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/peru-entra-en-el-segundo-dia-de-recuento-de-balotaje-envuelto-en-la-incertidumbre-y-con-nerviosismo-nid08062026/",
+      "published_date": "2026-06-08T22:53:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "SpaceX's IPO is already oversubscribed and on track to break all records",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-demanda-por-opi-de-spacex-supera-ampliamente-la-oferta-disponible.phtml",
+      "published_date": "2026-06-08T22:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The Pumas 7s: a year of important news, facing the great objective",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-7s-un-ano-de-importantes-novedades-de-cara-al-gran-objetivo-nid08062026/",
+      "published_date": "2026-06-08T22:46:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“A stagnant economy”",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/06/08/una-economia-estancada-y-en-piloto-automatico/",
+      "published_date": "2026-06-08T22:40:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A ruling by the Federal Court of Cassation favors Alberto Fernández in the insurance case",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/un-fallo-de-la-camara-federal-de-casacion-favorece-a-alberto-fernandez-en-el-caso-de-los-seguros-nid08062026/",
+      "published_date": "2026-06-08T22:28:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The commitment to inspection: the path to achieving a record export figure",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-apuesta-por-la-fiscalizacion-el-camino-para-lograr-una-cifra-record-de-exportacion/",
+      "published_date": "2026-06-08T22:23:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Giacomini on Indio Solari: \"It is very difficult to find someone more anarchic liberal than him\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/giacomini-sobre-el-indio-solari-es-muy-dificil-encontrar-alguien-mas-liberal-anarquico-que-el.phtml",
+      "published_date": "2026-06-08T22:21:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "They evacuated the Ministry of Economy",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/06/08/evacuaron-el-ministerio-de-economia/",
+      "published_date": "2026-06-08T22:14:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Goodbye Ron DeSantis: Donald Trump made a decision and leaned towards Todd Blanche",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/adios-ron-desantis-donald-trump-tomo-una-decision-y-se-inclino-por-todd-blanche-nid08062026/",
+      "published_date": "2026-06-08T22:06:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Debt: the Government seeks to renew maturities for $5 billion",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/deuda-el-gobierno-busca-renovar-vencimientos-por-5-billones-a40.phtml",
+      "published_date": "2026-06-08T22:04:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Horacio Fazio: \"The president takes the person of Hugo Alconada Mon as an enemy\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/canal-e/horacio-fazio-el-presidente-toma-como-enemigo-la-persona-de-hugo-alconada-mon.phtml",
+      "published_date": "2026-06-08T21:52:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Country Risk closes at 494 basis points in a day of financial stability",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-cierra-en-494-puntos-basicos-en-una-jornada-de-estabilidad-financiera-a35.phtml",
+      "published_date": "2026-06-08T21:49:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rain and Netflix: the true story behind “The Witness”, the new miniseries to enjoy in these gray days",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/lluvia-y-netflix-la-historia-real-detras-de-el-testigo-la-nueva-miniserie-para-disfrutar-en-estos-nid07062026/",
+      "published_date": "2026-06-08T21:39:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How cats show that they are old",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/como-demuestran-los-gatos-que-ya-estan-viejos-nid08062026/",
+      "published_date": "2026-06-08T21:34:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "José Luis Belluscio: \"Bulk wine means less Argentine work in the wineries\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/canal-e/jose-luis-belluscio-el-vino-a-granel-significa-menor-cantidad-de-trabajo-argentino-en-las-bodegas.phtml",
+      "published_date": "2026-06-08T21:33:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Seeds: support and questions for the Government's new varietal control protocol",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/semillas-apoyos-y-cuestionamientos-al-nuevo-protocolo-de-control-varietal-del-gobierno-nid08062026/",
+      "published_date": "2026-06-08T21:28:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Carolina Manucci warned about the economic model: \"Stabilizing is not the same as developing the economy\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/canal-e/carolina-manucci-estabilizar-no-es-lo-mismo-que-desarrollar-la-economia.phtml",
+      "published_date": "2026-06-08T21:25:52Z",
       "category": "Economy"
     },
     {
@@ -578,136 +578,136 @@
       "category": "Local Events"
     },
     {
-      "title": "World Cup 2026: What is known about Tim Payne and the Argentine flag to support the New Zealand defender",
+      "title": "Conrado Estol, neurologist: “If you cannot control anxiety with habits, you should consult a professional”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-que-se-sabe-de-tim-payne-y-el-banderazo-argentino-para-apoyar-al-defensor-de-nueva-nid08062026/",
-      "published_date": "2026-06-08T14:33:42Z",
+      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-si-no-se-logra-controlar-la-ansiedad-con-habitos-hay-que-consultar-a-un-nid07062026/",
+      "published_date": "2026-06-09T00:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Yuval Harari questioned Milei for his initiative to create non-human companies through AI",
+      "title": "Record number of registrants for the medical residency exam in the city: the most and least chosen specialties",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/yuval-harari-cuestiono-a-milei-por-su-iniciativa-de-crear-empresas-no-humanas-a-traves-de-la-ia-nid08062026/",
-      "published_date": "2026-06-08T14:32:49Z",
+      "url": "https://www.lanacion.com.ar/sociedad/record-de-inscriptos-para-el-examen-de-residencias-en-la-ciudad-las-especialidades-mas-y-menos-nid08062026/",
+      "published_date": "2026-06-08T23:59:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Farewell to Indio Solari, live: where he will be buried and the last goodbye to his fans",
+      "title": "Pilar Sordo: “Discomfort is the only invitation to growth”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/despedida-del-indio-solari-en-vivo-donde-sera-enterrado-y-el-ultimo-adios-de-sus-fanaticos-nid08062026/",
-      "published_date": "2026-06-08T14:32:10Z",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-la-incomodidad-es-la-unica-invitacion-al-crecimiento-nid08062026/",
+      "published_date": "2026-06-08T23:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Live: expectation for the new iOS27 and the renewal of its Siri assistant at Apple's WWDC 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/wwdc-2026-ios-27-siri-ia-nid08062026/",
-      "published_date": "2026-06-08T14:30:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Epilepsy Diet May Help Treat Anorexia Nervosa",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/una-dieta-usada-para-la-epilepsia-podria-ayudar-a-tratar-la-anorexia-nerviosa-nid08062026/",
-      "published_date": "2026-06-08T14:30:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The art of saying no: 10 tips to learn to set limits in the family and work environment",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/el-arte-de-decir-que-no-cuando-poner-limites-es-un-acto-de-autocuidado-nid07062026/",
-      "published_date": "2026-06-08T14:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They had a drug “kiosk” where they also sold stolen auto parts: two arrested",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/tenian-un-kiosko-de-drogas-en-donde-tambien-vendian-autopartes-robadas-en-santa-fe-dos-detenidos-nid08062026/",
-      "published_date": "2026-06-08T14:27:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "With criticism of the Government, chambermaid Leopoldo Bruglia asked the IACHR for a precautionary measure to avoid being replaced",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/con-criticas-al-gobierno-el-camarista-leopoldo-bruglia-solicito-a-la-cidh-una-cautelar-para-evitar-nid08062026/",
-      "published_date": "2026-06-08T14:26:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Villa Ortúzar to the United States: the international career of an Argentine executive who led million-dollar logistics projects",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/negocios/de-villa-ortuzar-a-estados-unidos-la-carrera-internacional-de-un-ejecutivo-argentino-que-lidero-nid08062026/",
-      "published_date": "2026-06-08T14:26:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Milei and his measures, live: expectation for the presentation of Manuel Adorni's sworn statement",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-declaracion-jurada-de-adorni-y-la-interna-kirchnerista-por-el-nid08062026/",
-      "published_date": "2026-06-08T14:25:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran and Israel pause attacks and open the door to a truce in the Middle East",
+      "title": "Best sound for the World Cup: what the Thonet & Vander Stern 2.1 bar offers",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/iran-e-israel-pausan-los-ataques-y-abren-la-puerta-a-una-tregua-en-medio-oriente/",
-      "published_date": "2026-06-08T14:23:30Z",
+      "url": "https://www.cronista.com/infotechnology/gadgets/mejor-sonido-para-el-mundial-que-ofrece-la-barra-21-thonet-vander-stern/",
+      "published_date": "2026-06-08T23:54:24Z",
       "category": "Local Events"
     },
     {
-      "title": "The dangerous pro-French turn that fractures West Africa",
+      "title": "Actress María Rosa Fugazot died at age 83",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/murio-la-actriz-maria-rosa-fugazot-a-los-83-anos-nid08062026/",
+      "published_date": "2026-06-08T23:53:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Macri: “The government of the province of Buenos Aires should celebrate that we carry out controls in General Paz”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/jorge-macri-el-gobierno-de-la-provincia-de-buenos-aires-deberia-festejar-que-hagamos-controles-en-la-nid07062026/",
+      "published_date": "2026-06-08T23:52:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “Life becomes much brighter and much more attractive when one makes an effort”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-vida-se-vuelve-mucho-mas-luminosa-y-mucho-mas-atractiva-cuando-uno-se-nid02062026/",
+      "published_date": "2026-06-08T23:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christina Koch, Artemis II astronaut: “It's wonderful to hear about Earth again; we will always choose it”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/ciencia/christina-koch-astronauta-del-artemis-ii-es-maravilloso-escuchar-de-nuevo-de-la-tierra-siempre-la-nid02062026/",
+      "published_date": "2026-06-08T23:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The TSA launches the country's first remote control in Boston: which flights apply and how much it costs",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/la-tsa-estrena-en-boston-el-primer-control-remoto-del-pais-que-vuelos-aplican-y-cuanto-cuesta-nid08062026/",
+      "published_date": "2026-06-08T23:43:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Official: NASA reveals how California wildfires affect air quality in the US",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/oficial-la-nasa-revela-como-los-incendios-forestales-en-california-afectan-la-calidad-del-aire-en-nid08062026/",
+      "published_date": "2026-06-08T23:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scaloni referred to his relationship with Messi and a publication that caused his anger: “I didn't like it, it screwed me up”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/scaloni-se-refirio-a-su-relacion-con-messi-y-a-una-publicacion-que-causo-su-enojo-no-me-gusto-me-nid08062026/",
+      "published_date": "2026-06-08T23:39:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cristina Kirchner shared a video of the historic goodbye to Indio Solari: “We were a respectable audience”",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/06/08/cristina-kirchner-compartio-un-video-del-historico-adios-al-indio-solari-fuimos-un-publico-respetable/",
+      "published_date": "2026-06-08T23:37:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What time in the US do the New York Knicks vs. San Antonio Spurs, today: live stream of the NBA Finals",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-juegan-new-york-knicks-vs-san-antonio-spurs-hoy-transmision-en-vivo-de-las-nid08062026/",
+      "published_date": "2026-06-08T23:37:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “More than knowing who I am, I want to know what I want, because the desire is going to take me in the direction of that enigma”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-mas-que-saber-quien-soy-quiero-saber-que-deseo-porque-el-deseo-me-va-a-nid06062026/",
+      "published_date": "2026-06-08T23:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "JB Pritzker's signature is missing: the bill that will allow Uber and Lyft drivers to unionize in Illinois",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/illinois/falta-la-firma-de-jb-pritzker-el-proyecto-de-ley-que-permitira-sindicalizarse-a-los-conductores-de-nid08062026/",
+      "published_date": "2026-06-08T23:34:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilar Sordo: “You don't have to stop doing something out of fear, you have to do it with fear; it is a driving force, a stimulator”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-no-hay-que-dejar-de-hacer-algo-por-miedo-hay-que-hacerlo-con-miedo-es-un-motor-un-nid06062026/",
+      "published_date": "2026-06-08T23:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is the antichrist today?",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/project-syndicate/el-peligroso-giro-profrances-que-fractura-a-africa-occidental.phtml",
-      "published_date": "2026-06-08T14:22:13Z",
+      "url": "https://www.perfil.com/noticias/opinion/quien-es-el-anticristo-hoy.phtml",
+      "published_date": "2026-06-08T23:26:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lali Espósito attacked Javier Milei in his second River: “They advised me to close my mouth”",
+      "title": "Crime of Agostina Vega: what Soledad, the woman who lent the car to Barrelier, had declared before being arrested",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/lali-esposito-arremetio-contra-javier-milei-en-su-segundo-river-me-aconsejaban-cerrar-la-boca-nid08062026/",
-      "published_date": "2026-06-08T14:18:20Z",
+      "url": "https://www.lanacion.com.ar/seguridad/crimen-de-agostina-vega-que-habia-declarado-la-mujer-que-le-presto-el-auto-a-barrelier-antes-ser-nid08062026/",
+      "published_date": "2026-06-08T23:22:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Scandal in the Deliberative Council: a session ended in disagreements between taxi drivers and app drivers",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/escandalo-en-el-concejo-deliberante-una-sesion-termino-a-las-pinas-entre-taxistas-y-choferes-de-apps-nid08062026/",
-      "published_date": "2026-06-08T14:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Church facing the moral limits of artificial intelligence",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/project-syndicate/la-iglesia-frente-a-los-limites-morales-de-la-inteligencia-artificial.phtml",
-      "published_date": "2026-06-08T14:15:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Claudio Barrelier is detained in Bouwer, isolated and monitored with cameras 24 hours a day",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/claudio-barrelier-esta-detenido-en-bouwer-aislado-y-monitoreado-con-camaras-las-24-horas.phtml",
-      "published_date": "2026-06-08T14:15:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Cup 2026, live: the national team prepares to face Iceland before the start of the tournament",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-la-seleccion-se-prepara-para-enfrentar-a-islandia-antes-del-comienzo-del-torneo-nid08062026/",
-      "published_date": "2026-06-08T14:14:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horoscope: what your week will be like from June 7 to 13, 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-7-al-13-de-junio-de-2026-nid06062026/",
-      "published_date": "2026-06-08T14:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 23-year-old girl was left in intensive care after a fight outside a bowling alley in Entre Ríos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/una-joven-de-23-anos-quedo-en-terapia-intensiva-tras-una-pelea-a-la-salida-de-un-boliche-en-entre-nid08062026/",
-      "published_date": "2026-06-08T14:10:47Z",
+      "title": "\"Plin\", one of the most wanted criminals in Santa Fe, fell: they captured him in a bowling alley in San Telmo",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/policiales/cayo-plin-delincuentes-buscados-santa-fe-capturaron-boliche-san-telmo_0_bQxqM90OjZ.html",
+      "published_date": "2026-06-08T23:22:28Z",
       "category": "Local Events"
     }
   ]
