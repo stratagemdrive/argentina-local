@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T00:13:08Z",
+  "generated_at": "2026-06-30T13:04:36Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Survey: more than 50% believe that Argentina is in a deep crisis but the opposition does not capitalize on discontent",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/mas-del-50-cree-que-argentina-esta-en-una-crisis-profunda-y-cae-la-imagen-de-javier-milei.phtml",
+      "published_date": "2026-06-30T12:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On which channel do they show Ivory Coast vs. Norway for the 2026 World Cup today",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-costa-de-marfil-vs-noruega-por-el-mundial-2026-hoy-nid30062026/",
+      "published_date": "2026-06-30T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bye balsas: they confirmed when the works of the megabridge that will link Argentina with Brazil will begin",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/chau-balsas-confirmaron-cuando-inician-las-obras-del-megapuente-que-unira-a-la-argentina-con-brasil-nid24062026/",
+      "published_date": "2026-06-30T10:35:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei stays to take care of the flock",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/06/30/milei-se-queda-a-cuidar-el-rebano/",
+      "published_date": "2026-06-30T03:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "More than 13 million Argentine hectares are foreignized",
       "source": "Perfil",
@@ -123,32 +151,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The former soybean titan renegotiates its debt: the term it requested from its creditors",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/el-ex-titan-de-la-soja-renegocia-su-deuda-el-plazo-que-pidio-a-sus-acreedores/",
-      "published_date": "2026-06-29T09:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina-Jordan: the key role of Dibu Martínez behind Lo Celso's great goal",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-jordania-el-rol-clave-del-dibu-martinez-detras-del-golazo-de-lo-celso-nid28062026/",
-      "published_date": "2026-06-29T00:00:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Karina Milei activates the post-Adorni operation: the key meeting with legislators to reorder the agenda",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/karina-milei-activa-el-operativo-post-adorni-la-reunion-clave-con-legisladores-para-reordenar-la-agenda/",
-      "published_date": "2026-06-28T23:35:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Argentine National Team changed their routine: they stayed at the hotel in the middle of a heat wave and Scaloni organized another \"family day\" in Kansas City",
+      "title": "Whatever you do in Russia, don't talk about the war",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/seleccion-argentina-cambio-rutina-quedo-hotel-medio-ola-calor-scaloni-armo-family-day-kansas-city_0_YMaScyV5dp.html",
-      "published_date": "2026-06-28T22:54:15Z",
-      "category": "Diplomacy"
+      "url": "https://www.clarin.com/new-york-times-international-weekly/hagas-hagas-rusia-hables-guerra_0_tX503KtrzG.html",
+      "published_date": "2026-06-30T12:33:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Army prohibits soldiers from publishing statements, complaints and denunciations on social networks",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-ejercito-prohibe-a-los-militares-publicar-planteos-quejas-y-denuncias-en-las-redes-sociales-nid30062026/",
+      "published_date": "2026-06-30T12:12:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Insaurralde Case: they raided the house where Jesica Cirio lived with Piccirillo to find out if the filming with the bills was there",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/caso-insaurralde-allanaron-la-casa-en-la-que-jesica-cirio-vivio-con-piccirillo-para-saber-si-alli-fue-la-filmacion-con-los-billetes.phtml",
+      "published_date": "2026-06-30T12:12:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cassation reactivated the case for sexual abuse against an Army sergeant in Corrientes",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/casacion-reactivo-la-causa-por-abuso-sexual-contra-un-sargento-del-ejercito-en-corrientes.phtml",
+      "published_date": "2026-06-30T12:10:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Argentine Naval Prefecture: 216 years guarding the waters of the Nation",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/empresas-y-protagonistas/prefectura-naaval-argentina-216-anos-custodiando-las-aguas-de-la-nacion.phtml",
+      "published_date": "2026-06-30T11:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "They were valued at US$100,000: the Federal Police recovered more than 200 historical documents linked to San Martín, Rosas and other historical figures",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/estaban-valuados-en-us100000-la-policia-federal-recupero-mas-de-200-documentos-historicos-vinculados-nid23062026/",
+      "published_date": "2026-06-30T10:26:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Javier Milei called to strengthen a regional alliance with Israel and affirmed that “there is no possible neutrality” in the face of terrorism",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/javier-milei-llamo-a-fortalecer-una-alianza-regional-con-israel-y-afirmo-que-no-hay-neutralidad-posible-frente-al-terrorismo.phtml",
+      "published_date": "2026-06-30T00:06:36Z",
+      "category": "Military"
     },
     {
       "title": "Preparations for the looting of international aid in Venezuela",
@@ -242,53 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "The fort of bizarre French design that existed in the middle of the Pampas plain",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/el-fuerte-de-estrafalario-diseno-frances-que-existio-en-medio-de-la-llanura-pampeana-nid27062026/",
-      "published_date": "2026-06-27T12:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Earthquakes in Venezuela: while the dead are already almost 1,000, La Guaira woke up militarized and can only be entered with a QR code",
+      "title": "July comes with cold and with increases: transportation rates, tolls, services, prepaid bills, rents and schools go up",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/terremotos-en-venezuela-mientras-los-muertos-ya-son-casi-1000-la-guaira-amanecio-militarizada-y-solo-se-puede-entrar-con-un-codigo-qr.phtml",
-      "published_date": "2026-06-27T11:13:28Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/economia/julio-llega-con-frio-y-con-aumentos-suben-tarifas-transporte-peajes-servicios-prepagas-alquileres-colegios-a40.phtml",
+      "published_date": "2026-06-30T12:22:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Operation Entebbe: he was able to save himself but preferred to stay with his passengers in the kidnapping where Netanyahu's brother died",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/operacion-entebbe-el-piloto-que-eligio-quedarse-con-sus-pasajeros-durante-el-secuestro-aereo-en-el-nid27062026/",
-      "published_date": "2026-06-27T06:43:00Z",
-      "category": "Military"
+      "title": "It is not oil: they assure that Argentina has a “decade of opportunities” in this sector",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/no-es-el-petroleo-aseguran-que-argentina-tiene-una-decada-de-oportunidades-en-este-sector/",
+      "published_date": "2026-06-30T09:00:01Z",
+      "category": "Energy"
     },
     {
-      "title": "Capulets and Montagues, the other story",
+      "title": "How the board of YPF works, the company in charge of making dollars, where the Government will appoint a replacement for Adorni",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/espectaculos/capuletos-y-montescos-la-otra-historia.phtml",
-      "published_date": "2026-06-27T05:45:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "An a la carte menu for hyper-millionaires",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/06/27/un-menu-a-la-carta-para-los-hiper-millonarios-2/",
-      "published_date": "2026-06-27T03:01:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Church warned that the law of Inviolability of private property “attacks sovereignty”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/06/27/la-iglesia-advirtio-que-la-ley-de-inviolabilidad-de-la-propiedad-privada-atenta-contra-la-soberania/",
-      "published_date": "2026-06-27T03:01:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "United States: Bolton pleaded guilty",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/06/26/estados-unidos-bolton-se-declaro-culpable/",
-      "published_date": "2026-06-27T03:01:00Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/economia/como-funciona-el-directorio-de-ypf-la-empresa-encargada-de-hacer-dolares-en-el-que-el-gobierno-designara-a-un-reemplazante-de-adorni-a40.phtml",
+      "published_date": "2026-06-30T08:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Techint fires and blames the Milei Government",
@@ -410,164 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "The RIGI shields the gas pipeline: the step that ensures a key work for Vaca Muerta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/el-rigi-blinda-al-gasoducto-el-paso-que-asegura-una-obra-clave-para-vaca-muerta/",
-      "published_date": "2026-06-26T12:50:43Z",
-      "category": "Energy"
+      "title": "Dollar today and dollar blue, LIVE: how much is the official trading at and what is the price of the parallel this Tuesday, June 30, minute by minute",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30062026/",
+      "published_date": "2026-06-30T12:49:32Z",
+      "category": "Economy"
     },
     {
-      "title": "Naturgy was among the energy companies best rated in sustainability",
+      "title": "Gustavo Alfaro achieved the “most important” victory of his life and thus motivated Paraguay against Germany: “26 warriors”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/gustavo-alfaro-logro-el-triunfo-mas-importante-de-su-vida-y-asi-motivo-a-paraguay-ante-alemania-26-nid29062026/",
+      "published_date": "2026-06-30T12:20:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Work, pleasure and a challenge: Susana Giménez traveled to the United States with her daughter, Mercedes Sarrabayrouse",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/trabajo-placer-y-un-desafio-susana-gimenez-viajo-a-los-estados-unidos-junto-a-su-hija-mercedes-nid30062026/",
+      "published_date": "2026-06-30T12:18:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "ADIUC: \"We do not believe anything in this government, it has been breaking the law for 7 months\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/empresas-y-protagonistas/naturgy-se-ubico-entre-las-companias-energeticas-mejor-valoradas-en-sostenibilidad.phtml",
-      "published_date": "2026-06-26T12:00:00Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/cordoba/adiuc-no-le-creemos-nada-a-este-gobierno-hace-7-meses-que-incumple-la-ley.phtml",
+      "published_date": "2026-06-30T12:15:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Captured 60 million stars in one day: this is the most detailed image of the heart of the Milky Way",
+      "title": "“Green gold”: more than 600,000 kilos of a highly coveted condiment have already been exported",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/capturo-60-millones-de-estrellas-en-un-dia-asi-es-la-imagen-mas-detallada-del-corazon-de-la-via-nid26062026/",
-      "published_date": "2026-06-26T11:52:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The dollar moved up again",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/29/el-dolar-se-volvio-a-mover-hacia-arriba/",
-      "published_date": "2026-06-29T23:43:18Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/oro-verde-ya-se-exportaron-mas-de-600000-kilos-de-un-producto-muy-codiciado-nid27062026/",
+      "published_date": "2026-06-30T12:12:40Z",
       "category": "Economy"
     },
     {
-      "title": "Meeting with Karina Milei: another edition of Meat Week in the United States is already being prepared",
+      "title": "Gabriel Rolón, psychologist: “It will always cost, if it is really worth it; if something is really important to you, the price is going to be high”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/reunion-con-karina-milei-ya-se-prepara-otra-edicion-de-la-semana-de-la-carne-en-estados-unidos-nid29062026/",
-      "published_date": "2026-06-29T23:37:26Z",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-siempre-va-a-costar-si-vale-de-verdad-si-algo-es-realmente-importante-para-nid30062026/",
+      "published_date": "2026-06-30T12:04:23Z",
       "category": "Economy"
     },
     {
-      "title": "The Mexican Stock Exchange resumed operations after a failure that paralyzed the market for hours",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-bolsa-mexicana-reanuda-operaciones-tras-horas-de-suspension.phtml",
-      "published_date": "2026-06-29T23:09:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "An agricultural giant asked for more time in its bankruptcy proceedings and is analyzing the entry of investors or an eventual sale",
+      "title": "Arthur Brooks, Harvard professor: “To be happy, you have to have useless friends”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/los-grobo-agropecuaria-pidio-mas-plazo-en-su-concurso-de-acreedores-y-analiza-el-ingreso-de-nid29062026/",
-      "published_date": "2026-06-29T23:06:28Z",
+      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-para-ser-felices-hay-que-tener-amigos-inutiles-nid29062026/",
+      "published_date": "2026-06-30T12:03:05Z",
       "category": "Economy"
     },
     {
-      "title": "Indebted and without formal work",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/29/endeudados-y-sin-trabajo-formal/",
-      "published_date": "2026-06-29T23:05:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fernet Country: 70/30",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/06/29/pais-fernet-7030/",
-      "published_date": "2026-06-29T23:02:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Import of essential goods",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/29/importacion-de-bienes-esenciales/",
-      "published_date": "2026-06-29T22:32:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Exemptions for fintech and crypto",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/29/exenciones-para-fintech-y-cripto/",
-      "published_date": "2026-06-29T22:16:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "They call the children of Lázaro Báez for an investigative statement for aggravated tax evasion and advance on his undeclared accounts in the Bahamas",
+      "title": "Dollar today: how much the official price and its different exchange rates are quoted this Tuesday, June 30",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/llaman-declaracion-indagatoria-hijos-lazaro-baez-evasion-fiscal-agravada-avanzan-cuentas-declaradas-bahamas_0_XgjBGUxl37.html",
-      "published_date": "2026-06-29T22:13:28Z",
+      "url": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-30-junio_0_JmfTtEbXbx.html",
+      "published_date": "2026-06-30T12:00:01Z",
       "category": "Economy"
     },
     {
-      "title": "Javier Milei assured that the markets “are seeing” that he will be re-elected and ruled out a speculative attack in 2027",
+      "title": "Watch Canal E live!: all the economic information",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/javier-milei-aseguro-que-los-mercados-estan-viendo-que-sera-reelecto-y-descarto-un-ataque-especulativo-en-2027.phtml",
-      "published_date": "2026-06-29T22:10:00Z",
+      "url": "https://www.perfil.com/noticias/canal-e/mira-canal-e-en-vivo-toda-la-informacion-economica-de-la-argentina-y-el-mundo.phtml",
+      "published_date": "2026-06-30T11:55:00Z",
       "category": "Economy"
     },
     {
-      "title": "Pablo Das Neves: \"The key for Argentina to receive investments is tied to the removal of exchange controls\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/pablo-das-neves-la-clave-para-que-la-argentina-reciba-inversiones-esta-atada-a-que-se-quiten-los-controles-cambiarios.phtml",
-      "published_date": "2026-06-29T22:08:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Country Risk closes the day at 431 basis points and consolidates its stability at its lowest levels since 2018",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-cierra-la-jornada-en-431-puntos-basicos-y-consolida-su-estabilidad-en-minimos-desde-2018-a35.phtml",
-      "published_date": "2026-06-29T22:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "After weeks of negotiation, there was an agreement in the oil producers' joint agreement: the initial salary will reach $2.7 million",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/tras-semanas-de-negociacion-hubo-acuerdo-en-la-paritaria-de-los-aceiteros-a40.phtml",
-      "published_date": "2026-06-29T22:02:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The role of banks in the local mining investment chain",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/el-rol-de-los-bancos-en-la-cadena-de-inversion-minera-local/",
-      "published_date": "2026-06-29T22:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Agriculture, among the winners of the model",
+      "title": "Blue dollar, dollar today: how much they are trading at on Tuesday, June 30, 2026",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/06/29/el-agro-entre-los-ganadores-del-modelo/",
-      "published_date": "2026-06-29T21:57:11Z",
+      "url": "https://www.pagina12.com.ar/2026/06/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-martes-30-de-junio-de-2026/",
+      "published_date": "2026-06-30T11:48:06Z",
       "category": "Economy"
     },
     {
-      "title": "What the triangles on plastic packaging mean and why it is important to know",
+      "title": "Amid the strong growth of beef exports, they confirm a new trade mission to the United States",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/rural/medio-fuerte-crecimiento-exportaciones-carne-vacuna-confirman-nueva-mision-comercial-estados-unidos_0_Ncnun80uUc.html",
+      "published_date": "2026-06-30T11:42:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A union closed a record joint venture and will take the starting salary to almost $2.6 million in July 2026",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/un-gremio-cerro-paritaria-record-y-llevara-el-salario-inicial-a-casi-26-millones-en-julio-2026-a40.phtml",
+      "published_date": "2026-06-30T11:38:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Diego Santilli takes office today as Chief of Staff; Morocco eliminated the Netherlands on penalties",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/que-significan-los-triangulos-en-los-envases-plasticos-y-por-que-es-importante-saberlo-nid26062026/",
-      "published_date": "2026-06-29T21:34:04Z",
+      "url": "https://www.lanacion.com.ar/sociedad/diego-santilli-asume-hoy-como-jefe-de-gabinete-marruecos-elimino-a-paises-bajos-por-penales-nid30062026/",
+      "published_date": "2026-06-30T11:30:43Z",
       "category": "Economy"
     },
     {
-      "title": "“Red gold”: Argentina bets on a market where the giants are left out",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-hora-del-oro-rojo-argentina-busca-un-mercado-donde-los-gigantes-se-quedan-afuera/",
-      "published_date": "2026-06-29T21:21:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The oil joint venture was closed: what will the new salary be and how a national strike was avoided",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/se-cerro-la-paritaria-aceitera-cual-sera-el-nuevo-salario-y-como-se-evito-un-paro-nacional/",
-      "published_date": "2026-06-29T21:19:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Julio Gambina: \"Not only is there no self-criticism, but Javier Milei insisted on Adorni's innocence\"",
+      "title": "INTI salary scale: the basic salaries set for industrial technology personnel in June",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/julio-gambina-no-solo-no-hay-autocritica-sino-que-javier-milei-insistio-en-la-inocencia-de-adorni.phtml",
-      "published_date": "2026-06-29T21:17:49Z",
+      "url": "https://www.perfil.com/noticias/economia/escala-salarial-inti-sueldos-basicos-fijados-personal-tecnologia-industrial-junio-a35.phtml",
+      "published_date": "2026-06-30T10:46:00Z",
       "category": "Economy"
     },
     {
-      "title": "Dollar, inflation and reserves: what the market expects for the second half",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/dolar-inflacion-y-reservas-que-espera-el-mercado-para-el-segundo-semestre.phtml",
-      "published_date": "2026-06-29T21:10:05Z",
+      "title": "Blow to workers in California: Los Angeles postpones salary increases for certain jobs",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/golpe-a-trabajadores-en-california-los-angeles-posterga-el-aumento-de-salario-para-ciertos-empleos-nid30062026/",
+      "published_date": "2026-06-30T10:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Change on the 'podium' of the field: the company that displaced Cargill from leadership",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/cambio-en-el-podio-del-agro-la-empresa-que-desplazo-a-cargill-del-liderazgo/",
+      "published_date": "2026-06-30T10:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Parity with increase: how much do domestic workers earn in July 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-empleadas-domesticas-en-julio-2026-nid30062026/",
+      "published_date": "2026-06-30T10:28:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "They closed a new joint venture: how much do bank employees earn from June 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/cerraron-nueva-paritaria-cuanto-cobran-los-empleados-bancarios-a-partir-de-junio-de-2026-nid22062026/",
+      "published_date": "2026-06-30T10:28:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "PNC de la Anses: what is the amount of Non-Contributory Pensions in July 2026, with the confirmed increase",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/pnc-de-la-anses-cual-es-el-monto-de-las-pensiones-no-contributivas-en-julio-de-2026-con-el-aumento-nid22062026/",
+      "published_date": "2026-06-30T10:28:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Until when can the June 2026 bonus be paid?",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-junio-2026-en-la-argentina-nid17062026/",
+      "published_date": "2026-06-30T10:27:53Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Gabriel Rolón, psychologist: “It is valid to recognize happy moments from the past, but what was is already lost”",
+      "title": "World Cup 2026: four Argentines arrested for sneaking onto the field to watch the team",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-es-valido-reconocer-momentos-felices-del-pasado-pero-lo-que-fue-ya-esta-nid24062026/",
-      "published_date": "2026-06-30T00:07:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/mundial-2026-arrestan-a-cuatro-argentinos-por-colarse-en-la-cancha-para-ver-a-la-seleccion-nid30062026/",
+      "published_date": "2026-06-30T12:57:16Z",
       "category": "Local Events"
     },
     {
-      "title": "The penalty shootout between Paraguay and Germany, with goalkeeper Gill as a hero in the 2026 World Cup",
+      "title": "Ivory Coast vs. Norway, LIVE for the 2026 World Cup: time, TV and formations",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-definicion-por-penales-entre-paraguay-y-alemania-con-el-arquero-gill-como-heroe-en-el-mundial-nid29062026/",
-      "published_date": "2026-06-30T00:05:41Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/costa-de-marfil-vs-noruega-en-vivo-por-el-mundial-2026-nid30062026/",
+      "published_date": "2026-06-30T12:54:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Schedules of all the round of 16 matches and how to watch each game online",
+      "title": "How to reserve a username on WhatsApp: the new functionality with a focus on privacy",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-todos-los-partidos-de-16vos-de-final-y-como-ver-online-cada-juego-nid29062026/",
-      "published_date": "2026-06-30T00:01:27Z",
+      "url": "https://www.lanacion.com.ar/tecnologia/como-reservar-un-nombre-de-usuario-en-whatsapp-la-nueva-funcionalidad-con-foco-en-la-privacidad-nid30062026/",
+      "published_date": "2026-06-30T12:53:44Z",
       "category": "Local Events"
     },
     {
-      "title": "The far-right Keiko Fujimori was confirmed as president of Peru",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/06/30/la-ultraderechista-keiko-fujimori-fue-confirmada-como-presidenta-de-peru/",
-      "published_date": "2026-06-30T00:01:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surprise in New York: Mamdani jumped into the pool in a suit and left everyone speechless",
+      "title": "Pico Lopes, the Cape Verde strongman who was summoned through an unusual contact and almost ignored",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/sorpresa-en-nueva-york-mamdani-se-tiro-a-la-piscina-en-traje-y-dejo-a-todos-boquiabiertos-nid29062026/",
-      "published_date": "2026-06-30T00:01:00Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/pico-lopes-el-hombre-fuerte-de-cabo-verde-al-que-convocaron-mediante-un-contacto-inusual-y-casi-lo-nid30062026/",
+      "published_date": "2026-06-30T12:53:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Result of Paraguay vs. Germany: who won the 2026 World Cup match",
+      "title": "Guillermo Francos referred to the appointment of Santilli as Chief of Staff and said: “I don't know if Adorni was suitable”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-paraguay-con-alemania-y-por-donde-se-puede-ver-online-nid29062026/",
-      "published_date": "2026-06-29T23:58:47Z",
+      "url": "https://www.lanacion.com.ar/politica/guillermo-francos-se-refirio-a-la-designacion-de-santilli-como-jefe-de-gabinete-y-dijo-no-se-si-nid30062026/",
+      "published_date": "2026-06-30T12:53:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Solana Sierra: “Wimbledon for me is the best Grand Slam”",
+      "title": "Eckhart Tolle, author of the bestseller The Power of Now: “The present moment is all one has; therefore, we must make the Now the primary focus of life”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/solana-sierra-wimbledon-para-mi-es-el-mejor-grand-slam-nid29062026/",
-      "published_date": "2026-06-29T23:58:43Z",
+      "url": "https://www.lanacion.com.ar/sociedad/eckhart-tolle-autor-del-bestseller-el-poder-del-ahora-el-momento-presente-es-todo-lo-que-uno-tiene-nid30062026/",
+      "published_date": "2026-06-30T12:50:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Joseph Pilates, creator of the training method: “We are architects of our lives; happiness is subordinated to physical well-being above the social or economic level”",
+      "title": "US time of today's matches in the 2026 World Cup and who plays 16th this Tuesday, June 30",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-somos-arquitectos-de-nuestra-vida-la-felicidad-nid26062026/",
-      "published_date": "2026-06-29T23:58:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/hora-de-eeuu-de-los-partidos-de-hoy-en-el-mundial-2026-y-quien-juega-16avos-este-martes-30-de-junio-nid30062026/",
+      "published_date": "2026-06-30T12:49:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Netherlands vs. Morocco, live for the 2026 World Cup: time, TV and formations",
+      "title": "This was the reaction of the German newspapers to the elimination of their team against Paraguay",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/paises-bajos-vs-marruecos-en-vivo-por-el-mundial-2026-nid29062026/",
-      "published_date": "2026-06-29T23:56:10Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-los-diarios-de-alemania-reaccionaron-a-la-eliminacion-de-su-seleccionado-ante-paraguay-nid30062026/",
+      "published_date": "2026-06-30T12:48:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Credit is resurfacing at a slow pace, although for the lagging sectors it is still a promise",
+      "title": "Bukele will seek a third consecutive term in 2027 in El Salvador after the constitutional reform",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/bukele-buscara-un-tercer-mandato-consecutivo-en-2027-en-el-salvador-tras-la-reforma-constitucional-nid30062026/",
+      "published_date": "2026-06-30T12:48:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Javier Milei and his measures, live: Diego Santilli takes over as the new Chief of Staff",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-diego-santilli-asume-como-nuevo-jefe-de-gabinete-nid30062026/",
+      "published_date": "2026-06-30T12:46:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is known about the situation in Venezuela after the earthquakes: rescues against the clock and the latest news of the catastrophe",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-situacion-en-venezuela-tras-los-sismos-nueva-replica-rescates-contrarreloj-y-las-nid29062026/",
+      "published_date": "2026-06-30T12:46:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "If they don't deposit the bonus today, until when can they pay me in 2026?",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/si-no-me-depositan-hoy-el-aguinaldo-hasta-cuando-me-lo-pueden-pagar-en-2026-nid30062026/",
+      "published_date": "2026-06-30T12:44:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Cup 2026, live: the 16th round matches continue, France and two South American teams play",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-siguen-los-cruces-por-16avos-juega-francia-y-dos-equipos-sudamericanos-nid30062026/",
+      "published_date": "2026-06-30T12:42:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A man who was on the run, accused of trying to stab his brother to death, fell in Lanús",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/cayo-en-lanus-un-hombre-que-estaba-profugo-acusado-de-intentar-matar-a-punaladas-a-su-hermano-nid30062026/",
+      "published_date": "2026-06-30T12:42:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A couple is charged with homicide after the death of their seven-year-old son, who weighed 116 kilos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/acusan-de-homicidio-a-una-pareja-tras-la-muerte-de-su-hijo-de-siete-anos-que-pesaba-116-kilos-nid30062026/",
+      "published_date": "2026-06-30T12:38:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICE news today in Dallas: they confirm operations for this Tuesday for the 16th of the 2026 World Cup in Texas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-del-ice-hoy-en-dallas-confirman-operativos-para-este-martes-por-los-16avos-del-mundial-2026-nid29062026/",
+      "published_date": "2026-06-30T12:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adrián Ravier will give his first press conference at Casa Rosada",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/el-credito-resurge-a-paso-lento-aunque-para-los-sectores-rezagados-aun-es-una-promesa/",
-      "published_date": "2026-06-29T23:54:41Z",
+      "url": "https://www.cronista.com/economia-politica/adrian-ravier-dara-su-primera-conferencia-de-prensa-en-casa-rosada/",
+      "published_date": "2026-06-30T12:37:01Z",
       "category": "Local Events"
     },
     {
-      "title": "A geologist explained in detail why the two consecutive earthquakes occurred in Venezuela and whether it can happen again",
+      "title": "Robbie Williams expressed his fanaticism for Lionel Messi during his show and sent him a message that went viral",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-geologo-explico-en-detalle-por-que-se-produjeron-los-dos-terremotos-consecutivos-en-venezuela-y-nid25062026/",
-      "published_date": "2026-06-29T23:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The director of the National Weather Service resigns after six months of adjustments and layoffs",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/06/29/renuncio-el-director-del-servicio-meteorologico-nacional-despues-de-seis-meses-de-ajuste-y-despidos/",
-      "published_date": "2026-06-29T23:52:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "For the second time: the director of the National Meteorological Service resigned",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/por-segunda-vez-renuncia-el-director-del-servicio-meteorologico-nacional-nid29062026/",
-      "published_date": "2026-06-29T23:51:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gisela Gilges, life coach, on resilience: “It's not that it doesn't hurt you, it's not staying living where life hit you”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/gisela-gilges-life-coach-sobre-la-resiliencia-no-es-que-no-te-duela-es-no-quedarte-viviendo-donde-la-nid28062026/",
-      "published_date": "2026-06-29T23:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daniel López Rosetti, cardiologist: “We are not rational beings, we are emotional beings who reason”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-no-somos-seres-racionales-somos-seres-emocionales-que-razonan-nid26062026/",
-      "published_date": "2026-06-29T23:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatty liver: what is the most effective diet to treat it and the sweetener to avoid",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/higado-graso-cual-es-la-dieta-mas-eficaz-para-tratarlo-y-el-endulzante-que-hay-que-evitar-nid29062026/",
-      "published_date": "2026-06-29T23:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US time of today's matches in the 2026 World Cup and who plays 16th this Monday, June 29",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/hora-de-eeuu-de-los-partidos-de-hoy-en-el-mundial-2026-y-quien-juega-16avos-este-lunes-29-de-junio-nid29062026/",
-      "published_date": "2026-06-29T23:45:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "This is the 8th round table of the 2026 World Cup",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/asi-esta-el-cuadro-de-8vos-de-final-del-mundial-2026-nid29062026/",
-      "published_date": "2026-06-29T23:42:29Z",
+      "url": "https://www.lanacion.com.ar/deportes/robbie-williams-expreso-su-fanatismo-por-lionel-messi-durante-su-show-y-le-mando-un-mensaje-que-se-nid30062026/",
+      "published_date": "2026-06-30T12:36:43Z",
       "category": "Local Events"
     }
   ]
