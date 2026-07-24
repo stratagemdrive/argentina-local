@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T00:07:01Z",
+  "generated_at": "2026-07-24T12:13:32Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The secrets of Woods Staton, the brain of McDonald's in Argentina and the region",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/los-secretos-de-woods-staton-el-cerebro-de-mcdonalds-en-la-argentina-y-en-la-region-nid23072026/",
+      "published_date": "2026-07-24T11:40:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Griselda Siciliani referred to the global anti-Argentina campaign: “It sucks”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/griselda-siciliani-se-refirio-a-la-campana-mundial-anti-argentina-es-un-asco-nid23072026/",
+      "published_date": "2026-07-24T09:44:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bruno Gillot: the chef who changed the Argentine bakery with his sourdough and a Parisian touch",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/videos/bruno-gillot-el-chef-que-cambio-la-panaderia-argentina-con-su-masa-madre-y-un-toque-parisino-nid24072026/",
+      "published_date": "2026-07-24T09:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More problems for Rosalía: the transfers to the Movistar Arena were canceled and the controversy continues over her post about Argentina.",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/espectaculos/mas-problemas-para-rosalia-cancelaron-los-traslados-al-movistar-arena-y-sigue-creciendo-la-polemica-por-su-video-anti-argentina.phtml",
+      "published_date": "2026-07-24T01:02:16Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Otamendi published an emotional letter to say goodbye to the Argentine team: “It has been the greatest honor of my life”",
       "source": "La Nación",
@@ -123,32 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Setback for Rosalía for her anti-Argentina comment: a tribute in Córdoba was suspended",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/reves-para-rosalia-por-su-comentario-anti-argentina-suspendieron-un-homenaje-en-cordoba-nid23072026/",
-      "published_date": "2026-07-23T19:46:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Javier Milei travels to São Paulo to meet with Tarcísio de Freitas and support the candidacy of Flávio Bolsonaro",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/javier-milei-viaja-a-san-pablo-para-reunirse-con-tarcisio-de-freitas-y-respaldar-la-candidatura-de-flavio-bolsonaro.phtml",
-      "published_date": "2026-07-23T19:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina-Spain: open conclusion",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/23/argentina-espana-conclusion-abierta/",
-      "published_date": "2026-07-23T15:47:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope Leo XIV, closer to Argentina: they confirm that a Vatican advance party arrived in Buenos Aires",
+      "title": "Argentina joins a mega military exercise organized by the US along with 12 other countries in the region: the details",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-papa-leon-xiv-mas-cerca-de-la-argentina-confirman-que-una-avanzada-del-vaticano-llego-a-buenos-aires/",
-      "published_date": "2026-07-23T12:48:31Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/argentina-se-suma-a-un-mega-ejercicio-militar-organizado-por-eeuu-junto-a-otros-12-paises-de-la-region-los-detalles/",
+      "published_date": "2026-07-24T11:16:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US fighter that made history in Ukraine: how an F-16 shot down a Russian Su-35 for the first time",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/caza-estados-unidos-hizo-historia-ucrania-f-16-derribo-primera-vez-su-35-ruso_0_vIzEZgOJdb.html",
+      "published_date": "2026-07-24T10:46:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "The crossing of the Andes and the battle of Boyacá: the military milestone with which Simón Bolívar changed the history of the continent",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/efemerides/la-travesia-de-los-andes-y-la-batalla-de-boyaca-el-hito-militar-con-el-que-simon-bolivar-cambio-la-historia-del-continente-a50.phtml",
+      "published_date": "2026-07-24T10:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "This is how Mauro Icardi reacted after hearing that Nora Colosimo said that he was crying because China Suárez had a bad smell",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/asi-reacciono-mauro-icardi-tras-escuchar-que-nora-colosimo-dijo-que-el-lloraba-porque-la-china-nid23072026/",
+      "published_date": "2026-07-24T09:43:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump corners Iran: he will use frozen funds to pay for attacked ships and evaluates a \"massive\" military offensive",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/trump-acorrala-a-iran-usara-fondos-congelados-para-pagar-barcos-atacados-y-evalua-una-ofensiva-militar-masiva.phtml",
+      "published_date": "2026-07-24T02:46:26Z",
+      "category": "Military"
     },
     {
       "title": "Trade War: Trump imposes tariffs of between 10 and 12.5 percent on 60 economies",
@@ -256,39 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "A truce in the internal war: Bullrich and Villarruel met alone in the Senate",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/21/una-tregua-en-la-guerra-interna-bullrich-y-villarruel-se-reunieron-a-solas-en-el-senado/",
-      "published_date": "2026-07-22T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "USA: The border czar blamed the migrants who died in ICE operations for his own death",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/07/21/eeuu-el-zar-de-la-frontera-responsabilizo-a-los-migrantes-fallecidos-en-operativos-del-ice-por-su-propia-muerte/",
-      "published_date": "2026-07-21T22:53:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "From Al Pacino to Sylvester Stallone: ​​he is an actor, he is 26 years old and he amazes every time he steps into the shoes of a film icon",
+      "title": "The return of the star model of the nineties and why it became one of the most accessible on the market",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/de-al-pacino-a-sylvester-stallone-es-actor-tiene-26-anos-y-asombra-cada-vez-que-se-pone-en-la-piel-nid21072026/",
-      "published_date": "2026-07-21T22:06:50Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/autos/test-drive/volvio-un-recordado-auto-a-la-argentina-y-se-convirtio-en-uno-de-los-mas-accesibles-del-mercado-nid22072026/",
+      "published_date": "2026-07-24T10:36:01Z",
+      "category": "Energy"
     },
     {
-      "title": "Zelensky fired army chief after backing him in crisis that shook government and sparked protests",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/zelensky-echo-al-jefe-del-ejercito-despues-de-respaldarlo-en-una-crisis-que-sacudio-al-gobierno-y-nid21072026/",
-      "published_date": "2026-07-21T21:46:36Z",
-      "category": "Military"
+      "title": "While Vaca Muerta flies, oil suppliers sink",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/mientras-vuela-vaca-muerta-se-hunden-los-proveedores-del-petroleo/",
+      "published_date": "2026-07-24T09:00:01Z",
+      "category": "Energy"
     },
     {
-      "title": "The US attacked Iran again for the ninth consecutive night and Tehran warned of “a full-scale war”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/eeuu-volvio-a-atacar-a-iran-por-novena-noche-consecutiva-y-teheran-advirtio-sobre-una-guerra-a-gran-nid21072026/",
-      "published_date": "2026-07-21T21:23:00Z",
-      "category": "Military"
+      "title": "Pax Silica: the mysterious agreement between Milei and Trump, little information and many doubts about a nuclear reactor",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/pax-silica-el-misterioso-acuerdo-que-milei-firmo-con-trump-y-que-abre-preguntas-sobre-un-reactor-nuclear-nacional.phtml",
+      "published_date": "2026-07-24T08:30:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil once again exceeded US$100: more foreign currency for Argentina and more expensive credit",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-petroleo-volvio-a-superar-los-us100-mas-divisas-para-la-argentina-y-credito-mas-caro.phtml",
+      "published_date": "2026-07-24T08:30:00Z",
+      "category": "Energy"
     },
     {
       "title": "Trump considers launching a “massive attack” against Iran after days of military escalation",
@@ -403,171 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Federico Glustein warned about the rise in oil: “If there is no ceasefire, we will have a future barrel worth 100 or more”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/glustein-sobre-la-suba-del-petroleo-si-no-hay-un-alto-al-fuego-vamos-a-tener-un-barril-futuro-en-un-valor-de-100-o-mas-arriba.phtml",
-      "published_date": "2026-07-22T18:07:26Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Pampa Energía closes its synthetic rubber plant in Santa Fe",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/pampa-energia-cierra-su-planta-de-caucho-sintetico-en-santa-fe/",
-      "published_date": "2026-07-22T17:38:40Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil reached $95 after Trump's threats to escalate the conflict with Iran",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/el-petroleo-alcanzo-los-us-95-tras-las-amenazas-de-trump-de-intensificar-el-conflicto-con-iran/",
-      "published_date": "2026-07-22T14:38:42Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Amid Vaca Muerta's production records, the Government simplified the export of oil and its derivatives",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/en-medio-de-los-records-de-produccion-de-vaca-muerta-el-gobierno-simplifico-la-exportacion-de-petroleo-y-sus-derivados/",
-      "published_date": "2026-07-22T12:06:47Z",
-      "category": "Energy"
-    },
-    {
-      "title": "There are no goals and there is plenty of noise in politics and the economy",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/faltan-goles-y-sobra-ruido-en-politica-y-economia-nid23072026/",
-      "published_date": "2026-07-23T23:55:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“I have cows”: the surprising confession of Minister Luis Caputo at an award ceremony in La Rural",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/tengo-vacas-la-inesperada-confesion-del-ministro-luis-caputo-en-una-premiacion-en-la-rural-nid23072026/",
-      "published_date": "2026-07-23T23:39:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Doubts with May's disposable income, but they expect an improvement with the decline in inflation",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dudas-con-el-ingreso-disponible-de-mayo-pero-esperan-una-mejora-con-el-descenso-de-la-inflacion-nid23072026/",
-      "published_date": "2026-07-23T23:05:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The report that hits Milei: even its allied economists warn that the economy is not starting",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/23/el-informe-que-golpea-a-milei-hasta-sus-economistas-aliados-advierten-que-la-economia-no-arranca/",
-      "published_date": "2026-07-23T23:01:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ECB keeps rates unchanged to assess impact of war on inflation",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-bce-mantiene-tasas-sin-cambios-para-evaluar-impacto-de-la-guerra-en-la-inflacion.phtml",
-      "published_date": "2026-07-23T23:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Socrates, philosopher: “There is only one good, called knowledge, and one evil, called ignorance.”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/socrates-filosofo-solo-existe-un-bien-llamado-conocimiento-y-un-mal-llamado-ignorancia-nid23072026/",
-      "published_date": "2026-07-23T22:55:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Unpaid bills and false surplus",
+      "title": "Blue dollar, dollar today: how much they are trading at on Friday, July 24, June 2026",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/07/23/cuentas-impagas-y-falso-superavit/",
-      "published_date": "2026-07-23T22:54:45Z",
+      "url": "https://www.pagina12.com.ar/2026/07/24/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-24-de-julio-de-junio-de-2026/",
+      "published_date": "2026-07-24T11:58:13Z",
       "category": "Economy"
     },
     {
-      "title": "Great Britain: more than 100 millionaires ask the new government to pay more taxes",
+      "title": "Dollar today and dollar blue, LIVE: how much is the official price and what is the price of the parallel this Friday, July 24",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid24072026/",
+      "published_date": "2026-07-24T11:55:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Javier Milei and his measures, live: the “fiscal innocence 2” project and the proposals in Congress",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-proyecto-de-inocencia-fiscal-2-y-las-propuestas-en-al-congreso-nid24072026/",
+      "published_date": "2026-07-24T11:53:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Part of a motorcycle gang confessed and received heavy sentences for illicit association",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/parte-de-una-banda-de-motochorros-confeso-y-recibio-fuertes-condenas-por-asociacion-ilicita.phtml",
+      "published_date": "2026-07-24T11:42:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Javier Milei and his measures, LIVE: \"It is possible that the dollar will reach $1,800 in the coming months,\" predicted spokesperson Adrián Ravier",
       "source": "Clarín",
-      "url": "https://www.clarin.com/mundo/gran-bretana-100-millonarios-piden-nuevo-gobierno-pagar-impuestos_0_tcQIgt1SPW.html",
-      "published_date": "2026-07-23T22:50:45Z",
+      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-posible-dolar-llegue-1800-proximos-meses-vaticino-vocero-adrian-ravier_0_Rfy1h3S59h.html",
+      "published_date": "2026-07-24T11:35:41Z",
       "category": "Economy"
     },
     {
-      "title": "The new Fiscal Innocence project will be the priority of the ruling party in Deputies and they want to vote on it in August",
+      "title": "Fixed term: what is the interest rate bank by bank this Friday, July 24",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-24-de-julio-nid24072026/",
+      "published_date": "2026-07-24T11:05:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dollar today and dollar blue, LIVE: how much is the official trading at and what is the price of the parallel this Friday, July 24, minute by minute",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/nuevo-proyecto-inocencia-fiscal-prioridad-oficialismo-diputados-quieren-votarlo-agosto_0_xiEY8NWTiT.html",
-      "published_date": "2026-07-23T22:41:46Z",
+      "url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-viernes-24-julio-minuto-minuto_0_yJIgw6Nj2l.html",
+      "published_date": "2026-07-24T10:59:32Z",
       "category": "Economy"
     },
     {
-      "title": "Country Risk closed at 437 basis points in a day focused on sovereign bonds",
+      "title": "\"There will be no announcements on Sunday because we already made them two months ago\": Luis Caputo's definition before the event in La Rural",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-cerro-en-437-puntos-basicos-en-una-jornada-atenta-a-los-bonos-soberanos-a35.phtml",
-      "published_date": "2026-07-23T22:27:00Z",
+      "url": "https://www.perfil.com/noticias/cordoba/no-va-a-haber-anuncios-el-domingo-porque-ya-los-hicimos-hace-dos-meses-la-definicion-de-luis-caputo-antes-del-acto-en-la-rural.phtml",
+      "published_date": "2026-07-24T10:41:57Z",
       "category": "Economy"
     },
     {
-      "title": "India: “The Cockroaches” movement announces a protest against police brutality",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/07/23/india-el-movimiento-las-cucarachas-anuncia-una-protesta-contra-la-brutalidad-policial/",
-      "published_date": "2026-07-23T22:26:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La Libertad Avanza launches its own \"Day of Unity\", a date that reflects how Karina Milei won against Santiago Caputo",
+      "title": "How the new tariffs defined by the Trump government will affect Argentina: rate and products affected",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/la-libertad-avanza-estrena-su-propio-dia-de-la-unidad-una-fecha-que-refleja-como-se-reordeno-el-poder-dentro-del-oficialismo.phtml",
-      "published_date": "2026-07-23T22:25:00Z",
+      "url": "https://www.perfil.com/noticias/economia/como-afectaran-a-la-argentina-los-nuevos-aranceles-que-definio-trump-alicuota-y-productos-afectados-a40.phtml",
+      "published_date": "2026-07-24T10:37:54Z",
       "category": "Economy"
     },
     {
-      "title": "The economy dominates the campaign for the legislative elections in the United States and the Democrats show a slight advantage",
+      "title": "Biochemist salaries in July: the basic and additional ones set by the SAFYB union",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/la-economia-domina-la-campana-para-las-elecciones-legislativas-en-estados-unidos-y-los-democratas-muestran-una-leve-ventaja.phtml",
-      "published_date": "2026-07-23T22:20:00Z",
+      "url": "https://www.perfil.com/noticias/economia/sueldos-bioquimicos-julio-basicos-adicionales-fijo-sindicato-safyb-a35.phtml",
+      "published_date": "2026-07-24T10:21:00Z",
       "category": "Economy"
     },
     {
-      "title": "Bullrich agreed with Sturzenegger to unblock the project: what does the controversial article look like?",
+      "title": "The dollar in Córdoba: how much is it trading this Friday, July 24",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-24-de-julio-240726.phtml",
+      "published_date": "2026-07-24T10:12:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How much did the blue dollar open at today, Friday, July 24",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-abrio-el-dolar-blue-hoy-viernes-24-de-julio.phtml",
+      "published_date": "2026-07-24T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How much did the euro blue open at, today, Friday, July 24",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-abrio-el-euro-blue-hoy-viernes-24-de-julio.phtml",
+      "published_date": "2026-07-24T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Profits: the changes that Sturzenegger proposes in a key sector for activity and employment",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/bullrich-empuja-una-reunion-con-sturzenegger-para-ultimar-el-plan-de-accion-hacia-agosto-el-punto-clave/",
-      "published_date": "2026-07-23T22:13:44Z",
+      "url": "https://www.cronista.com/economia-politica/ganancias-los-cambios-que-propone-sturzenegger-en-un-sector-clave-para-la-actividad-y-empleo/",
+      "published_date": "2026-07-24T09:00:01Z",
       "category": "Economy"
     },
     {
-      "title": "Luis Caputo ruled out new announcements about retentions and cooled the expectations of the field before Milei's speech",
+      "title": "The deepening of the economic plan conditions Luis Caputo to meet the fiscal goal with the IMF",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/luis-caputo-descarto-nuevos-anuncios-sobre-retenciones-y-enfrio-las-expectativas-del-campo-antes-del-discurso-de-milei.phtml",
-      "published_date": "2026-07-23T22:10:00Z",
+      "url": "https://www.perfil.com/noticias/economia/la-profundizacion-del-plan-economico-autocondiciona-a-luis-caputo-para-cumplir-la-meta-fiscal-con-el-fmi-a40.phtml",
+      "published_date": "2026-07-24T08:30:00Z",
       "category": "Economy"
     },
     {
-      "title": "Maslatón: \"The dangers for savers who bank dollars are a direct consequence of the model promoted by Caputo\"",
+      "title": "Milei's electoral laboratory, between Moody's and the GBA",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/maslaton-los-peligros-para-el-ahorrista-que-bancarice-dolares-son-consecuencia-directa-del-modelo-impulsado-por-caputo.phtml",
-      "published_date": "2026-07-23T22:05:00Z",
+      "url": "https://www.perfil.com/noticias/opinion/el-laboratorio-electoral-de-milei-entre-moodys-y-el-gba.phtml",
+      "published_date": "2026-07-24T08:30:00Z",
       "category": "Economy"
     },
     {
-      "title": "The Government is preparing changes in mortgage loans: how the new scheme would work",
+      "title": "120 British millionaires ask the new government to pay more taxes: \"We can afford it\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/el-gobierno-evalua-cambios-para-impulsar-el-credito-hipotecario-con-nuevas-garantias-y-desregulacion-del-mercado-inmobiliario.phtml",
-      "published_date": "2026-07-23T21:58:50Z",
+      "url": "https://www.perfil.com/noticias/internacional/120-millonarios-britanicos-le-piden-al-nuevo-gobierno-pagar-mas-impuestos-podemos-permitirnoslo.phtml",
+      "published_date": "2026-07-24T04:30:50Z",
       "category": "Economy"
     },
     {
-      "title": "Parity: Commerce Employees agreed to a 5.7% increase and a $50,000 bonus",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/paritarias-empleados-de-comercio-acordaron-un-aumento-del-57-y-un-bono-de-50000-a40.phtml",
-      "published_date": "2026-07-23T21:56:38Z",
+      "title": "Partial rebound in real estate",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/07/23/repunte-parcial-en-inmuebles/",
+      "published_date": "2026-07-24T03:01:00Z",
       "category": "Economy"
     },
     {
-      "title": "Nicolai Tangen, the CEO who 'runs' Norway's economy, donated his 6,000 works of art",
+      "title": "“The Government uses income as an anti-inflationary anchor,” warned Matías Battista in “QR!”",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/protagonistas/nicolai-tangen-ceo-fondo-soberano-noruega-dona-sus-seis-mil-obras-de-arte.phtml",
-      "published_date": "2026-07-23T21:45:00Z",
+      "url": "https://www.perfil.com/noticias/canal-e/el-gobierno-usa-los-ingresos-como-ancla-antiinflacionaria-advirtio-matias-battista-en-qr.phtml",
+      "published_date": "2026-07-24T02:04:59Z",
       "category": "Economy"
     },
     {
-      "title": "AO29 bond: why the market is betting on a security that expires after the 2027 elections",
+      "title": "5,000 people signed up to fill 400 job positions offered by a fair in Buenos Aires",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/bono-ao29-por-que-el-mercado-apuesta-a-un-titulo-que-vence-despues-de-las-elecciones-de-2027.phtml",
-      "published_date": "2026-07-23T21:37:52Z",
+      "url": "https://www.perfil.com/noticias/sociedad/5000-personas-hicieron-fila-en-una-feria-de-buenos-aires-para-conseguir-trabajo.phtml",
+      "published_date": "2026-07-24T01:49:33Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Jorge Macri projects an agreement with La Libertad Avanza for 2027: “relations are good”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/24/jorge-macri-proyecta-un-acuerdo-con-la-libertad-avanza-para-2027-las-relaciones-son-buenas/",
-      "published_date": "2026-07-24T00:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Milei and his measures, live: union movements and repercussions of the World Cup",
+      "title": "Mario Boskis, longevity guru: “Chronic stress activates the release of cortisol and this process has multiple negative effects”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-sindicales-y-repercusiones-del-mundial-nid23072026/",
-      "published_date": "2026-07-24T00:00:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/mario-boskis-guru-en-longevidad-el-estres-cronico-activa-la-liberacion-de-cortisol-y-ese-proceso-nid24072026/",
+      "published_date": "2026-07-24T11:49:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Mouth vs. O'Higgins, live: minute by minute of the Copa Sudamericana match",
+      "title": "Arthur Brooks, Harvard professor: “The happiest people are those who never stop learning”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-ohiggins-en-vivo-nid23072026/",
-      "published_date": "2026-07-23T23:55:33Z",
+      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid24072026/",
+      "published_date": "2026-07-24T11:49:43Z",
       "category": "Local Events"
     },
     {
-      "title": "The run over of a man who threw himself on the tracks led to the discovery of the murder of a woman",
+      "title": "Friedrich Nietzsche, on the search for truth: “There are no facts, but interpretations”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/descubren-un-femicidio-a-partir-de-un-arrollamiento-en-merlo-que-interrumpio-el-servicio-del-tren-nid23072026/",
-      "published_date": "2026-07-23T23:52:52Z",
+      "url": "https://www.lanacion.com.ar/sociedad/friedrich-nietzsche-sobre-la-busqueda-de-la-verdad-no-hay-hechos-sino-interpretaciones-nid24072026/",
+      "published_date": "2026-07-24T11:49:40Z",
       "category": "Local Events"
     },
     {
-      "title": "María Elvira Salazar on the American Dream and Promise Act: “It is time for Congress to do its job”",
+      "title": "Tony Robbins, expert in personal growth: “The mind looks for what is wrong”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/maria-elvira-salazar-sobre-el-american-dream-and-promise-act-es-hora-que-el-congreso-haga-su-trabajo-nid23072026/",
-      "published_date": "2026-07-23T23:52:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/tony-robbins-experto-en-crecimiento-personal-la-mente-busca-lo-que-esta-mal-nid24072026/",
+      "published_date": "2026-07-24T11:49:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Justice granted Facundo Leal house arrest for his addiction problems",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/23/la-justicia-le-otorgo-arresto-domiciliario-a-facundo-leal-por-sus-problemas-de-adicciones/",
-      "published_date": "2026-07-23T23:49:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stabilization is necessary, but not sufficient",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/la-estabilizacion-es-necesaria-pero-no-suficiente/",
-      "published_date": "2026-07-23T23:43:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The USCIS expands its decision-making power over the green card: what happens to benefits for children and spouses",
+      "title": "Pilar Sordo: “You don't have to stop doing something out of fear, you have to do it with fear; it is a driving force, a stimulator”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-uscis-amplia-su-poder-de-decision-sobre-la-green-card-que-pasa-con-los-beneficios-de-hijos-y-nid23072026/",
-      "published_date": "2026-07-23T23:24:20Z",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-no-hay-que-dejar-de-hacer-algo-por-miedo-hay-que-hacerlo-con-miedo-es-un-motor-un-nid24072026/",
+      "published_date": "2026-07-24T11:49:34Z",
       "category": "Local Events"
     },
     {
-      "title": "The ex-boyfriend of Agostina Jalabert, an Argentine model murdered in Mexico, was arrested in the United States",
+      "title": "Joseph Pilates, creator of the training method: “We are architects of our lives; happiness is subordinated to physical well-being above the social or economic level”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/detuvieron-en-estados-unidos-al-principal-sospechoso-por-el-femicidio-de-agostina-jalabert-nid23072026/",
-      "published_date": "2026-07-23T23:16:51Z",
+      "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-somos-arquitectos-de-nuestra-vida-la-felicidad-nid23072026/",
+      "published_date": "2026-07-24T11:49:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Néstor Lorenzo renewed his contract as coach of the Colombian national team",
+      "title": "The intimacy of the National Team locker room, in the midst of the controversy over Messi's harangue and the drawing's sayings",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/nestor-lorenzo-renovo-su-contrato-como-dt-con-la-seleccion-colombia-nid23072026/",
-      "published_date": "2026-07-23T23:16:29Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-intimidad-del-vestuario-de-la-seleccion-en-medio-de-la-polemica-por-la-arenga-de-messi-y-los-nid23072026/",
+      "published_date": "2026-07-24T11:49:21Z",
       "category": "Local Events"
     },
     {
-      "title": "No new reduction in withholdings",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/07/23/sin-nueva-baja-de-retenciones/",
-      "published_date": "2026-07-23T23:16:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Sinclair, Harvard longevity expert: “We know that if you turn back the clock, diseases disappear”",
+      "title": "What is known about the crime of Facundo Rico, the Argentine murdered in Spain",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/david-sinclair-experto-en-longevidad-de-harvard-sabemos-que-si-se-retrasa-el-reloj-las-enfermedades-nid23072026/",
-      "published_date": "2026-07-23T23:13:00Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-del-crimen-de-facundo-rico-el-argentino-asesinado-en-espana-nid23072026/",
+      "published_date": "2026-07-24T11:49:14Z",
       "category": "Local Events"
     },
     {
-      "title": "The new days of all inclusive: between nature and personalized trips",
+      "title": "The “curious” common denominator in the publications of Leandro Paredes, Cuti Romero and Lautaro Martínez",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sabado/los-nuevos-dias-del-all-inclusive-entre-la-naturaleza-y-los-viajes-personalizados-nid23072026/",
-      "published_date": "2026-07-23T23:08:32Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-curioso-denominador-comun-en-las-publicaciones-de-leandro-paredes-cuti-romero-y-lautaro-martinez-nid21072026/",
+      "published_date": "2026-07-24T11:49:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Official in Florida: what is known about Messi's return to Inter Miami in 2026",
+      "title": "A “Super Niño” is advancing that will bring 48 hours of bad weather, high humidity, rain and a drastic change in temperature: the affected areas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/oficial-en-florida-que-se-sabe-sobre-el-regreso-de-messi-al-inter-miami-este-2026-nid23072026/",
-      "published_date": "2026-07-23T23:07:06Z",
+      "url": "https://www.lanacion.com.ar/sociedad/avanza-un-super-nino-que-traera-48-horas-de-mal-tiempo-elevada-humedad-lluvias-y-un-cambio-drastico-nid23072026/",
+      "published_date": "2026-07-24T11:49:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Nicolás Otamendi announced his retirement from the National Team with an emotional letter: \"It was the greatest privilege that football gave me\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/nicolas-otamendi-anuncio-retiro-seleccion-emotiva-carta-privilegio-grande-dio-futbol_0_EVz5QZqYrV.html",
-      "published_date": "2026-07-23T23:03:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Now or never: the clock is ticking for the Government and companies",
+      "title": "Lisandro Martínez's reflection after his defense about the World Cup final and the anti-Argentine campaign",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/ahora-o-nunca-el-reloj-corre-para-el-gobierno-y-las-empresas-nid23072026/",
-      "published_date": "2026-07-23T23:03:10Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-reflexion-de-lisandro-martinez-tras-su-descargo-sobre-la-final-del-mundial-y-la-campana-nid23072026/",
+      "published_date": "2026-07-24T11:48:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Megawork in Palermo: a diagnostic center was inaugurated to serve 870,000 people",
+      "title": "Enzo Fernández spoke after the World Cup final: “When time passes, you understand that there is something bigger than a result”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/megaobra-en-palermo-se-inauguro-un-centro-de-diagnostico-para-atender-a-870000-personas-nid23072026/",
-      "published_date": "2026-07-23T23:00:00Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/enzo-fernandez-hablo-tras-la-final-en-el-mundial-cuando-pasa-el-tiempo-entendes-que-hay-algo-mas-nid21072026/",
+      "published_date": "2026-07-24T11:48:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Marcelo “Daddy” D’Andrea, historic masseuse of the National Team: “They are all organized, but Lautaro Martínez is the extreme”",
+      "title": "Gisela Gilges, life coach, on resilience: “It's not that it doesn't hurt, it's not staying living where life hit you”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/marcelo-daddy-dandrea-historico-masajista-de-la-seleccion-son-todos-ordenaditos-pero-lautaro-nid23072026/",
-      "published_date": "2026-07-23T23:00:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/gisela-gilges-life-coach-sobre-la-resiliencia-no-es-que-no-te-duela-es-no-quedarte-viviendo-donde-la-nid20072026/",
+      "published_date": "2026-07-24T11:48:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilar Sordo: “We want to freeze moments; we are aware that everything happens”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-queremos-congelar-momentos-somos-conscientes-de-que-todo-pasa-nid22072026/",
+      "published_date": "2026-07-24T11:48:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “Happiness is excellent: it has a lot of us and a lot that is not ours”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-felicidad-es-eximia-tiene-mucho-de-nosotros-y-mucho-que-no-es-de-nosotros-nid22072026/",
+      "published_date": "2026-07-24T11:48:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giuliano Simeone spoke after losing the World Cup final: “Only forgiveness”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/giuliano-simeone-hablo-tras-perder-la-final-del-mundial-solo-perdon-nid22072026/",
+      "published_date": "2026-07-24T11:48:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The balance of Colo Barco, after its first World Cup, and a wish for the next: \"Thank you Argentina; sorry for not returning with the Cup\"",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-balance-del-colo-barco-tras-su-primer-mundial-y-un-deseo-para-el-proximo-gracias-argentina-perdon-nid22072026/",
+      "published_date": "2026-07-24T11:48:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychologists agree that Scaloni is the ideal leader model",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/los-psicologos-coinciden-en-que-scaloni-es-el-modelo-de-lider-ideal-nid21072026/",
+      "published_date": "2026-07-24T11:48:34Z",
       "category": "Local Events"
     }
   ]
