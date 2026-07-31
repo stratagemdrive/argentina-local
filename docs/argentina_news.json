@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:23:42Z",
+  "generated_at": "2026-07-31T00:09:23Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,125 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "The Argentine astronomer who uses “cosmic fossils” to discover the past of the Milky Way will receive an award for her contributions",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/ciencia/la-astronoma-argentina-que-usa-fosiles-cosmicos-para-descubrir-el-pasado-de-la-via-lactea.phtml",
+      "published_date": "2026-07-30T23:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese electric cars invade Argentina despite Milei's turn towards the United States",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-autos-electricos-chinos-invaden-argentina-pese-al-giro-pro-eeuu-de-milei.phtml",
+      "published_date": "2026-07-30T22:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula's response to Milei's insults and the uncertainty over the ambassador in Argentina",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/la-respuesta-de-lula-a-los-insultos-de-milei-y-la-incertidumbre-por-el-embajador-en-argentina/",
+      "published_date": "2026-07-30T22:26:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The dispute between Argentina and Brazil, a rivalry that is based on a false premise",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-disputa-entre-la-argentina-y-brasil-una-rivalidad-que-se-apoya-en-una-premisa-falsa-nid30072026/",
+      "published_date": "2026-07-30T21:46:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reform of the Central Bank: what the organic charters of other countries in the world say and what lessons they leave for Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/reforma-del-banco-central-que-dicen-las-cartas-organicas-de-otros-paises-del-mundo-y-que-lecciones-nid30072026/",
+      "published_date": "2026-07-30T21:36:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diego Raus analyzed the diplomatic crisis with Brazil: \"I don't think it will affect economic exchange\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/canal-e/diego-raus-la-tension-diplomatica-con-brasil-no-afectara-el-comercio.phtml",
+      "published_date": "2026-07-30T21:26:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paraguay summons the ambassador in Brasilia after Lula's abrupt statements about the Triple Alliance War",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/paraguay-convoca-al-embajador-en-brasilia-tras-las-abruptas-declaraciones-de-lula-sobre-la-guerra-de-nid30072026/",
+      "published_date": "2026-07-30T21:14:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The regional mirror of agriculture: why Argentina seeks to replicate the productive model of its neighbors",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/el-espejo-regional-del-agro-por-que-argentina-busca-replicar-el-modelo-productivo-de-sus-vecinos.phtml",
+      "published_date": "2026-07-30T20:57:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The arrival of Rafael Grossi to the UN General Secretariat becomes complicated after the first informal vote",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/se-complica-la-llegada-de-rafael-grossi-a-la-secretaria-general-de-la-onu-tras-la-primera-votacion-informal.phtml",
+      "published_date": "2026-07-30T20:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A libertarian lawyer says that Cristina Kirchner's appeal to the UN would have effects on the sentence",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/un-abogado-libertario-dice-que-el-recurso-de-cristina-kirchner-ante-la-onu-tendria-efectos-en-la-condena/",
+      "published_date": "2026-07-30T19:42:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Do not vote for foreignization",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/no-votar-la-extranjerizacion/",
+      "published_date": "2026-07-30T19:27:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "There is intelligent life after Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/hay-vida-inteligente-despues-de-milei/",
+      "published_date": "2026-07-30T19:14:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mercosur-EU: the second battle of the agreement begins and Argentina has much more at stake than a reduction in tariffs",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/mercosur-ue-empieza-la-segunda-batalla-del-acuerdo-y-la-argentina-se-juega-mucho-mas-que-una-baja-de-aranceles/",
+      "published_date": "2026-07-30T19:06:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula Da Silva enabled the return of his ambassador but clarified that “no one from outside is going to poke their nose”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/lula-da-silva-habilito-el-regreso-de-su-embajador-pero-aclaro-que-nadie-de-afuera-va-a-meter-las-narices/",
+      "published_date": "2026-07-30T16:15:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“I'm not going to get into an exchange of words with that thing”: Lula pointed out Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/no-voy-a-entrar-en-un-intercambio-de-palabras-con-esa-cosa-lula-le-apunto-a-milei/",
+      "published_date": "2026-07-30T15:23:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain on alert due to the massive passage of migrants from Morocco to Ceuta",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/07/30/espana-en-alerta-por-el-masivo-paso-de-migrantes-de-marruecos-a-ceuta/",
+      "published_date": "2026-07-30T14:51:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Flybondi in the Government's sights: it must present an action plan and could have its entire fleet immobilized",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/flybondi-en-la-mira-del-gobierno-debe-presentar-un-plan-de-accion-y-podria-tener-toda-su-flota-inmovilizada/",
+      "published_date": "2026-07-30T14:06:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Argentina reached 74.6% of secondary completion, but was fifth in Latin America",
       "source": "Perfil",
@@ -32,123 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "When they should force you to stop driving and what the Argentine law says",
+      "title": "Migratory avalanche: this was in images the massive entry of thousands of Moroccans into Ceuta",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/avalancha-migratoria-imagenes-entrada-masiva-miles-marroquies-ceuta_0_NF8I3Gk2aB.html",
+      "published_date": "2026-07-30T23:49:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hard crossing for the war of the Triple Alliance",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/07/30/duro-cruce-por-la-guerra-de-la-triple-alianza/",
+      "published_date": "2026-07-30T23:44:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "Asunción Martínez, first corporal of the Army, after 26 years of service: “My children are proud and my daughter wants to join as an officer”",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/asuncion-martinez-cabo-primera-ejercito-26-anos-servicio-hijos-orgullosos-hija-quiere-ingresar-oficial_0_o7xjNPMpKo.html",
+      "published_date": "2026-07-30T23:00:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sun Tzu, philosopher: “Appear weak when you are strong... and strong when you are weak”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/cuando-deberian-obligarte-a-dejar-de-manejar-y-que-dice-la-ley-argentina-nid29072026/",
-      "published_date": "2026-07-30T09:34:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/lifestyle/sun-tzu-filosofo-aparenta-ser-debil-cuando-seas-fuerte-y-fuerte-cuando-seas-debil-nid30072026/",
+      "published_date": "2026-07-30T23:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Chronic pain, anxiety and insomnia: the new map of medicinal cannabis in Argentina",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/sociedad/dolor-cronico-ansiedad-e-insomnio-el-nuevo-mapa-del-cannabis-medicinal-en-argentina.phtml",
-      "published_date": "2026-07-30T09:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ford will reduce Ranger production due to a drop in regional demand",
+      "title": "The Spanish government mobilizes the Army to try to contain the migration crisis in Ceuta",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/ford-disminuira-la-produccion-de-la-ranger-por-una-caida-de-la-demanda-regional-nid29072026/",
-      "published_date": "2026-07-30T09:29:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Government will prohibit entry into the country of foreigners who “express messages of hate” against Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-prohibira-el-ingreso-al-pais-a-extranjeros-que-expresen-mensajes-de-odio-contra-nid30072026/",
-      "published_date": "2026-07-30T06:54:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cristina Kirchner and her appeal to the UN to end the ban",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/30/cfk-y-su-recurso-ante-la-onu-para-poner-fin-a-la-proscripcion/",
-      "published_date": "2026-07-30T03:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei continues with her regional tour and plans a “blue summit” in the country",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/30/milei-sigue-con-su-gira-regional-y-planea-una-cumbre-azul-en-el-pais/",
-      "published_date": "2026-07-30T03:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"The reality is very crude\": Hernán Letcher warned about the growth of over-indebtedness in Argentina in \"QR!\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/la-realidad-es-muy-cruda-hernan-letcher-alerto-por-el-crecimiento-del-sobreendeudamiento-en-la-argentina-en-qr.phtml",
-      "published_date": "2026-07-30T02:02:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Something is going to have to move,\" Irina Hauser's look in \"QR!\" about Cristina Kirchner's presentation to the UN",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/qr-2.phtml",
-      "published_date": "2026-07-30T02:00:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quirno, Caputo and Karina Milei prepare a trip to China to move forward with trade agreements",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/quirno-caputo-y-karina-milei-preparan-un-viaje-a-china-para-avanzar-con-acuerdos-comerciales.phtml",
-      "published_date": "2026-07-30T01:01:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Leila Guerriero won the prestigious Maria Moors Cabot Award for transforming \"the craft of narrative journalism in Spanish\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/sociedad/leila-guerriero-gano-el-prestigioso-premio-maria-moors-cabot-por-transformar-el-oficio-del-periodismo-narrativo-en-espanol.phtml",
-      "published_date": "2026-07-30T00:35:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "After an operation, the United States Embassy ruled out the presence of an explosive device",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/importante-operativo-por-una-amenaza-de-bomba-en-la-embajada-de-estados-unidos-nid29072026/",
-      "published_date": "2026-07-29T23:39:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cristina's move strains Peronism and seeks to place her at the negotiating table for 2027",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-jugada-de-cristina-tensiona-al-peronismo-y-busca-ubicarla-en-la-mesa-de-negociaciones-para-2027-nid29072026/",
-      "published_date": "2026-07-29T23:38:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "An offensive aligned with the “Donroe doctrine”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/una-ofensiva-alineada-con-la-doctrina-donroe-nid29072026/",
-      "published_date": "2026-07-29T23:34:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Own use and breeder's rights: Upov explained the hottest points of possible accession to an international treaty for seeds",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/uso-propio-y-derechos-del-obtentor-upov-explico-los-puntos-mas-calientes-de-la-posible-adhesion-a-un-nid29072026/",
-      "published_date": "2026-07-29T22:16:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The IMF and the Middle East war: Argentina has what the world needs",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/el-fmi-y-la-guerra-de-medio-oriente-la-argentina-tiene-lo-que-el-mundo-necesita/",
-      "published_date": "2026-07-29T22:15:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The prostitution and drug scandal involving Slavko Vinčić, the referee of the Argentina vs. final. Spain that has just withdrawn",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/el-escandalo-de-prostitucion-y-drogas-que-involucro-a-slavko-vincic-el-arbitro-de-la-final-argentina-nid27072026/",
-      "published_date": "2026-07-29T22:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How old will each player on the Argentine national team be in the next 2030 World Cup?",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/cuantos-anos-va-a-tener-cada-jugador-de-la-seleccion-argentina-en-el-proximo-mundial-2030-nid27072026/",
-      "published_date": "2026-07-29T22:14:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/el-mundo/el-gobierno-espanol-moviliza-al-ejercito-para-intentar-contener-la-crisis-migratoria-en-ceuta-nid30072026/",
+      "published_date": "2026-07-30T22:01:48Z",
+      "category": "Military"
     },
     {
       "title": "The Government gave details of the operation to rescue the bodies after the helicopter fell in San Juan",
@@ -256,39 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "The complete letter from Cristina Kirchner",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/29/la-carta-completa-de-cristina-kirchner/",
-      "published_date": "2026-07-29T11:15:14Z",
-      "category": "Military"
+      "title": "Private sector external debt rises",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/07/30/sube-la-deuda-externa-del-sector-privado/",
+      "published_date": "2026-07-30T22:51:43Z",
+      "category": "Energy"
     },
     {
-      "title": "The birth of NASA: the signature with which Eisenhower began the era of civil space exploration",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/efemerides/elnacimiento-de-la-nasa-la-firma-con-la-que-eisenhower-dio-inicio-a-la-era-de-la-exploracion-espacial-civil-a50.phtml",
-      "published_date": "2026-07-29T10:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Protests in defense of the Argentine scientific system",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/29/protestas-en-defensa-del-sistema-cientifico-argentino/",
-      "published_date": "2026-07-29T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "La Libertad Avanza crossed the PRO in the middle of negotiations for an alliance in the City",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/la-libertad-avanza-cruzo-al-pro-en-medio-de-las-negociaciones-por-una-alianza-en-la-ciudad.phtml",
-      "published_date": "2026-07-29T01:56:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "The death flight circuit",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/07/28/el-circuito-de-los-vuelos-de-la-muerte/",
-      "published_date": "2026-07-28T23:14:26Z",
-      "category": "Military"
+      "title": "YPF, Vista and Pampa Energía: how oil price volatility impacts the main Argentine energy stocks",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/ypf-vista-y-pampa-energia-como-impacta-la-volatilidad-del-precio-del-petroleo-en-las-principales-nid30072026/",
+      "published_date": "2026-07-30T21:51:18Z",
+      "category": "Energy"
     },
     {
       "title": "Black tide on the markets",
@@ -417,157 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Total solar eclipse: can it be seen in Argentina?",
+      "title": "Milei accused Cristina Kirchner of having stolen “10,000 million dollars” with the Central Bank",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ciencia/eclipse-solar-total-se-podra-ver-en-la-argentina-nid28072026/",
-      "published_date": "2026-07-28T11:26:31Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Tesla and a landing in stages in Argentina",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/economia/tesla-desembarco-etapas-argentina_0_JP240NQLpg.html",
-      "published_date": "2026-07-28T11:03:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Dollar today and dollar blue, LIVE: how much is the official trading at and what is the price of the parallel this Thursday, July 30, minute by minute",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30072026/",
-      "published_date": "2026-07-30T12:17:39Z",
+      "url": "https://www.lanacion.com.ar/politica/milei-apunto-contra-cristina-kirchner-en-la-cadena-nacional-les-robo-10000-millones-de-dolares-a-los-nid30072026/",
+      "published_date": "2026-07-31T00:04:05Z",
       "category": "Economy"
     },
     {
-      "title": "Javier Milei speaks on national television, LIVE: he presents the reform of the Central Bank today",
+      "title": "Milei will send to Congress a project to reform the organic charter of the Central",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-cadena-nacional-sobre-la-reforma-del-banco-central-y-la-nid30072026/",
-      "published_date": "2026-07-30T12:14:40Z",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-presenta-la-reforma-de-la-carta-organica-del-blanco-central-por-cadena-nacional-nid30072026/",
+      "published_date": "2026-07-31T00:03:07Z",
       "category": "Economy"
     },
     {
-      "title": "Milei announces today the reform of the Central Bank: what is the organic charter and the warnings from analysts",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/milei-anunciara-la-reforma-del-banco-central-que-es-la-carta-organica-y-las-advertencias-de-los-analistas.phtml",
-      "published_date": "2026-07-30T11:55:00Z",
+      "title": "The details of the reforms that Milei announced to protect its economic plan",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/los-detalles-de-las-reformas-que-anuncio-milei-para-blindar-su-plan-economico-nid30072026/",
+      "published_date": "2026-07-31T00:02:54Z",
       "category": "Economy"
     },
     {
-      "title": "Blue dollar, dollar today: how much they are trading at on Thursday, July 30, June 2026",
+      "title": "The backroom of the national channel: the tone that Milei wanted to give it, an essay with Caputo and staging against “high politics”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-trastienda-de-la-cadena-nacional-el-tono-que-le-quiso-imprimir-milei-ensayo-con-caputo-y-puesta-nid30072026/",
+      "published_date": "2026-07-31T00:02:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Milei's national chain completes with the one that presented the reform of the Central Bank",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/07/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-30-de-julio-de-junio-de-2026/",
-      "published_date": "2026-07-30T11:50:00Z",
+      "url": "https://www.pagina12.com.ar/2026/07/30/la-cadena-nacional-de-milei-completa-con-la-que-presento-la-reforma-del-banco-central/",
+      "published_date": "2026-07-30T23:57:16Z",
       "category": "Economy"
     },
     {
-      "title": "An “under 30” entrepreneur created a $10 million fund to bring startups to Silicon Valley",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/un-empresario-sub-30-creo-un-fondo-de-us-10-millones-para-llevar-startups-a-silicon-valley/",
-      "published_date": "2026-07-30T11:25:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Frigorífico Bustos y Beltrán achieves authorization to export to China and plans to triple its external sales",
+      "title": "Country Risk drops to 441 points amid international volatility",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/el-frigorifico-bustos-y-beltran-logra-la-habilitacion-para-exportar-a-china-y-proyecta-triplicar-sus-ventas-externas.phtml",
-      "published_date": "2026-07-30T11:08:37Z",
+      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-baja-a-441-puntos-en-medio-de-la-volatilidad-internacional-a35.phtml",
+      "published_date": "2026-07-30T23:52:00Z",
       "category": "Economy"
     },
     {
-      "title": "A nutritionist detailed which alcoholic drink causes the most hangover and how color influences it",
+      "title": "Textile industry in crisis: employment had the largest year-on-year drop in recent years",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/industria-textil-en-crisis-el-empleo-tuvo-la-mayor-caida-interanual-de-los-ultimos-anos-a40.phtml",
+      "published_date": "2026-07-30T23:48:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "What is the “fiscal shackle”, the local adaptation that Javier Milei wants of a mechanism used in the United States",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-nutricionista-detallo-cual-es-la-bebida-alcoholica-que-causa-mas-resaca-y-como-influye-el-color-nid30072026/",
-      "published_date": "2026-07-30T11:03:05Z",
+      "url": "https://www.lanacion.com.ar/politica/que-es-el-grillete-fiscal-la-adaptacion-local-que-quiere-javier-milei-de-un-mecanismo-usado-en-nid30072026/",
+      "published_date": "2026-07-30T23:43:10Z",
       "category": "Economy"
     },
     {
-      "title": "Gabriel Rolón, psychologist: “There will always be a wound, an absence that is felt by your side and moves you with a memory”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-siempre-habra-una-herida-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid30072026/",
-      "published_date": "2026-07-30T11:03:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Psychology says that people change all the time, evolve, and depend on circumstance.",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-las-personas-cambian-todo-el-tiempo-evolucionan-y-dependen-de-la-nid30072026/",
-      "published_date": "2026-07-30T11:02:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Parkinson's: a specialist explained in detail what the first detectable symptom is",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/parkinson-un-especialista-explico-en-detalle-cual-es-el-primer-sintoma-detectable-nid28072026/",
-      "published_date": "2026-07-30T11:02:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Javier Milei and his measures, LIVE: the President will speak today on the national network to present the reform of the BCRA's charter",
+      "title": "Melconian, a surprise candidate and the scenario in which the red circle is played: a gray 2027, but without crisis",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-hablara-hoy-cadena-nacional-explicar-reforma-carta-organica-bcra_0_RovPL2XxQh.html",
-      "published_date": "2026-07-30T11:01:49Z",
+      "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html",
+      "published_date": "2026-07-30T23:42:27Z",
       "category": "Economy"
     },
     {
-      "title": "Shielding the autonomy of the BCRA and prohibiting issuance: the main axes of the project that Milei will present",
+      "title": "Javier Milei's complete speech on the reform of the Central Bank on national television",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-discurso-completo-de-javier-milei-sobre-la-reforma-al-banco-central-por-cadena-nacional-nid30072026/",
+      "published_date": "2026-07-30T23:42:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fiscal shackle: what is the budget “shutdown” project announced by Javier Milei like?",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/blindar-la-autonomia-del-bcra-y-prohibir-la-emision-los-ejes-principales-del-proyecto-que-presentara-milei-en-cadena-nacional/",
-      "published_date": "2026-07-30T10:54:02Z",
+      "url": "https://www.cronista.com/economia-politica/grillete-fiscal-como-es-el-proyecto-de-shutdown-presupuestario-que-anuncio-javier-milei/",
+      "published_date": "2026-07-30T23:38:13Z",
       "category": "Economy"
     },
     {
-      "title": "What is the Organic Charter of the Central Bank and why is Milei going to announce its reform on the national channel?",
+      "title": "Milei presented the reform of the organic charter of the Central Bank on national television",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/07/30/que-es-la-carta-organica-del-banco-central-y-por-que-milei-va-a-anunciar-su-reforma-por-cadena-nacional/",
-      "published_date": "2026-07-30T10:30:00Z",
+      "url": "https://www.pagina12.com.ar/2026/07/30/milei-presenta-la-reforma-del-banco-central-por-cadena-nacional/",
+      "published_date": "2026-07-30T23:34:21Z",
       "category": "Economy"
     },
     {
-      "title": "Gastronomic salary scale: how much hotel and gastronomy employees earn in July after the new agreement",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/escala-salarial-gastronomicos-cuanto-cobran-empleados-hoteleria-gastronomia-julio-nuevo-acuerdo-a35.phtml",
-      "published_date": "2026-07-30T10:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "How much did the blue dollar open at today, Thursday, July 30",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-abrio-el-dolar-blue-hoy-jueves-30-de-julio.phtml",
-      "published_date": "2026-07-30T10:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The dollar in Córdoba: how much is it trading at this Thursday, July 30",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-30-de-julio-300726.phtml",
-      "published_date": "2026-07-30T09:37:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“A cat's need to scratch is essential to its well-being and provides emotional, physical and social stability”",
+      "title": "The Central Bank is not enough with just one law",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/la-necesidad-de-un-gato-de-rascar-es-esencial-para-su-bienestar-y-proporciona-estabilidad-emocional-nid28072026/",
-      "published_date": "2026-07-30T09:33:06Z",
+      "url": "https://www.lanacion.com.ar/economia/al-banco-central-no-le-alcanza-solo-con-una-ley-nid30072026/",
+      "published_date": "2026-07-30T23:32:02Z",
       "category": "Economy"
     },
     {
-      "title": "Mario, Spanish tiktoker who lives in Australia: “I worked 371 hours and they paid me 8,000 dollars directly into my pocket”",
+      "title": "Javier Milei targeted Cristina Kirchner and Marcó del Pont when presenting the BCRA reform: \"They stole 10 billion dollars from the Central Bank\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/javier-milei-apunto-cristina-kirchner-marco-pont-presentar-reforma-bcra-robaron-banco-central-10-mil-millones-dolares_0_WsHCwIsyQD.html",
+      "published_date": "2026-07-30T23:30:31Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Formal employment deepened its decline and the minimum wage lost 40% of purchasing power",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-empleo-formal-profundizo-su-caida-y-el-salario-minimo-perdio-40-de-poder-adquisitivo-a40.phtml",
+      "published_date": "2026-07-30T23:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The full text of Javier Milei's advertisements on the National Network",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/texto-completo-declaraciones-javier-milei-cadena-nacional_0_6IVXVbBvlO.html",
+      "published_date": "2026-07-30T23:29:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Álvarez Agis: “Welcoming an IMF official with a smile is like welcoming firefighters with a party\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/alvarez-agis-recibir-con-una-sonrisa-a-un-funcionario-del-fmi-es-como-que-recibas-con-una-fiesta-a-los-bomberos.phtml",
+      "published_date": "2026-07-30T23:18:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Historic moment: almost 170,000 tons of a crop in high demand in the Middle East and Asia were exported",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mario-tiktoker-espanol-que-vive-en-australia-trabaje-371-horas-y-me-pagaron-8000-dolares-directos-a-nid30072026/",
-      "published_date": "2026-07-30T09:23:33Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/nuevo-oro-verde-se-exportaron-casi-170000-toneladas-de-un-cultivo-muy-demandado-en-medio-oriente-y-nid30072026/",
+      "published_date": "2026-07-30T23:17:45Z",
       "category": "Economy"
     },
     {
-      "title": "The emblematic building from 1900 in full conversion with apartments in which the square meter costs more than US$10,000",
+      "title": "Survey: 50% of Argentines say they no longer tolerate economic adjustment",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/encuesta-el-50-de-los-argentinos-dice-que-ya-no-tolera-mas-ajuste-economico.phtml",
+      "published_date": "2026-07-30T23:16:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Comings and goings: what were the other major reforms that the Central Bank had",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/el-emblematico-edificio-del-1900-que-tendra-departamentos-en-los-que-el-metro-cuadrado-cuesta-mas-de-nid30072026/",
-      "published_date": "2026-07-30T09:06:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Earnings: how to pay less and what expenses can be declared to alleviate the tax burden",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/ganancias-como-pagar-menos-y-que-gastos-se-pueden-declarar-para-aliviar-la-carga-fiscal/",
-      "published_date": "2026-07-30T09:00:01Z",
+      "url": "https://www.lanacion.com.ar/economia/idas-y-vueltas-cuales-fueron-las-otras-grandes-reformas-que-tuvo-el-banco-central-nid30072026/",
+      "published_date": "2026-07-30T23:15:23Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "What does the Indian proverb mean: “The tree does not eat its fruit, nor does the lake drink its water; the wise live for the benefit of others.”",
+      "title": "Sherrie Bourg Carter, psychologist: “If you don't use it, don't want it or don't need it, get rid of it”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/que-significa-el-proverbio-indio-el-arbol-no-come-su-fruto-ni-el-lago-bebe-su-agua-los-sabios-viven-nid28072026/",
-      "published_date": "2026-07-30T12:10:08Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/sherrie-bourg-carter-psicologa-si-no-lo-usas-no-lo-quieres-o-no-lo-necesitas-deshazte-de-ello-nid30072026/",
+      "published_date": "2026-07-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Illinois bans cell phones in schools with law SB 2427: what the rule signed by JB Pritzker says",
+      "title": "Crucial decision for Argentina and countries in the region in the face of the rise in sexually transmitted infections",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/illinois/illinois-prohibe-los-celulares-en-las-escuelas-con-la-ley-sb-2427-que-dice-la-norma-firmada-por-jb-nid30072026/",
-      "published_date": "2026-07-30T12:10:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/crucial-decision-para-la-argentina-y-paises-de-la-region-ante-la-suba-de-las-infecciones-de-nid30072026/",
+      "published_date": "2026-07-30T23:57:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Gabriel Rolón, psychologist: “Life becomes much brighter and much more attractive when one makes an effort”",
+      "title": "O'Higgins vs. Boca, live for the Copa Sudamericana: time, TV and formations",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-vida-se-vuelve-mucho-mas-luminosa-y-mucho-mas-atractiva-cuando-uno-se-nid29072026/",
-      "published_date": "2026-07-30T12:06:18Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/ohiggins-vs-boca-en-vivo-nid30072026/",
+      "published_date": "2026-07-30T23:54:52Z",
       "category": "Local Events"
     },
     {
-      "title": "They arrested the nurse at the Mar del Plata nursing home after attacking a woman: “Why don't you die once and for all”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/aprehendieron-al-enfermero-del-geriatrico-de-mar-del-plata-tras-agredir-a-una-mujer-por-que-no-te-nid30072026/",
-      "published_date": "2026-07-30T12:03:01Z",
+      "title": "“Milei's DNU leaves migrants in a much more vulnerable situation”",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/07/30/el-dnu-de-milei-deja-a-los-migrantes-en-una-situacion-mucho-mas-vulnerable/",
+      "published_date": "2026-07-30T23:53:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Anti-Argentina campaign: Milei will prohibit entry and expel foreigners who promote hatred against the country",
+      "title": "Who was the young woman from Córdoba who was found dead in Punta del Este",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/quien-era-la-joven-cordobesa-que-fue-hallada-muerta-en-punta-del-este-nid30072026/",
+      "published_date": "2026-07-30T23:52:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What time does Boca vs. play? O'Higgins and where they pass him",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-boca-vs-o-higgins-y-por-donde-lo-pasan-nid30072026/",
+      "published_date": "2026-07-30T23:51:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "And one day Milei discovered nationalism",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/y-un-dia-milei-descubrio-el-nacionalismo-nid30072026/",
+      "published_date": "2026-07-30T23:49:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The governor of New York reacted to the EPA's warning about how data centers would circumvent US laws",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/la-gobernadora-de-nueva-york-reacciono-a-la-advertencia-de-la-epa-sobre-como-los-centros-de-datos-nid30072026/",
+      "published_date": "2026-07-30T23:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From singing for coins in downtown to changing his life 180°: the story of the unemployed lyrical tenor who impressed everyone with his talent",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/de-cantar-por-monedas-en-microcentro-a-cambiar-su-vida-180-la-historia-del-tenor-lirico-desempleado-nid30072026/",
+      "published_date": "2026-07-30T23:44:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Villarruel crossed Milei again: “I am worried that he will repeat nonsense”",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/campana-antiargentina-milei-prohibira-el-ingreso-y-expulsara-a-extranjeros-que-promuevan-odio-contra-argentinos.phtml",
-      "published_date": "2026-07-30T11:55:56Z",
+      "url": "https://www.perfil.com/noticias/politica/villarruel-volvio-a-cruzar-a-milei-me-preocupa-que-replique-insensateces.phtml",
+      "published_date": "2026-07-30T23:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "A good and a bad for retirees: the August payment was delayed, but there will be a special bonus",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/una-buena-y-una-mala-para-jubilados-se-atraso-el-cobro-de-agosto-pero-habra-un-bono-especial/",
-      "published_date": "2026-07-30T11:51:04Z",
+      "title": "The history of Ceuta and the migratory crisis on the border with Morocco: where it is and why it belongs to Spain",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/la-historia-de-ceuta-y-la-crisis-migratoria-en-la-frontera-con-marruecos-donde-queda-y-por-que-pertenece-a-espana.phtml",
+      "published_date": "2026-07-30T23:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "What is known about the earthquake in Japan today: where it was, images and the number of victims as of July 30",
+      "title": "Migrants: the problem is not where they go, but where they come from",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/migrantes-problema-adonde-van-vienen_0_Tfnv8iB5zF.html",
+      "published_date": "2026-07-30T23:34:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Electoral Justice cut off funds to 20 parties for hiding their balance sheets and left Massa, Carrió and Moreno in the red",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/la-justicia-electoral-les-corto-los-fondos-a-20-partidos-por-ocultar-sus-balances-y-dejo-en-rojo-a-massa-carrio-y-moreno.phtml",
+      "published_date": "2026-07-30T23:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is the River player who trains at the Cantilo facility and deserves a second chance according to the fans?",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/jugador-river-entrena-predio-cantilo-merece-segunda-oportunidad-hinchas_0_NKIIwYppdU.html",
+      "published_date": "2026-07-30T23:29:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who operates the antenna?",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/ARSAT-Palantir-quien-maneja-la-antena.phtml",
+      "published_date": "2026-07-30T23:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "India: the power of the “Cockroaches”",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/07/30/india-el-poder-de-las-cucarachas/",
+      "published_date": "2026-07-30T23:24:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula criticized Milei for his \"antics\" in Brazil: “No one from outside is going to interfere in the elections”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/lula-cruzo-a-milei-por-sus-dichos-en-brasil-nadie-de-afuera-va-a-interferir-en-las-elecciones.phtml",
+      "published_date": "2026-07-30T23:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "There will be three auctions: more than 7,500 heads of cattle will be auctioned within the framework of the Aapresid Congress",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-del-terremoto-en-japon-hoy-donde-fue-imagenes-y-la-cantidad-de-victimas-al-29-de-julio-nid29072026/",
-      "published_date": "2026-07-30T11:50:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Total cut on route 40: the Seven Lakes route was interrupted in the middle of winter holidays",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/corte-total-en-la-ruta-40-el-recorrido-de-los-siete-lagos-quedo-interrumpido-en-plenas-vacaciones-de-nid30072026/",
-      "published_date": "2026-07-30T11:50:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The look that Máxima Zorreguieta chose to lead a historic moment: recycled dress and an impressive headdress",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-look-que-eligio-maxima-zorreguieta-para-encabezar-un-momento-historico-vestido-reciclado-y-un-nid30072026/",
-      "published_date": "2026-07-30T11:46:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They go to auction: they sell quadricycles and other equipment from a well-known agricultural company",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/remate-se-venden-cuatriciclos-y-otros-equipos-de-una-conocida-empresa-agropecuaria-nid29072026/",
-      "published_date": "2026-07-30T11:45:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Purchases abroad: ARCA modified the door-to-door system and raised the limit to US$3,000",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/compras-al-exterior-arca-modifico-el-sistema-puerta-a-puerta-y-subio-el-limite-a-us-3000/",
-      "published_date": "2026-07-30T11:44:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“We are tired”: they will demand that a municipality lower a rate due to the lack of road maintenance",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/estamos-cansados-exigiran-que-un-municipio-baje-una-tasa-ante-la-falta-de-mantenimiento-de-los-nid29072026/",
-      "published_date": "2026-07-30T11:44:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government dissolved the National Children's Choir and announced a new artistic program",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-disolvio-el-coro-nacional-de-ninos-y-anuncio-un-nuevo-programa-artistico-nid30072026/",
-      "published_date": "2026-07-30T11:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joaqui burst into tears when talking about her separation with Luck Ra: “I wanted to get married”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/la-joaqui-rompio-en-llanto-al-hablar-de-su-separacion-con-luck-ra-yo-me-queria-casar-nid30072026/",
-      "published_date": "2026-07-30T11:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arthur Brooks, Harvard professor: “The happiest people are those who never stop learning”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid27072026/",
-      "published_date": "2026-07-30T11:39:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It's already confirmed: this is the August holiday with the long weekend",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/feriados/2026/ya-esta-confirmado-este-es-el-feriado-de-agosto-con-el-fin-de-semana-largo-nid30072026/",
-      "published_date": "2026-07-30T11:34:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Muri López Benítez, wife of Lisandro Martínez, reflected on fatherhood and was blunt: “Let's normalize that being present is part of being a father”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/muri-lopez-benitez-esposa-de-licha-martinez-dejemos-de-romantizar-a-un-padre-por-el-simple-hecho-de-nid29072026/",
-      "published_date": "2026-07-30T11:32:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An 18-year-old woman from Córdoba was found dead in Punta del Este: she lived in Uruguay",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/encontraron-muerta-a-una-cordobesa-de-18-anos-en-punta-del-este-vivia-en-uruguay-nid30072026/",
-      "published_date": "2026-07-30T11:30:02Z",
+      "url": "https://www.lanacion.com.ar/economia/habra-tres-remates-se-subastaran-mas-de-7500-cabezas-de-ganado-en-el-marco-del-congreso-de-aapresid-nid30072026/",
+      "published_date": "2026-07-30T23:19:57Z",
       "category": "Local Events"
     }
   ]
