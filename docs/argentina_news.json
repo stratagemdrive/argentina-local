@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:40:20Z",
+  "generated_at": "2026-08-08T11:20:39Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,62 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "As if Argentina had money left over, now there is rejection of foreigners",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/como-si-a-la-argentina-le-sobrara-plata-ahora-hay-rechazo-a-los-extranjeros-nid08082026/",
+      "published_date": "2026-08-08T10:54:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Government achieved half a sanction for the law that accelerates evictions: what changes for owners and tenants",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-gobierno-logro-media-sancion-para-la-ley-que-acelera-los-desalojos-que-cambia-para-propietarios-e-nid07082026/",
+      "published_date": "2026-08-08T10:50:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What to watch on Disney+ today: the 10 series and movies that lead the ranking this Saturday, August 8, 2026 in Argentina",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-sabado-8-de-agosto-de-2026-en-argentina_0_83Orm0iBhb.html",
+      "published_date": "2026-08-08T10:15:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The mythological dimension of Don Segundo Sombra",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/al-volante/la-dimension-mitologica-de-don-segundo-sombra-nid08082026/",
+      "published_date": "2026-08-08T08:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diplomatic grievances",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/agravios-diplomaticos-por-felipe-frydman.phtml",
+      "published_date": "2026-08-08T05:29:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peru's international challenges",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/opinion/los-desafios-internacionales-de-peru-nid08082026/",
+      "published_date": "2026-08-08T03:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peru and Mexico resume relations after resolving the crisis around Betssy Chávez",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/08/08/peru-y-mexico-retoman-relaciones-tras-resolver-la-crisis-en-torno-a-betssy-chavez/",
+      "published_date": "2026-08-08T03:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cancellation Chancellor",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/canciller-de-cancelacion-por-jorge-fontevecchia.phtml",
+      "published_date": "2026-08-08T02:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nicolás Tagliafico's revelation about his future in the Argentine national team: “I think it was my last World Cup”",
       "source": "La Nación",
@@ -95,60 +151,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Schedule of the Lionesses in the 2026 World Cup",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/hockey/cronograma-de-las-leonas-en-el-mundial-2026-nid07082026/",
-      "published_date": "2026-08-07T19:52:56Z",
-      "category": "Diplomacy"
+      "title": "The minister, poetry and books",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/elobservador/el-ministro-la-poesia-y-los-libros.phtml",
+      "published_date": "2026-08-08T06:20:34Z",
+      "category": "Military"
     },
     {
-      "title": "In the midst of the crisis with Brazil, bilateral trade decreased in July",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/en-plena-crisis-con-brasil-el-comercio-bilateral-se-redujo-en-julio/",
-      "published_date": "2026-08-07T17:38:18Z",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia, Türkiye and Pakistan sign unprecedented regional defense agreement",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/arabia-saudita-turquia-y-pakistan-firman-un-inedito-acuerdo-de-defensa-regional.phtml",
+      "published_date": "2026-08-08T05:12:11Z",
+      "category": "Military"
     },
     {
-      "title": "A former director of the IMF pointed out what the Government lacks to consolidate the economic course",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/bajar-un-cambio-que-le-falta-al-gobierno-para-consolidar-el-rumbo-economico-segun-un-exdirector-del-fmi/",
-      "published_date": "2026-08-07T17:20:22Z",
-      "category": "Diplomacy"
+      "title": "The F 16 planes will fly over downtown Buenos Aires and on Monday they will participate in the Air Force celebration",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/los-aviones-f-16-sobrevolaran-el-centro-porteno-y-el-lunes-participaran-de-la-celebracion-de-la-fuerza-aerea.phtml",
+      "published_date": "2026-08-08T04:47:29Z",
+      "category": "Military"
     },
     {
-      "title": "One by one, the senators who voted for and against the Law on the Inviolability of Private Property",
+      "title": "The US reorganizes the military bloc in Latin America",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/eeuu-reorganiza-el-bloque-militar-en-latinoamerica.phtml",
+      "published_date": "2026-08-08T03:06:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Government responds with bullets and complaints to the protest",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/07/uno-por-uno-los-senadores-que-votaron-a-favor-y-en-contra-de-la-ley-de-propiedad-privada/",
-      "published_date": "2026-08-07T15:40:38Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/08/08/el-gobierno-responde-con-balas-y-denuncias-ante-la-protesta/",
+      "published_date": "2026-08-08T03:01:01Z",
+      "category": "Military"
     },
     {
-      "title": "Much more than insults: the underlying reasons for the biggest diplomatic crisis in history between Argentina and Brazil",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/mucho-mas-que-insultos-las-razones-de-fondo-de-la-mayor-crisis-diplomatica-de-la-historia-entre-argentina-y-brasil/",
-      "published_date": "2026-08-07T14:48:58Z",
-      "category": "Diplomacy"
+      "title": "The VOX lawyer that Cristina Kirchner joined her defense and paralyzed Peronism",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/abogado-vox-cristina-kirchner-defensa-paralizo-peronismo.phtml",
+      "published_date": "2026-08-08T02:55:00Z",
+      "category": "Military"
     },
     {
-      "title": "“It came a little devilishly”: Patricia Bullrich on the half-sanction of the Private Property Law",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/vino-un-poco-endiablada-patricia-bullrich-sobre-la-media-sancion-de-la-ley-de-propiedad-privada/",
-      "published_date": "2026-08-07T13:44:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "In the midst of the crisis with Lula, LLA deputies receive a delegation from Bolsonaro: who is coming",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/en-plena-crisis-diplomatica-con-lula-diputados-de-lla-reciben-a-una-delegacion-de-bolsonaro/",
-      "published_date": "2026-08-07T12:56:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Villarruel responded to Chancellor Quirno and spoke again of his phrase about the “state” of Milei",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/villarruel-le-respondio-al-canciller-quirno-y-volvio-a-hablar-de-su-frase-sobre-el-estado-de-milei-nid07082026/",
-      "published_date": "2026-08-07T11:26:23Z",
-      "category": "Diplomacy"
+      "title": "A judge put the SIDE on the ropes for the dictatorship files",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/08/un-juez-puso-a-la-side-contra-las-cuerdas-por-los-archivos-de-la-dictadura/",
+      "published_date": "2026-08-08T00:10:18Z",
+      "category": "Military"
     },
     {
       "title": "De la Espriella took office in Colombia and proclaimed the beginning “of the recovery of order”",
@@ -242,53 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "How the war in Ukraine became a school for Colombian drug traffickers",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/como-la-guerra-en-ucrania-se-convirtio-en-escuela-para-los-narcos-colombianos/",
-      "published_date": "2026-08-06T15:00:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "In the midst of the crisis with Lula, Milei authorized the entry of the Brazilian Navy for a military exercise",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/en-plena-crisis-con-lula-milei-autorizo-la-entrada-de-la-marina-de-brasil-para-un-ejercicio-militar/",
-      "published_date": "2026-08-06T13:07:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Loan Peña trial: declared \"El Americano\" and promised to denounce \"adulterated documentation\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/juicio-por-loan-pena-declaro-el-americano-y-prometio-denunciar-documentacion-adulterada.phtml",
-      "published_date": "2026-08-06T11:36:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "How much do the personnel of the Argentine Federal Police earn in August 2026 with the extra sum confirmed by the Government",
+      "title": "Total solar eclipse 2026: this is the date and places where the phenomenon can be observed",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/cuanto-cobra-el-personal-de-la-policia-federal-argentina-en-agosto-2026-con-la-suma-extra-confirmada-nid04082026/",
-      "published_date": "2026-08-06T10:15:31Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/ciencia/eclipse-solar-total-2026-esta-es-la-fecha-y-los-lugares-donde-podra-observarse-el-fenomeno-nid08082026/",
+      "published_date": "2026-08-08T10:59:33Z",
+      "category": "Energy"
     },
     {
-      "title": "The sky of Hiroshima at 8:15: the chronicle of the atomic bombing that inaugurated the era of global terror",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/efemerides/el-cielo-de-hiroshima-a-las-815-la-cronica-del-bombardeo-atomico-que-inauguro-la-era-del-terror-global-a50.phtml",
-      "published_date": "2026-08-06T10:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Quintela's warning in terms of sovereignty",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/06/la-advertencia-de-quintela-en-clave-de-soberania/",
-      "published_date": "2026-08-06T01:55:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "The rural land law and our sovereignty",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/la-ley-de-tierras-rurales-y-nuestra-soberania.phtml",
-      "published_date": "2026-08-05T23:19:29Z",
-      "category": "Military"
+      "title": "Taxis: how much can someone who works with an electric car save compared to a gasoline one?",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/taxis-cuanto-se-puede-ahorrar-quien-trabaja-con-un-auto-electrico-en-comparacion-a-uno-naftero-nid01082026/",
+      "published_date": "2026-08-08T03:16:27Z",
+      "category": "Energy"
     },
     {
       "title": "Financing: they announced a US$8.5 billion plan for agriculture",
@@ -417,157 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "NASA showed dramatic photos of Earth before and after climate change",
+      "title": "This is the price at which the dollar opens on Monday, August 10",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/este-es-el-precio-con-el-que-abre-el-dolar-el-lunes-10-de-agosto-nid08082026/",
+      "published_date": "2026-08-08T11:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA wanted to put a price on the World Cup and discovered the limit it could not cross",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-quiso-ponerle-precio-al-mundial-y-descubrio-el-limite-que-no-podia-cruzar-nid08082026/",
+      "published_date": "2026-08-08T11:10:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dollar today and blue dollar today: how much is it trading this Saturday, August 8",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-8-de-agosto-nid08082026/",
+      "published_date": "2026-08-08T10:58:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How much does it cost to remodel a bathroom in August 2026, according to each budget",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-remodelar-un-bano-en-agosto-2026-segun-cada-presupuesto-nid06082026/",
+      "published_date": "2026-08-08T10:53:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ethereum today: quote and price of ETH this Saturday, August 8, 2026",
       "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/nasa-mostro-dramaticas-fotos-tierra-despues-cambio-climatico_0_s9QKSS502O.html",
-      "published_date": "2026-08-06T11:58:18Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Cars, cyber defense and nuclear energy: Milei met again with Noboa and sealed strategic agreements",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/milei-desembarca-en-ecuador-en-un-nuevo-gesto-de-apoyo-a-la-derecha-regional-sus-proximos-pasos/",
-      "published_date": "2026-08-06T09:00:01Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The official dollar closed higher",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/07/el-dolar-oficial-cerro-por-arriba/",
-      "published_date": "2026-08-07T23:27:38Z",
+      "url": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-8-de-agosto-de-2026_0_GXynChpK7r.html",
+      "published_date": "2026-08-08T10:30:02Z",
       "category": "Economy"
     },
     {
-      "title": "Santilli met with agricultural leaders and talked about investment, innovation and intellectual property",
+      "title": "Producers have soybeans worth US$12.15 billion while exports seek to cover sales",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/santilli-se-reunio-con-referentes-del-agro-y-hablaron-de-inversion-innovacion-y-propiedad-nid07082026/",
-      "published_date": "2026-08-07T23:23:31Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/los-productores-tienen-soja-por-us-12150-millones-mientras-la-exportacion-busca-cubrir-ventas-nid08082026/",
+      "published_date": "2026-08-08T10:22:08Z",
       "category": "Economy"
     },
     {
-      "title": "Justice rejected Facundo Moyano's request to raise the perimeter and will not be able to approach Candela Arizaga",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/la-justicia-rechazo-el-pedido-de-facundo-moyano-para-levantar-la-perimetral-y-no-podra-acercarse-a-nid07082026/",
-      "published_date": "2026-08-07T23:23:23Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Prayers for the work that is missing and for those who have it, that the salary reaches",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/07/ruegos-por-el-trabajo-que-falta-y-para-el-que-lo-tiene-que-el-sueldo-alcance/",
-      "published_date": "2026-08-07T23:21:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The rental law died: contracts increase below inflation",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-ley-de-alquileres-los-contratos-aumentan-por-debajo-de-la-inflacion-nid05082026/",
-      "published_date": "2026-08-07T23:11:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gonzalo Carrera revealed how much the disposable income of Argentine families fell",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/gonzalo-carrera-muchos-hogares-pagan-los-servicios-basicos-y-no-llegan-a-fin-de-mes.phtml",
-      "published_date": "2026-08-07T23:10:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "spiral fall",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/07/caida-en-espiral/",
-      "published_date": "2026-08-07T23:08:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“It really scares us”: concern about a risk for 150,000 hectares in the most important region of the country",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/nos-da-realmente-miedo-preocupacion-por-un-riesgo-para-150000-hectareas-en-la-region-mas-importante-nid07082026/",
-      "published_date": "2026-08-07T23:07:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "They were repairing a street and found a valuable treasure from medieval times under the asphalt",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/arreglaban-una-calle-y-se-encontraron-con-un-valioso-tesoro-de-los-tiempos-medievales-debajo-del-nid07082026/",
-      "published_date": "2026-08-07T23:07:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Juan Pablo Costa explained why the stability of the dollar may not last",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/juan-pablo-costa-advirtio-por-el-dolar-estable-la-oferta-abundante-no-se-va-a-sostener.phtml",
-      "published_date": "2026-08-07T23:04:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Zohran Mamdani sued for a controversial real estate tax that could affect thousands of people",
+      "title": "Bitcoin today: quote and price of BTC this Saturday, August 8, 2026",
       "source": "Clarín",
-      "url": "https://www.clarin.com/mundo/demandan-zohran-mamdani-polemico-impuesto-inmobiliario-podria-afectar-miles-personas_0_hbendxj2wd.html",
-      "published_date": "2026-08-07T22:46:59Z",
+      "url": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-sabado-8-de-agosto-de-2026_0_TqFXrc1R1l.html",
+      "published_date": "2026-08-08T10:22:02Z",
       "category": "Economy"
     },
     {
-      "title": "Economists warn that Vaca Muerta's growth is not enough to boost the economy as a whole",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/empleo-dolar-e-industria-economistas-advierten-que-el-crecimiento-de-vaca-muerta-no-alcanza-para-impulsar-al-conjunto-de-la-economia.phtml",
-      "published_date": "2026-08-07T22:18:32Z",
+      "title": "CCL dollar today: how much is it trading this Saturday, August 8",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-08-agosto_0_r0j0WLUkkV.html",
+      "published_date": "2026-08-08T10:08:02Z",
       "category": "Economy"
     },
     {
-      "title": "Caputo and Rappallini: the crossing that revealed the tension between the Government and the industry",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/caputo-vs-rappallini-el-cruce-que-expuso-la-tension-de-fondo-entre-el-gobierno-y-la-industria/",
-      "published_date": "2026-08-07T22:00:23Z",
+      "title": "Dollar card today: how much is it trading this Saturday, August 8",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-08-agosto_0_srGSJ0GWjE.html",
+      "published_date": "2026-08-08T10:08:01Z",
       "category": "Economy"
     },
     {
-      "title": "Luis Caputo clarified his statements about the “moronics”: he denied having targeted industrialists",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/caputo-aclaro-sus-dichos-sobre-los-tarados-y-nego-haber-apuntado-contra-los-industriales.phtml",
-      "published_date": "2026-08-07T22:00:16Z",
+      "title": "MEP dollar today: how much is it trading at this Saturday, August 8",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-sabado-08-agosto_0_5RGkcUucvy.html",
+      "published_date": "2026-08-08T10:05:02Z",
       "category": "Economy"
     },
     {
-      "title": "Psychology says that people change all the time, evolve, and depend on circumstance.",
+      "title": "After the Buenos Aires CPI, the Government believes that inflation was \"disengaged\" from the dollar and that the latest increase did not impact prices",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/ipc-porteno-gobierno-cree-inflacion-desengancho-dolar-ultima-suba-impacto-precios_0_lYSNcpM2Us.html",
+      "published_date": "2026-08-08T10:01:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The toy business is reinvented",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-psicologia-dice-que-las-personas-cambian-todo-el-tiempo-evolucionan-y-dependen-de-la-nid07082026/",
-      "published_date": "2026-08-07T21:56:00Z",
+      "url": "https://www.lanacion.com.ar/economia/negocios/nuevas-reglas-para-conquistar-a-los-chicos-nid08082026/",
+      "published_date": "2026-08-08T09:18:00Z",
       "category": "Economy"
     },
     {
-      "title": "The United States surprises with job losses in July",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-eeuu-sorprende-con-perdida-de-empleos-en-julio.phtml",
-      "published_date": "2026-08-07T21:54:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mexico's inflation moderated but the Central Bank remains cautious about rates",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-inflacion-de-mexico-se-modera-pero-banxico-mantiene-cautela.phtml",
-      "published_date": "2026-08-07T21:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The adjustment that never ends",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/07/el-ajuste-que-no-termina-de-pasar/",
-      "published_date": "2026-08-07T21:17:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Judge Ariel Lijo will concentrate all the cases for the millionaire businesses with the blue dollar during the stocks",
+      "title": "Anniversaries of August 8: what happened on a day like today?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-juez-federal-ariel-lijo-concentrara-todas-las-causas-por-los-negocios-millonarios-con-el-dolar-nid07082026/",
-      "published_date": "2026-08-07T21:16:01Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/efemerides-del-8-de-agosto-que-paso-un-dia-como-hoy-nid08082026/",
+      "published_date": "2026-08-08T08:51:00Z",
       "category": "Economy"
     },
     {
-      "title": "CABA baskets, increasingly heavier",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/07/las-canastas-de-caba-cada-vez-mas-pesadas/",
-      "published_date": "2026-08-07T21:07:56Z",
+      "title": "Estanislao Bachrach, specialist in neuroscience: “The best painkillers are in the stomach”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-especialista-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid08082026/",
+      "published_date": "2026-08-08T08:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The end of a key Medicare benefit: Trump's decision that would raise drug prices in 2027",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/el-fin-de-un-beneficio-clave-de-medicare-la-decision-de-trump-que-subiria-el-precio-de-los-nid08082026/",
+      "published_date": "2026-08-08T06:24:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Luis Caputo clarified his statements about the industry after criticism from businessmen: “I never said morons”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/luis-caputo-aclaro-sus-dichos-sobre-la-industria-tras-las-criticas-de-empresarios-jamas-dije-tarados-nid07082026/",
+      "published_date": "2026-08-08T06:11:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Welcome reform of the Central Bank",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/bienvenida-reforma-del-banco-central-por-pablo-broder.phtml",
+      "published_date": "2026-08-08T05:26:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Caputo and Sturzenegger create a fund to compensate and “win” allied unions",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/caputo-y-sturzenegger-crean-un-fondo-para-indemnizar-y-ganar-sindicatos-aliados.phtml",
+      "published_date": "2026-08-08T04:56:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation in the City accelerated to 2.9% and generates concern in the Nation",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/la-inflacion-en-la-ciudad-se-acelero-al-29-y-genera-preocupacion-en-nacion.phtml",
+      "published_date": "2026-08-08T04:20:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "This is how the MINI Countryman works, one of the most sought-after premium SUVs on the Argentine market",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/asi-anda-uno-de-los-suv-premium-mas-buscados-del-mercado-argentino-nid06082026/",
+      "published_date": "2026-08-08T03:25:17Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Milei and his genuflection before the king",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/07/milei-y-su-genuflexion-ante-el-rey/",
-      "published_date": "2026-08-08T03:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three of those arrested for the incidents in front of Congress have a history of robberies and threats",
+      "title": "What the QR code on the new US passport means: DOS explained",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/tres-de-los-detenidos-por-los-incidentes-frente-al-congreso-tienen-antecedentes-por-robos-y-amenazas-nid07082026/",
-      "published_date": "2026-08-07T23:34:16Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/que-significa-el-codigo-qr-que-figura-en-el-nuevo-pasaporte-de-eeuu-el-dos-lo-explico-nid08082026/",
+      "published_date": "2026-08-08T11:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "UNICEF noted that 300 children have died in Gaza since the October 2025 ceasefire",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/07/unicef-senalo-que-300-ninos-murieron-en-gaza-desde-alto-fuego-de-octubre-de-2025/",
-      "published_date": "2026-08-07T23:25:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The industry fails to reverse",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/07/la-industria-no-logra-revertir/",
-      "published_date": "2026-08-07T23:22:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is leaving Big Brother this Monday, according to polls",
+      "title": "Francisco Moreno will be the first debutant in the Pumas in 2026: a “Tank” to strengthen the pack",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/quien-se-va-de-gran-hermano-este-lunes-segun-las-encuestas-nid07082026/",
-      "published_date": "2026-08-07T23:19:15Z",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/francisco-moreno-sera-el-primer-debutante-en-los-pumas-en-2026-un-tanque-para-fortalecer-el-pack-nid07082026/",
+      "published_date": "2026-08-08T11:11:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Fiorentina presented Franco Mastantuono: “They are going to have a player who will fight”",
+      "title": "The most anticipated match, the most adverse context: scenarios where the Pumas forged their identity",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/fiorentina-presento-a-franco-mastantuono-van-a-tener-a-un-jugador-que-dara-pelea-nid07082026/",
-      "published_date": "2026-08-07T23:17:09Z",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/el-partido-mas-esperado-el-contexto-mas-adverso-escenarios-donde-los-pumas-forjaron-su-identidad-nid08082026/",
+      "published_date": "2026-08-08T11:09:20Z",
       "category": "Local Events"
     },
     {
-      "title": "A plaque, a missing person and a history repaired",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/07/una-placa-un-desaparecido-y-una-historia-reparada/",
-      "published_date": "2026-08-07T23:16:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truckers members interrupted the activity of an OCA plant in protest against layoffs",
+      "title": "Weeds: the hidden risk that travels in harvesters",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/trabajadores-del-sindicato-de-camioneros-interrumpieron-la-actividad-de-una-planta-de-oca-en-nid07082026/",
-      "published_date": "2026-08-07T23:15:08Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/malezas-el-riesgo-oculto-que-viaja-en-las-cosechadoras-nid08082026/",
+      "published_date": "2026-08-08T11:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "The small Texas town whose ZIP code climbed 720 places among the chosen destinations to move to in the US.",
+      "title": "Resistant weeds: the challenge that threatens the potential of wheat",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/el-pequeno-pueblo-de-texas-cuyo-codigo-postal-escalo-720-lugares-entre-los-destinos-elegidos-para-nid07082026/",
-      "published_date": "2026-08-07T23:15:00Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/agricultura/malezas-resistentes-el-desafio-que-amenaza-el-potencial-del-trigo-nid08082026/",
+      "published_date": "2026-08-08T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Eviction for 10 days late payment of rent: this is the step by step of the new Private Property Law",
+      "title": "Intercargo: the new strategy after the failed privatization",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/intercargo-la-nueva-estrategia-despues-de-la-fallida-privatizacion/",
+      "published_date": "2026-08-08T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The emergency exit that a historic dairy found to get back on its feet after 8 months of crisis",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/la-salida-de-emergencia-que-encontro-una-lactea-historica-para-ponerse-de-pie-tras-8-meses-de-crisis/",
+      "published_date": "2026-08-08T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lorena, lives in a camper van: “I didn't want to live without time or freedom”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/desalojo-por-10-dias-de-atraso-en-el-pago-del-alquiler-asi-es-el-paso-a-paso-de-la-nueva-ley-de-nid07082026/",
-      "published_date": "2026-08-07T23:09:59Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/lorena-vive-en-una-furgoneta-camperizada-no-queria-vivir-sin-tiempo-ni-libertad-nid08082026/",
+      "published_date": "2026-08-08T10:59:45Z",
       "category": "Local Events"
     },
     {
-      "title": "What to watch on Netflix: the best movies and series to enjoy this weekend of August 8 and 9",
+      "title": "The Chinese automaker that does everything opposite to the competition",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-8-y-9-de-nid07082026/",
-      "published_date": "2026-08-07T23:09:21Z",
+      "url": "https://www.lanacion.com.ar/autos/la-automotriz-china-que-hace-todo-lo-contrario-que-la-competencia-nid08082026/",
+      "published_date": "2026-08-08T10:57:28Z",
       "category": "Local Events"
     },
     {
-      "title": "After a violent shootout, they followed a lead and arrested a suspect for cattle theft",
+      "title": "The difficult family moment that forced Juanicar to leave Big Brother",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/tras-el-caso-de-un-violento-tiroteo-siguieron-una-pista-y-detuvieron-a-un-sospechoso-por-el-robo-de-nid07082026/",
-      "published_date": "2026-08-07T23:08:19Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/el-dificil-momento-familiar-que-obligo-a-juanicar-a-abandonar-gran-hermano-nid07082026/",
+      "published_date": "2026-08-08T10:57:26Z",
       "category": "Local Events"
     },
     {
-      "title": "In the midst of general emotion, neighbors and authorities prepare for the visit of Leo XIV to the Basilica of Luján",
+      "title": "“I have solar panels at home; I consume 1800 Wh a day and with six hours of sun a single panel covers my needs”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-visita-papal-de-lujan-escenario-fuera-de-la-basilica-todo-un-pueblo-conmovido-ante-la-visita-del-nid07082026/",
-      "published_date": "2026-08-07T23:04:52Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/tengo-placas-solares-en-casa-consumo-1800-wh-al-dia-y-con-seis-horas-de-sol-una-sola-placa-cubre-mis-nid07082026/",
+      "published_date": "2026-08-08T10:56:56Z",
       "category": "Local Events"
     },
     {
-      "title": "The only two actresses who captivated Brad Pitt: “When I met them, they impressed me”",
+      "title": "What Leandro Rud died of",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/las-unicas-dos-actrices-que-cautivaron-a-brad-pitt-cuando-las-conoci-me-impresionaron-nid07082026/",
-      "published_date": "2026-08-07T23:03:00Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/de-que-murio-leandro-rud-nid07082026/",
+      "published_date": "2026-08-08T10:56:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Thiago Medina, former Big Brother participant, was charged with aggravated sexual abuse",
+      "title": "The impact that express evictions could have on rental prices",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/thiago-medina-exparticipante-de-gran-hermano-fue-imputado-por-abuso-sexual-agravado-nid07082026/",
-      "published_date": "2026-08-07T23:02:21Z",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-impacto-que-los-desalojos-express-podria-tener-en-los-precios-de-los-alquileres-nid08082026/",
+      "published_date": "2026-08-08T10:56:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Helmut, 64-year-old retiree: \"In Switzerland I would have been poor, here I have four cars\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/helmut-jubilado-64-anos-suiza-empobrecido-coches_0_hWb7SWzRTZ.html",
-      "published_date": "2026-08-07T23:01:08Z",
+      "title": "Caballito prepares for a new edition of the Argentine Alfajor Championship",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/caballito-se-prepara-para-una-nueva-edicion-del-campeonato-argentino-del-alfajor-nid07082026/",
+      "published_date": "2026-08-08T10:55:56Z",
       "category": "Local Events"
     },
     {
-      "title": "The writer who found a way to talk about art in the monstrous",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/nubia-bado-en-lo-monstruoso-o-en-lo-siniestro-se-encuentran-un-poco-mas-facil-las-palabras.phtml",
-      "published_date": "2026-08-07T22:58:39Z",
+      "title": "What does it mean when a bee appears near your house and why its presence is positive",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/que-significa-que-una-abeja-aparezca-cerca-de-tu-casa-y-por-que-su-presencia-es-positiva-nid05082026/",
+      "published_date": "2026-08-08T10:49:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Mexico: a former governor was arrested accused of hiding evidence of the Ayotzinapa case",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/07/mexico-detuvieron-a-un-exgobernador-acusado-de-ocultar-pruebas-del-caso-ayotzinapa/",
-      "published_date": "2026-08-07T22:54:43Z",
+      "title": "The 16 medicinal herbs that were all the rage according to an old craft and what they are for today",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/las-16-hierbas-medicinales-que-siempre-fueron-valoradas-por-un-viejo-oficio-y-para-que-sirven-nid08082026/",
+      "published_date": "2026-08-08T10:49:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychology experts agree: people who are excessively grateful for small favors are not just grateful",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/los-expertos-en-psicologia-coinciden-las-personas-que-agradecen-excesivamente-los-pequenos-favores-nid01082026/",
+      "published_date": "2026-08-08T10:48:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 5 concept cars that were so ahead of their time that were never manufactured",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/autos/los-5-concept-cars-que-de-tan-adelantados-a-su-epoca-nunca-se-fabricaron-nid02082026/",
+      "published_date": "2026-08-08T10:45:30Z",
       "category": "Local Events"
     }
   ]
