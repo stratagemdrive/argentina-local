@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:29:23Z",
+  "generated_at": "2026-08-26T11:18:40Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Qué se sabe del “Super Niño”, el fenómeno que cambiará por completo el pronóstico en la Argentina (y en el mundo) hasta octubre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-del-super-nino-el-fenomeno-que-cambiara-por-completo-el-pronostico-en-la-argentina-y-en-nid26082026/",
+      "published_date": "2026-08-26T11:11:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: los anuncios de Luis Caputo y el operativo para la visita del Papa",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-anuncios-de-luis-caputo-y-el-operativo-para-la-visita-del-nid26082026/",
+      "published_date": "2026-08-26T11:01:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Con un clima \"preocupante\", la UIA y el Gobierno bloquean una escalada de tensión en medio de negociaciones impositivas",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/con-un-clima-preocupante-en-la-industria-uia-y-el-gobierno-bloquean-una-escalada-de-tension-en-medio-de-negociaciones-impositivas-a40.phtml",
+      "published_date": "2026-08-26T08:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rodrigo Palacio sorprendió al debutar en un equipo de básquet de Tres Arroyos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rodrigo-palacio-sorprendio-al-debutar-en-un-equipo-de-basquet-de-tres-arroyos-nid26082026/",
+      "published_date": "2026-08-26T07:23:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Estrecho de Magallanes: La Cancillería argentina busca bajar el tono a la crisis",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/26/estrecho-de-magallanes-la-cancilleria-argentina-busca-bajar-el-tono-a-la-crisis/",
+      "published_date": "2026-08-26T03:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cuba condenó la extensión del bloqueo estadounidense hasta septiembre de 2027",
       "source": "Página/12 — El Mundo",
@@ -116,39 +151,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 25 de agosto de 2026 en Argentina",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-25-de-agosto-de-2026-en-argentina_0_JFes3Dpjtu.html",
-      "published_date": "2026-08-25T10:15:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Volkswagen mostró por primera vez cómo será la nueva Amarok fabricada en la Argentina",
+      "title": "Nació en Hialeah: Bryan Avila, el hijo de exiliados cubanos que acompaña a Byron Donalds en las elecciones de Florida",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/volkswagen-mostro-por-primera-vez-como-sera-la-nueva-amarok-fabricada-en-la-argentina-nid25082026/",
-      "published_date": "2026-08-25T09:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/nacio-en-hialeah-bryan-avila-el-hijo-de-exiliados-cubanos-que-acompana-a-byron-donalds-en-las-nid25082026/",
+      "published_date": "2026-08-26T10:38:00Z",
+      "category": "Military"
     },
     {
-      "title": "Súper RIGI: la UIA hace lobby para blindar el compre local del 20% con sanciones por incumplimiento",
+      "title": "San Alejandro de Bérgamo, el valiente soldado romano que eligió el martirio por amor a Cristo",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/super-rigi-la-uia-hace-lobby-para-blindar-el-compre-local-del-20-con-sanciones-por-incumplimiento-a40.phtml",
-      "published_date": "2026-08-25T08:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/cultura/san-alejandro-de-bergamo-el-valiente-soldado-romano-que-eligio-el-martirio-por-amor-a-cristo.phtml",
+      "published_date": "2026-08-26T09:03:07Z",
+      "category": "Military"
     },
     {
-      "title": "Milei y la trampa del anacronismo",
+      "title": "Sandra Bullock se refirió al momento personal más oscuro de su vida: “Fue un espectáculo de terror”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/milei-y-la-trampa-del-anacronismo-nid25082026/",
-      "published_date": "2026-08-25T06:29:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/sandra-bullock-se-refirio-al-momento-personal-mas-oscuro-de-su-vida-fue-un-espectaculo-de-terror-nid26082026/",
+      "published_date": "2026-08-26T07:25:44Z",
+      "category": "Military"
     },
     {
-      "title": "\"Argentina no necesita la privatización del Belgrano Cargas\", aseguró Federico Conditi, especialista en planificación del transporte, en QR!",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/argentina-no-necesita-la-privatizacion-del-belgrano-cargas-aseguro-federico-conditi-especialista-en-planificacion-del-transporte-en-qr.phtml",
-      "published_date": "2026-08-25T04:47:03Z",
-      "category": "Diplomacy"
+      "title": "La demografía también disputa la soberanía",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/opinion/la-demografia-tambien-disputa-la-soberania-nid26082026/",
+      "published_date": "2026-08-26T03:14:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "“El terror del Atlántico Sur”: los Super Etendard, los aviones que hicieron historia en Malvinas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/el-terror-del-atlantico-sur-los-super-etendard-los-aviones-que-hicieron-historia-en-malvinas-nid26082026/",
+      "published_date": "2026-08-26T03:02:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Otra prueba de la “desnacionalización estratégica” del gobierno de Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/26/otra-prueba-de-la-desnacionalizacion-estrategica-del-gobierno-de-milei/",
+      "published_date": "2026-08-26T03:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "El terrorismo que denuncia Milei no existe para la SIDE",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/26/el-terrorismo-que-denuncia-milei-no-existe-para-la-side/",
+      "published_date": "2026-08-26T03:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Las condenas por crímenes cometidos en Neuquén y Río Negro",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/26/lesa-humanidad-dos-condenas-a-perpetua-y-tres-penas-de-entre-4-y-5-anos/",
+      "published_date": "2026-08-26T01:23:57Z",
+      "category": "Military"
     },
     {
       "title": "Auguadra dijo que la SIDE ya trabaja en la seguridad del Papa y reveló detalles de la visita de noviembre",
@@ -235,60 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Escala la guerra comercial: Canadá responde a Trump con aranceles de hasta 50%",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/escala-la-guerra-comercial-canada-responde-a-trump-con-aranceles-de-hasta-50/",
-      "published_date": "2026-08-25T19:20:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "La estrategia de Milei para renovar las Fuerzas Armadas: cómo es el plan para comprar vehículos blindados",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-estrategia-de-milei-para-renovar-las-fuerzas-armadas-como-es-el-plan-para-comprar-vehiculos-blindados/",
-      "published_date": "2026-08-25T15:43:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tras la defensa de Milei a su ex asesor, el Gobierno vuelve a despegarse de Cerimedo",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/25/tras-la-defensa-de-milei-a-su-ex-asesor-el-gobierno-vuelve-a-despegarse-de-cerimedo/",
-      "published_date": "2026-08-25T15:18:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tratan de salvar en EE.UU. a un árbol que fue testigo de la Guerra de Independencia",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/tratan-salvar-eeuu-arbol-testigo-guerra-independencia_0_RWcloSKJqw.html",
-      "published_date": "2026-08-25T10:32:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Redes sociales, explosivos y explotación sexual: el macabro \"videojuego\" de las guerrillas colombianas para captar menores",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/tiktok-drones-y-explosivos-el-macabro-videojuego-de-las-guerrillas-colombianas-para-captar-menores.phtml",
-      "published_date": "2026-08-25T00:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "De la Espriella ordena deportaciones de migrantes y endurece la lucha contra el crimen",
+      "title": "Dos operarios murieron durante un accidente en un yacimiento de Vaca Muerta",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/de-la-espriella-ordena-deportaciones-de-migrantes-y-endurece-la-lucha-contra-el-crimen-nid24082026/",
-      "published_date": "2026-08-24T23:08:43Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/sociedad/un-operario-murio-y-otro-resulto-herido-durante-un-accidente-en-un-yacimiento-de-vaca-muerta-nid25082026/",
+      "published_date": "2026-08-26T11:14:13Z",
+      "category": "Energy"
     },
     {
-      "title": "Aumentó el sueldo de las Fuerzas Armadas: cuánto cobran el Ejército, la Armada y la Fuerza Aérea en agosto",
+      "title": "Falla letal, tensión y alarma por un nuevo incidente en Vaca Muerta: un operario de YPF muerto",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/aumento-el-sueldo-de-las-fuerzas-armadas-cuanto-cobran-el-ejercito-la-armada-y-la-fuerza-aerea-en-agosto.phtml",
-      "published_date": "2026-08-24T22:56:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Terremoto en Costa Rica: dos sismos seguidos, réplicas y terror en el Cinturón de Fuego",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/terremoto-en-costa-rica-dos-sismos-seguidos-replicas-a50-y-terror-en-el-cinturon-de-fuego.phtml",
-      "published_date": "2026-08-24T22:44:00Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/policia/falla-letal-y-un-operario-muerto-tension-y-alarma-por-un-nuevo-incidente-en-vaca-muerta.phtml",
+      "published_date": "2026-08-26T00:10:00Z",
+      "category": "Energy"
     },
     {
       "title": "Minería solar: una nueva ventaja competitiva para Argentina y los Andes",
@@ -417,157 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "RDEco: the rise in oil puts Argentina to the test",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/mercados-petroleo-y-riesgo-pais-que-puede-pasar-con-argentina.phtml",
-      "published_date": "2026-08-21T22:29:11Z",
-      "category": "Energy"
-    },
-    {
-      "title": "DRC: Europe faces an energy crisis and they warn about the impact on homes",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/crisis-energetica-en-europa-gas-combustibles-y-el-impacto-en-espana-francia-y-brasil.phtml",
-      "published_date": "2026-08-21T21:23:14Z",
-      "category": "Energy"
-    },
-    {
-      "title": "La trastienda del encuentro de Milei con diputados y senadores de LLA en la Casa Rosada",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 26 de agosto, minuto a minuto",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/milei-recibe-a-diputados-y-senadores-de-lla-en-casa-rosada-tras-ratificar-el-rumbo-frente-a-su-nid25082026/",
-      "published_date": "2026-08-25T23:22:48Z",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid26082026/",
+      "published_date": "2026-08-26T11:07:15Z",
       "category": "Economy"
     },
     {
-      "title": "En medio del debate por morosidad y leyes clave, el ministro Luis Caputo anuncia medidas",
+      "title": "ANSES pagará jubilaciones y desempleo este miércoles 26 de agosto: el esquema según la terminación del DNI",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/anses-pagara-jubilaciones-desempleo-miercoles-26-agosto-esquema-segun-terminacion-dni-a35.phtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Aprendió a usar un telar a los 15 años en Guatemala y 40 años después sus tejidos se venden en Europa",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/aprendio-a-usar-un-telar-a-los-15-anos-en-guatemala-y-40-anos-despues-sus-tejidos-se-venden-en-nid26082026/",
+      "published_date": "2026-08-26T10:24:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Melconian sobre la gestión de Milei: \"Es un Gobierno que carece de 'hombres del Presidente'\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/melconian-sobre-la-gestion-de-milei-es-un-gobierno-que-carece-de-hombres-del-presidente.phtml",
+      "published_date": "2026-08-26T10:02:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "IRSA confirmó cuándo abre el primer shopping de La Plata: tendrá 100 locales y una inversión de US$220 millones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/irsa-confirmo-cuando-abrira-el-primer-shopping-de-la-plata-tendra-100-locales-y-una-inversion-de-nid26082026/",
+      "published_date": "2026-08-26T10:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A cuánto cotiza el dólar blue hoy, miércoles 26 de agosto",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-26-de-agosto.phtml",
+      "published_date": "2026-08-26T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El oficialismo va por la media sanción a Inocencia Fiscal II y la reforma al BCRA: los cambios que piden los aliados",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/en-medio-del-debate-por-morosidad-y-leyes-clave-el-ministro-luis-caputo-anunciara-medidas/",
-      "published_date": "2026-08-25T23:18:37Z",
+      "url": "https://www.cronista.com/economia-politica/el-oficialismo-va-por-la-media-sancion-a-inocencia-fiscal-ii-y-la-reforma-al-bcra-los-cambios-que-piden-los-aliados/",
+      "published_date": "2026-08-26T09:56:36Z",
       "category": "Economy"
     },
     {
-      "title": "Caputo prepara nuevos anuncios en la antesala de la reforma del Central en Diputados",
+      "title": "El dólar en Córdoba: a cuánto cotiza este miércoles 26 de agosto",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-26-de-agosto-260826.phtml",
+      "published_date": "2026-08-26T09:53:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La irritante inflación de las palabras",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/cultura/la-irritante-inflacion-de-las-palabras-nid26082026/",
+      "published_date": "2026-08-26T09:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Las pymes buscan subirse al RIGI, pero reclaman medidas",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/caputo-prepara-nuevos-anuncios-en-la-antesala-de-la-reforma-del-central-en-diputados/",
-      "published_date": "2026-08-25T23:12:02Z",
+      "url": "https://www.cronista.com/economia-politica/las-pymes-buscan-subirse-al-rigi-pero-reclaman-medidas/",
+      "published_date": "2026-08-26T09:00:01Z",
       "category": "Economy"
     },
     {
-      "title": "Supercosecha: más de 4200 camiones llegaron a los puertos del Gran Rosario por el fuerte ritmo de exportaciones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/supercosecha-mas-de-4200-camiones-llegaron-a-los-puertos-del-gran-rosario-por-el-fuerte-ritmo-de-nid25082026/",
-      "published_date": "2026-08-25T22:52:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: qué dicen los analistas sobre el tipo de cambio en Argentina",
+      "title": "Luis Caputo dará una conferencia de prensa este miércoles: qué anunciaría el ministro de Economía",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rde-que-dicen-los-analistas-sobre-el-tipo-de-cambio-en-argentina.phtml",
-      "published_date": "2026-08-25T22:50:16Z",
+      "url": "https://www.perfil.com/noticias/politica/luis-caputo-dara-una-conferencia-de-prensa-este-miercoles-que-anunciaria-el-ministro-de-economia.phtml",
+      "published_date": "2026-08-26T08:30:00Z",
       "category": "Economy"
     },
     {
-      "title": "Milei empieza a sufrir el mismo síndrome de los ex presidentes",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/opinion/milei-empieza-sufrir-mismo-sindrome-ex-presidentes_0_kcEeTOsRos.html",
-      "published_date": "2026-08-25T22:49:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "En RDEco explicaron por qué la Argentina todavía enfrenta un obstáculo clave para volver a emitir deuda",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rde-que-esperan-los-analistas-de-la-deuda-riesgo-pais-y-politica.phtml",
-      "published_date": "2026-08-25T22:45:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Luis Caputo dará una conferencia de prensa con anuncios de medidas económicas",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/economia/luis-caputo-dara-conferencia-prensa-anuncios-medidas-economicas_0_UX8wRP2i22.html",
-      "published_date": "2026-08-25T22:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La UIA reclamó al Gobierno medidas de alivio fiscal para las pymes",
+      "title": "Cómo el acuerdo 287(g) que impacta en trabajadores de la construcción y el turismo en Florida",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/la-uia-reclamo-al-gobierno-medidas-de-alivio-fiscal-para-las-pymes-nid25082026/",
-      "published_date": "2026-08-25T22:31:02Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/como-el-acuerdo-287g-que-impacta-en-trabajadores-de-la-construccion-y-el-turismo-en-florida-nid26082026/",
+      "published_date": "2026-08-26T08:22:00Z",
       "category": "Economy"
     },
     {
-      "title": "Docencia en Argentina: la titularidad llega después de los 40 y el salario toca su pico a los 45",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/docencia-en-argentina-la-titularidad-llega-despues-de-los-40-y-el-salario-toca-su-pico-a-los-45.phtml",
-      "published_date": "2026-08-25T22:30:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La UIA reclamó que se suspendan los embargos de ARCA a pymes: qué respondió el Gobierno",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/asfixia-fiscal-la-uia-reclamo-que-se-suspendan-los-embargos-de-arca-a-empresas/",
-      "published_date": "2026-08-25T22:29:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mesa política: Luis Caputo dará mañana una conferencia de prensa para anunciar medidas",
+      "title": "Sergio Massa reapareció en un acto en Rosario y dejó un mensaje para el peronismo: “La unidad es lo más importante”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/luis-caputo-dara-una-conferencia-de-prensa-para-anunciar-medidas-economicas-nid25082026/",
-      "published_date": "2026-08-25T22:29:24Z",
+      "url": "https://www.lanacion.com.ar/politica/sergio-massa-reaparecio-en-un-acto-en-rosario-y-dejo-un-mensaje-para-el-peronismo-la-unidad-es-lo-nid26082026/",
+      "published_date": "2026-08-26T07:02:06Z",
       "category": "Economy"
     },
     {
-      "title": "El dólar oficial volvió a subir",
+      "title": "El Gobierno cambió las condiciones de seguridad que tendrán que cumplir los autos, acoplados y semiacoplados 0 KM, nacionales e importados",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/el-gobierno-cambio-las-condiciones-de-seguridad-que-tendran-que-cumplir-los-autos-acoplados-y-semiacoplados-0-km-nacionales-e-importados.phtml",
+      "published_date": "2026-08-26T06:45:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Versiones cruzadas sobre la situación del jefe de la Aduana, un hombre vinculado a Santiago Caputo: hablan de licencia y también de renuncia",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/versiones-cruzadas-sobre-la-situacion-del-jefe-de-la-aduana-un-hombre-vinculado-a-santiago-caputo-habla-de-licencia-y-tambien-de-renuncia.phtml",
+      "published_date": "2026-08-26T05:13:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La mordaza avanza y la libertad retrocede",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/26/la-mordaza-avanza-y-la-libertad-retrocede/",
+      "published_date": "2026-08-26T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Empleo privado en retroceso",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/25/el-dolar-oficial-volvio-a-subir/",
-      "published_date": "2026-08-25T22:29:04Z",
+      "url": "https://www.pagina12.com.ar/2026/08/25/empleo-privado-en-retroceso/",
+      "published_date": "2026-08-26T03:01:00Z",
       "category": "Economy"
     },
     {
-      "title": "RDC: por qué en España los jóvenes prefieren la estabilidad del Estado al trabajo privado",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rdc-por-que-en-espana-los-jovenes-prefieren-la-estabilidad-del-estado-al-trabajo-privado.phtml",
-      "published_date": "2026-08-25T22:24:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La operación Milei-Galperín para negar el daño del modelo",
+      "title": "Exportaciones en alza, consumo en baja",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/25/la-operacion-milei-galperin-para-negar-el-dano-del-modelo/",
-      "published_date": "2026-08-25T22:23:40Z",
+      "url": "https://www.pagina12.com.ar/2026/08/25/exportaciones-en-alza-consumo-en-baja/",
+      "published_date": "2026-08-26T03:01:00Z",
       "category": "Economy"
     },
     {
-      "title": "En RDEco explicaron qué puede pasar con la economía si el Gobierno flexibiliza el ajuste antes de las elecciones",
+      "title": "La actividad económica en marcha atrás",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/08/25/la-actividad-economica-en-marcha-atras/",
+      "published_date": "2026-08-26T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A cuánto cotiza el euro blue hoy, miércoles 26 de agosto",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rdeco-elecciones-dolar-e-inflacion-ponen-a-prueba-el-programa-de-milei.phtml",
-      "published_date": "2026-08-25T22:18:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ATE rechazó la nueva paritaria estatal y prepara medidas de fuerza contra una oferta por debajo de la inflación",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/ate-rechazo-la-nueva-paritaria-estatal-y-prepara-medidas-de-fuerza-contra-una-oferta-por-debajo-de-la-inflacion.phtml",
-      "published_date": "2026-08-25T22:17:31Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólares del colchón: la razón por la que el Gobierno prorrogó por tercera vez la presentación de la declaración jurada de Ganancias",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolares-del-colchon-la-razon-por-la-que-el-gobierno-prorrogo-por-tercera-vez-la-presentacion-de-la-nid25082026/",
-      "published_date": "2026-08-25T22:16:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El sorpresivo giro de Barcelona sobre el pase de Julián Alvarez y la idea de un grande inglés que tiene un dilema fiscal",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/el-sorpresivo-giro-de-barcelona-sobre-el-pase-de-julian-alvarez-y-la-idea-de-un-grande-ingles-que-nid25082026/",
-      "published_date": "2026-08-25T22:12:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Eric Paniagua advirtió en RDEco sobre el impacto electoral del ajuste: \"Seguir llevando un programa al extremo sería contraproducente\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/dolar-inflacion-y-elecciones-2027-economistas-advierten-sobre-el-nuevo-desafio-de-milei.phtml",
-      "published_date": "2026-08-25T22:09:16Z",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-26-de-agosto.phtml",
+      "published_date": "2026-08-26T01:14:10Z",
       "category": "Economy"
     },
     {
@@ -585,6 +585,48 @@
       "category": "Local Events"
     },
     {
+      "title": "Julián Alvarez no se presentó a la práctica y se enrarece más el clima en Atlético de Madrid",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/julian-alvarez-no-se-presento-a-la-practica-y-se-enrarece-mas-el-clima-en-atletico-de-madrid-nid26082026/",
+      "published_date": "2026-08-26T11:17:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reid Wiseman, de Artemis II, tras la misión: “No creo que la mente humana haya evolucionado lo suficiente como para entender esto”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-de-artemis-ii-tras-la-mision-no-creo-que-la-mente-humana-haya-evolucionado-lo-nid26082026/",
+      "published_date": "2026-08-26T11:11:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ni gimnasio ni caminata: el ejercicio de fuerza ideal para frenar la pérdida de masa muscular y mantenerse saludable",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-gimnasio-ni-caminata-el-ejercicio-de-fuerza-ideal-para-frenar-la-perdida-de-masa-muscular-y-nid26082026/",
+      "published_date": "2026-08-26T11:11:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gabriel Rolón, psicólogo: “La esperanza es una cosa que no podemos manejar; tenés o no tenés”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-esperanza-es-una-cosa-que-no-podemos-manejar-tenes-o-no-tenes-nid26082026/",
+      "published_date": "2026-08-26T11:11:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christina Koch, astronauta de Artemis II: “No hay nada que te prepare para la impresionante sensación de ver tu planeta iluminado como si fuera de día”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-no-hay-nada-que-te-prepare-para-la-impresionante-sensacion-nid26082026/",
+      "published_date": "2026-08-26T11:11:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La final que no termina: “Feos, sucios y malos” (y ahora silbados)",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-final-que-no-termina-feos-sucios-y-malos-y-ahora-silbados-nid26082026/",
+      "published_date": "2026-08-26T11:03:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Daniel Mecca, escritor: “Recorrer las calles por donde Borges caminaba permite crear una imaginación poética de su figura”",
       "source": "La Nación",
       "url": "https://www.lanacion.com.ar/que-sale/daniel-mecca-escritor-caminar-por-las-calles-donde-borges-caminaba-permite-crear-una-imaginacion-nid25082026/",
@@ -592,122 +634,80 @@
       "category": "Local Events"
     },
     {
-      "title": "Dos operarios murieron durante un accidente en un yacimiento de Vaca Muerta",
+      "title": "Cuál fue la explicación que dio Swiss Medical sobre la confusión de historias clínicas entre Diego Maradona y su padre",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-operario-murio-y-otro-resulto-herido-durante-un-accidente-en-un-yacimiento-de-vaca-muerta-nid25082026/",
-      "published_date": "2026-08-25T23:27:03Z",
+      "url": "https://www.lanacion.com.ar/seguridad/cual-fue-la-explicacion-que-dio-swiss-medical-sobre-la-confusion-de-historias-clinicas-entre-diego-nid26082026/",
+      "published_date": "2026-08-26T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "De un patio en Moreno a un bioparque: crió a un ñandú desde que era pichón, pero socorristas debieron rescatarlo después de que se lesionara",
+      "title": "Al dengue lo prevenimos entre todos",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/al-dengue-lo-prevenimos-entre-todos.phtml",
+      "published_date": "2026-08-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sale a la venta en Venecia una isla privada con un fortín construido por Napoleón",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/sale-venta-venecia-isla-privada-fortin-construido-napoleon_0_F24kehM4n3.html",
+      "published_date": "2026-08-26T10:52:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tragedia en una maternidad de Pakistán: murieron 14 bebés por un incendio dentro de un hospital",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/tragedia-pakistan-murieron-14-bebes-incendio-hospital_0_TgpWGIiBLe.html",
+      "published_date": "2026-08-26T10:52:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alivio Cordobés: quiénes podrán refinanciar sus deudas, cuáles son los requisitos y cómo acceder",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/alivio-cordobes-quienes-podran-refinanciar-sus-deudas-cuales-son-los-requisitos-y-como-acceder.phtml",
+      "published_date": "2026-08-26T10:50:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sesión caliente por el caso Flores: el PJ va por la licencia y la UCR exige su expulsión",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/sesion-caliente-por-el-caso-flores-el-pj-va-por-la-licencia-y-la-ucr-exige-su-expulsion.phtml",
+      "published_date": "2026-08-26T10:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video: se subieron a una moto e hicieron wheelie con un bebé en brazos en Catamarca",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/de-un-patio-en-moreno-a-un-bioparque-crio-a-un-nandu-desde-que-era-pichon-pero-socorristas-debieron-nid25082026/",
-      "published_date": "2026-08-25T23:27:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/video-se-subieron-a-una-moto-e-hicieron-wheelie-con-un-bebe-en-brazos-en-catamarca-nid26082026/",
+      "published_date": "2026-08-26T10:46:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente recibió a legisladores de LLA y Karina encabezó la mesa política",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-suba-del-dolar-y-la-agenda-legislativa-en-el-congreso-nid25082026/",
-      "published_date": "2026-08-25T23:25:51Z",
+      "title": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 26 de agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-26-de-agosto-de-2026_0_tVXsKAOkeb.html",
+      "published_date": "2026-08-26T10:45:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Alejandro Awada, actor: “Lamenté que mi hija quisiera ser actriz, me hubiera gustado que estudiara una carrera”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/alejandro-awada-actor-lamente-que-mi-hija-quisiera-ser-actriz-me-hubiera-gustado-que-estudiara-una-nid25082026/",
-      "published_date": "2026-08-25T23:24:00Z",
+      "title": "Euro hoy en Paraguay: precio y cotización de la divisa este miércoles 26 de agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-miercoles-26-de-agosto-de-2026_0_ABbftu2eU1.html",
+      "published_date": "2026-08-26T10:45:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Del agua al deseo: tres muestras en el Recoleta revisan las formas de construir identidad",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/cultura/del-agua-al-deseo-tres-muestras-en-el-recoleta-revisan-las-formas-de-construir-identidad-nid25082026/",
-      "published_date": "2026-08-25T23:21:43Z",
+      "title": "Euro hoy en Nicaragua: precio y cotización de la divisa este miércoles 26 de agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este-miercoles-26-de-agosto-de-2026_0_cuuQ7DJXI2.html",
+      "published_date": "2026-08-26T10:45:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Grabois pidió al Gobierno que “expulse inmediatamente” de Tierra del Fuego al barco petrolero de bandera británica",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/grabois-pidio-al-gobierno-que-expulse-inmediatamente-de-tierra-del-fuego-al-barco-petrolero-de-nid25082026/",
-      "published_date": "2026-08-25T23:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nadia Beller: “Voy a declarar contra Cerimedo y tengo nuevas pruebas sobre corrupción”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/25/nadia-beller-voy-a-declarar-contra-cerimedo-y-tengo-nuevas-pruebas-sobre-corrupcion/",
-      "published_date": "2026-08-25T23:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bella DePaulo, psicóloga de Harvard: “La gente piensa que las personas solteras se vuelven cada vez más tristes a medida que envejecen. Pero están equivocados”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/bella-depaulo-psicologa-de-harvard-la-gente-piensa-que-las-personas-solteras-se-vuelven-cada-vez-mas-nid25082026/",
-      "published_date": "2026-08-25T23:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La serie de cinco capítulos de Netflix que revoluciona a los fanáticos de los casos criminales",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/la-serie-de-cinco-capitulos-de-netflix-que-revoluciona-a-los-fanaticos-de-los-casos-criminales-nid25082026/",
-      "published_date": "2026-08-25T23:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fentanilo contaminado: nuevas acusaciones cruzadas entre exfuncionarias confirman las irregularidades en la conducción de la Anmat",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/fentanilo-contaminado-nuevas-acusaciones-cruzadas-entre-exfuncionarias-confirman-las-irregularidades-nid25082026/",
-      "published_date": "2026-08-25T23:08:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Se desplomó en la calle con seis cachorros en su panza y, después de salvarlos, espera una familia para ella: la historia de Brunéi",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/se-desplomo-en-la-calle-con-seis-cachorros-en-su-panza-y-despues-de-salvarlos-espera-una-familia-nid25082026/",
-      "published_date": "2026-08-25T23:06:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El decorado se calla",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/el-decorado-se-calla/",
-      "published_date": "2026-08-25T23:05:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Así es la impactante participación de Helena Tuñón, la nieta de Moria Casán, en la serie de Netflix: “Es muy fuerte”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/asi-es-la-impactante-participacion-de-helena-tunon-la-nieta-de-moria-casan-en-la-serie-de-netflix-es-nid25082026/",
-      "published_date": "2026-08-25T23:05:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dua Lipa celebró sus 31 años y reveló el tierno apodo que le dice Callum Turner en la intimidad",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/dua-lipa-celebro-sus-31-anos-y-revelo-el-tierno-apodo-que-le-dice-callum-turner-en-la-intimidad-nid25082026/",
-      "published_date": "2026-08-25T23:04:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Franco Colapinto y Maia Reficco estarían otra vez juntos: la foto en Ámsterdam que lo confirmaría",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/franco-colapinto-y-maia-reficco-estarian-otra-vez-juntos-la-foto-en-amsterdam-que-lo-confirmaria-nid25082026/",
-      "published_date": "2026-08-25T23:04:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Griselda Siciliani salió al cruce de los dichos de Sabrina Rojas y lanzó una lapidaria frase",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/griselda-siciliani-salio-al-cruce-de-los-dichos-de-sabrina-rojas-y-lanzo-una-lapidaria-frase-nid25082026/",
-      "published_date": "2026-08-25T23:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quién se fue de Gran Hermano este lunes 24 de agosto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/quien-se-fue-de-gran-hermano-este-lunes-24-de-agosto-nid25082026/",
-      "published_date": "2026-08-25T23:03:32Z",
+      "title": "Euro hoy en Guatemala: precio y cotización de la divisa este miércoles 26 de agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/euro-hoy-en-guatemala-precio-y-cotizacion-de-la-divisa-este-miercoles-26-de-agosto-de-2026_0_PUKIZTB11w.html",
+      "published_date": "2026-08-26T10:45:11Z",
       "category": "Local Events"
     }
   ]
