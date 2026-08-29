@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:16:53Z",
+  "generated_at": "2026-08-29T04:05:21Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,27 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Modelo peruano",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/29/modelo-peruano/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE.UU.: la Justicia declaró ilegales las sanciones del gobierno de Donald Trump a Anthropic",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/08/28/eeuu-la-justicia-declaro-ilegales-las-sanciones-del-gobierno-de-donald-trump-a-anthropic/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina ya tiene 26 millones de gamers y crece el negocio de juguetes y coleccionables",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/argentina-ya-tiene-26-millones-de-gamers-y-crece-el-negocio-de-juguetes-y-coleccionables.phtml",
+      "published_date": "2026-08-29T02:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Después de la polémica con Milei en la ORT, Bullrich visitó un colegio y habló de “dejar ser libres” a los alumnos",
       "source": "Perfil",
@@ -130,25 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Argentine “Dubai”: which is the northern area that is growing with luxury hotels and restaurants",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/dubai-argentina-zona-norte-crece-hoteles-lujo-restaurantes_0_HQMzpiIkfd.html",
-      "published_date": "2026-08-27T20:00:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercosur: in DRC they analyzed the risks of Argentina and Brazil negotiating separately",
+      "title": "El plan del Gobierno para ceder el control operativo de Fabricaciones Militares y el peligro del 'cherry picking'",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/mercosur-en-rdc-analizaron-los-riesgos-de-que-argentina-y-brasil-negocien-por-separado.phtml",
-      "published_date": "2026-08-27T19:12:05Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/politica/plan-gobierno-ceder-control-operativo-fabricaciones-militares-peligro-cherry-picking.phtml",
+      "published_date": "2026-08-29T03:10:00Z",
+      "category": "Military"
     },
     {
-      "title": "Leo XIV expressed his “enthusiasm” for visiting Argentina and clarified that it will be a “pastoral journey.”",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/leon-xiv-expreso-su-entusiasmo-por-visitar-la-argentina-y-aclaro-que-sera-un-viaje-pastoral/",
-      "published_date": "2026-08-27T18:07:30Z",
-      "category": "Diplomacy"
+      "title": "The US Army used a laser for the first time to shoot down cartel drones",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/08/28/el-ejercito-de-eeuu-uso-por-primera-vez-un-laser-para-derribar-drones-de-carteles/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US, Colombia and Ecuador prepare joint military maneuvers against drug trafficking",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/08/28/eeuu-colombia-y-ecuador-preparan-maniobras-militares-conjuntas-contra-el-narco/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Santiago Oría, nuevo constructor del relato oficial y la guerra de guerrillas en la comunicación libertaria",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/santiago-oria-guerra-de-guerrillas-comunicacion-libertaria.phtml",
+      "published_date": "2026-08-29T02:50:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Estados Unidos advirtió al Reino Unido que podría quitarle su apoyo por Malvinas",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/08/28/estados-unidos-advirtio-al-reino-unido-que-podria-quitarle-su-apoyo-por-malvinas/",
+      "published_date": "2026-08-28T23:50:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "El Gobierno apagó el conflicto con Chile por el Estrecho de Magallanes tras un furcio militar en un podcast",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/el-gobierno-apago-el-incendio-con-chile-por-el-estrecho-de-magallanes-tras-un-furcio-en-un-podcast.phtml",
+      "published_date": "2026-08-28T23:24:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Malvinas: EE.UU. amenaza con retirar su apoyo al Reino Unido si no aumenta el gasto militar",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/malvinas-eeuu-amenaza-con-retirar-su-apoyo-al-reino-unido-si-no-aumenta-el-gasto-militar.phtml",
+      "published_date": "2026-08-28T22:52:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sabrina Ajmechet, caught between her old “indoctrination” speeches and defending Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/28/sabrina-ajmechet-atrapada-entre-sus-viejos-discursos-de-adoctrinamiento-y-la-defensa-a-milei/",
+      "published_date": "2026-08-28T22:12:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bill Gates alerta sobre los peligros de la inteligencia artificial: bioterrorismo y millones de empleos en riesgo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/bill-gates-alerta-sobre-los-peligros-de-la-inteligencia-artificial-bioterrorismo-y-millones-de-empleos-en-riesgo.phtml",
+      "published_date": "2026-08-28T21:53:00Z",
+      "category": "Military"
     },
     {
       "title": "Drones, misiles y robots: en RDC analizaron cómo la tecnología está transformando las guerras",
@@ -228,67 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "National deputy Aldo Leiva told what the aggression he received from libertarian deputies was like: \"They treated me like a clown\"",
+      "title": "Trump anunció que se queda con el petróleo de Venezuela: un acuerdo histórico por 65.000 millones de barriles",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/modo-fontevecchia/el-diputado-nacional-aldo-leiva-conto-como-fue-la-agresion-que-recibio-de-diputados-libertarios-me-trataron-de-payaso-modof.phtml",
-      "published_date": "2026-08-27T18:15:51Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/internacional/trump-anuncio-que-se-queda-con-el-petroleo-de-venezuela-un-acuerdo-historico-por-65000-millones-de-barriles.phtml",
+      "published_date": "2026-08-28T23:53:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Pezeshkian affirmed that US economic pressure will fail",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/26/pezeshkian-afirmo-que-la-presion-economica-de-eeuu-fracasara/",
-      "published_date": "2026-08-27T03:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nepal: the different theories about what caused the devastating flood on the border with China",
+      "title": "Marcelo Molina explicó en RDC la suba de la inflación en España: \"4,3% interanual, básicamente impulsada por los combustibles\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/ciencia/nepal-las-distintas-teorias-sobre-que-provoco-la-devastadora-inundacion-en-la-frontera-con-china.phtml",
-      "published_date": "2026-08-26T23:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "For Agustín Rossi, Milei is Neurus",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/26/para-agustin-rossi-milei-es-neurus/",
-      "published_date": "2026-08-26T22:32:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Classes were suspended in San Juan and some areas of Mendoza due to strong winds",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/sociedad/suspendieron-las-clases-en-san-juan-y-algunas-zonas-de-mendoza-por-fuertes-vientos.phtml",
-      "published_date": "2026-08-26T21:53:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "The head of the SIDE made his debut in Congress: he denied threats of terrorism and spoke about the reserved expenses",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-jefe-de-la-side-debuto-en-el-congreso-nego-amenazas-de-terrorismo-y-expuso-sobre-los-gastos-reservados.phtml",
-      "published_date": "2026-08-26T21:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Strike in the Armed Forces: ATE mobilizes for salaries and adds the claim for Punta Indio",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/paro-en-las-fuerzas-armadas-ate-moviliza-por-salarios-y-suma-el-reclamo-por-punta-indio/",
-      "published_date": "2026-08-26T15:28:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nació en Hialeah: Bryan Avila, el hijo de exiliados cubanos que acompaña a Byron Donalds en las elecciones de Florida",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/nacio-en-hialeah-bryan-avila-el-hijo-de-exiliados-cubanos-que-acompana-a-byron-donalds-en-las-nid25082026/",
-      "published_date": "2026-08-26T10:38:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "San Alejandro de Bérgamo, el valiente soldado romano que eligió el martirio por amor a Cristo",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cultura/san-alejandro-de-bergamo-el-valiente-soldado-romano-que-eligio-el-martirio-por-amor-a-cristo.phtml",
-      "published_date": "2026-08-26T09:03:07Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/masperfil/rdc-en-espana-el-aumento-de-los-combustibles-llevo-a-la-inflacion-al-43.phtml",
+      "published_date": "2026-08-28T21:13:03Z",
+      "category": "Energy"
     },
     {
       "title": "RDC: Estados Unidos busca asegurarse el acceso a 17 campos petroleros de Venezuela por hasta 100 años",
@@ -417,18 +431,109 @@
       "category": "Energy"
     },
     {
-      "title": "Los océanos alcanzan una temperatura récord y El Niño amenaza con intensificar el calentamiento global",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/sociedad/los-oceanos-alcanzan-una-temperatura-record-y-el-nino-amenaza-con-intensificar-el-calentamiento-global.phtml",
-      "published_date": "2026-08-25T20:43:00Z",
-      "category": "Energy"
+      "title": "To protect income from a possible crisis",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/08/28/para-blindar-ingresos-ante-la-posible-crisis/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Economy"
     },
     {
-      "title": "El plan de u$s 2700 millones para que el boom de Vaca Muerta genere lo único que le falta",
+      "title": "Segunda semana consecutiva al alza",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/08/28/segunda-semana-consecutiva-al-alza/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Benito Fernández: \"Messi es el influencer más importante que tiene la moda, hasta sale con carteras”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/protagonistas/messi-es-el-influencer-mas-importante-mundo-moda-usa-carteras-benito-fernandez.phtml",
+      "published_date": "2026-08-29T02:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Obligado, el Gobierno inaugura una nueva fase de “pragmatismo” de la mano de Karina Milei",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/obligado-el-gobierno-inaugura-una-nueva-fase-de-pragmatismo-de-la-mano-de-karina-milei.phtml",
+      "published_date": "2026-08-29T02:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Carlos Burgueño analizó en RDEco las causas de la inflación: “Falló el acuerdo político”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rde-cuales-son-las-expectativas-sobre-la-inflacion.phtml",
+      "published_date": "2026-08-28T23:24:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: Advierten por la volatilidad de los bonos y el futuro del riesgo país",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rde-advierten-por-la-volatilidad-de-los-bonos-y-analizan-el-futuro-del-riesgo-pais.phtml",
+      "published_date": "2026-08-28T23:17:41Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Salario mínimo: cómo serán los aumentos que se vienen por decreto",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-plan-de-us-2700-millones-para-que-el-boom-de-vaca-muerta-genere-lo-unico-que-le-falta/",
-      "published_date": "2026-08-25T14:20:53Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/economia-politica/salario-minimo-como-seran-los-aumentos-que-se-vienen-por-decreto/",
+      "published_date": "2026-08-28T23:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: por qué es probable que para la campaña 2027 la mora esté solucionada",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/rde-por-que-es-probable-que-para-la-campana-2027-la-mora-este-solucionada.phtml",
+      "published_date": "2026-08-28T22:59:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pedro Gaite en RDEco: “El principal problema de la economía real es que no hay consumo”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/pedro-gaite-el-principal-problema-de-la-economia-real-es-que-no-hay-consumo.phtml",
+      "published_date": "2026-08-28T22:55:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: proponen refinanciar a los endeudados para recuperar el crédito y reactivar el consumo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/mora-tasas-y-credito-como-reactivar-la-economia.phtml",
+      "published_date": "2026-08-28T22:32:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dolarización: los ahorristas compraron casi US$ 3.000 millones en julio, el monto más alto del año",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/dolarizacion-los-ahorristas-compraron-casi-us-3000-millones-en-julio-el-monto-mas-alto-del-ano-a40.phtml",
+      "published_date": "2026-08-28T22:19:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La confianza del consumidor en EE.UU. cae pese a una menor expectativa de inflación",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-confianza-del-consumidor-en-eeuu-cae-pese-a-menor-expectativa-de-inflacion.phtml",
+      "published_date": "2026-08-28T21:53:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: el giro del Gobierno con la deuda, los créditos y los fondos de ANSES",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rde-credito-hipotecario-y-anses-giro-en-la-politica-economica-del-gobierno.phtml",
+      "published_date": "2026-08-28T21:29:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Riesgo País suma cuatro unidades y se ubica en 513 puntos en el cierre de la semana bursátil",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-suma-cuatro-unidades-y-se-ubica-en-513-puntos-en-el-cierre-de-la-semana-bursatil-a35.phtml",
+      "published_date": "2026-08-28T21:26:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La cantidad de cheques rechazados sin fondos cayeron en julio, según el Banco Central",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/la-cantidad-de-cheques-rechazados-sin-fondos-cayeron-en-julio-segun-el-banco-central-a40.phtml",
+      "published_date": "2026-08-28T21:13:40Z",
+      "category": "Economy"
     },
     {
       "title": "Salario mínimo por decreto",
@@ -466,111 +571,6 @@
       "category": "Economy"
     },
     {
-      "title": "La inflación preocupa en EE.UU: el presidente de la Reserva Federal pidió sostener la meta de 2 puntos por año",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/28/la-inflacion-preocupa-en-eeuu-el-presidente-de-la-reserva-federal-pidio-sostener-la-meta-de-2-puntos-por-ano/",
-      "published_date": "2026-08-28T19:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Piso de $ 1 millón: qué se espera para los salarios y cuál es el mínimo en los diferentes convenios",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/piso-de-1-millon-que-se-espera-para-los-salarios-y-cual-es-el-minimo-en-los-diferentes-convenios/",
-      "published_date": "2026-08-28T19:08:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Comandante de EE.UU. afirma que las rutas marítimas del estrecho de Ormuz están abiertas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-comandante-de-eeuu-afirma-que-las-rutas-maritimas-del-estrecho-de-ormuz-estan-abiertas.phtml",
-      "published_date": "2026-08-28T18:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fracasó la reunión por el Salario Mínimo: los empresarios ofrecieron $6.800 de aumento y define el Gobierno",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/28/fracaso-la-reunion-por-el-salario-minimo-los-empresarios-ofrecieron-6800-de-aumento-y-define-el-gobierno/",
-      "published_date": "2026-08-28T18:21:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sin acuerdo por el Salario Mínimo: fracasó la reunión y el Gobierno definirá el nuevo monto por decreto",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/sin-acuerdo-salario-minimo-gremios-pidieron-993300empresarios-ofrecieron-suba-18-define-gobierno-a40.phtml",
-      "published_date": "2026-08-28T18:20:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cuando la economía abandona la razón y abraza la fe",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/cuando-la-economia-abandona-la-razon-y-abraza-la-fe.phtml",
-      "published_date": "2026-08-28T17:36:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sin acuerdo por el Salario Mínimo: fracasó la reunión y el Gobierno definirá el nuevo monto por decreto",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/la-cgt-se-planto-ante-el-gobierno-por-el-salario-minimo-rechazo-una-negociacion-virtual-y-reclamo-una-discusion-presencial.phtml",
-      "published_date": "2026-08-28T17:29:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "No hubo acuerdo en el Consejo del Salario y el Gobierno fijará el aumento: la CGT y las CTA abandonaron la sesión",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-consejo-del-salario-se-reune-por-primera-vez-en-el-ano-para-definir-una-suba-del-minimo-hoy-por-debajo-de-la-linea-de-pobreza/",
-      "published_date": "2026-08-28T16:45:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La ANMAT retiró del mercado todos los productos de una marca de limpieza",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/sociedad/anmat-retiro-del-mercado-todos-los-productos-de-una-marca-de-limpieza.phtml",
-      "published_date": "2026-08-28T15:58:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Peleado con Trump y Milei e impulsado por la economía: así larga Lula su campaña",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/peleado-con-trump-y-milei-e-impulsado-por-la-economia-asi-larga-lula-su-campana/",
-      "published_date": "2026-08-28T15:17:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Avanza la reforma del BCRA: la hoja de ruta de Redrado para garantizar su independencia para siempre",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/redrado-explico-como-deberia-seguir-la-reforma-de-la-carta-organica-del-bcra-discutir-los-nombres/",
-      "published_date": "2026-08-28T14:45:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Arrancó el “mini RIGI” para Pymes: qué incentivos ofrece el RIMI y cómo inscribirse",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/arranco-el-mini-rigi-para-pymes-que-incentivos-ofrece-el-rimi-y-como-inscribirse/",
-      "published_date": "2026-08-28T14:32:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jugó al fútbol en Francia, se enamoró de la pastelería, importa hasta la manteca y quiere federalizar el croissant",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/jugo-al-futbol-en-francia-se-enamoro-de-la-pasteleria-importa-hasta-la-manteca-y-quiere-federalizar-el-croissant/",
-      "published_date": "2026-08-28T14:06:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 28 de agosto de 2026",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/28/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-28-de-agosto-de-2026-clone/",
-      "published_date": "2026-08-28T11:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Regreso de un tren estratégico: cómo es el proyecto para exportar millones de toneladas por un ramal olvidado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/regreso-de-un-tren-estrategico-como-es-el-proyecto-para-exportar-millones-de-toneladas-por-un-ramal-olvidado/",
-      "published_date": "2026-08-28T11:14:46Z",
-      "category": "Economy"
-    },
-    {
       "title": "The Government puts the magnifying glass on university funds in the run-up to the march",
       "source": "El Cronista",
       "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-la-lupa-sobre-los-fondos-de-las-universidades-en-la-previa-de-la-marcha/",
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, viernes 28 de agosto",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-viernes-28-agosto_0_JhcERirBbZ.html",
-      "published_date": "2026-08-28T21:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, viernes 28 de agosto",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-viernes-28-agosto_0_X3DYGjJsyN.html",
-      "published_date": "2026-08-28T21:02:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, viernes 28 de agosto",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-viernes-28-agosto_0_XOETQZss2C.html",
-      "published_date": "2026-08-28T21:01:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gobernador mexicano niega que EE.UU. lo investiga por nexos con el narcotráfico",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/gobernador-mexicano-niega-que-ee-uu-lo-investiga-por-nexos-con-el-narcotrafico_0_dXUqhdh2zv.html",
-      "published_date": "2026-08-28T21:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, viernes 28 de agosto",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-viernes-28-agosto_0_G70EsAqYAj.html",
-      "published_date": "2026-08-28T21:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Gobierno saca del freezer los pliegos de dos candidatos vinculados a Chiqui Tapia y a otro de origen K",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/gobierno-saca-freezer-pliegos-candidatos-vinculados-chiqui-tapia-origen-k_0_om3wRWvrKw.html",
-      "published_date": "2026-08-28T20:57:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alejandro Stoessel atacó a piedrazos a periodistas en medio del escándalo por el patrimonio de Tini: las imágenes",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/fama/alejandro-stoessel-ataco-piedrazos-periodistas-medio-escandalo-patrimonio-tini_0_MZUO2ahQKz.html",
-      "published_date": "2026-08-28T20:51:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Banco Nación consolida su liderazgo en el financiamiento al agro, con una cartera agropecuaria de $4,5 billones y crecimiento récord",
+      "title": "Maquillado para pasar la gorra",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/28/el-banco-nacion-consolida-su-liderazgo-en-el-financiamiento-al-agro-con-una-cartera-agropecuaria-de-45-billones-y-crecimiento-record/",
-      "published_date": "2026-08-28T20:51:13Z",
+      "url": "https://www.pagina12.com.ar/2026/08/29/maquillado-para-pasar-la-gorra/",
+      "published_date": "2026-08-29T03:23:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Lavado de dinero: insólita compra de 300 mil dólares en fichas en el casino de Mar del Plata que luego se cambiaron por efectivo en el de Tigre",
+      "title": "La Liga y la tradición de la sorpresa",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/deportes/la-liga-y-la-tradicion-de-la-sorpresa.phtml",
+      "published_date": "2026-08-29T03:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Oberá, Misiones: el pronóstico del tiempo para este sábado 29 agosto de 2026",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/lavado-dinero-insolita-compra-300-mil-dolares-fichas-casino-mar-plata-luego-cambiaron-efectivo-tigre_0_omwa8zt05W.html",
-      "published_date": "2026-08-28T20:43:40Z",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-obera-misiones-pronostico-tiempo-sabado-29-agosto-2026_0_Y3GcGVoTQc.html",
+      "published_date": "2026-08-29T03:18:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Laura Fogar juró como diputada en medio de cambios internos en Primero Chaco",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/laura-fogar-juro-como-diputada-en-medio-de-cambios-internos-en-primero-chaco.phtml",
-      "published_date": "2026-08-28T20:42:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cerimedo declaró ante la Justicia de Bolivia que gana un millón de dólares por mes y confirmó que fue asesor del presidente Rodrigo Paz",
+      "title": "Clima hoy en Nueva Atlantis, Buenos Aires: el pronóstico del tiempo para este sábado 29 agosto de 2026",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/cerimedo-declaro-justicia-bolivia-gana-millon-dolares-mes-confirmo-asesor-presidente-rodrigo-paz_0_yR5WzfJabD.html",
-      "published_date": "2026-08-28T20:32:48Z",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-nueva-atlantis-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_rLq5bjfVlQ.html",
+      "published_date": "2026-08-29T03:18:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Personal impulsa una nueva edición de Chicas digitalers \npara acercar a más adolescentes \nal mundo de la tecnología",
+      "title": "Weather today in Necochea, Buenos Aires: the weather forecast for this Saturday, August 29, 2026",
       "source": "Clarín",
-      "url": "https://www.clarin.com/brandstudio/personal-impulsa-nueva-edicion-chicas-digitalers-acercar-adolescentes-mundo-tecnologia_0_9VJjFzvfn4.html",
-      "published_date": "2026-08-28T20:32:41Z",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-necochea-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_7x9KwbIBM7.html",
+      "published_date": "2026-08-29T03:18:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Lotería quiere que las agencias sumen turismo a sus propuestas comerciales",
+      "title": "Weather today in Morón, Buenos Aires: the weather forecast for this Saturday, August 29, 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-moron-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_qQbNzdv0H6.html",
+      "published_date": "2026-08-29T03:17:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Monte Hermoso, Buenos Aires: el pronóstico del tiempo para este sábado 29 agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-monte-hermoso-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_Gy8A7R8ekI.html",
+      "published_date": "2026-08-29T03:17:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Moreno, Buenos Aires: el pronóstico del tiempo para este sábado 29 agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-moreno-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_bQBGDTugfk.html",
+      "published_date": "2026-08-29T03:17:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Mina Clavero, Córdoba: el pronóstico del tiempo para este sábado 29 agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-mina-clavero-cordoba-pronostico-tiempo-sabado-29-agosto-2026_0_ZjNSTYJAgB.html",
+      "published_date": "2026-08-29T03:17:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather today in Miramar, Buenos Aires: the weather forecast for this Saturday, August 29, 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-miramar-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_Cj3VIxL9ex.html",
+      "published_date": "2026-08-29T03:17:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Merlo, San Luis: el pronóstico del tiempo para este sábado 29 agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-merlo-san-luis-pronostico-tiempo-sabado-29-agosto-2026_0_HPbu0qhkMR.html",
+      "published_date": "2026-08-29T03:17:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Merlo, Buenos Aires: el pronóstico del tiempo para este sábado 29 agosto de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-merlo-buenos-aires-pronostico-tiempo-sabado-29-agosto-2026_0_zzwj362pqv.html",
+      "published_date": "2026-08-29T03:17:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El adiós al popular Rubén Rada",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/loteria-quiere-que-las-agencias-sumen-turismo-a-sus-propuestas-comerciales.phtml",
-      "published_date": "2026-08-28T20:29:14Z",
+      "url": "https://www.perfil.com/noticias/sociedad/el-adios-al-popular-ruben-rada.phtml",
+      "published_date": "2026-08-29T03:06:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Miguel Steuermann: “Las autoridades de la ORT y la DAIA no ven los problemas que genera la identificación que Milei tiene con el judaísmo”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/modo-fontevecchia/miguel-steuerman-las-autoridades-de-la-ort-y-la-daia-no-ven-los-problemas-que-genera-la-identificacion-que-milei-tiene-con-el-judaismo-modof.phtml",
-      "published_date": "2026-08-28T20:23:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caso Exen: cinco procesados por lavado, tres a cárcel federal y embargos millonarios",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/caso-exen-cinco-procesados-por-lavado-tres-a-carcel-federal-y-embargos-millonarios.phtml",
-      "published_date": "2026-08-28T20:21:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Graciela Lazarte: “Córdoba tiene un gran potencial, el centro es fantástico”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/boom-inmobiliario-en-la-avenida-luchesse-cordoba-tiene-un-gran-potencial-el-centro-es-fantastico.phtml",
-      "published_date": "2026-08-28T20:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un exdirector de la ORT criticó la presencia de Milei en la escuela",
+      "title": "Un palo en la rueda para ayudar a los endeudados",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/28/un-exdirector-de-la-ort-critico-la-presencia-de-milei-en-la-escuela/",
-      "published_date": "2026-08-28T20:03:42Z",
+      "url": "https://www.pagina12.com.ar/2026/08/29/un-palo-en-la-rueda-para-ayudar-a-los-endeudados-2/",
+      "published_date": "2026-08-29T03:01:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Un heredero de los “reyes” del azúcar, cerca de comprar un gran ingenio y consolidar otro imperio",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/un-heredero-de-los-reyes-del-azucar-cerca-de-comprar-otro-gran-ingenio-y-consolidar-otro-imperio/",
-      "published_date": "2026-08-28T20:01:37Z",
+      "title": "La mala hora digital del Gobierno",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/28/la-mala-hora-digital-del-gobierno/",
+      "published_date": "2026-08-29T03:01:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La trastienda del discurso de Javier Milei en la ORT",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/30/la-trastienda-del-discurso-de-javier-milei-en-la-ort/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cerimedo, el asesor de la ultraderecha",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/29/cerimedo-el-asesor-de-la-ultraderecha-2/",
+      "published_date": "2026-08-29T03:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La injerencia en la elección colombiana",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/28/la-injerencia-en-la-eleccion-colombiana/",
+      "published_date": "2026-08-29T03:01:00Z",
       "category": "Local Events"
     }
   ]
