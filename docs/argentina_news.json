@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:22:37Z",
+  "generated_at": "2026-08-30T01:11:18Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,20 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Milei and the model's traumatic funeral",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/08/29/milei-y-el-traumatico-sepelio-del-modelo/",
+      "published_date": "2026-08-29T23:47:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Día del Abogado: por qué se celebra este 29 de agosto y quién es la figura histórica que dio origen a la fecha",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/efemerides/dia-del-abogado-por-que-se-celebra-este-29-de-agosto-y-quien-es-la-figura-historica-que-dio-origen-a-la-fecha.phtml",
+      "published_date": "2026-08-29T15:02:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "La campaña de Lula en la Argentina toma fuerza",
       "source": "Página/12 — El Mundo",
@@ -137,18 +151,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Second anti-Peronist summit: La Libertad Avanza and the PRO define their alliance for 2027",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/28/segunda-cumbre-antiperonista-la-libertad-avanza-y-el-pro-definen-su-alianza-para-2027/",
-      "published_date": "2026-08-28T03:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada's Prime Minister responds to Trump over Lake Ontario's name change",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/28/el-primer-ministro-de-canada-le-respondio-a-trump-por-el-cambio-de-nombre-del-lago-ontario/",
-      "published_date": "2026-08-28T00:25:21Z",
-      "category": "Diplomacy"
+      "title": "Un armisticio o la guerra judicial: la interna UCR entra en su fase decisiva por las impugnaciones",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/un-armisticio-o-la-guerra-judicial-la-interna-ucr-entra-en-su-fase-decisiva-por-las-impugnaciones.phtml",
+      "published_date": "2026-08-29T16:15:07Z",
+      "category": "Military"
     },
     {
       "title": "Afirman que Rusia solo tiene un 7% de chances de ganar la guerra",
@@ -284,11 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Ratko Mladic, one of the biggest genocidal perpetrators of the Balkan war, died",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/27/murio-ratko-mladic-uno-de-los-mayores-genocidas-de-la-guerra-de-los-balcanes/",
-      "published_date": "2026-08-27T19:48:12Z",
-      "category": "Military"
+      "title": "Bombean aire en túneles de represas en Nepal: creen que hay obreros atrapados todavía con vida",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/bombean-aire-en-tuneles-de-represas-en-nepal-creen-que-podria-haber-100-trabajadores-todavia-con-vida.phtml",
+      "published_date": "2026-08-29T18:20:11Z",
+      "category": "Energy"
     },
     {
       "title": "The United States kept 65 million barrels of Venezuelan oil",
@@ -424,11 +431,53 @@
       "category": "Energy"
     },
     {
-      "title": "Dos operarios murieron durante un accidente en un yacimiento de Vaca Muerta",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-operario-murio-y-otro-resulto-herido-durante-un-accidente-en-un-yacimiento-de-vaca-muerta-nid25082026/",
-      "published_date": "2026-08-26T11:14:13Z",
-      "category": "Energy"
+      "title": "Low salaries, no social work and debt, the stories behind suicides in the security forces",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/30/bajos-sueldos-sin-obra-social-y-con-deudas-las-historias-detras-de-los-suicidios-en-las-fuerzas-de-seguridad/",
+      "published_date": "2026-08-30T00:14:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The Government loosened rates, the dollar exceeded $1,500 and the market is already discussing how much more it can rise",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-gobierno-aflojo-las-tasas-el-dolar-supero-los-1500-y-el-mercado-ya-discute-cuanto-mas-puede-subir/",
+      "published_date": "2026-08-30T00:11:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Colombia should take advantage of the fact that Trump approved importing 300,000 tons of meat, says union",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/colombia-debe-aprovechar-que-trump-aprobo-importar-300-000-toneladas-de-carne-dice-gremio_0_INnj7FK2qf.html",
+      "published_date": "2026-08-30T00:10:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Offer what there is, deny what is missing",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/08/29/ofrece-lo-que-hay-niega-lo-que-falta/",
+      "published_date": "2026-08-29T21:54:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Without a mask: digitized usury",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/29/sin-antifaz-la-usura-digitalizada/",
+      "published_date": "2026-08-29T20:05:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The harsh warning to the Government about 2027: “If the people's economy does not improve…”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-dura-advertencia-al-gobierno-sobre-2027-si-no-mejora-la-economia-de-la-gente/",
+      "published_date": "2026-08-29T17:21:23Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Aerospace engineer and economist, put in US$50,000 and invoices US$25 million “saving” food",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/ingeniero-aeroespacial-y-economista-puso-us-50000-y-factura-us-25-millones-salvando-comida/",
+      "published_date": "2026-08-29T15:21:15Z",
+      "category": "Economy"
     },
     {
       "title": "Cachanosky: \"Hasta ahora el gobierno ha sido una máquina de demoler empresas\"",
@@ -515,59 +564,10 @@
       "category": "Economy"
     },
     {
-      "title": "To protect income from a possible crisis",
+      "title": "Makeup to pass the cap",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/28/para-blindar-ingresos-ante-la-posible-crisis/",
-      "published_date": "2026-08-29T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Segunda semana consecutiva al alza",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/08/28/segunda-semana-consecutiva-al-alza/",
-      "published_date": "2026-08-29T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Benito Fernández: \"Messi es el influencer más importante que tiene la moda, hasta sale con carteras”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/protagonistas/messi-es-el-influencer-mas-importante-mundo-moda-usa-carteras-benito-fernandez.phtml",
-      "published_date": "2026-08-29T02:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Obligado, el Gobierno inaugura una nueva fase de “pragmatismo” de la mano de Karina Milei",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/obligado-el-gobierno-inaugura-una-nueva-fase-de-pragmatismo-de-la-mano-de-karina-milei.phtml",
-      "published_date": "2026-08-29T02:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Carlos Burgueño analizó en RDEco las causas de la inflación: “Falló el acuerdo político”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rde-cuales-son-las-expectativas-sobre-la-inflacion.phtml",
-      "published_date": "2026-08-28T23:24:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: Advierten por la volatilidad de los bonos y el futuro del riesgo país",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-rde-advierten-por-la-volatilidad-de-los-bonos-y-analizan-el-futuro-del-riesgo-pais.phtml",
-      "published_date": "2026-08-28T23:17:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Salario mínimo: cómo serán los aumentos que se vienen por decreto",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/salario-minimo-como-seran-los-aumentos-que-se-vienen-por-decreto/",
-      "published_date": "2026-08-28T23:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: por qué es probable que para la campaña 2027 la mora esté solucionada",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/rde-por-que-es-probable-que-para-la-campana-2027-la-mora-este-solucionada.phtml",
-      "published_date": "2026-08-28T22:59:07Z",
+      "url": "https://www.pagina12.com.ar/2026/08/29/maquillado-para-pasar-la-gorra/",
+      "published_date": "2026-08-29T03:23:15Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "IOMA and the administration of economic resources",
+      "title": "The search for stolen babies as a state obligation",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/08/29/ioma-y-la-administracion-de-los-recursos-economicos/",
-      "published_date": "2026-08-29T15:13:48Z",
+      "url": "https://www.pagina12.com.ar/2026/08/30/la-busqueda-de-los-bebes-robados-como-obligacion-de-estado/",
+      "published_date": "2026-08-30T00:32:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Diputado sobre el \"adoctrinamiento ideológico\" de Milei: \"Silencio de los republicanos intermitentes...\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/diputado-sobre-el-adoctrinamiento-ideologico-de-milei-silencio-de-los-republicanos-intermitentes.phtml",
-      "published_date": "2026-08-29T14:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germán Delfino explained why the VAR did not call Pablo Dóvalo in Leonel Flores' controversial entry that could have been red",
+      "title": "US judge declares unconstitutional the deportation of students for criticism of Israel",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/german-delfino-explico-var-llamo-pablo-dovalo-polemica-entrada-leonel-flores-podria-roja_0_uRr3DkIaX6.html",
-      "published_date": "2026-08-29T14:35:43Z",
+      "url": "https://www.clarin.com/estados-unidos/jueza-de-eeuu-declara-inconstitucional-la-deportacion-de-estudiantes-por-criticas-a-israel_0_ivNIu5ivuw.html",
+      "published_date": "2026-08-30T00:30:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Córdoba Lottery: result of today's Morning draw, Saturday, August 29",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-sabado-29-agosto_0_QV0jLfTsBA.html",
-      "published_date": "2026-08-29T14:31:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fito Páez vuelve a Netflix con un documental íntimo sobre su vida, el amor y la música",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/espectaculos/fito-paez-vuelve-a-netflix-con-un-documental-intimo-sobre-su-vida-el-amor-y-la-musica.phtml",
-      "published_date": "2026-08-29T14:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netflix estrena “Al descubierto: Mr T” y revelara la historia detrás del ícono de los 80",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/espectaculos/netflix-estrena-al-descubierto-mr-t-y-revelara-la-historia-detras-del-icono-de-los-80.phtml",
-      "published_date": "2026-08-29T14:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las Leonas vs Netherlands, for the final of the Hockey World Cup, LIVE: how it goes, result and minute by minute of the match",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/leonas-vs-paises-bajos-final-mundial-hockey-vivo-hora-formaciones-ver-partido_0_adlVNmai9P.html",
-      "published_date": "2026-08-29T14:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chacarita and Concordia provide AI to 7,000 organizations in 15 countries",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/economia/chacarita-concordia-provee-ia-7000-organizaciones-15-paises_0_MyYbevQqfy.html",
-      "published_date": "2026-08-29T14:19:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leandro Paredes confessed that he rushed his return: \"I played a little shit\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/leandro-paredes-confeso-apuro-regreso-jugue-cagado_0_hK0rSF2wvj.html",
-      "published_date": "2026-08-29T14:18:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The minor mistakes that put young people with DACA on the brink of deportation in the US",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/los-errores-menores-que-ponen-a-jovenes-con-daca-al-borde-de-la-deportacion-en-ee-uu_0_TrV1RUmaKh.html",
-      "published_date": "2026-08-29T14:10:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nicolás Russo exploded against the VAR after Lanús's defeat against Boca: \"I would prefer that Delfino not direct us anymore\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/nicolas-russo-exploto-var-derrota-lanus-boca-preferiria-delfino-dirija_0_vUcTQCQIN6.html",
-      "published_date": "2026-08-29T14:09:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chau showrooms y renders: crearon la solución digital “soñada” para vender departamentos en pozo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/chau-showrooms-y-renders-crearon-la-solucion-digital-sonada-para-vender-departamentos-en-pozo/",
-      "published_date": "2026-08-29T14:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ni billetera libre ni control total: el desafío de educar a los hijos en la era del dinero invisible",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/ni-billetera-libre-ni-control-total-el-desafio-de-educar-a-los-hijos-en-la-era-del-dinero-invisible/",
-      "published_date": "2026-08-29T13:57:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rusia bombardeó un depósito de municiones y desató un infierno cerca de Kiev: al menos 37 muertos",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/actualidad/rusia-bombardeo-un-deposito-que-guardaba-municiones-y-explosivos-en-kiev-al-menos-37-muertos.phtml",
-      "published_date": "2026-08-29T13:34:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El riesgo “menos visible” de la IA: una generación que revisa sin haber aprendido a hacer",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/el-riesgo-menos-visible-de-la-ia-una-generacion-que-revisa-sin-haber-aprendido-a-hacer/",
-      "published_date": "2026-08-29T13:29:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perks of the job: ICE arrested a Trump propagandist",
+      "title": "The Bolsonaros do not talk about their friend Cerimedo",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/08/29/gajes-del-oficio-el-ice-arresto-a-un-propagandista-de-trump/",
-      "published_date": "2026-08-29T13:14:21Z",
+      "url": "https://www.pagina12.com.ar/2026/08/30/los-bolsonaro-y-el-amigo-cerimedo/",
+      "published_date": "2026-08-30T00:30:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Actividad económica: Ferreres puso en duda el rebote, pero un sector estratégico sigue acelerando",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/actividad-economica-ferreres-puso-en-duda-el-rebote-pero-un-sector-estrategico-sigue-acelerando/",
-      "published_date": "2026-08-29T13:13:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La lupa sobre María Soledad Calle: propiedades, 114 viajes y el vínculo con la empresa que manejaba fondos de la UOM",
+      "title": "Verbenas Housing, de Pilay, superó el 50% de obra y ya entregó más de 70 unidades",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/judiciales/la-lupa-sobre-maria-soledad-calle-propiedades-114-viajes-y-el-vinculo-con-la-empresa-que-manejaba-fondos-de-la-uom.phtml",
-      "published_date": "2026-08-29T13:09:52Z",
+      "url": "https://www.perfil.com/noticias/cordoba/verbenas-housing-de-pilay-supero-el-50-de-obra-y-ya-entrego-mas-de-70-unidades.phtml",
+      "published_date": "2026-08-30T00:29:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Provincial Lottery: result of today's Night Draw, Saturday, August 29",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-sabado-29-agosto_0_AMcI340Hbm.html",
+      "published_date": "2026-08-30T00:26:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lali Espósito's exotic bachelorette party in Brazil: beach, drinks and bowling",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/fama/exotica-despedida-soltera-lali-esposito-brasil-playa-tragos-boliche_0_2TA77LQRjV.html",
+      "published_date": "2026-08-30T00:21:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fernando Cerimedo and the art of dirty business",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/30/fernando-cerimedo-y-el-arte-de-los-negocios-sucios/",
+      "published_date": "2026-08-30T00:16:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What the sailor proverb means about leadership in difficult times: “You can't steer a ship from land”",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/significa-proverbio-marinero-liderazgo-momentos-dificiles-puede-dirigir-barco-tierra_0_IuzQWyCb8B.html",
+      "published_date": "2026-08-30T00:12:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“They ruined my life”: Cerimedo must serve a second preventive detention in a maximum security prison",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/me-arruinaron-la-vida-cerimedo-debera-cumplir-una-segunda-prision-preventiva-en-una-carcel-de-maxima-seguridad/",
+      "published_date": "2026-08-30T00:09:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La tercera historia: escuchar a los hijos cuando los padres ya no se escuchan",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/la-tercera-historia-escuchar-a-los-hijos-cuando-los-padres-ya-no-se-escuchan.phtml",
+      "published_date": "2026-08-30T00:05:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian F1 GP: race schedules, how and where to watch Formula 1",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/f1-gp-italia-horarios-carrera-ver-formula-1_0_7DyCoCWXvj.html",
+      "published_date": "2026-08-29T23:59:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The story of a roe deer that returned to live in freedom after being rescued with broken antlers and wounds on its face: \"That last look back... as if it were just checking that it was free to go, beautiful to see\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/historia-corzo-volvio-vivir-libertad-rescatado-astas-rotas-heridas-rostro-ultima-mirada-solo-comprobando-libre-irse-hermoso-ver_0_A53xk3rry1.html",
+      "published_date": "2026-08-29T23:49:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Bolivian justice system issued a second preventive detention to Fernando Cerimedo",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/29/la-justicia-boliviana-dicto-una-segunda-prision-preventiva-a-fernando-cerimedo/",
+      "published_date": "2026-08-29T23:49:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesta y tensión en Buenos Aires: cientos de manifestantes exigieron el \"desalojo\" de Peter Thiel frente a su mansión",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/protesta-y-tension-en-buenos-aires-cientos-de-manifestantes-exigieron-el-desalojo-de-peter-thiel-frente-a-su-mansion.phtml",
+      "published_date": "2026-08-29T23:45:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fiorentina celebrated its 100 years with Batistuta on the field but the Mastantuono team was beaten by the humble Frosinone",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/fiorentina-festejo-100-anos-batistuta-cancha-equipo-mastantuono-cayo-goleado-humilde-frosinone_0_dpoH70WNa3.html",
+      "published_date": "2026-08-29T23:44:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strong storm of rain, wind and hail leaves two dead in southern Brazil, destruction in Paraguay and damage in Misiones",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/sociedad/fuerte-temporal-lluvia-viento-granizo-deja-muertos-sur-brasil-destrozos-paraguay-danos-misiones_0_hEWiI93pC5.html",
+      "published_date": "2026-08-29T23:42:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haakon VIII, the new king of Norway, gave his first speech from the Royal Palace at the age of 53 and broke down when speaking to Sonia, the dowager queen: \"Happy wedding anniversary, mom\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/haakon-viii-nuevo-rey-noruega-pronuncio-primer-discurso-palacio-real-53-anos-quebro-hablarle-sonia-reina-viuda-feliz-aniversario-bodas-mama_0_MDQW5ChEcd.html",
+      "published_date": "2026-08-29T23:34:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Court's game to favor the repressors",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/08/29/el-juego-de-la-corte-para-favorecer-a-los-represores/",
+      "published_date": "2026-08-29T23:31:57Z",
       "category": "Local Events"
     }
   ]
