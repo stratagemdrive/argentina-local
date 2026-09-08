@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:11:22Z",
+  "generated_at": "2026-09-08T01:03:51Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,90 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Cuál es la estrategia opositora para desnudar el giro malvinero de Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/07/las-contradicciones-del-giro-malvinero-de-milei-se-pondran-a-prueba-en-el-congreso/",
+      "published_date": "2026-09-09T00:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The friendlies of the Argentine National Team: why the official announcement was delayed and the two peculiar African rivals that are emerging",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/amistosos-seleccion-argentina-demoro-anuncio-oficial-peculiares-rivales-africanos-perfilan_0_N8mfMRLCsz.html",
+      "published_date": "2026-09-08T00:10:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The law SB 305 that allows fines of up to US$1,250 for drivers who violate speed limits in Texas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/texas/la-ley-sb-305-que-habilita-multas-de-hasta-us1250-a-conductores-que-incumplan-limites-de-velocidad-nid06092026/",
+      "published_date": "2026-09-07T23:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The five Argentine mountains that were selected to represent the country in an international competition",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/las-cinco-montanas-argentinas-que-fueron-seleccionadas-para-representar-al-pais-en-un-certamen-nid07092026/",
+      "published_date": "2026-09-07T23:17:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump spoke again with the British prime minister after using the Malvinas to pressure London",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/07/trump-volvio-a-hablar-con-el-premier-britanico-tras-usar-malvinas-para-presionar-a-londres/",
+      "published_date": "2026-09-07T22:49:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei met with Tesla managers: could Elon Musk come to Argentina?",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/milei-se-reunio-con-los-directivos-de-tesla-podria-venir-elon-musk-a-la-argentina/",
+      "published_date": "2026-09-07T22:14:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La selección demora el anuncio de sus amistosos por una cuestión reglamentaria que afecta la lista de Scaloni",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-seleccion-demora-el-anuncio-de-sus-amistosos-por-una-cuestion-reglamentaria-que-afecta-la-lista-nid07092026/",
+      "published_date": "2026-09-07T21:39:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Montañismo: 4 testimonios de los que se animaron a hacer cumbre en las picos más famosos del mundo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/montanismo-4-testimonios-de-los-que-se-animaron-a-hacer-cumbre-en-las-montanas-mas-famosas-del-mundo-nid06092026/",
+      "published_date": "2026-09-07T21:36:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exportación de carne vacuna: la oportunidad para Argentina tras la suspensión de Brasil en la Unión Europea",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/canal-e/exportacion-de-carne-vacuna-la-oportunidad-para-argentina-tras-la-suspension-de-brasil-en-la-union-europea.phtml",
+      "published_date": "2026-09-07T21:23:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei met the Cabinet and defined how the Government will advance with the Malvinas project",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/milei-reunio-al-gabinete-y-definio-como-avanzara-el-gobierno-con-el-proyecto-por-malvinas.phtml",
+      "published_date": "2026-09-07T20:05:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei encabezó la reunión de gabinete con la mira en la agenda legislativa y Malvinas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/07/milei-encabezo-la-reunion-de-gabinete-con-la-mira-en-la-agenda-legislativa-y-malvinas/",
+      "published_date": "2026-09-07T18:40:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba will win",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/07/cuba-vencera/",
+      "published_date": "2026-09-07T16:31:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Las Malvinas son argentinas",
       "source": "Página/12 — El País",
@@ -67,88 +151,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Un gigante brasileño desembarca en la Argentina y permite invertir en EE.UU. desde US$5",
+      "title": "The secretary of Malvinas de Tierra del Fuego asks for one more step and to repeal the Investment Treaty with the United Kingdom: \"It is a geopolitical error\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/secretario-malvinas-tierra-fuego-pide-paso-derogar-tratado-inversiones-reino-unido-error-geopolitico_0_rgBHooZbGS.html",
+      "published_date": "2026-09-08T00:36:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Government announced that it will criminally denounce the oil company Navitas and other companies for exploration in the Malvinas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/IA/un-gigante-brasileno-que-permite-invertir-de-forma-directa-en-estados-unidos-llego-a-la-argentina-nid07092026/",
-      "published_date": "2026-09-07T14:34:06Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-anuncio-que-denunciara-penalmente-a-la-petrolera-navitas-por-actividades-petroleras-en-nid07092026/",
+      "published_date": "2026-09-08T00:03:00Z",
+      "category": "Military"
     },
     {
-      "title": "Batacazo en la zona núcleo: el nuevo intendente de Marcos Juárez viene de una importante trayectoria ligada al campo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/batacazo-en-la-zona-agricola-nucleo-el-nuevo-intendente-de-marcos-juarez-viene-de-una-importante-nid07092026/",
-      "published_date": "2026-09-07T14:25:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reclamo por Malvinas: Quirno afirmó que no paró de atender llamados de empresas luego que Milei anunciara sanciones",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/reclamo-por-malvinas-quirno-afirmo-que-no-paro-de-atender-llamados-de-empresas-luego-que-milei-anunciara-sanciones.phtml",
-      "published_date": "2026-09-07T09:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei convocará a una nueva cumbre en Casa Rosada el día antes de presentar el Presupuesto 2027",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/milei-convocara-a-una-nueva-cumbre-en-casa-rosada-el-dia-antes-de-presentar-el-presupuesto-2027/",
-      "published_date": "2026-09-07T09:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei gana tiempo, pero no cambia el juego",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/milei-gana-tiempo-pero-no-cambia-el-juego-nid06092026/",
-      "published_date": "2026-09-07T00:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Interns in the Foreign Ministry: Nobody believes in the alleged Malvinas turn of Javier Milei",
+      "title": "Milei se aferra a la motosierra",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/06/internas-en-la-cancilleria-nadie-cree-en-el-supuesto-giro-malvinero-de-javier-milei/",
-      "published_date": "2026-09-06T23:16:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/07/milei-se-aferra-a-la-motosierra/",
+      "published_date": "2026-09-07T23:49:00Z",
+      "category": "Military"
     },
     {
-      "title": "Rubio, US sanctions and his theory of Cuba as a failed state",
+      "title": "The left can be key for the extreme right to form a government in Saxony-Anhalt",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/06/rubio-las-sanciones-de-eeuu-y-su-teoria-de-cuba-como-estado-fallido/",
-      "published_date": "2026-09-06T21:43:29Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/07/la-izquierda-puede-ser-clave-para-que-la-ultraderecha-forme-gobierno-en-sajonia-anhalt/",
+      "published_date": "2026-09-07T23:47:08Z",
+      "category": "Military"
     },
     {
-      "title": "La ultraderecha arrasa en Sajonia-Anhalt y se posiciona para gobernar por primera vez en un estado alemán",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-ultraderecha-arrasa-en-sajonia-anhalt-y-se-posiciona-para-gobernar-por-primera-vez-en-un-estado-nid06092026/",
-      "published_date": "2026-09-06T21:21:17Z",
-      "category": "Diplomacy"
+      "title": "Rafael Bielsa sobre Malvinas: \"No hubo inteligencia en el Poder Ejecutivo, sino oportunismo y rapiña, y los desprecio por eso\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/rafael-bielsa-sobre-malvinas-no-hubo-inteligencia-en-el-poder-ejecutivo-sino-oportunismo-y-rapina-y-los-desprecio-por-eso.phtml",
+      "published_date": "2026-09-07T23:45:00Z",
+      "category": "Military"
     },
     {
-      "title": "Uno por uno: el mantra que debe repetir cada signo del Zodíaco para tener suerte en septiembre en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/horoscopo/uno-por-uno-el-mantra-que-debe-repetir-cada-signo-del-zodiaco-para-tener-suerte-en-septiembre-en-la-nid06092026/",
-      "published_date": "2026-09-06T19:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Malvinas and oil: Milei's bet with Trump that clashes with London and triggers alerts in China and Brazil",
+      "title": "The Government denounced the oil companies that operate in the Malvinas and ordered to prioritize the Naval Base in the 2027 Budget",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/malvinas-y-petroleo-la-apuesta-de-milei-con-trump-que-choca-con-londres-y-dispara-alertas-en-china-y-brasil/",
-      "published_date": "2026-09-06T16:35:33Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/el-gobierno-denuncio-penalmente-a-las-petroleras-que-operan-en-malvinas-y-ordeno-priorizar-la-base-naval-en-el-presupuesto-2027/",
+      "published_date": "2026-09-07T23:27:46Z",
+      "category": "Military"
     },
     {
-      "title": "“No hubo inteligencia en el Ejecutivo, solo oportunismo y rapiña”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/06/no-hubo-inteligencia-en-el-ejecutivo-solo-oportunismo-y-rapina/",
-      "published_date": "2026-09-06T13:21:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuándo cae el Día del Profesor en septiembre 2026 en la Argentina",
+      "title": "Environmentalists and war veterans went to court to stop the Sea Lion project in the Malvinas area of ​​influence",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/cuando-cae-el-dia-del-profesor-en-septiembre-2026-en-la-argentina-nid02092026/",
-      "published_date": "2026-09-06T13:09:53Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/politica/ambientalistas-y-veteranos-de-guerra-fueron-a-la-justicia-para-frenar-el-proyecto-sea-lion-en-la-nid07092026/",
+      "published_date": "2026-09-07T23:03:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "A powerful Israeli minister asks Netanyahu to recognize Argentine sovereignty over the Malvinas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/un-poderoso-ministro-de-israel-le-pide-a-netanyahu-que-reconozca-la-soberania-argentina-sobre-nid07092026/",
+      "published_date": "2026-09-07T22:52:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "With the absence of government officials, Brazil renewed its support for the Argentine claim for the Malvinas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/con-la-ausencia-de-diplomaticos-del-gobierno-brasil-renovo-su-apoyo-al-reclamo-argentino-por-las-nid07092026/",
+      "published_date": "2026-09-07T22:42:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "A key Israeli official came out in support of Argentina over the Malvinas and made a request to Netanyahu",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/un-funcionario-clave-de-israel-salio-en-apoyo-de-argentina-por-malvinas-y-le-hizo-un-pedido-a-netanyahu/",
+      "published_date": "2026-09-07T22:22:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Lula claimed Brazilian sovereignty in the face of pressure from the United States",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/07/lula-reivindico-la-soberania-brasilena-ante-las-presiones-de-estados-unidos/",
+      "published_date": "2026-09-07T21:40:40Z",
+      "category": "Military"
+    },
+    {
+      "title": "En RDI se reveló que una encuesta muestra desconfianza en la sociedad pese al giro del Gobierno en el tema Malvinas",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rdi-se-revelo-que-una-encuesta-muestra-desconfianza-en-la-sociedad-pese-al-giro-del-gobierno-en-el-tema-malvinas.phtml",
+      "published_date": "2026-09-07T20:35:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "DRC: Lula claimed Brazil's sovereignty over its resources against foreign powers",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rdc-analizamos-la-soberania-de-brasil-y-el-mensaje-de-lula-por-el-dia-de-la-independencia.phtml",
+      "published_date": "2026-09-07T20:15:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "They sell the castle in Córdoba of one of the richest men in the world: his relationship with Menem and the SIDE",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/venden-el-castillo-en-cordoba-de-uno-de-los-hombres-mas-ricos-del-mundo-su-relacion-con-menem-y-la-side/",
+      "published_date": "2026-09-07T20:04:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "In Round of Correspondents they analyzed Trump's new attempt to end the war between Russia and Ukraine",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-ronda-de-corresponsales-analizaron-el-nuevo-intento-de-trump-para-poner-fin-a-la-guerra-entre-rusia-y-ucrania.phtml",
+      "published_date": "2026-09-07T19:50:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Malvinas y mercado de capitales: los ejes calientes en la reunión de Gabinete y qué se definió",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/malvinas-y-mercado-de-capitales-los-ejes-calientes-en-la-reunion-de-gabinete-y-que-se-definio/",
+      "published_date": "2026-09-07T18:15:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Malvinas: el impacto que puede tener en la agenda económica",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/milei-busca-llevar-la-malvinizacion-a-la-economia/",
+      "published_date": "2026-09-07T17:12:56Z",
+      "category": "Military"
     },
     {
       "title": "Eduardo Elsztain explained his investments in the Malvinas Islands",
@@ -172,123 +291,39 @@
       "category": "Military"
     },
     {
-      "title": "Eduardo Elsztain defendió su inversión en la Falkland Islands Company y dijo que Perón intentó comprarla \"más de una vez\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/eduardo-elsztain-explico-por-que-invirtio-en-la-falkland-islands-company.phtml",
-      "published_date": "2026-09-07T12:03:23Z",
-      "category": "Military"
+      "title": "The US destroys a fifth ship, supposedly linked to the Ecuadorian gang Los Choneros",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/eeuu-destruye-un-quinto-barco-supuestamente-vinculado-a-la-banda-ecuatoriana-los-choneros_0_Q30syQPzpw.html",
+      "published_date": "2026-09-08T00:20:15Z",
+      "category": "Energy"
     },
     {
-      "title": "Diputado de la Coalición Cívica: \"El nacionalismo tonto es la careta de todo autócrata\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/diputado-de-la-coalicion-civica-el-nacionalismo-tonto-es-la-careta-de-todo-autocrata.phtml",
-      "published_date": "2026-09-07T09:57:00Z",
-      "category": "Military"
+      "title": "New Haven installed 1,900 solar panels at a closed landfill that for decades received the city's trash, and one report estimated the sites could host 63 gigawatts of solar capacity.",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/new-haven-instalo-1900-paneles-solares-vertedero-clausurado-decadas-recibio-basura-ciudad-informe-estimo-sitios-podrian-albergar-63-gigavatios-capacidad-solar_0_MRZQgv55EZ.html",
+      "published_date": "2026-09-08T00:13:38Z",
+      "category": "Energy"
     },
     {
-      "title": "Grabois sobre el giro de Milei en la cuestión Malvinas: \"Ganamos la batalla cultural\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/grabois-sobre-el-giro-de-milei-en-la-cuestion-malvinas-ganamos-la-batalla-cultural.phtml",
-      "published_date": "2026-09-07T09:56:00Z",
-      "category": "Military"
+      "title": "Menos consumo y más impuestos",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/07/menos-consumo-y-mas-impuestos/",
+      "published_date": "2026-09-07T22:31:44Z",
+      "category": "Energy"
     },
     {
-      "title": "Malvinas: la cadena de Milei tuvo alto impacto, pero hay un dato que inquieta al Gobierno",
+      "title": "The sale of gasoline fell to its lowest level since 2023 and the fuel tax shot up more than 1,300%",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/la-venta-de-nafta-cayo-a-su-nivel-mas-bajo-desde-2023-y-el-impuesto-a-los-combustibles-se-disparo-mas-de-1300.phtml",
+      "published_date": "2026-09-07T20:25:24Z",
+      "category": "Energy"
+    },
+    {
+      "title": "El petróleo se acerca a los u$s 100 y crece el temor por una nueva crisis de oferta",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/malvinas-la-cadena-de-milei-tuvo-alto-impacto-pero-la-mayoria-atribuyo-su-giro-a-la-conveniencia-politica/",
-      "published_date": "2026-09-07T09:00:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "“No fue de la noche a la mañana”: el plan de meses que el Gobierno activó para blindar las Malvinas",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/no-fue-de-la-noche-a-la-manana-el-plan-de-meses-que-el-gobierno-activo-para-blindar-las-malvinas/",
-      "published_date": "2026-09-07T01:27:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "More optimistic markets for Bessent and Malvinas",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/mercados-mas-optimistas-por-bessent-y-malvinas/",
-      "published_date": "2026-09-07T00:27:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Gobierno festeja la repercusión de los anuncios por Malvinas y avanza con el proyecto de “defensa de la soberanía”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-festeja-la-repercusion-de-los-anuncios-por-malvinas-y-avanza-con-el-proyecto-de-defensa-nid06092026/",
-      "published_date": "2026-09-06T23:23:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Alberto Fernández, on Malvinas: “Let England not worry because Argentina is absolutely disarmed”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/alberto-fernandez-sobre-malvinas-que-inglaterra-no-se-preocupe-porque-la-argentina-esta-nid06092026/",
-      "published_date": "2026-09-06T21:45:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Survey on Malvinas: the majority believes that Milei's change of position is for political convenience",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/encuesta-sobre-malvinas-la-mayoria-cree-que-el-cambio-de-postura-de-milei-es-por-conveniencia-politica.phtml",
-      "published_date": "2026-09-06T20:36:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Más de 300 muertos en Yemen por una nueva escalada entre el gobierno y los hutíes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/mas-de-300-muertos-en-yemen-por-una-nueva-escalada-entre-el-gobierno-y-los-huties-nid06092026/",
-      "published_date": "2026-09-06T20:06:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "En medio de los rumores por su estado de salud, reapareció Raúl Castro en un acto en Cuba",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/en-medio-de-los-rumores-por-su-estado-de-salud-reaparecio-raul-castro-en-un-acto-en-cuba-nid06092026/",
-      "published_date": "2026-09-06T19:37:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenski proyecta que la guerra continuará durante el invierno, tras reunirse con emisarios de Estados Unidos",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/zelenski-proyecta-que-la-guerra-continuara-durante-el-invierno-tras-reunirse-con-emisarios-de-estados-unidos.phtml",
-      "published_date": "2026-09-06T19:35:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu amenaza a Irán con un golpe “que ni siquiera puede imaginar” y reafirma que busca derrocar al régimen",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-amenaza-a-iran-con-un-golpe-que-ni-siquiera-puede-imaginar-y-reafirma-que-busca-derrocar-nid06092026/",
-      "published_date": "2026-09-06T19:20:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Incautaron más de US$360.000 en allanamientos por presuntas coimas vinculadas al astillero estatal Tandanor",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/incautaron-mas-de-us360000-en-allanamientos-por-presuntas-coimas-vinculadas-al-astillero-estatal-nid06092026/",
-      "published_date": "2026-09-06T19:13:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky se reunió con los enviados de Trump y afirmó que “la paz es necesaria”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/zelensky-se-reunio-con-los-enviados-de-trump-y-afirmo-que-la-paz-es-necesaria-nid06092026/",
-      "published_date": "2026-09-06T18:38:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Napoleón: “Coraje no es tener fuerza para seguir adelante, es seguir adelante aunque no tengas fuerzas”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/napoleon-coraje-no-es-tener-fuerza-para-seguir-adelante-es-seguir-adelante-aunque-no-tengas-fuerzas-nid06092026/",
-      "published_date": "2026-09-06T18:11:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Galtieroid",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/06/el-galtieroide/",
-      "published_date": "2026-09-06T16:54:06Z",
-      "category": "Military"
+      "url": "https://www.cronista.com/financial-times/el-petroleo-se-acerca-a-los-us-100-y-crece-el-temor-por-una-nueva-crisis-de-oferta/",
+      "published_date": "2026-09-07T19:16:19Z",
+      "category": "Energy"
     },
     {
       "title": "Con el primer RIGI para un insumo “crítico”, Pampa Energía le competirá mano a mano a un gigante del agro",
@@ -396,178 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Inundaciones en Nepal: rescataron a dos trabajadores que estuvieron atrapados nueve días en un túnel hidroeléctrico",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/inundaciones-en-nepal-rescataron-a-dos-trabajadores-que-estuvieron-atrapados-nueve-dias-en-un-tunel-nid04092026/",
-      "published_date": "2026-09-04T13:02:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Subsidios: de Puerto Madero a countries de Neuquén, Energía rechazó casi 18.000 pedidos de barrios cerrados",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/subsidios-de-puerto-madero-a-countries-de-neuquen-energia-rechazo-casi-18000-pedidos-de-barrios-cerrados/",
-      "published_date": "2026-09-04T09:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Biofuels: the Senate advanced with a ruling that increases gasoline and diesel cuts",
+      "title": "Finalizó la XVI edición de los Premios Perfil con 10 categorías y un jurado integrado por referentes de la cultura, la ciencia y la economía",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/biocombustibles-el-senado-avanzo-con-un-dictamen-que-eleva-los-cortes-de-nafta-y-gasoil.phtml",
-      "published_date": "2026-09-03T23:31:00Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/politica/llega-la-xvi-edicion-de-los-premios-perfil-con-11-categorias-y-un-jurado-integrado-por-referentes-de-la-cultura-la-ciencia-y-la-economia.phtml",
+      "published_date": "2026-09-08T00:09:00Z",
+      "category": "Economy"
     },
     {
-      "title": "The US toughens pressure on Cuba: sanctions key companies and a grandson of Raúl Castro",
+      "title": "Gabriel Rolón, psychologist: “There will always be a wound, an absence that is felt by your side and moves you with a memory”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-siempre-habra-una-herida-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid07092026/",
+      "published_date": "2026-09-08T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gina Hinojosa, candidate for governor of Texas: “Latinos voted for Trump because he said the system is corrupt”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/texas/gina-hinojosa-candidata-a-gobernadora-de-texas-los-latinos-votaron-por-trump-porque-dijo-que-el-nid07092026/",
+      "published_date": "2026-09-08T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriela Sabatini revealed who the important people in her life are: “They fill the heart”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/gabriela-sabatini-revelo-quienes-son-las-personas-importantes-en-su-vida-llenan-el-corazon-nid02092026/",
+      "published_date": "2026-09-07T23:14:23Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Matías, Argentine bricklayer in Spain: “We earn very little, if you are thinking of coming, I recommend that you stay in Argentina”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/matias-albanil-argentino-en-espana-ganamos-muy-poco-si-estas-pensando-venirte-te-recomiendo-que-te-nid06092026/",
+      "published_date": "2026-09-07T23:13:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El cobre se dispara, pero Chile no logra aprovecharlo: las exportaciones cayeron a su nivel más bajo en más de un año",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-eeuu-amplia-sanciones-a-empresas-cubanas-y-a-nieto-de-raul-castro.phtml",
-      "published_date": "2026-09-03T22:32:00Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-exportaciones-de-cobre-de-chile-caen-a-minimo-en-13-meses-pese-al-alza-de-precios.phtml",
+      "published_date": "2026-09-07T23:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Venezuela bonds rise after Trump oil deal as market waits for restructuring",
+      "title": "Encuestas críticas sobre la economía de Milei",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/07/encuestas-criticas-sobre-la-economia-de-milei/",
+      "published_date": "2026-09-07T22:56:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Canadá desafía a Trump y prepara nuevos aranceles de hasta 50% a productos de EE.UU.",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-bonos-de-venezuela-suben-tras-acuerdo-petrolero-de-trump-mientras-mercado-espera-reestructuracion.phtml",
-      "published_date": "2026-09-03T22:13:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "“Brutal”: a “frozen air pocket” left 60-year lows for September in a region and its impact is analyzed",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/brutal-una-bolsa-de-aire-helado-dejo-minimas-en-60-anos-para-septiembre-en-una-region-y-analizan-su-nid07092026/",
-      "published_date": "2026-09-07T16:03:57Z",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-canada-responderia-a-aranceles-de-trump-y-arriesga-escalada-de-la-guerra-comercial.phtml",
+      "published_date": "2026-09-07T22:50:00Z",
       "category": "Economy"
     },
     {
-      "title": "Ricardo Hausmann: “Creation leads to destruction, but destruction does not lead to creation”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/ricardo-hausmann-la-creacion-lleva-a-la-destruccion-pero-la-destruccion-no-lleva-a-la-creacion-nid06092026/",
-      "published_date": "2026-09-07T15:55:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Estanislao Bachrach, specialist in neuroscience: “The best painkillers are in the stomach”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-especialista-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid07092026/",
-      "published_date": "2026-09-07T15:45:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gabriel Rolón, psychologist: “We can achieve lack, the mixture of lack and happiness, which is a happiness in lack”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid05092026/",
-      "published_date": "2026-09-07T15:45:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilar Sordo: “Internal dialogue is a brutal tool for self-knowledge and self-care”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-el-dialogo-interno-es-una-herramienta-brutal-de-autoconocimiento-y-autocuidado-nid05092026/",
-      "published_date": "2026-09-07T15:45:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mario Alonso Puig, doctor who is an expert in emotions: \"Hang in there, you're sick; laughing and crying is what heals the most\"",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-experto-en-emociones-aguantarse-enferma-reir-y-llorar-es-lo-que-mas-cura-nid02092026/",
-      "published_date": "2026-09-07T15:44:44Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“Remorseful buyer” syndrome: why so many people want to sell their property a year after purchasing it",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inversiones/sindrome-del-comprador-arrepentido-por-que-tanta-gente-quiere-vender-su-propiedad-al-ano-de-nid03092026/",
-      "published_date": "2026-09-07T15:40:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dollar today and dollar blue, LIVE: how much is the official trading at and what is the price of the parallel this Monday, September 7, minute by minute",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid07092026/",
-      "published_date": "2026-09-07T15:40:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bedroom, kitchen and bathroom in 1.9 m²: this is the “own house” that young people can access in Sweden",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuarto-cocina-y-bano-en-19-m-asi-es-la-casa-propia-a-la-que-pueden-acceder-los-jovenes-en-suecia-nid03092026/",
-      "published_date": "2026-09-07T15:34:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "New mortgage loans: the main banks participate in the first tender with FGS funds to receive up to $40,000 million",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/nuevos-creditos-hipotecarios-los-principales-bancos-participan-en-la-primera-licitacion-con-los-nid07092026/",
-      "published_date": "2026-09-07T15:31:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A cuánto cotiza el dólar blue hoy, lunes 7 de septiembre",
+      "title": "Refinanciación de deudas: en RDEco explicaron cuánto pueden bajar las cuotas con la nueva tasa",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-lunes-7-de-septiembre.phtml",
-      "published_date": "2026-09-07T15:27:00Z",
+      "url": "https://www.perfil.com/noticias/masperfil/refinanciacion-de-deudas-baja-la-tasa-y-crece-la-preocupacion-por-la-morosidad.phtml",
+      "published_date": "2026-09-07T22:40:41Z",
       "category": "Economy"
     },
     {
-      "title": "Javier Milei and his measures, live: the Government exchanged US$2000 million in securities to the Central Bank to keep the dollar contained",
+      "title": "In the Round of Economists they addressed the Government's strategy to keep the dollar at $1,500",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/dolar-encajes-y-tasas-como-interviene-el-gobierno-para-controlar-el-mercado-cambiario.phtml",
+      "published_date": "2026-09-07T22:29:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mauro Osorio habló sobre los créditos para comprar autos: “Las fábricas son una alternativa mucho mejor”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/mauro-osorio-hablo-sobre-los-creditos-para-comprar-autos-califica-muy-poca-gente.phtml",
+      "published_date": "2026-09-07T22:26:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Caputo le da más poder de fuego al Central",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/07/caputo-le-da-mas-poder-de-fuego-al-central/",
+      "published_date": "2026-09-07T22:22:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: the Government seeks to control the dollar with liquidity and more demanding reserves",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/tasas-de-interes-encajes-y-dolar-por-que-el-credito-bancario-sigue-siendo-tan-caro.phtml",
+      "published_date": "2026-09-07T22:18:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: la irregularidad crediticia se quintuplicó en un año",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/tasas-de-interes-mora-y-credito-en-rde-por-que-los-bancos-cobran-hasta-60-y-pagan-menos-por-los-depositos.phtml",
+      "published_date": "2026-09-07T22:14:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Does not stop industrial deterioration",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/07/no-frena-el-deterioro-industrial/",
+      "published_date": "2026-09-07T22:12:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: Ramiro Tosi cuestionó el costo del crédito y advirtió por tasas del 70% anual",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/mora-y-tasas-de-interes-en-rde-las-claves-del-endeudamiento-y-la-crisis-del-credito.phtml",
+      "published_date": "2026-09-07T22:06:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mauricio, exempleado que dejó todo y se fue a vivir al campo: “Si uno tiene herramientas y la voluntad, el trabajo siempre sale”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-por-los-anuncios-sobre-malvinas-y-una-sesion-clave-nid07092026/",
-      "published_date": "2026-09-07T15:23:38Z",
+      "url": "https://www.lanacion.com.ar/sociedad/mauricio-exempleado-que-dejo-todo-y-se-fue-a-vivir-al-campo-trabajo-siempre-sale-si-uno-tiene-nid07092026/",
+      "published_date": "2026-09-07T22:01:25Z",
       "category": "Economy"
     },
     {
-      "title": "A cuánto cotiza el euro blue hoy, lunes 7 de septiembre",
+      "title": "La Justicia confirmó el sobreseimiento definitivo de Luis Caputo en una causa iniciada en 2017",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-lunes-7-de-septiembre.phtml",
-      "published_date": "2026-09-07T15:23:00Z",
+      "url": "https://www.perfil.com/noticias/politica/la-justicia-confirmo-el-sobreseimiento-definitivo-de-luis-caputo-en-una-causa-iniciada-en-2017.phtml",
+      "published_date": "2026-09-07T21:53:24Z",
       "category": "Economy"
     },
     {
-      "title": "El dólar en Córdoba: a cuánto cotiza este lunes 7 de septiembre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-07-de-septiembre-070926.phtml",
-      "published_date": "2026-09-07T15:09:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Government exchanged US$2000 million in securities to the Central Bank to keep the dollar contained",
+      "title": "La crisis industrial golpea la cadena de pagos de casi la mitad de las empresas y crece el endeudamiento",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-gobierno-le-canjeo-us2000-millones-en-titulos-al-bcra-para-que-mantenga-contenido-al-dolar-nid07092026/",
-      "published_date": "2026-09-07T15:08:15Z",
+      "url": "https://www.lanacion.com.ar/economia/la-crisis-industrial-golpea-la-cadena-de-pagos-de-casi-la-mitad-de-las-empresas-y-crece-el-nid07092026/",
+      "published_date": "2026-09-07T21:49:51Z",
       "category": "Economy"
     },
     {
-      "title": "Los autos con caja automática más baratos en septiembre 2026",
+      "title": "Desempleo y crisis en el sector de la salud: los factores que confluyeron para el resultado electoral en Marcos Juárez",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/los-autos-con-caja-automatica-mas-baratos-en-septiembre-2026-nid07092026/",
-      "published_date": "2026-09-07T14:49:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“Ni créditos ni subsidios”: presentaron un innovador fondo que buscará repoblar los campos de la Patagonia",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/ni-creditos-ni-subsidios-presentaron-un-innovador-fondo-que-buscara-repoblar-los-campos-de-la-nid07092026/",
-      "published_date": "2026-09-07T14:34:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La empresa de un dirigente de la AFA ganó una licitación de $180 millones de la Justicia porteña",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/judiciales/una-empresa-de-un-dirigente-de-la-afa-gano-una-licitacion-de-180-millones-de-la-justicia-portena.phtml",
-      "published_date": "2026-09-07T12:49:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¡Mirá en vivo Canal E!: toda la información económica",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/mira-en-vivo-canal-e-toda-la-informacion-economica.phtml",
-      "published_date": "2026-09-07T12:40:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar: a cuánto llegará a fin de 2026 según las últimas nuevas proyecciones del mercado",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/dolar-a-cuanto-llegara-a-fin-de-2026-segun-las-ultimas-nuevas-proyecciones-del-mercado.phtml",
-      "published_date": "2026-09-07T12:00:00Z",
+      "url": "https://www.lanacion.com.ar/politica/desempleo-y-crisis-en-el-sector-de-la-salud-los-factores-que-confluyeron-para-el-resultado-electoral-nid07092026/",
+      "published_date": "2026-09-07T21:39:56Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Quintela y Stevanato sellan una agenda común para el desarrollo productivo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/quintela-y-stevanato-sellan-una-agenda-comun-para-el-desarrollo-productivo/",
-      "published_date": "2026-09-07T16:09:27Z",
+      "title": "Cerimedo irá a la cárcel más dura de Bolivia",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/08/cerimedo-ira-a-la-carcel-mas-dura-de-bolivia/",
+      "published_date": "2026-09-08T00:55:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Mirtha Legrand was hospitalized: what is known about her health",
+      "title": "Gabriel Rolón, psychologist: “The grace of love is also embracing the imperfection of the other”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-esta-internada-como-se-encuentra-la-diva-nid07092026/",
-      "published_date": "2026-09-07T16:05:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-gracia-del-amor-es-abrazar-tambien-la-imperfeccion-del-otro-nid07092026/",
+      "published_date": "2026-09-08T00:51:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Grill Contest at the 2026 Criollo Asado Festival in Moquehuá: when is it, what can you eat and what is the programming like?",
+      "title": "“It was a kid's dream”: he invested almost two decades in a flour mill and two years ago he couldn't get it started",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/concurso-de-asadores-en-la-fiesta-del-asado-criollo-2026-en-moquehua-cuando-es-programacion-y-que-nid07092026/",
-      "published_date": "2026-09-07T16:04:25Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/era-un-sueno-de-pibe-invirtio-casi-dos-decadas-en-un-molino-harinero-y-hace-dos-anos-no-puede-nid07092026/",
+      "published_date": "2026-09-08T00:46:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Dieron a conocer los videos del asesinato del expuma Federico Martín Aramburú en París",
+      "title": "He went for a walk in 1998 and has not yet returned home: he has been traveling for 28 years and even swam 288 kilometers",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/salio-caminar-1998-todavia-regreso-casa-lleva-28-anos-viaje-nado-288-kilometros_0_UQjyKu8ubK.html",
+      "published_date": "2026-09-08T00:39:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proponen una ley recuperar la obra en barrios populares",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/08/proponen-una-ley-recuperar-la-obra-en-barrios-populares/",
+      "published_date": "2026-09-08T00:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mortgage loans: a bank lowers the rate after the first tender with FGS funds",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/dieron-a-conocer-los-videos-del-asesinato-del-expuma-federico-martin-aramburu-en-paris-nid07092026/",
-      "published_date": "2026-09-07T16:02:13Z",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotcerios-un-banco-baja-la-tasa-despues-de-la-primera-licitacion-con-fondos-del-fgs-nid07092026/",
+      "published_date": "2026-09-08T00:33:27Z",
       "category": "Local Events"
     },
     {
-      "title": "0% rate and more amount: Toyota improved the financing of its flagship model in September 2026",
+      "title": "Lo que la visita del Papa León XIV debería despertar en el corazón argentino",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/lo-que-la-visita-del-papa-leon-xiv-deberia-despertar-en-el-corazon-argentino.phtml",
+      "published_date": "2026-09-08T00:32:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychology says that planning trips that never happen is a characteristic of very intelligent people, because most of the happiness of a vacation appears before it begins, and planning provides that part for free.",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/psicologia-dice-planificar-viajes-realizan-caracteristica-personas-inteligentes-mayor-parte-felicidad-vacaciones-aparece-empiecen-planificacion-proporciona-parte-gratis_0_3MPqDzlGxi.html",
+      "published_date": "2026-09-08T00:31:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Mississippi couple spent more than 20 years rebuilding the forest on their property, and this summer wildlife protection teams arrived with nearly 500 of America's rarest frogs to release into their ponds.",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/pareja-mississippi-paso-20-anos-reconstruyendo-bosque-propiedad-verano-llegaron-equipos-proteccion-vida-silvestre-500-ranas-raras-estados-unidos-liberarlas-estanques_0_VQ3t0KhR5I.html",
+      "published_date": "2026-09-08T00:29:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentinos suffered 26 fouls from Barracas Central, had no offensive flight and tied 0-0",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/tasa-0-y-mas-monto-toyota-mejoro-la-financiacion-de-su-modelo-estrella-en-septiembre-2026-nid07092026/",
-      "published_date": "2026-09-07T15:59:35Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/argentinos-sufrio-las-26-faltas-de-barracas-central-no-tuvo-vuelo-ofensivo-y-empato-0-0-nid07092026/",
+      "published_date": "2026-09-08T00:24:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Qué se sabe de la salud de Mirtha Legrand",
+      "title": "Perfil presentó su nuevo logo por sus 50 años y anunció que regalará diarios a colegios",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cultura/perfil-presento-su-nuevo-logo-por-sus-50-anos-y-anuncio-que-regalara-diarios-a-colegios.phtml",
+      "published_date": "2026-09-08T00:20:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spagnuolo intentó, pero no pudo impedir el pertiaje de sus audios en Andis",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/08/spagnuolo-intento-pero-no-pudo-impedir-el-pertiaje-de-sus-audios-en-andis/",
+      "published_date": "2026-09-08T00:18:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "She allocated $150,000 of her retirement savings to create a community of tiny homes for single older women: \"No men and no drama\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/destino-150000-dolares-ahorros-jubilacion-crear-comunidad-minicasas-mujeres-adultas-mayores-solas-hombres-dramas_0_sD5QLaxnbg.html",
+      "published_date": "2026-09-08T00:13:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Political reform remains stalled in the Senate, without votes to eliminate PASO",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-nid07092026/",
-      "published_date": "2026-09-07T15:58:27Z",
+      "url": "https://www.lanacion.com.ar/politica/la-reforma-politica-sigue-estancada-en-el-senado-sin-votos-para-eliminar-las-paso-nid07092026/",
+      "published_date": "2026-09-08T00:11:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Cazzu, Abel Pintos, Soledad and Chaqueño Palavecino: what day each artist performs in República Folklore",
+      "title": "Hace 80 años nacía Freddie Mercury",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/hace-80-anos-nacia-freddie-mercury.phtml",
+      "published_date": "2026-09-08T00:07:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quote of the day from Friedrich Nietzsche, philosopher: \"The destiny of men is made of happy moments, all of life has them, but not of happy times\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/cita-dia-friedrich-nietzsche-filosofo-destino-hombres-hecho-momentos-felices-toda-vida-epocas-felices_0_Yohtyf7eCn.html",
+      "published_date": "2026-09-08T00:03:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pancho Campo, former tennis player and motivational speaker: “Laughter is the most effective way to release endorphins, more than an orgasm”",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/pancho-campo-extenista-speaker-motivacional-risa-forma-efectiva-liberar-endorfinas-orgasmo_0_YlELcPgEvU.html",
+      "published_date": "2026-09-08T00:01:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neither gym nor walking: the ideal strength exercise to stop the loss of muscle mass and stay healthy",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/cazzu-abel-pintos-soledad-y-el-chaqueno-palavecino-que-dia-toca-cada-artista-en-republica-folklore-nid04092026/",
-      "published_date": "2026-09-07T15:57:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Only one copy is known in the world”: the Recoleta bookstore that brings together unique editions to preserve the memory of Latin America",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/patricio-sorsaburu-bibliofilo-el-siglo-xx-seguira-siendo-estudiado-como-uno-de-los-momentos-mas-nid02092026/",
-      "published_date": "2026-09-07T15:57:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gastón Caretti, chef: “The pastrami sandwich is not simply pastrami, it is a much more complex universe”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/gaston-caretti-chef-el-sandwich-de-pastrami-no-es-simplemente-pastron-es-un-universo-mucho-mas-nid04092026/",
-      "published_date": "2026-09-07T15:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Katie Holmes disfruta de unas románticas y relajadas vacaciones en Italia junto a su novio, Jason Bard Yarmosky",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/katie-holmes-disfruta-de-unas-romanticas-y-relajadas-vacaciones-en-italia-junto-a-su-novio-jason-nid07092026/",
-      "published_date": "2026-09-07T15:56:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "She started with a US$500 machine and today Lali uses her boots",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/negocios/empezo-con-una-maquina-de-us500-y-hoy-lali-usa-sus-botas-nid07092026/",
-      "published_date": "2026-09-07T15:56:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TikTok comments now support audio, polls, photo galleries and more",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/los-comentarios-de-tiktok-ahora-admiten-audios-encuestas-galerias-de-fotos-y-mas-nid07092026/",
-      "published_date": "2026-09-07T15:52:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El campo reactiva la compra de maquinaria agrícola, pero un dato preocupa al sector",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-campo-reactiva-la-compra-de-maquinaria-agricola-pero-un-dato-preocupa-al-sector/",
-      "published_date": "2026-09-07T15:51:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A phenomenon of several days is approaching that will bring unstable conditions, rain, gusts of up to 50 km/h and another entry of cold air: the affected areas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-fenomeno-de-varios-dias-que-traera-condiciones-inestables-lluvias-rafagas-de-hasta-50-nid07092026/",
-      "published_date": "2026-09-07T15:50:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coliving in CABA: what it is, how much it costs and in which neighborhoods the offer is growing",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/coliving-en-caba-que-es-cuanto-cuesta-y-en-que-barrios-esta-creciendo-la-oferta-nid06092026/",
-      "published_date": "2026-09-07T15:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hidden century-old mansion in Palermo, commissioned by Sarmiento and used by Carlos Thays, who seeks to recover its golden age",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-casona-centenaria-escondida-de-palermo-encargada-por-sarmiento-y-usada-por-carlos-thays-que-busca-nid07092026/",
-      "published_date": "2026-09-07T15:45:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jorge Tartaglione, doctor, on the use of the microwave: “We must try not to put plastic things in because they have microplastics that impact our body”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-uso-del-microondas-hay-que-tratar-de-no-meter-cosas-de-plastico-nid07092026/",
-      "published_date": "2026-09-07T15:45:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid07092026/",
-      "published_date": "2026-09-07T15:45:44Z",
+      "url": "https://www.lanacion.com.ar/sociedad/ni-gimnasio-ni-caminata-el-ejercicio-de-fuerza-ideal-para-frenar-la-perdida-de-masa-muscular-y-nid31082026/",
+      "published_date": "2026-09-07T23:57:00Z",
       "category": "Local Events"
     }
   ]
