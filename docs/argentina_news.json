@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:07:45Z",
+  "generated_at": "2026-09-09T14:55:15Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Fiscal Innocence: the procedure to reduce tax fines for SMEs and individuals by up to 75%",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-el-tramite-para-reducir-hasta-75-las-multas-tributarias-de-pymes-y-personas-humanas/",
+      "published_date": "2026-09-09T14:43:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Definitive and perpetual expulsion”, the exemplary sanction for the San Miguel player who attacked a linesman in the Senior tournament",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/expulsion-definitiva-y-perpetua-la-ejemplar-sancion-para-el-jugador-de-san-miguel-que-agredio-a-un-nid09092026/",
+      "published_date": "2026-09-09T14:33:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina, key piece: the binational bridge to unite Brazil and Paraguay through missionary territory",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/argentina-pieza-clave-el-puente-binacional-para-unir-brasil-y-paraguay-por-territorio-misionero/",
+      "published_date": "2026-09-09T14:28:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "There were no commitments, but everything is secret: the mystery around Trump's anti-left summit",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/09/no-hubo-compromisos-pero-todo-es-secreto-el-misterio-alrededor-de-la-cumbre-antiizquierda-de-trump/",
+      "published_date": "2026-09-09T14:23:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Karina Milei and her silent passage through an industrial forum crossed by SME unrest and oil businesses",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/karina-milei-y-su-silencioso-paso-por-un-foro-industrial-cruzado-por-el-malestar-pyme-y-los-negocios-petroleros-a40.phtml",
+      "published_date": "2026-09-09T08:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "\"Perpetual expulsion\": the exemplary sanction for the player who knocked out a linesman in a senior match of Racing vs San Miguel",
       "source": "Clarín",
@@ -116,39 +151,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pedro Urruchurtu, sobre EE.UU. y el petróleo venezolano: “No es contradictorio hablar de interés económico y una agenda democrática”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/pedro-urruchurtu-sobre-eeuu-y-el-petroleo-venezolano-no-es-contradictorio-hablar-de-interes-nid08092026/",
-      "published_date": "2026-09-08T13:35:42Z",
-      "category": "Diplomacy"
+      "title": "Milei invoked San Martín to support the claim for the Malvinas and asked Congress to accompany “without cracks”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/milei-invoco-a-san-martin-para-respaldar-el-reclamo-por-malvinas-y-pidio-al-congreso-que-acompane-sin-grietas/",
+      "published_date": "2026-09-09T14:46:53Z",
+      "category": "Military"
     },
     {
-      "title": "“La situación es preocupante”: el Gobierno atribuyó los resultados en las pruebas PISA a una trayectoria escolar iniciada en 2013",
+      "title": "Milei defended his policy for the Malvinas and said that it is “a national cause”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-situacion-es-preocupante-el-gobierno-atribuyo-los-resultados-en-las-pruebas-pisa-a-una-nid08092026/",
-      "published_date": "2026-09-08T13:34:37Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/politica/milei-defendio-su-politica-para-malvinas-y-dijo-que-es-una-causa-nacional-nid09092026/",
+      "published_date": "2026-09-09T14:40:21Z",
+      "category": "Military"
     },
     {
-      "title": "El Reino Unido impuso inéditas sanciones a Israel por los asentamientos en Cisjordania",
+      "title": "The British Prime Minister promised to be “relentless” in defending the occupation of the Malvinas",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/08/el-reino-unido-impuso-ineditas-sanciones-a-israel-por-los-asentamientos-en-cisjordania/",
-      "published_date": "2026-09-08T13:23:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/09/el-primer-ministro-britanico-prometio-ser-implacable-en-la-defensa-de-la-ocupacion-de-malvinas/",
+      "published_date": "2026-09-09T14:24:52Z",
+      "category": "Military"
     },
     {
-      "title": "“Súper Niño”: qué se sabe del evento histórico y cómo afectará a la Argentina y el mundo",
+      "title": "Resupplying US warships in the Middle East is a logistical nightmare",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/new-york-times-international-weekly/reabastecimiento-buques-guerra-estadounidenses-oriente-medio-pesadilla-logistica_0_r3JCbB955u.html",
+      "published_date": "2026-09-09T14:07:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Prime Minister of the United Kingdom said that they will be “relentless” in the defense of the islanders in the Malvinas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-del-evento-historico-y-como-afectara-a-la-argentina-y-el-mundo-nid08092026/",
-      "published_date": "2026-09-08T13:21:28Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/el-mundo/el-primer-ministro-de-reino-unido-dijo-que-seran-implacables-en-la-defensa-de-los-islenos-en-nid09092026/",
+      "published_date": "2026-09-09T14:01:55Z",
+      "category": "Military"
     },
     {
-      "title": "El secretario de Malvinas de Tierra del Fuego pide más decisión: derogar el Tratado de Inversiones con el Reino Unido",
+      "title": "Strong reaction from the British government to Milei's claim for the Malvinas: “We are going to be relentless”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/fuerte-reaccion-del-gobierno-britanico-al-reclamo-de-milei-por-malvinas-vamos-a-ser-implacables/",
+      "published_date": "2026-09-09T13:48:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Harsh response from London after Milei's measures for the Malvinas: \"We are going to be relentless when it comes to defending them\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-secretario-de-malvinas-de-tierra-del-fuego-pide-mas-decision-derogar-el-tratado-de-inversiones-con-el-reino-unido.phtml",
-      "published_date": "2026-09-08T11:43:56Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/internacional/dura-respuesta-de-londres-tras-las-medidas-de-milei-por-malvinas-vamos-a-ser-implacables-a-la-hora-de-defenderlas.phtml",
+      "published_date": "2026-09-09T13:29:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "The day Chiche Gelblung traveled, aged 78, to cover the war between Russia and Ukraine: “I am not afraid of dying”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/el-dia-que-chiche-gelblung-viajo-con-78-anos-a-cubrir-la-guerra-entre-rusia-y-ucrania-no-tengo-miedo-de-morir.phtml",
+      "published_date": "2026-09-09T13:24:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and the US attack oil tankers in the largest naval escalation since the start of the war",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/iran-crea-una-zona-de-exclusion-en-una-ruta-clave-bombardea-bases-en-tierra-y-el-petroleo-se-dispara-nid09092026/",
+      "published_date": "2026-09-09T12:52:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rafael Bielsa on Malvinas: \"There was no intelligence in the Executive Branch, but opportunism and plunder, and I despise them for that\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/rafael-bielsa-sobre-malvinas-no-hubo-inteligencia-en-el-poder-ejecutivo-sino-oportunismo-y-rapina-y-los-desprecio-por-eso.phtml",
+      "published_date": "2026-09-09T09:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Malvinas gave good news to Milei on the networks, but there is a surprising fact",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/malvinas-le-dio-una-buena-noticia-a-milei-en-las-redes-pero-hay-un-dato-que-sorprende/",
+      "published_date": "2026-09-09T09:27:19Z",
+      "category": "Military"
     },
     {
       "title": "Javier Milei, en VIVO: el Gobierno sancionó a otras 15 empresas y accionistas por operaciones en las islas Malvinas",
@@ -214,81 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Tomás Rebord apuntó contra la agenda del Gobierno: \"Milei para tapar Milei\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/tomas-rebord-se-refirio-a-la-agenda-del-gobierno-milei-para-tapar-milei.phtml",
-      "published_date": "2026-09-08T20:46:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bienvenido a la soberanía sobre Malvinas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/bienvenido-a-la-soberania-sobre-malvinas.phtml",
-      "published_date": "2026-09-08T20:37:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Gobierno amplió las sanciones a quienes operan sin permiso en las Malvinas",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/08/el-gobierno-amplio-las-sanciones-a-quienes-operan-sin-permiso-en-las-malvinas/",
-      "published_date": "2026-09-08T20:18:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "La cuestión Malvinas, eje de la reunión de la mesa política del Gobierno",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/08/la-cuestion-malvinas-eje-de-la-reunion-de-la-mesa-politica-del-gobierno/",
-      "published_date": "2026-09-08T17:19:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Malvinas: Quirno y Presti viajarán a Tierra del Fuego y definieron fecha para el envío del proyecto",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/con-quirno-y-presti-se-reune-la-mesa-politica-para-avanzar-en-la-cuestion-malvinas/",
-      "published_date": "2026-09-08T16:50:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "El gobierno israelí cruzó al Reino Unido: cerró el consulado y prohibió la entrada a ciudadanos británicos",
+      "title": "The United States and Iran attack each other again in Hormuz and oil prices rise",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/08/el-gobierno-israeli-cruzo-al-reino-unido-cerro-el-consulado-y-prohibio-la-entrada-a-ciudadanos-britanicos/",
-      "published_date": "2026-09-08T16:08:30Z",
-      "category": "Military"
+      "url": "https://www.pagina12.com.ar/2026/09/09/estados-unidos-e-iran-vuelven-a-atacarse-en-ormuz-y-sube-el-petroleo/",
+      "published_date": "2026-09-09T13:10:44Z",
+      "category": "Energy"
     },
     {
-      "title": "El Gobierno ya presentó la denuncia penal contra las empresas que operan en Malvinas",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/gobierno-presento-denuncia-penal-empresas-operan-malvinas_0_XDG4N8GRD4.html",
-      "published_date": "2026-09-08T14:23:05Z",
-      "category": "Military"
+      "title": "After Vaca Muerta: this is how YPF is doing to find its next deposit in the South Atlantic",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/despues-de-vaca-muerta-como-hace-ypf-para-encontrar-su-proximo-yacimiento-en-el-atlantico-sur/",
+      "published_date": "2026-09-09T11:55:51Z",
+      "category": "Energy"
     },
     {
-      "title": "Confirman que militares del alto mando en EE.UU. fueron sometidos al polígrafo tras filtración de información oficial",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/washington/confirman-que-militares-del-alto-mando-en-eeuu-fueron-sometidos-al-poligrafo-tras-filtracion-de-nid08092026/",
-      "published_date": "2026-09-08T14:19:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "This is the warlike origin of the expression “costing an arm and a leg,” which has been used since the 16th century.",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/origen-belico-expresion-costar-ojo-cara-usa-siglo-xvi_0_ciB6KVSPcF.html",
-      "published_date": "2026-09-08T14:19:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tomás Rebord destrozó a Milei por Malvinas: \"¿Hay que aplaudir si se sabe el himno y las provincias?\"",
+      "title": "Oil returned to US$100 due to the escalation in the Middle East and raises fears about global inflation",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/tomas-rebord-destrozo-a-milei-por-malvinas-hay-que-aplaudir-si-se-sabe-el-himno-y-las-provincias.phtml",
-      "published_date": "2026-09-08T13:55:08Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/ecologia/el-petroleo-volvio-a-los-us100-por-la-escalada-en-medio-oriente-y-agita-el-temor-por-la-inflacion.phtml",
+      "published_date": "2026-09-09T11:09:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Día 1004: Diez razones de por qué Malvinas podría volverse contra Milei",
+      "title": "Carbón Blanco: three accused are tried for money laundering from the drug organization",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1004-diez-razones-de-por-que-malvinas-podria-volverse-contra-milei-modof.phtml",
-      "published_date": "2026-09-08T13:35:05Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/nea/carbon-blanco-juzgan-a-tres-acusados-por-lavado-de-dinero-de-la-organizacion-narco.phtml",
+      "published_date": "2026-09-09T11:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Vaca Muerta necesita miles de PyMEs, pero tres barreras les impiden crecer al ritmo del boom petrolero",
@@ -403,171 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Ucrania ataca un balneario ruso",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/04/ucrania-ataca-un-balneario-ruso/",
-      "published_date": "2026-09-04T22:06:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El Gobierno pone fecha a un nuevo reactor y abre a privados un negocio nuclear con potencial exportador",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-fecha-a-un-nuevo-reactor-y-abre-a-privados-un-negocio-nuclear-con-potencial-exportador/",
-      "published_date": "2026-09-04T21:05:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Vaca Muerta se expande más allá de Añelo: dónde aparece el próximo polo de inversiones petroleras",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/vaca-muerta-se-expande-mas-alla-de-anelo-donde-aparece-el-proximo-polo-de-inversiones-petroleras/",
-      "published_date": "2026-09-04T20:36:32Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Camión, tren y barco: la combinación que podría mover millones de toneladas y destrabar Vaca Muerta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/camion-tren-y-barco-la-combinacion-que-podria-mover-millones-de-toneladas-y-destrabar-vaca-muerta/",
-      "published_date": "2026-09-04T17:34:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Cuarto, cocina y baño en 1,9 m²: así es la “casa propia” a la que pueden acceder los jóvenes en Suecia",
+      "title": "Dollar today and dollar blue, LIVE: how much is the official trading at and what is the price of the parallel this Wednesday, September 9, minute by minute",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuarto-cocina-y-bano-en-19-m-asi-es-la-casa-propia-a-la-que-pueden-acceder-los-jovenes-en-suecia-nid03092026/",
-      "published_date": "2026-09-09T00:42:00Z",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid09092026/",
+      "published_date": "2026-09-09T14:45:26Z",
       "category": "Economy"
     },
     {
-      "title": "Síndrome del “comprador arrepentido”: por qué tanta gente quiere vender su propiedad al año de comprarla",
+      "title": "This is the difference between credit and debt and why it is important to know the concepts before assuming a debt",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inversiones/sindrome-del-comprador-arrepentido-por-que-tanta-gente-quiere-vender-su-propiedad-al-ano-de-nid03092026/",
-      "published_date": "2026-09-09T00:42:00Z",
+      "url": "https://www.lanacion.com.ar/economia/esta-es-la-diferencia-entre-credito-y-endeudamiento-y-por-que-es-importante-conocer-los-conceptos-nid09092026/",
+      "published_date": "2026-09-09T14:29:52Z",
       "category": "Economy"
     },
     {
-      "title": "Melons are settling in with less inflation, and with the dollar regaining air",
+      "title": "A juvenile prosecutor appealed Judge Pascual's ruling that suspended the new Juvenile Penal Law in the Province",
       "source": "Clarín",
-      "url": "https://www.clarin.com/economia/melones-acomodan-inflacion-dolar-recuperando-aire_0_aj94LsERv5.html",
-      "published_date": "2026-09-09T00:18:42Z",
+      "url": "https://www.clarin.com/policiales/fiscal-menores-apelo-fallo-jueza-pascual-suspendio-nueva-ley-penal-juvenil-provincia_0_Rk6coKQ253.html",
+      "published_date": "2026-09-09T14:21:50Z",
       "category": "Economy"
     },
     {
-      "title": "Se viene el Presupuesto 2027, una institución sagrada pero siempre a tiro de un DNU",
+      "title": "Employment expectations: which sectors and regions will lead hiring at the end of the year",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/expectativas-de-empleo-que-sectores-y-regiones-lideraran-las-contrataciones-a-fin-de-ano.phtml",
+      "published_date": "2026-09-09T14:18:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fixed term: what is the interest rate bank by bank this Wednesday, September 9",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-miercoles-9-de-septiembre-nid09092026/",
+      "published_date": "2026-09-09T14:12:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A cardiologist explained in detail why Mirtha Legrand's condition, at 99 years old, “is not just another bronchitis” and she had to be hospitalized.",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/un-medico-cardiologo-explico-en-detalle-por-que-el-cuadro-de-mirtha-legrand-a-sus-99-anos-no-es-una-nid08092026/",
+      "published_date": "2026-09-09T14:10:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “We can achieve lack, the mixture of lack and happiness, which is a happiness in lack”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid05092026/",
+      "published_date": "2026-09-09T14:10:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pilar Sordo: “Internal dialogue is a brutal tool for self-knowledge and self-care”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-el-dialogo-interno-es-una-herramienta-brutal-de-autoconocimiento-y-autocuidado-nid05092026/",
+      "published_date": "2026-09-09T14:10:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A longevity specialist explained why going out and having contact with people is essential for older adults",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/un-especialista-en-longevidad-explico-por-que-salir-y-tener-contacto-con-gente-es-fundamental-para-nid08092026/",
+      "published_date": "2026-09-09T14:09:59Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The dollar in Córdoba: how much is it trading at this Wednesday, September 9",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-09-de-septiembre-090926.phtml",
+      "published_date": "2026-09-09T14:04:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Smuggling, imports and the “stoking” that the industry detected while the future of Customs is defined",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/se-viene-el-presupuesto-2027-una-institucion-sagrada-pero-siempre-a-tiro-de-un-dnu/",
-      "published_date": "2026-09-08T23:55:38Z",
+      "url": "https://www.cronista.com/economia-politica/importaciones-contrabando-y-avivadas-la-industria-reclama-controles-mientras-la-aduana-se-debilita/",
+      "published_date": "2026-09-09T13:42:57Z",
       "category": "Economy"
     },
     {
-      "title": "Jubilaciones de Anses: cuánto se cobra en septiembre de 2026 con el aumento confirmado",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-septiembre-de-2026-con-el-aumento-confirmado-nid14082026/",
-      "published_date": "2026-09-08T23:31:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Nueva paritaria confirmada: cuánto cobran las empleadas domésticas en septiembre de 2026 con el aumento y el bono",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-septiembre-de-2026-con-el-nid03092026/",
-      "published_date": "2026-09-08T23:31:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Domestic employees agreed to a salary increase and bonus in the August 2026 joint meeting",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/las-empleadas-domesticas-acordaron-aumento-de-sueldo-y-bono-en-la-paritaria-de-agosto-2026-nid24082026/",
-      "published_date": "2026-09-08T23:31:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Todos los santos para rezar en septiembre de 2026 en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/todos-los-santos-para-rezar-en-septiembre-de-2026-en-la-argentina-nid23082026/",
-      "published_date": "2026-09-08T23:29:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Es oficial: así funciona el nuevo sistema de cuotas del BCRA que impacta en los deudores de billeteras virtuales y bancos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/es-oficial-asi-funciona-el-nuevo-sistema-de-cuotas-del-bcra-que-impacta-en-los-deudores-de-nid01092026/",
-      "published_date": "2026-09-08T23:29:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Suba leve del dólar mayorista",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/08/suba-leve-del-dolar-mayorista/",
-      "published_date": "2026-09-08T23:20:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los puertos bonaerenses se consolidan como motores de exportación y capacitación",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/transport-cargo/los-puertos-bonaerenses-se-consolidan-como-motores-de-exportacion-y-capacitacion/",
-      "published_date": "2026-09-08T23:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La conectividad aérea de América Latina es 42% inferior a la de otros mercados más liberalizados",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/agencias/la-conectividad-aerea-de-america-latina-es-42-inferior-a-la-de-otros-mercados-mas-liberalizados/",
-      "published_date": "2026-09-08T23:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Advierten sobre los peligros de juguetes importados que no pasaron controles de seguridad",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/08/advierten-sobre-los-peligros-de-juguetes-importados-que-no-pasaron-controles-de-seguridad/",
-      "published_date": "2026-09-08T22:56:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Chile mantendría tasa con riesgo de que la Fed pese más que la débil economía",
+      "title": "Trial of Oscar González: Alexa's father said that the sentence \"the prosecutor has been bought, it is an insult to the victims\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-chile-mantendria-tasa-con-riesgo-de-que-la-fed-pese-mas-que-la-debil-economia.phtml",
-      "published_date": "2026-09-08T22:35:00Z",
+      "url": "https://www.perfil.com/noticias/cordoba/juicio-a-oscar-gonzalez-el-padre-de-alexa-dijo-que-la-pena-es-un-insulto-para-las-victimas.phtml",
+      "published_date": "2026-09-09T13:41:49Z",
       "category": "Economy"
     },
     {
-      "title": "En Ronda de Economistas analizaron el impacto del programa económico de Milei sobre el empleo",
+      "title": "Ricardo Hausmann: “Creation leads to destruction, but destruction does not lead to creation”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/ricardo-hausmann-la-creacion-lleva-a-la-destruccion-pero-la-destruccion-no-lleva-a-la-creacion-nid06092026/",
+      "published_date": "2026-09-09T13:38:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "These are the five most pedantic Zodiac signs of all and why it is important to detect them early",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/horoscopo/estos-son-los-cinco-signos-del-zodiaco-mas-pedantes-de-todos-y-por-que-es-importante-detectarlos-a-nid09092026/",
+      "published_date": "2026-09-09T13:18:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “We can achieve lack, the mixture of lack and happiness, which is a happiness in lack”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid09092026/",
+      "published_date": "2026-09-09T13:16:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Deborah Bellota, psychologist, on the favorite child: “It has nothing to do with love, but with identifications”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/deborah-bellota-psicologa-sobre-el-hijo-preferido-no-tiene-que-ver-con-el-amor-sino-con-las-nid09092026/",
+      "published_date": "2026-09-09T13:16:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psychologist: “There will always be a wound, an absence that is felt by your side and moves you with a memory”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-siempre-habra-una-herida-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid07092026/",
+      "published_date": "2026-09-09T13:16:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mario Alonso Puig, doctor who is an expert in emotions: \"Hang in there, you're sick; laughing and crying is what heals the most\"",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-medico-experto-en-emociones-aguantarse-enferma-reir-y-llorar-es-lo-que-mas-cura-nid02092026/",
+      "published_date": "2026-09-09T13:16:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How much is the blue dollar trading at today, Wednesday, September 9",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/pymes-y-empleo-en-argentina-alertan-por-recesion-y-transformacion-del-modelo-economico.phtml",
-      "published_date": "2026-09-08T22:31:03Z",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-9-de-septiembre.phtml",
+      "published_date": "2026-09-09T13:14:00Z",
       "category": "Economy"
     },
     {
-      "title": "Pymes y deudas impositivas: en RDEco advirtieron sobre el riesgo de perder el acceso a las cuentas bancarias",
+      "title": "How much is the euro blue trading at today, Wednesday, September 9",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/pymes-e-impuestos-en-rde-especialistas-analizan-que-hacer-ante-la-falta-de-liquidez.phtml",
-      "published_date": "2026-09-08T22:25:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: las Pymes enfrentan tasas de interés del 80% y una cadena de pagos cada vez más deteriorada",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/dolar-credito-y-pymes-empresarios-y-economistas-alertan-por-la-crisis-productiva-en-argentina.phtml",
-      "published_date": "2026-09-08T22:20:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "En Ronda de Economistas analizaron el atraso cambiario y su impacto sobre las empresas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/dolar-atrasado-salarios-e-inflacion-economistas-advierten-sobre-los-limites-del-programa-economico.phtml",
-      "published_date": "2026-09-08T22:14:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El salario docente sigue 22 por ciento abajo",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/08/el-salario-docente-sigue-22-por-ciento-abajo/",
-      "published_date": "2026-09-08T22:01:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "No hay inflación cero en CABA",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/08/no-hay-inflacion-cero-en-caba/",
-      "published_date": "2026-09-08T21:42:59Z",
+      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-9-de-septiembre.phtml",
+      "published_date": "2026-09-09T13:08:00Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Un empresario argentino compró uno de los castillos más históricos de España por €10 millones, con 24 habitaciones, pileta y ascensor",
+      "title": "Launch of the new iPhone 18: US and California time to watch the Apple Event 2026 live",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/un-empresario-argentino-compro-uno-de-los-castillos-mas-historicos-de-espana-por-10-millones-a-una-nid03092026/",
-      "published_date": "2026-09-09T00:52:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/lanzamiento-del-nuevo-iphone-18-hora-de-eeuu-y-california-para-ver-en-vivo-el-apple-event-2026-nid09092026/",
+      "published_date": "2026-09-09T14:43:37Z",
       "category": "Local Events"
     },
     {
-      "title": "El día que James Blunt apareció en La Voz Alemania y paralizó al jurado",
+      "title": "With world royalty in Oslo, Norway bids farewell to Harald V",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/el-dia-que-james-blunt-aparecio-en-la-voz-alemania-y-paralizo-al-jurado-nid08092026/",
-      "published_date": "2026-09-09T00:52:00Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/con-la-realeza-mundial-en-oslo-noruega-despidio-a-harald-v-nid09092026/",
+      "published_date": "2026-09-09T14:42:51Z",
       "category": "Local Events"
     },
     {
-      "title": "This will be the new Fasano in Punta del Este that will operate in the same place where the Conrad hotel was",
+      "title": "DHS confirms a rule to grant green cards to children of foreign workers on official missions",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/asi-sera-el-nuevo-fasano-de-punta-del-este-que-funcionara-en-el-mismo-lugar-donde-estaba-el-hotel-nid01092026/",
-      "published_date": "2026-09-09T00:52:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/oficial-y-confirmado-la-nueva-regla-del-dhs-sobre-la-green-card-para-hijos-de-trabajadores-en-nid08092026/",
+      "published_date": "2026-09-09T14:40:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Faced with the prospect of defeat, the ruling party will provide a quorum to debate disability and late payment in Deputies",
+      "title": "“I apologize for the lies”: Laudelina, Loan Peña's aunt, cried and admitted that the version of the accident was an invention",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/ante-la-perspectiva-de-una-derrota-el-oficialismo-dara-quorum-manana-para-debatir-discapacidad-y-nid08092026/",
-      "published_date": "2026-09-09T00:43:50Z",
+      "url": "https://www.lanacion.com.ar/seguridad/pido-perdon-por-las-mentiras-laudelina-la-tia-de-loan-pena-lloro-y-admitio-que-la-version-del-nid08092026/",
+      "published_date": "2026-09-09T14:39:53Z",
       "category": "Local Events"
     },
     {
-      "title": "A historic castle in the mountains of Córdoba with 16 rooms and almost 10 hectares is sold for US$3.1 million",
+      "title": "A superyacht attributed to J. K. Rowling sparks curiosity in a Los Angeles marina",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inversiones/venden-por-us31-millones-un-historico-castillo-en-las-sierras-de-cordoba-con-16-habitaciones-y-casi-nid05092026/",
-      "published_date": "2026-09-09T00:42:00Z",
+      "url": "https://www.lanacion.com.ar/cultura/un-superyate-atribuido-a-j-k-rowling-despierta-la-curiosidad-en-una-marina-de-los-angeles-nid09092026/",
+      "published_date": "2026-09-09T14:38:09Z",
       "category": "Local Events"
     },
     {
-      "title": "How to know if a building has structural problems before buying or renting it",
+      "title": "Confirmed by Apple: the official date for the launch of the iPhone 18 and how much it will sell for in the US.",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/como-saber-si-un-edificio-tiene-problemas-estructurales-antes-de-comprarlo-o-alquilarlo-nid04092026/",
-      "published_date": "2026-09-09T00:41:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/se-confirma-la-fecha-oficial-para-el-lanzamiento-del-iphone-18-y-cuando-se-vendera-en-eeuu-nid02092026/",
+      "published_date": "2026-09-09T14:36:42Z",
       "category": "Local Events"
     },
     {
-      "title": "A historic Argentine castle for sale on the beaches of Quequén for the same price as a two-bedroom in CABA",
+      "title": "Official and confirmed in California: the launch of the iPhone 18 and the price of the ultra version that Apple promises",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/se-vende-un-historico-castillo-argentino-cerca-del-mar-por-el-mismo-precio-que-un-dos-ambientes-en-nid05092026/",
-      "published_date": "2026-09-09T00:41:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/oficial-y-confirmado-en-california-el-lanzamiento-del-iphone-18-y-el-precio-de-la-version-ultra-que-nid07092026/",
+      "published_date": "2026-09-09T14:36:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Expense mattress: what it is, how it works and why more and more consortiums require it",
+      "title": "Javier Milei and his measures, live: “Obviously he hates our government”: the President targeted a journalist",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/colchon-de-expensas-que-es-como-funciona-y-por-que-cada-vez-mas-consorcios-lo-exigen-nid06092026/",
-      "published_date": "2026-09-09T00:40:00Z",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contra-una-periodista-obvio-que-odia-a-nid09092026/",
+      "published_date": "2026-09-09T14:35:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Coliving in CABA: what it is, how much it costs and in which neighborhoods the offer is growing",
+      "title": "An “expanding family”: what is the project that will unite two traditional schools in Recoleta from 2027?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/coliving-en-caba-que-es-cuanto-cuesta-y-en-que-barrios-esta-creciendo-la-oferta-nid06092026/",
-      "published_date": "2026-09-09T00:40:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/una-familia-que-se-amplia-como-es-el-proyecto-que-unira-a-dos-colegios-tradicionales-de-recoleta-nid09092026/",
+      "published_date": "2026-09-09T14:32:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Acquisitive prescription: the legal way of becoming the owner of an asset by using it for a long time",
+      "title": "Launch of the iPhone 18, LIVE: Apple presents its new phone, a foldable one?, headphones and other devices",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/prescripcion-adquisitiva-la-forma-legal-de-convertirte-en-dueno-de-un-bien-por-usarlo-durante-mucho-nid07092026/",
-      "published_date": "2026-09-09T00:39:00Z",
+      "url": "https://www.lanacion.com.ar/economia/IA/lanzamiento-del-iphone-18-en-vivo-apple-presenta-su-nuevo-telefono-uno-plegable-auriculares-y-otros-nid09092026/",
+      "published_date": "2026-09-09T14:31:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Inquilinos con mascotas: los barrios de CABA donde es más fácil encontrar alquiler",
+      "title": "Where do Liverpool vs. Atlético de Madrid and which channel broadcasts it live",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/inquilinos-con-mascotas-los-barrios-de-caba-donde-es-mas-facil-encontrar-alquiler-nid07092026/",
-      "published_date": "2026-09-09T00:38:00Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-liverpool-vs-atletico-de-madrid-y-que-canal-lo-transmite-en-vivo-nid09092026/",
+      "published_date": "2026-09-09T14:30:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Cristian, bricklayer: “Today's laborers are more focused on their cell phones than on the work”",
+      "title": "Bullrich bets on dealing with Biofuels tomorrow, but biodiesel puts the votes in doubt again",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/bullrich-apuesta-a-tratar-manana-biocombustibles-pero-el-biodiesel-pone-en-duda-otra-vez-los-votos/",
+      "published_date": "2026-09-09T14:28:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anthropic security chief says there is more than a 10% chance that AI will kill all humans",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/cristian-albanil-los-peones-de-ahora-estan-mas-pendientes-del-celular-que-de-la-obra-nid08092026/",
-      "published_date": "2026-09-09T00:36:00Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-jefe-de-seguridad-de-anthropic-dice-que-hay-mas-de-un-10-de-probabilidad-de-que-la-ia-mate-a-nid09092026/",
+      "published_date": "2026-09-09T14:28:05Z",
       "category": "Local Events"
     },
     {
-      "title": "It's official: the United States proposal that could leave certain immigrants without IRS refunds",
+      "title": "The neighborhood with easy access and a high concentration of shops that renews its gourmet profile",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/es-oficial-la-propuesta-de-estados-unidos-que-podria-dejar-sin-reembolsos-del-irs-a-ciertos-nid08092026/",
-      "published_date": "2026-09-09T00:34:00Z",
+      "url": "https://www.lanacion.com.ar/sabado/el-barrio-de-facil-acceso-y-alta-concentracion-de-comercios-que-renueva-su-perfil-gourmet-nid08092026/",
+      "published_date": "2026-09-09T14:27:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Nada de cambios de última hora",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/09/nada-de-cambios-de-ultima-hora/",
-      "published_date": "2026-09-09T00:32:59Z",
+      "title": "They arrested a driver who was driving while drinking beer: he had 2.56 blood alcohol on the Riccheri highway",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/un-conductor-manejaba-tomando-cerveza-tenia-256-de-alcohol-en-sangre-autopista-riccheri-nid09092026/",
+      "published_date": "2026-09-09T14:26:12Z",
       "category": "Local Events"
     },
     {
-      "title": "La psicología dice que las personas nacidas entre 1946 y 1964 que hablan demasiado en la cena no están monopolizando la mesa; la generación criada con el lema \"ver pero no oír\" pasó una infancia esperando un turno que nunca llegó",
+      "title": "International technology, health and well-being brand arrives with its devices in Argentina",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/gadgets/marca-internacional-de-tecnologia-salud-y-bienestar-desembarca-con-sus-dispositivos-en-la-argentina/",
+      "published_date": "2026-09-09T14:24:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cosquín Rock 2027 confirmed which artists play each day: the complete lineup for Saturday and Sunday",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/que-sale/cosquin-rock-2027-confirmo-que-artistas-tocan-cada-dia-la-grilla-completa-del-sabado-y-domingo-nid08092026/",
+      "published_date": "2026-09-09T14:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychology says that people who lower their voices when talking on the phone in public, even when there is nothing private, are not reserved; They learned from an early age that being listened to had consequences, long before there was anything to hide.",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-nacidas-1946-1964-hablan-demasiado-cena-monopolizando-mesa-generacion-criada-lema-ver-oir-paso-infancia-esperando-turno-llego_0_xZj8hNKHr1.html",
-      "published_date": "2026-09-09T00:31:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, martes 08 de septiembre",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-martes-08-septiembre_0_p6zKvUS8YF.html",
-      "published_date": "2026-09-09T00:31:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Le hizo una escena de celos, sacó un arma, mató a su novia e hirió a su suegro",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/policiales/hizo-escena-celos-saco-arma-mato-novia-hirio-suegro_0_EFOAlqjSVg.html",
-      "published_date": "2026-09-09T00:31:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheinbaum receives the US Secretary of Commerce on Wednesday in the midst of the T-MEC review",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/sheinbaum-recibe-el-miercoles-a-secretario-de-comercio-de-eeuu-en-plena-revision-del-t-mec_0_6Eil8wXrJ6.html",
-      "published_date": "2026-09-09T00:30:15Z",
+      "url": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-bajan-voz-hablar-telefono-publico-incluso-privado-reservadas-aprendieron-temprana-edad-escuchadas-consecuencias-ocultar_0_AXLbXAXzhH.html",
+      "published_date": "2026-09-09T14:23:50Z",
       "category": "Local Events"
     }
   ]
