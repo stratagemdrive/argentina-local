@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:48:20Z",
+  "generated_at": "2026-09-13T00:43:58Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "El FMI le tiene miedo a una corrida cambiaria",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/12/el-fmi-le-tiene-miedo-a-una-corrida-cambiaria/",
+      "published_date": "2026-09-12T23:21:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Devolución de favores de la familia judicial a Javier Milei y Mauricio Macri",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/12/devolucion-de-favores-de-la-familia-judicial-a-javier-milei-y-mauricio-macri/",
+      "published_date": "2026-09-12T22:42:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuáles son los cinco restaurantes de Buenos Aires para comer “como en España”, según la propia Embajada",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sabado/cinco-lugares-para-comer-como-en-espana-segun-la-propia-embajada-nid10092026/",
+      "published_date": "2026-09-12T22:24:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El kirchnerismo, Kicillof y Massa afilan sus estrategias electorales para el 2027",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/12/el-kirchnerismo-kicillof-y-massa-afilan-sus-estrategias-electorales-para-el-2027/",
+      "published_date": "2026-09-12T21:52:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El sindicalista Gerardo Martínez compartió un evento con el Papa y dijo que la Argentina está “triste”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-sindicalista-gerardo-martinez-compartio-un-evento-con-el-papa-y-dijo-que-la-argentina-esta-triste-nid12092026/",
+      "published_date": "2026-09-12T20:28:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Milei reactiva la base naval del fin del mundo en medio de tensión por Malvinas",
       "source": "Clarín",
@@ -116,39 +151,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Reclaman que Milei explique dónde está una bandera argentina ligada a Malvinas que fue retirada de Casa Rosada",
+      "title": "El Gobierno se apoya en la causa Malvinas para tapar las derrotas en el Congreso",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/11/reclaman-que-milei-explique-donde-esta-una-bandera-argentina-ligada-a-malvinas-que-fue-retirada-de-casa-rosada/",
-      "published_date": "2026-09-11T21:06:15Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/13/el-gobierno-se-apoya-en-la-causa-malvinas-para-tapar-las-derrotas-en-el-congreso/",
+      "published_date": "2026-09-13T00:33:38Z",
+      "category": "Military"
     },
     {
-      "title": "Advertencia del gobierno de Malvinas ante la temporada de cruceros: no pueden mostrarse banderas argentinas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/advertencia-del-gobierno-de-malvinas-ante-la-temporada-de-cruceros-no-pueden-mostrarse-banderas-nid11092026/",
-      "published_date": "2026-09-11T14:17:15Z",
-      "category": "Diplomacy"
+      "title": "Trump juega a la ambigüedad con el reclamo por Malvinas y se ofrece como mediador",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/12/trump-juega-a-la-ambiguedad-con-el-reclamo-por-malvinas-y-se-ofrece-como-mediador/",
+      "published_date": "2026-09-12T23:54:49Z",
+      "category": "Military"
     },
     {
-      "title": "Estados Unidos recalcó que “el Estrecho de Magallanes pertenece a Chile” tras la polémica con Argentina",
+      "title": "Ejercicios en la selva: Argentina, Chile, Estados Unidos y Perú realizan un entrenamiento militar conjunto",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/ejercicios-selva-argentina-chile-estados-unidos-peru-realizan-entrenamiento-militar-conjunto_0_UAixPOjDmH.html",
+      "published_date": "2026-09-12T23:48:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ucrania y Rusia protagonizaron la primera batalla naval entre drones acuáticos: cómo fue el enfrentamiento en el mar Negro",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/ucrania-rusia-protagonizaron-primera-batalla-naval-drones-acuaticos-enfrentamiento-mar-negro_0_dX2qlW6Hoq.html",
+      "published_date": "2026-09-12T23:27:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Los BRICS piden “máxima contención” en Oriente Medio",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/12/los-brics-piden-maxima-contencion-en-oriente-medio/",
+      "published_date": "2026-09-12T21:48:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "El Gobierno destinará más de $300.000 millones a la construcción de una base naval en Ushuaia",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/estados-unidos-recalco-que-el-estrecho-de-magallanes-pertenece-a-chile-tras-a50-polemica-con-argentina.phtml",
-      "published_date": "2026-09-11T13:51:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/politica/el-gobierno-destinara-mas-de-300000-millones-a-la-construccion-de-una-base-naval-en-ushuaia.phtml",
+      "published_date": "2026-09-12T21:35:02Z",
+      "category": "Military"
     },
     {
-      "title": "El único estudio que ayuda a detectar con anticipación el cáncer de pulmón, según especialista",
+      "title": "Una muestra convulsionada: un gran triunfo del cine hecho por mujeres en el Festival de Venecia",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/el-unico-estudio-que-ayuda-a-detectar-con-anticipacion-el-cancer-de-pulmon-segun-especialista-nid09092026/",
-      "published_date": "2026-09-11T12:59:21Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/espectaculos/cine/un-muestra-convulsionada-un-gran-triunfo-del-cine-hecho-por-mujeres-en-el-festival-de-venecia-nid12092026/",
+      "published_date": "2026-09-12T21:21:51Z",
+      "category": "Military"
     },
     {
-      "title": "“Súper Niño”: qué se sabe del evento histórico y cómo afectará a la Argentina y el mundo",
+      "title": "Malvinas, una “violenta ocupación”: difunden cartas de protestas tras la usurpación de las islas en 1833",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-del-evento-historico-y-como-afectara-a-la-argentina-y-el-mundo-nid08092026/",
-      "published_date": "2026-09-11T12:58:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/cultura/malvinas-una-violenta-ocupacion-difunden-cartas-de-protestas-tras-la-usurpacion-de-las-islas-en-1833-nid12092026/",
+      "published_date": "2026-09-12T20:32:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump se mete en la polémica de las dos Irlandas y dice que sería “fantástico” verlas como un solo país",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/trump-se-mete-en-la-polemica-de-las-dos-irlandas-y-dice-que-seria-fantastico-verlas-como-un-solo-nid12092026/",
+      "published_date": "2026-09-12T20:01:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Base Naval Integrada: el Gobierno asegura que la obra “pertenece 100% a la Argentina” y no incluye a otros países",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/base-naval-integrada-el-gobierno-asegura-que-la-obra-pertenece-100-a-la-argentina-y-no-incluye-a-nid12092026/",
+      "published_date": "2026-09-12T19:55:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Después de hablar de Malvinas, Trump pasó a temas distendidos: golf y arquitectura...",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/despues-de-hablar-de-malvinas-trump-paso-a-temas-distendidos-golf-y-arquitecturaOK.phtml",
+      "published_date": "2026-09-12T16:57:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Para Xi Jinping, la guerra en Oriente Medio “no sirve a los intereses comunes”",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/12/para-xi-jinping-la-guerra-en-oriente-medio-no-sirve-a-los-intereses-comunes/",
+      "published_date": "2026-09-12T14:25:07Z",
+      "category": "Military"
     },
     {
       "title": "Trump advirtió por una posible guerra entre Argentina y Reino Unido por Malvinas: “Sería un desastre potencial”",
@@ -207,88 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "A divided anniversary of 9/11: silence in New York and a Trump war focus from the Pentagon",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/un-aniversario-del-11-s-dividido-silencio-en-nueva-york-y-un-foco-belico-de-trump-desde-el-pentagono.phtml",
-      "published_date": "2026-09-11T23:12:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two Milei ministers met with the governor of Tierra del Fuego and visited the naval base",
+      "title": "Una ambulancia solar que recorrió 800 km por Kenia puede convertirse en una clínica sin enchufe",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/dos-ministros-de-milei-se-reunieron-con-el-gobernador-de-tierra-del-fuego-nid11092026/",
-      "published_date": "2026-09-11T23:07:47Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/autos/crean-una-ambulancia-solar-que-puede-recorrer-800-kilometros-nid12092026/",
+      "published_date": "2026-09-13T00:35:18Z",
+      "category": "Energy"
     },
     {
-      "title": "¡Alerta roja! La SIDE espía a los Milei",
+      "title": "Qué quiere decir la frase: “No construyas una casa a los 50, no plantes un árbol a los 60 y no cosas ropa a los 70”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/alerta-roja-la-side-espia-a-los-milei-nid11092026/",
-      "published_date": "2026-09-11T22:25:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "El FBI advirtió de otras siete planificaciones con Inteligencia Artificial de tiroteos en colegios",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/el-fbi-advirtio-de-otras-siete-planificaciones-con-inteligencia-artificial-de-tiroteos-en-colegios-nid11092026/",
-      "published_date": "2026-09-11T22:11:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Atentados del 11-S: cómo cambió la amenaza terrorista para EE.UU. y las decisiones de Trump que despiertan alerta",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/atentados-del-11-s-como-cambio-la-amenaza-terrorista-para-eeuu-y-las-decisiones-de-trump-que-nid11092026/",
-      "published_date": "2026-09-11T21:33:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Quirno y Presti viajaron a Ushuaia y se reunieron con el gobernador fueguino Gustavo Melella",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/11/quirno-y-presti-viajaron-a-ushuaia-y-se-reunieron-con-el-gobernador-fueguino-gustavo-melella/",
-      "published_date": "2026-09-11T21:18:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "En Ronda de Corresponsales analizaron la hipótesis de una “guerra híbrida” detrás de la crisis de Ceuta",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-ronda-de-corresponsales-analizaron-la-hipotesis-de-una-guerra-hibrida-detras-de-la-crisis-de-ceuta.phtml",
-      "published_date": "2026-09-11T20:03:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "DRC: they investigate a structure of hitmen linked to Daniel Vorcaro and an alleged hack of the Federal Police",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/rdc-investigan-una-estructura-de-sicarios-vinculada-a-daniel-vorcaro-y-un-supuesto-hackeo-a-la-policia-federal.phtml",
-      "published_date": "2026-09-11T20:03:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Base Naval Integrada: Quirno y Presti viajaron a Tierra del Fuego para reactivar la obra estratégica de Milei",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/base-naval-integrada-quirno-y-presti-viajaron-a-tierra-del-fuego-para-reactivar-la-obra-estrategica-de-milei.phtml",
-      "published_date": "2026-09-11T19:43:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Presti y Quirno visitaron el terreno de la Base Naval y mantuvieron una reunión con el gobernador",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/con-la-cupula-militar-y-comitiva-de-legisladores-el-gobierno-visita-el-terreno-de-la-base-naval/",
-      "published_date": "2026-09-11T19:37:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "La sombra de Estados Unidos sobre Malvinas y la Antártida",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/11/la-sombra-de-estados-unidos-sobre-malvinas-y-la-antartida/",
-      "published_date": "2026-09-11T15:55:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Las secuelas del 11-S a 25 años: el documental que explica cómo el atentado transformó a toda una generación",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/las-secuelas-del-11-s-a-25-anos-el-documental-que-explica-como-el-atentado-transformo-a-toda-una-nid11092026/",
-      "published_date": "2026-09-11T14:27:42Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/lifestyle/que-quiere-decir-la-frase-no-construyas-una-casa-a-los-50-no-plantes-un-arbol-a-los-60-y-no-cosas-nid12092026/",
+      "published_date": "2026-09-12T22:23:05Z",
+      "category": "Energy"
     },
     {
       "title": "Biologists made eight visits to the same reservoir to find an endangered bird: now, they plan to install a floating solar park and a battery storage system there",
@@ -417,18 +431,39 @@
       "category": "Energy"
     },
     {
-      "title": "August inflation was 1.7% according to INDEC",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/10/la-inflacion-de-agosto-fue-17-segun-el-indec/",
-      "published_date": "2026-09-10T19:07:29Z",
-      "category": "Energy"
+      "title": "Oro en Londres: Las mentiras de Santiago Bausili y sus ruinosas operaciones financieras",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/13/oro-en-londres-las-mentiras-de-santiago-bausili-y-sus-ruinosas-operaciones-financieras/",
+      "published_date": "2026-09-13T00:25:11Z",
+      "category": "Economy"
     },
     {
-      "title": "Yemen rebels take over a strategic port and raise new alarms over oil supplies",
+      "title": "Ni para supermercado del mundo",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/12/ni-para-supermercado-del-mundo-2/",
+      "published_date": "2026-09-12T23:37:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Un fiscal desvió 425 millones de pesos de cuentas judiciales para pagar sus deudas de juego",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/los-rebeldes-de-yemen-toman-un-puerto-estrategico-y-enciende-nuevas-alarmas-por-el-suministro-de-nid10092026/",
-      "published_date": "2026-09-10T13:57:31Z",
-      "category": "Energy"
+      "url": "https://www.lanacion.com.ar/seguridad/un-fiscal-desvio-425-millones-de-pesos-de-cuentas-judiciales-para-pagar-sus-deudas-de-juego-nid08092026/",
+      "published_date": "2026-09-12T19:37:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El apellido del exsecretario de Transporte de Milei aparece en la concesión de 682 kilómetros de rutas: “No tengo relación con la empresa”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/el-apellido-del-exsecretario-de-transporte-de-milei-aparece-en-la-concesion-de-682-kilometros-de-rutas-no-tengo-relacion-con-la-empresa.phtml",
+      "published_date": "2026-09-12T16:29:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Las altas temperaturas de los océanos amenazan la economía de todo el planeta",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/ciencia/las-altas-temperaturas-a50-de-los-oceanos-amenazan-la-economia-de-todo-el-planeta.phtml",
+      "published_date": "2026-09-12T15:26:01Z",
+      "category": "Economy"
     },
     {
       "title": "Impacto en el trabajo: la destrucción del empleo, provincia por provincia",
@@ -536,41 +571,6 @@
       "category": "Economy"
     },
     {
-      "title": "Elon Musk, el empresario más favorecido por el super-RIGI",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/elon-musk-el-empresario-mas-favorecido-por-el-super-rigi.phtml",
-      "published_date": "2026-09-12T04:47:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Por los aumentos del Gobierno de los servicios públicos, Milei incumplió su promesa con la inflación",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/por-los-aumentos-del-gobierno-de-los-servicios-publicos-milei-incumplio-su-promesa-con-la-inflacion.phtml",
-      "published_date": "2026-09-12T04:46:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Del Rodrigazo al colchón: más de medio siglo de desconfianza en el peso",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/columnistas/del-rodrigazo-al-colchon-mas-de-medio-siglo-de-desconfianza-en-el-peso-por-carlos-burgueno.phtml",
-      "published_date": "2026-09-12T04:02:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¿Dónde está el oro del Banco Central?: “En Inglaterra”, denuncian en el peronismo",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/11/donde-esta-el-oro-del-banco-central-el-pj-cruzo-a-bausili-por-contradicciones-en-su-explicacion/",
-      "published_date": "2026-09-12T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La industria textil profundiza su crisis: el 70% del abastecimiento ya es importado",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/11/la-industria-textil-profundiza-su-crisis-el-70-del-abastecimiento-ya-es-importado/",
-      "published_date": "2026-09-12T03:01:00Z",
-      "category": "Economy"
-    },
-    {
       "title": "The Government puts the magnifying glass on university funds in the run-up to the march",
       "source": "El Cronista",
       "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-la-lupa-sobre-los-fondos-de-las-universidades-en-la-previa-de-la-marcha/",
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Susana Marín, maquilladora: “A partir de los 45 años empecé a perder pelo de las cejas y, para definirlas, marco tres puntos en la nariz”",
+      "title": "Últimas encuestas en Florida: Jolly mantiene la ventaja frente a Donalds y se acerca la elección del 3 de noviembre",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/susana-marin-maquilladora-a-partir-de-los-45-anos-empece-a-perder-pelo-de-las-cejas-y-para-nid12092026/",
-      "published_date": "2026-09-12T13:43:23Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/ultimas-encuestas-en-florida-jolly-mantiene-la-ventaja-frente-a-donalds-y-se-acerca-la-eleccion-del-nid12092026/",
+      "published_date": "2026-09-13T02:32:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Juegos Suramericanos: Nicolás Marcipar y Bruno Galassi, los europibes de la selección argentina sub 19",
+      "title": "Cuánto cuesta la Ford Ranger en septiembre 2026",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/juegos-suramericanos-nicolas-marcipar-y-bruno-galassi-los-europibes-de-la-seleccion-argentina-sub-19-nid12092026/",
-      "published_date": "2026-09-12T13:37:07Z",
+      "url": "https://www.lanacion.com.ar/autos/cuanto-cuesta-la-ford-ranger-en-septiembre-2026-nid09092026/",
+      "published_date": "2026-09-13T00:36:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Queso cottage vs. yogur griego: cuál tiene más proteínas y qué diferencias nutricionales hay",
+      "title": "Cuánto cuesta el Toyota Yaris en septiembre 2026",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/nutricion/queso-cottage-vs-yogur-griego-cual-tiene-mas-proteinas-y-que-diferencias-nutricionales-hay-nid09092026/",
-      "published_date": "2026-09-12T13:31:05Z",
+      "url": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-yaris-en-septiembre-2026-nid12092026/",
+      "published_date": "2026-09-13T00:33:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Una joven de 30 años murió tras volcar con su auto en la Ruta 237: iba con su familia",
+      "title": "Inter Miami, con Lionel Messi, vs. Nashville: en vivo",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/una-joven-de-30-anos-murio-tras-volcar-con-su-auto-en-la-ruta-237-iba-con-su-familia-nid12092026/",
-      "published_date": "2026-09-12T13:25:12Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-con-lionel-messi-vs-nashville-en-vivo-nid12092026/",
+      "published_date": "2026-09-13T00:33:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Mahiques prepara la última tanda de pliegos clave: por qué tienen un peso estratégico en 2027",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/mahiques-prepara-los-pliegos-electorales-mientras-el-gobierno-busca-destrabar-la-reforma-politica/",
-      "published_date": "2026-09-12T13:19:29Z",
+      "title": "Drenaje linfático y masaje capilar: la experiencia, en primera persona, de una sesión que libera tensiones y además rejuvenece",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/vida_sana/drenaje-linfatico-y-masaje-capilar-la-experiencia-en-primera-persona-de-una-sesion-que-libera-nid12092026/",
+      "published_date": "2026-09-13T00:33:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Reforma electoral: el Gobierno activa el debate en el Senado sin acuerdo para eliminar las PASO",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/reforma-electoral-el-gobierno-activa-el-debate-en-el-senado-sin-acuerdo-para-eliminar-las-paso/",
-      "published_date": "2026-09-12T13:10:30Z",
+      "title": "TV y streaming del domingo: Colapinto en la Fórmula 1, el Torneo Clausura, ligas de Europa y la final del US Open",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-colapinto-en-la-formula-1-el-torneo-clausura-ligas-de-europa-y-la-final-nid12092026/",
+      "published_date": "2026-09-13T00:33:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Camilo, Ricky Martin, Chuwi, Álvaro Díaz y Alex Campos, entre los estrenos latinos",
+      "title": "Cubrir las vacantes judiciales es necesario, pero no suficiente",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/cubrir-las-vacantes-judiciales-es-necesario-pero-no-suficiente-nid12092026/",
+      "published_date": "2026-09-13T00:27:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Julio Falcioni explotó tras la derrota ante River: “Parece que la banda empezó a funcionar de nuevo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/julio-falcioni-exploto-tras-la-derrota-ante-river-parece-que-la-banda-empezo-a-funcionar-de-nuevo-nid12092026/",
+      "published_date": "2026-09-13T00:25:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elena Rybakina venció a Aryna Sabalenka y es la nueva campeona del US Open",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/tenis/elena-rybakina-vencio-a-aryna-sabalenka-y-es-la-nueva-campeona-del-us-open-nid12092026/",
+      "published_date": "2026-09-13T00:23:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newsom hace historia: la nueva ley de California que prohíbe ofrecer funciones adictivas en redes sociales a menores de 16 años",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/newsom-hace-historia-la-nueva-ley-de-california-que-prohibe-ofrecer-funciones-adictivas-en-redes-nid12092026/",
+      "published_date": "2026-09-13T00:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Céline Dion reapareció en París: lágrimas de alegría y un contundente mensaje sobre su salud",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/camilo-ricky-martin-chuwi-alvaro-diaz-y-alex-campos-entre-los-estrenos-latinos_0_3IsDL91bOq.html",
-      "published_date": "2026-09-12T13:10:08Z",
+      "url": "https://www.clarin.com/espectaculos/celine-dion-reaparecio-paris-lagrimas-alegria-contundente-mensaje-salud_0_04VtXBNieb.html",
+      "published_date": "2026-09-13T00:15:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump redobla la apuesta: el presidente de EE.UU. afirma que los pagos de dividendos de 5.000 dólares no necesitarán la aprobación del Congreso",
+      "title": "Tom Cruise, actor, 64 años: “En esta vida, no es lo que esperas, no es lo que mereces, ¡es lo que tomas!”",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-redobla-apuesta-presidente-eeuu-afirma-pagos-dividendos-5000-dolares-necesitaran-aprobacion-congreso_0_tOGTGSZ9SM.html",
-      "published_date": "2026-09-12T13:09:33Z",
+      "url": "https://www.clarin.com/estados-unidos/tom-cruise-actor-64-anos-vida-esperas-mereces-tomas_0_cvhIdcA94C.html",
+      "published_date": "2026-09-13T00:12:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Ellen Burstyn, 93 años, \"Camino todos los días y hago ejercicio en el gimnasio, me cuido y eso me da frutos\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/ellen-burstyn-93-anos-camino-dias-hago-ejercicio-gimnasio-cuido-da-frutos_0_iSelZti3Po.html",
-      "published_date": "2026-09-12T13:02:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pozo canadiense: así funciona el mecanismo que climatiza tu casa con la temperatura ideal del suelo",
+      "title": "“Cocaína”: la reacción de un perro policía al escuchar a su dueño",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/pozo-canadiense-asi-funciona-el-mecanismo-que-climatiza-tu-casa-con-la-temperatura-ideal-del-suelo-nid12092026/",
-      "published_date": "2026-09-12T13:02:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/cocaina-la-reaccion-de-un-perro-policia-al-escuchar-a-su-dueno-nid12092026/",
+      "published_date": "2026-09-13T00:12:00Z",
       "category": "Local Events"
     },
     {
-      "title": "David Jolly, candidato demócrata a la gobernación de Florida: “Una reforma migratoria compasiva es posible”",
+      "title": "Neil Armstrong, primer humano que vio la Tierra desde la Luna: “No me sentí un gigante; me sentí muy, muy pequeño”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/david-jolly-candidato-democrata-por-la-gobernacion-de-florida-una-reforma-migratoria-compasiva-es-nid12092026/",
-      "published_date": "2026-09-12T13:01:00Z",
+      "url": "https://www.lanacion.com.ar/ciencia/neil-armstrong-primer-humano-que-vio-la-tierra-desde-la-luna-no-me-senti-un-gigante-me-senti-muy-muy-nid12092026/",
+      "published_date": "2026-09-13T00:11:00Z",
       "category": "Local Events"
     },
     {
-      "title": "La reflexión de El Principito sobre las apariencias: \"Fui muy tonto en aquella época. Debí juzgarla por sus actos y no por sus palabras\"",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/reflexion-principito-apariencias-tonto-epoca-debi-juzgarla-actos-palabras_0_u5FXYW0J53.html",
-      "published_date": "2026-09-12T13:00:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lavado de dinero y narcotráfico. Detienen a exdirectivos del Puerto de Rosario y ordenaron el arresto del hijo de un expresidente de Cataluña",
+      "title": "Así quedó la tabla histórica de campeonas del US Open, tras el título de Elena Rybakina",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/lavado-de-dinero-y-narcotrafico-detienen-a-exdirectivos-del-puerto-de-rosario-y-ordenaron-el-arresto-nid12092026/",
-      "published_date": "2026-09-12T13:00:00Z",
+      "url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-historica-de-campeonas-del-us-open-tras-el-titulo-de-elena-rybakina-nid12092026/",
+      "published_date": "2026-09-13T00:09:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Ley de Zonas Frías: el senador correntino Espínola confirmó que buscarán dictamen la próxima semana",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/ley-de-zonas-frias-el-senador-correntino-espinola-confirmo-que-buscaran-dictamen-la-proxima-semana.phtml",
-      "published_date": "2026-09-12T13:00:00Z",
+      "title": "Brasil: la contraofensiva de Lula enciende la campaña",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/13/brasil-la-contraofensiva-de-lula-enciende-la-campana/",
+      "published_date": "2026-09-13T00:06:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Talleres vs Unión, por el Torneo Clausura EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+      "title": "Las polémicas en Atlético Tucumán vs River: de la roja de Nicola en el arranque, al patadón de Arambarri que hizo explotar a Falcioni",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/talleres-vs-union-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_2mQwbvtVBx.html",
-      "published_date": "2026-09-12T12:51:38Z",
+      "url": "https://www.clarin.com/deportes/polemicas-atletico-tucuman-vs-river-roja-nicola-arranque-patadon-arambarri-hizo-explotar-falcioni_0_MOtLqbkYFV.html",
+      "published_date": "2026-09-13T00:03:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Asesinaron en Puerto Iguazú a un reconocido empresario y el principal sospechoso del crimen es su exsuegro",
+      "title": "Mariam Martínez, veterinaria experta en comportamiento animal: “Si no dejas que tu perro olfatee durante el paseo, es como llevarle a una biblioteca y prohibirle abrir los libros”",
       "source": "Clarín",
-      "url": "https://www.clarin.com/policiales/asesinaron-puerto-iguazu-reconocido-empresario-principal-sospechoso-crimen-exsuegro_0_lKB0gHdIiy.html",
-      "published_date": "2026-09-12T12:44:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ron DeSantis al rescate: el gobernador de Florida ofrece \"asilo\" al jurado disidente que bloqueó el fallo en el caso Lindsay Clancy",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/ron-desantis-rescate-gobernador-florida-ofrece-asilo-jurado-disidente-bloqueo-fallo-caso-lindsay-clancy_0_mGeFflAaZe.html",
-      "published_date": "2026-09-12T12:41:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Franco Colapinto en la Fórmula 1: el argentino fue 11° en un entrenamiento marcado por los accidentes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid12092026/",
-      "published_date": "2026-09-12T12:34:20Z",
+      "url": "https://www.clarin.com/internacional/mariam-martinez-veterinaria-experta-comportamiento-animal-dejas-perro-olfatee-paseo-llevarle-biblioteca-prohibirle-abrir-libros_0_Z533OhaaGe.html",
+      "published_date": "2026-09-13T00:02:53Z",
       "category": "Local Events"
     }
   ]
