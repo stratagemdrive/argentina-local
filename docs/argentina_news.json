@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T00:43:58Z",
+  "generated_at": "2026-09-13T14:45:40Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Renunció el director de la Casa Argentina en París",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/13/renuncio-el-director-de-la-casa-argentina-en-paris/",
+      "published_date": "2026-09-13T13:46:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Súper Niño 2026 en Argentina, EN VIVO: provincias afectadas, dónde se esperan más lluvias, ola polar y cuándo cambia el clima este domingo 13 de septiembre",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima-domingo-13-septiembre_0_FfK3OjQWSL.html",
+      "published_date": "2026-09-13T13:37:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuándo cae el Día del Profesor en septiembre 2026 en la Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/cuando-cae-el-dia-del-profesor-en-septiembre-2026-en-la-argentina-nid02092026/",
+      "published_date": "2026-09-13T13:36:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuándo es la Luna llena de septiembre 2026 en la Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/cuando-es-la-luna-llena-de-septiembre-2026-en-la-argentina-nid05092026/",
+      "published_date": "2026-09-13T13:34:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuánto cuesta una casa prefabricada de 2 dormitorios, 1 baño y cocina en Argentina en septiembre 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-una-casa-prefabricada-de-2-dormitorios-1-bano-y-cocina-en-argentina-en-septiembre-2026-nid13092026/",
+      "published_date": "2026-09-13T12:50:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Encuentro en el Vaticano",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/13/encuentro-en-el-vaticano/",
+      "published_date": "2026-09-13T03:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "El FMI le tiene miedo a una corrida cambiaria",
       "source": "Página/12 — Economía",
@@ -109,46 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "La parrilla argentina en Madrid que tiene seis meses de espera y no quiere más mesas",
+      "title": "Zohran Mamdani, alcalde de Nueva York: “Estamos viendo un terror hacia los inmigrantes en nuestra ciudad”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/revista-lugares/la-parrilla-argentina-en-madrid-que-tiene-cuatro-meses-de-espera-y-no-quiere-mas-mesas-nid11092026/",
-      "published_date": "2026-09-12T03:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/zohran-mamdani-alcalde-de-nueva-york-estamos-viendo-un-terror-hacia-los-inmigrantes-en-nuestra-nid11092026/",
+      "published_date": "2026-09-13T13:43:53Z",
+      "category": "Military"
     },
     {
-      "title": "Javier Milei and his measures, live: “The Argentina we want is built in the classrooms,” said the President",
+      "title": "Paritaria con aumento: cuánto gana el personal de Gendarmería Nacional Argentina en septiembre 2026",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tras-la-inflacion-de-agosto-el-presidente-pidio-que-confien-nid11092026/",
-      "published_date": "2026-09-12T00:47:25Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-gendarmeria-nacional-argentina-en-septiembre-2026-nid08092026/",
+      "published_date": "2026-09-13T13:28:54Z",
+      "category": "Military"
     },
     {
-      "title": "Guillermo Barros Schelotto spoke again about Vélez's claim against Boca",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/guillermo-barros-schelotto-volvio-hablar-reclamo-velez-boca_0_kkoDFGU74M.html",
-      "published_date": "2026-09-12T00:23:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Súper Niño gana fuerza y crece el riesgo de lluvias excesivas en la Argentina",
+      "title": "Aumento a las Fuerzas Armadas: de cuánto es el ajuste en los salarios a partir de septiembre 2026",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/sin-precedentes-el-super-nino-gana-fuerza-y-crece-el-riesgo-de-lluvias-excesivas-en-la-argentina-nid11092026/",
-      "published_date": "2026-09-11T23:08:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/economia/aumento-a-las-fuerzas-armadas-de-cuanto-es-el-ajuste-en-los-salarios-a-partir-de-septiembre-2026-nid31082026/",
+      "published_date": "2026-09-13T13:28:25Z",
+      "category": "Military"
     },
     {
-      "title": "Rumbo a Frankfurt y Guadalajara: con el apoyo de Cancillería, se relanzó el catálogo de novedades para exportar libros argentinos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/cultura/rumbo-a-frankfurt-y-guadalajara-con-el-apoyo-de-cancilleria-se-relanzo-el-catalogo-de-novedades-para-nid11092026/",
-      "published_date": "2026-09-11T23:05:17Z",
-      "category": "Diplomacy"
+      "title": "Malvinas y Milei: cómo impacta en la imagen las medidas tomó el Gobierno",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/malvinas-y-milei-como-impacta-en-la-imagen-las-medidas-tomo-el-gobierno/",
+      "published_date": "2026-09-13T10:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Countdown to Leo XIV: the Government defines the holidays and the security operation while waiting for the Vatican agenda",
+      "title": "Toques de sensibilidad",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/cuenta-regresiva-para-leon-xiv-el-gobierno-define-feriados-y-el-operativo-de-seguridad-a-la-espera-de-la-agenda-del-vaticano.phtml",
-      "published_date": "2026-09-11T21:36:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/columnistas/toques-de-sensibilidad-por-carlos-fara.phtml",
+      "published_date": "2026-09-13T03:03:52Z",
+      "category": "Military"
     },
     {
       "title": "El Gobierno se apoya en la causa Malvinas para tapar las derrotas en el Congreso",
@@ -256,39 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "¿Debería la “causa” Malvinas ser el cemento de nuestra identidad nacional?",
+      "title": "Trabajó 200 días para cumplir su sueño: hizo un barco solar con el que llegó a Gibraltar",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ideas/deberia-la-causa-malvinas-ser-el-cemento-de-nuestra-identidad-nacional-nid12092026/",
-      "published_date": "2026-09-12T03:11:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Quirno y Presti visitaron la futura base naval de Ushuaia",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/12/quirno-y-presti-visitaron-la-futura-base-naval-de-ushuaia/",
-      "published_date": "2026-09-12T00:21:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "An English media outlet from the Malvinas described Milei's claim for the sovereignty of the islands as a “distraction tactic.”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/un-medio-ingles-de-malvinas-califico-de-tactica-de-distraccion-el-reclamo-de-milei-por-la-soberania-nid11092026/",
-      "published_date": "2026-09-12T00:04:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Ejército de Israel mató al comandante de Hamas en la Franja de Gaza",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/11/el-ejercito-de-israel-mato-al-comandante-de-hamas-en-la-franja-de-gaza/",
-      "published_date": "2026-09-11T23:29:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Inteligencias de destrucción masiva",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/inteligencias-de-destruccion-masiva.phtml",
-      "published_date": "2026-09-11T23:20:03Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/autos/trabajo-200-dias-para-cumplir-su-sueno-hizo-un-barco-solar-con-el-que-llego-a-gibraltar-nid13092026/",
+      "published_date": "2026-09-13T13:15:30Z",
+      "category": "Energy"
     },
     {
       "title": "Una ambulancia solar que recorrió 800 km por Kenia puede convertirse en una clínica sin enchufe",
@@ -424,150 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Oil overheats sharply again",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/10/el-petroleo-vuelve-a-recalentarse-fuerte/",
-      "published_date": "2026-09-10T22:37:44Z",
-      "category": "Energy"
+      "title": "Los créditos de IRS están por desaparecer: el Gobierno quiere quitar uno por uno los reembolsos a los extranjeros que no puedan presentar este papel",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/creditos-irs-desaparecer-gobierno-quiere-quitar-reembolsos-extranjeros-puedan-presentar-papel_0_yD6l8qLtK9.html",
+      "published_date": "2026-09-13T13:59:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Esta es la diferencia entre crédito y endeudamiento y por qué es importante conocer los conceptos antes de asumir una deuda",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/esta-es-la-diferencia-entre-credito-y-endeudamiento-y-por-que-es-importante-conocer-los-conceptos-nid09092026/",
+      "published_date": "2026-09-13T13:34:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cómo se saluda en el Día del Perdón",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/como-se-saluda-en-el-dia-del-perdon-nid02102025/",
+      "published_date": "2026-09-13T13:30:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Jubilaciones de Anses: cuánto se cobra en septiembre de 2026 con el aumento confirmado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-septiembre-de-2026-con-el-aumento-confirmado-nid14082026/",
+      "published_date": "2026-09-13T13:29:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paritaria con aumento: cuánto cobran los empleados de turismo en septiembre de 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-los-empleados-de-turismo-en-septiembre-de-2026-nid09092026/",
+      "published_date": "2026-09-13T13:29:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nueva paritaria confirmada: cuánto cobran las empleadas domésticas en septiembre de 2026 con el aumento y el bono",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-septiembre-de-2026-con-el-nid03092026/",
+      "published_date": "2026-09-13T13:28:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pérdidas de hasta US$45 mil millones: el daño a la economía estadounidense detrás del fin del TPS de los salvadoreños",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/perdidas-de-hasta-us45-mil-millones-el-dano-de-la-economia-estadounidense-detras-del-fin-del-tps-de-nid11092026/",
+      "published_date": "2026-09-13T13:19:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Bienes de Adorni: vence el nuevo plazo para las respuestas \"más prorrogadas\" de la gestión libertaria",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/judiciales/caso-adorni-vence-la-prorroga-y-la-justicia-espera-sus-explicaciones-sobre-el-patrimonio.phtml",
+      "published_date": "2026-09-13T12:58:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De una de las economías más pobres de Europa a estar por encima del promedio: qué puede aprender Argentina del “milagro irlandés”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/de-una-de-las-economias-mas-pobres-de-europa-a-estar-por-encima-del-promedio-que-puede-aprender-argentina-del-milagro-irlandes/",
+      "published_date": "2026-09-13T12:45:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La otra inflación: el costo invisible de comprar a crédito lo más básico",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-otra-inflacion-el-costo-invisible-de-comprar-a-credito-lo-mas-basico/",
+      "published_date": "2026-09-13T12:44:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Crecimiento y elecciones: el ranking que ubica a la Argentina en un lugar casi único entre las economías latinoamericanas",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/crecimiento-y-elecciones-el-ranking-que-ubica-a-la-argentina-en-un-lugar-casi-unico-entre-las-economias-latinoamericanas/",
+      "published_date": "2026-09-13T12:41:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El dato que pone un freno al optimismo por la inflación y anticipa un septiembre más difícil",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-dato-que-pone-un-freno-al-optimismo-por-la-inflacion-y-anticipa-un-septiembre-mas-dificil/",
+      "published_date": "2026-09-13T12:40:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Claudio Loser: “Habría que aflojar un poco la política monetaria, bajar las tasas de interés y permitir cierta depreciación del tipo de cambio”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/claudio-loser-el-gobierno-esta-tratando-de-vender-un-producto-y-no-lo-esta-explicando-bien/",
+      "published_date": "2026-09-13T11:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“Tener la oportunidad de trabajar en este momento es importante”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/espectaculos/tener-la-oportunidad-de-trabajar-en-este-momento-es-importante.phtml",
+      "published_date": "2026-09-13T04:57:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "No es una coyuntura, ni falta de tiempo: es el modelo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/no-es-una-coyuntura-ni-falta-de-tiempo-es-el-modelo-por-juan-m-grana.phtml",
+      "published_date": "2026-09-13T04:55:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Antes de la llegada del Niño, el Gobierno mantiene 'timbeados' $ 290 mil millones para obras hídricas",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/antes-de-la-llegada-del-nino-el-gobierno-mantiene-timbeados-290-mil-millones-para-obras-hidricas.phtml",
+      "published_date": "2026-09-13T04:51:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El periodismo en la economía-teatro",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/el-periodismo-en-la-economia-teatro.phtml",
+      "published_date": "2026-09-13T03:32:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Sin inversión ni empleo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/sin-inversion-ni-empleo-por-jaime-duran-barba.phtml",
+      "published_date": "2026-09-13T03:05:30Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La economía enciende las alarmas rumbo a 2027",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/la-economia-enciende-las-alarmas-rumbo-a-2027-por-nelson-castro.phtml",
+      "published_date": "2026-09-13T03:00:21Z",
+      "category": "Economy"
     },
     {
       "title": "Oro en Londres: Las mentiras de Santiago Bausili y sus ruinosas operaciones financieras",
       "source": "Página/12 — El País",
       "url": "https://www.pagina12.com.ar/2026/09/13/oro-en-londres-las-mentiras-de-santiago-bausili-y-sus-ruinosas-operaciones-financieras/",
       "published_date": "2026-09-13T00:25:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ni para supermercado del mundo",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/12/ni-para-supermercado-del-mundo-2/",
-      "published_date": "2026-09-12T23:37:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un fiscal desvió 425 millones de pesos de cuentas judiciales para pagar sus deudas de juego",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/un-fiscal-desvio-425-millones-de-pesos-de-cuentas-judiciales-para-pagar-sus-deudas-de-juego-nid08092026/",
-      "published_date": "2026-09-12T19:37:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El apellido del exsecretario de Transporte de Milei aparece en la concesión de 682 kilómetros de rutas: “No tengo relación con la empresa”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/el-apellido-del-exsecretario-de-transporte-de-milei-aparece-en-la-concesion-de-682-kilometros-de-rutas-no-tengo-relacion-con-la-empresa.phtml",
-      "published_date": "2026-09-12T16:29:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Las altas temperaturas de los océanos amenazan la economía de todo el planeta",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/ciencia/las-altas-temperaturas-a50-de-los-oceanos-amenazan-la-economia-de-todo-el-planeta.phtml",
-      "published_date": "2026-09-12T15:26:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Impacto en el trabajo: la destrucción del empleo, provincia por provincia",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/impacto-en-el-trabajo-la-destruccion-del-empleo-provincia-por-provincia.phtml",
-      "published_date": "2026-09-12T13:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cambió el mercado: el negocio de bajo perfil que multiplicó por 20 sus exportaciones y puso al país en un ranking mundial por EE.UU.",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/cambio-el-mercado-el-negocio-de-bajo-perfil-que-multiplico-por-20-sus-exportaciones-y-puso-al-pais-nid12092026/",
-      "published_date": "2026-09-12T12:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Las importaciones ya abastecen el 70% del mercado textil y el sector denunció “competencia fraudulenta”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/las-importaciones-ya-abastecen-el-70-del-mercado-textil-y-el-sector-denuncio-competencia-fraudulenta.phtml",
-      "published_date": "2026-09-12T12:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Este sector ya exporta más de u$s 10.000 millones, pero su insumo básico está en jaque por un factor inesperado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/este-sector-ya-exporta-mas-de-us-10000-millones-pero-su-insumo-basico-esta-en-jaque-por-un-factor-inesperado/",
-      "published_date": "2026-09-12T11:51:28Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¿De qué viven los kelpers? La economía detrás de los habitantes de Malvinas",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/de-que-viven-los-kelpers-la-economia-detras-de-los-habitantes-de-malvinas/",
-      "published_date": "2026-09-12T11:51:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Radiografía industrial: el impacto del mercado interno, la tracción de las exportaciones y el esfuerzo por sostener el empleo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/radiografia-industrial-el-impacto-del-mercado-interno-la-traccion-de-las-exportaciones-y-el-esfuerzo-por-sostener-el-empleo/",
-      "published_date": "2026-09-12T11:45:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¿Llega al número que quiere Milei? Qué esperan para la inflación 2026 más de 40 consultoras y bancos",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/llega-al-numero-que-quiere-milei-que-esperan-para-la-inflacion-2026-mas-de-40-consultoras-y-bancos/",
-      "published_date": "2026-09-12T11:44:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Es oficial: la ley que permitiría acceder a una ayuda de alquiler en NYC sin importar el estatus migratorio",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/es-oficial-la-ley-que-permitiria-acceder-a-una-ayuda-de-alquiler-en-nyc-sin-importar-el-estatus-nid12092026/",
-      "published_date": "2026-09-12T11:35:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A cuánto abre el dólar el lunes 14 de septiembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-14-de-septiembre-nid12092026/",
-      "published_date": "2026-09-12T11:17:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Inocencia Fiscal: el nuevo capítulo de una reforma que vuelve a mover los límites entre control y alivio tributario",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/inocencia-fiscal-el-nuevo-capitulo-de-una-reforma-que-vuelve-a-mover-los-limites-entre-control-y-alivio-tributario/",
-      "published_date": "2026-09-12T11:15:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 12 de septiembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-12-de-septiembre-nid12092026/",
-      "published_date": "2026-09-12T10:39:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Reactivación exitosa: la fábrica que “era un caos” ya procesa 100.000 litros de leche por día y se prepara para exportar",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/reactivacion-exitosa-la-fabrica-que-era-un-caos-ya-procesa-100000-litros-de-leche-por-dia-y-se-nid11092026/",
-      "published_date": "2026-09-12T09:57:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Claudio “Chiqui” Tapia corrigió su declaración jurada: olvidó incluir casi 1000 millones de pesos",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/claudio-chiqui-tapia-corrigio-su-declaracion-jurada-olvido-incluir-casi-1000-millones-de-pesos.phtml",
-      "published_date": "2026-09-12T08:18:57Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Claudio “Chiqui” Tapia corrigió de apuro su declaración jurada porque se había olvidado de incluir casi 1000 millones de pesos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/claudio-chiqui-tapia-corrigio-de-apuro-su-declaracion-jurada-porque-se-habia-olvidado-de-incluir-nid11092026/",
-      "published_date": "2026-09-12T06:36:57Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cumplió 60: desafió a Hollywood, fue tan amada como criticada y se casó de grande con uno de los hombres más ricos del mundo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/revista-hola/cumplio-60-desafio-a-hollywood-fue-tan-amada-como-criticada-y-se-caso-de-grande-con-uno-de-los-nid12092026/",
-      "published_date": "2026-09-12T06:00:00Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Últimas encuestas en Florida: Jolly mantiene la ventaja frente a Donalds y se acerca la elección del 3 de noviembre",
+      "title": "Un estudio científico reveló a qué edad una persona es considerada “vieja”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/ultimas-encuestas-en-florida-jolly-mantiene-la-ventaja-frente-a-donalds-y-se-acerca-la-eleccion-del-nid12092026/",
-      "published_date": "2026-09-13T02:32:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/un-estudio-cientifico-revelo-a-que-edad-una-persona-es-considerada-vieja-nid13092026/",
+      "published_date": "2026-09-13T14:35:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Cuánto cuesta la Ford Ranger en septiembre 2026",
+      "title": "Fue atropellada y debieron operarla: tras meses de rehabilitación, una zorrita colorada fue liberada en Jujuy",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/cuanto-cuesta-la-ford-ranger-en-septiembre-2026-nid09092026/",
-      "published_date": "2026-09-13T00:36:22Z",
+      "url": "https://www.lanacion.com.ar/sociedad/reinsertaron-a-una-zorra-colorada-en-jujuy-habia-sido-atropellada-en-la-ruta-nid09092026/",
+      "published_date": "2026-09-13T14:27:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Cuánto cuesta el Toyota Yaris en septiembre 2026",
+      "title": "Los veterinarios coinciden: cómo darle una pastilla a un gato",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-yaris-en-septiembre-2026-nid12092026/",
-      "published_date": "2026-09-13T00:33:49Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/los-veterinarios-coinciden-como-darle-una-pastilla-a-un-gato-nid11092026/",
+      "published_date": "2026-09-13T14:26:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Inter Miami, con Lionel Messi, vs. Nashville: en vivo",
+      "title": "Trump critica las “fuerzas negativas” que quieren ralentizar la IA",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-con-lionel-messi-vs-nashville-en-vivo-nid12092026/",
-      "published_date": "2026-09-13T00:33:48Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/trump-critica-las-fuerzas-negativas-que-quieren-ralentizar-la-ia-nid13092026/",
+      "published_date": "2026-09-13T14:25:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Drenaje linfático y masaje capilar: la experiencia, en primera persona, de una sesión que libera tensiones y además rejuvenece",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/vida_sana/drenaje-linfatico-y-masaje-capilar-la-experiencia-en-primera-persona-de-una-sesion-que-libera-nid12092026/",
-      "published_date": "2026-09-13T00:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TV y streaming del domingo: Colapinto en la Fórmula 1, el Torneo Clausura, ligas de Europa y la final del US Open",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/tv-y-streaming-del-domingo-colapinto-en-la-formula-1-el-torneo-clausura-ligas-de-europa-y-la-final-nid12092026/",
-      "published_date": "2026-09-13T00:33:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cubrir las vacantes judiciales es necesario, pero no suficiente",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/cubrir-las-vacantes-judiciales-es-necesario-pero-no-suficiente-nid12092026/",
-      "published_date": "2026-09-13T00:27:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Julio Falcioni explotó tras la derrota ante River: “Parece que la banda empezó a funcionar de nuevo”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/julio-falcioni-exploto-tras-la-derrota-ante-river-parece-que-la-banda-empezo-a-funcionar-de-nuevo-nid12092026/",
-      "published_date": "2026-09-13T00:25:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elena Rybakina venció a Aryna Sabalenka y es la nueva campeona del US Open",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/tenis/elena-rybakina-vencio-a-aryna-sabalenka-y-es-la-nueva-campeona-del-us-open-nid12092026/",
-      "published_date": "2026-09-13T00:23:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newsom hace historia: la nueva ley de California que prohíbe ofrecer funciones adictivas en redes sociales a menores de 16 años",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/california/newsom-hace-historia-la-nueva-ley-de-california-que-prohibe-ofrecer-funciones-adictivas-en-redes-nid12092026/",
-      "published_date": "2026-09-13T00:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Céline Dion reapareció en París: lágrimas de alegría y un contundente mensaje sobre su salud",
+      "title": "El rey Felipe VI, la princesa Leonor y la infanta Sofía: los grandes invitados al estreno del Madring en el Gran Premio de España de Fórmula 1",
       "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/celine-dion-reaparecio-paris-lagrimas-alegria-contundente-mensaje-salud_0_04VtXBNieb.html",
-      "published_date": "2026-09-13T00:15:02Z",
+      "url": "https://www.clarin.com/internacional/rey-felipe-vi-princesa-leonor-infanta-sofia-grandes-invitados-estreno-madring-gran-premio-espana-formula-1_0_UXIG8zNJNR.html",
+      "published_date": "2026-09-13T14:17:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Tom Cruise, actor, 64 años: “En esta vida, no es lo que esperas, no es lo que mereces, ¡es lo que tomas!”",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/tom-cruise-actor-64-anos-vida-esperas-mereces-tomas_0_cvhIdcA94C.html",
-      "published_date": "2026-09-13T00:12:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Cocaína”: la reacción de un perro policía al escuchar a su dueño",
+      "title": "Calendario Anses: cuándo cobro la AUH en septiembre 2026 si mi DNI termina en 4",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/mascotas/cocaina-la-reaccion-de-un-perro-policia-al-escuchar-a-su-dueno-nid12092026/",
-      "published_date": "2026-09-13T00:12:00Z",
+      "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-septiembre-2026-si-mi-dni-termina-en-4-nid10092026/",
+      "published_date": "2026-09-13T14:16:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Neil Armstrong, primer humano que vio la Tierra desde la Luna: “No me sentí un gigante; me sentí muy, muy pequeño”",
+      "title": "El empresario que transformó 1100 hectáreas con un modelo de negocios único",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ciencia/neil-armstrong-primer-humano-que-vio-la-tierra-desde-la-luna-no-me-senti-un-gigante-me-senti-muy-muy-nid12092026/",
-      "published_date": "2026-09-13T00:11:00Z",
+      "url": "https://www.lanacion.com.ar/economia/campo/el-empresario-que-transformo-1100-hectareas-con-un-modelo-de-negocios-unico-nid13092026/",
+      "published_date": "2026-09-13T14:16:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Así quedó la tabla histórica de campeonas del US Open, tras el título de Elena Rybakina",
+      "title": "Un chofer de colectivo murió tras estrellarse contra el frente de una casa en Temperley",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/ciudades/chofer-colectivo-murio-estrellarse-frente-casa-temperley_0_pDaVY597xK.html",
+      "published_date": "2026-09-13T14:15:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cuál es el pozo del Quini 6 para el sorteo de este domingo 13 de septiembre",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-la-tabla-historica-de-campeonas-del-us-open-tras-el-titulo-de-elena-rybakina-nid12092026/",
-      "published_date": "2026-09-13T00:09:16Z",
+      "url": "https://www.lanacion.com.ar/loterias/cual-es-el-pozo-del-quini-6-para-el-sorteo-de-este-domingo-13-de-septiembre-nid13092026/",
+      "published_date": "2026-09-13T14:13:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Brasil: la contraofensiva de Lula enciende la campaña",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/13/brasil-la-contraofensiva-de-lula-enciende-la-campana/",
-      "published_date": "2026-09-13T00:06:50Z",
+      "title": "Del Rey y sus hijas a Rafa Nadal: los famosos presentes en la Fórmula 1 en Madrid",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/del-rey-y-sus-hijas-a-rafa-nadal-los-famosos-presentes-en-la-formula-1-en-madrid-nid13092026/",
+      "published_date": "2026-09-13T14:12:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Las polémicas en Atlético Tucumán vs River: de la roja de Nicola en el arranque, al patadón de Arambarri que hizo explotar a Falcioni",
+      "title": "Lago América o golfo de América, reflejos de cómo EEUU reclamó el nombre de un continente",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/polemicas-atletico-tucuman-vs-river-roja-nicola-arranque-patadon-arambarri-hizo-explotar-falcioni_0_MOtLqbkYFV.html",
-      "published_date": "2026-09-13T00:03:52Z",
+      "url": "https://www.clarin.com/estados-unidos/lago-america-o-golfo-de-america-reflejos-de-como-eeuu-reclamo-el-nombre-de-un-continente_0_QGTmvZ2p3g.html",
+      "published_date": "2026-09-13T14:10:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Mariam Martínez, veterinaria experta en comportamiento animal: “Si no dejas que tu perro olfatee durante el paseo, es como llevarle a una biblioteca y prohibirle abrir los libros”",
+      "title": "Volcó una lancha en Laguna del Monte: tres pescadores murieron y buscan otros dos desaparecidos",
       "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/mariam-martinez-veterinaria-experta-comportamiento-animal-dejas-perro-olfatee-paseo-llevarle-biblioteca-prohibirle-abrir-libros_0_Z533OhaaGe.html",
-      "published_date": "2026-09-13T00:02:53Z",
+      "url": "https://www.clarin.com/sociedad/volco-lancha-laguna-monte-pescadores-murieron-buscan-desaparecidos_0_XTLT9gh54f.html",
+      "published_date": "2026-09-13T14:08:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Más problemas para Gran Bretaña: Escocia, Gales e Irlanda del Norte se unen para reclamar su independencia",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/mas-problemas-para-gran-bretana-escocia-gales-e-irlanda-del-norte-se-unen-para-reclamar-su-independencia/",
+      "published_date": "2026-09-13T14:07:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump se metió en la polémica por el control de la IA: acusó de \"fuerzas negativas\" a los que intentar ralentizar su avance",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/donald-trump-metio-polemica-control-ia-acuso-fuerzas-negativas-intentar-ralentizar-avance_0_jq5Rvwlc1I.html",
+      "published_date": "2026-09-13T14:05:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "En qué canal pasan Huracán vs. Racing por el Torneo Clausura 2026 hoy",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-huracan-vs-racing-por-el-torneo-clausura-2026-hoy-nid13092026/",
+      "published_date": "2026-09-13T14:03:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La gran largada de Franco Colapinto en el GP de España: dos autos superados en los primeros metros",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/automovilismo/la-gran-largada-de-franco-colapinto-en-el-gp-de-espana-nid13092026/",
+      "published_date": "2026-09-13T13:58:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los expertos en psicología coinciden: quienes aplican el minimalismo emocional pueden encontrar calma y claridad",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/los-expertos-en-psicologia-coinciden-quienes-aplican-el-minimalismo-pueden-encontrar-calma-y-nid13092026/",
+      "published_date": "2026-09-13T13:58:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Por dónde pasan Independiente vs. San Lorenzo y qué canal lo transmite en vivo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-independiente-vs-san-lorenzo-y-que-canal-lo-transmite-en-vivo-nid13092026/",
+      "published_date": "2026-09-13T13:57:43Z",
       "category": "Local Events"
     }
   ]
