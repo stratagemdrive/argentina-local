@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:04:31Z",
+  "generated_at": "2026-09-20T00:54:11Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,55 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Estados Unidos emitió alertas en todas sus embajadas en Medio Oriente y Trump reprogramó su agenda",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/estados-unidos-emitio-alertas-en-todas-sus-embajadas-en-medio-oriente-y-trump-reprogramo-su-agenda-nid19092026/",
+      "published_date": "2026-09-20T00:30:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juegos Suramericanos: la nueva camada de los Pumas 7s está lista para el objetivo olímpico",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/juegos-suramericanos-la-nueva-camada-de-los-pumas-7s-esta-lista-para-el-objetivo-olimpico-nid19092026/",
+      "published_date": "2026-09-19T23:48:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rafael Grossi perdió apoyos en la carrera por la ONU y Michelle Bachelet retiró su candidatura",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/rafael-grossi-perdio-apoyos-en-la-carrera-por-la-secretaria-general-de-la-onu.phtml",
+      "published_date": "2026-09-19T22:36:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lionel Scaloni asistió al triunfo de la selección argentina sub 19 contra Uruguay por los Juegos Suramericanos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/scaloni-estuvo-presente-en-el-partido-de-la-seleccion-argentina-sub-19-contra-uruguay-por-los-juegos-nid19092026/",
+      "published_date": "2026-09-19T22:36:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bachelet se baja de la carrera a la Secretaría General de la ONU tras volver a quedar lejos en las votaciones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/bachelet-se-baja-de-la-carrera-a-la-secretaria-general-de-la-onu-tras-volver-a-quedar-lejos-en-las-nid19092026/",
+      "published_date": "2026-09-19T21:37:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germán Kraus, actor: “No hay gente linda en la televisión argentina”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/german-kraus-actor-no-hay-gente-linda-en-la-television-argentina-nid19092026/",
+      "published_date": "2026-09-19T20:34:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lionel Scaloni sumó nueve convocados a la selección argentina: las sorpresas locales y los que se suman del exterior",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-sumo-nueve-convocados-a-la-seleccion-argentina-las-sorpresas-locales-y-los-que-se-nid19092026/",
+      "published_date": "2026-09-19T19:39:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lionel Scaloni, sobre su continuidad en la Selección Argentina: \"Lo intentaremos, estemos o no nosotros\"",
       "source": "Clarín",
@@ -102,53 +151,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Causa $LIBRA: la demanda colectiva suma antecedentes judiciales para ir por Hayden Davis",
+      "title": "La nueva guerra fría",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/nueva-guerra-fria_0_cvAHcvau1p.html",
+      "published_date": "2026-09-19T23:52:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Milei avanza con un blindaje para la SIDE y los jefes militares",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/18/causa-libra-la-demanda-colectiva-suma-antecedentes-judiciales-para-ir-por-hayden-davis/",
-      "published_date": "2026-09-18T22:45:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/19/milei-avanza-con-un-blindaje-para-la-side-y-los-jefes-militares/",
+      "published_date": "2026-09-19T23:31:11Z",
+      "category": "Military"
     },
     {
-      "title": "Exceso de velocidad: la fotomulta más cara de la Ciudad de Buenos Aires ya supera los $4 millones",
+      "title": "El Gobierno danés cree que el acuerdo con EE.UU. sobre Groenlandia beneficia a la OTAN y Europa",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/19/el-gobierno-danes-cree-que-el-acuerdo-con-eeuu-sobre-groenlandia-beneficia-a-la-otan-y-europa/",
+      "published_date": "2026-09-19T23:25:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "A 13 años de su estreno, una de las películas más exitosas de Brad Pitt tendrá su segunda parte",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/exceso-de-velocidad-la-fotomulta-mas-cara-de-la-ciudad-de-buenos-aires-ya-supera-los-4-millones-nid14092026/",
-      "published_date": "2026-09-18T22:44:52Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/espectaculos/a-13-anos-de-su-estreno-una-de-las-peliculas-mas-exitosas-de-brad-pitt-tendra-su-segunda-parte-nid19092026/",
+      "published_date": "2026-09-19T23:21:26Z",
+      "category": "Military"
     },
     {
-      "title": "Alec Brooke: la historia del esgrimista inglés que representa a la Argentina por su amor a Messi",
+      "title": "Dorothy Boggess y Velma Long, de 109 años, cuentan el secreto de su longevidad compartida: “Es increíble que todavía estemos funcionando”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/alec-brooke-la-historia-del-esgrimista-ingles-que-representa-a-la-argentina-por-su-amor-a-messi-nid18092026/",
-      "published_date": "2026-09-18T22:29:14Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/dorothy-boggess-y-velma-long-de-109-anos-cuentan-el-secreto-de-su-longevidad-compartida-es-increible-nid19092026/",
+      "published_date": "2026-09-19T23:18:00Z",
+      "category": "Military"
     },
     {
-      "title": "El FMI, Macri y una causa que no quieren investigar",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/18/el-fmi-macri-y-una-causa-que-no-quieren-investigar/",
-      "published_date": "2026-09-18T22:23:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La jequesa de Qatar, por primera vez en la Argentina: “En el arte no hay jerarquía”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/cultura/la-jequesa-de-qatar-por-primera-vez-en-la-argentina-en-el-arte-no-hay-jerarquia-nid18092026/",
-      "published_date": "2026-09-18T21:37:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bullrich desafía a Milei con un tema de Lali Espósito y especula con 2027",
+      "title": "“Militar para que Cristina sea candidata a Presidenta en 2027″",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/18/bullrich-desafia-a-milei-con-un-tema-de-lali-esposito-y-especula-con-2027/",
-      "published_date": "2026-09-18T21:03:46Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/19/militar-para-que-cristina-sea-candidata-a-presidenta-en-2027/",
+      "published_date": "2026-09-19T22:05:11Z",
+      "category": "Military"
     },
     {
-      "title": "El Gobierno intenta contener la interna con Bullrich antes del viaje de Milei a la ONU",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-gobierno-intenta-contener-la-interna-con-bullrich-antes-del-viaje-de-milei-a-la-onu.phtml",
-      "published_date": "2026-09-18T20:53:27Z",
-      "category": "Diplomacy"
+      "title": "Los hutíes atacan con misiles y drones a Arabia Saudita",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/19/los-huties-atacan-con-misiles-y-drones-a-arabia-saudita/",
+      "published_date": "2026-09-19T21:59:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cautela y pocos detalles sobre el acuerdo que aumenta la presencia y las atribuciones de EE.UU. en Groenlandia",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/cautela-y-pocos-detalles-sobre-el-acuerdo-que-aumenta-la-presencia-y-las-atribuciones-de-eeuu-en-nid19092026/",
+      "published_date": "2026-09-19T20:58:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "La alteración del concepto de soberanía",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/19/la-alteracion-del-concepto-de-soberania/",
+      "published_date": "2026-09-19T17:14:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Tensión por Malvinas: la Justicia amplía la ofensiva contra petroleras",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/tension-por-malvinas-la-justicia-amplia-la-ofensiva-contra-petroleras/",
+      "published_date": "2026-09-19T15:53:25Z",
+      "category": "Military"
     },
     {
       "title": "El llanto en el estrado de la viuda de Federico Martín Aramburú: “Estoy en paz, pero el dolor sigue vivo”",
@@ -221,74 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "Bill Dillon, de 102 años, revela el secreto de su longevidad: “Una buena esposa”",
+      "title": "Masivo apagón en la ciudad de Buenos Aires: miles de usuarios sin luz",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/bill-dillon-de-102-anos-cuenta-el-secreto-de-su-longevidad-una-buena-esposa-nid18092026/",
-      "published_date": "2026-09-19T00:24:00Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/sociedad/masivo-apagon-en-la-ciudad-de-buenos-aires-miles-de-usuarios-sin-luz-nid19092026/",
+      "published_date": "2026-09-20T00:27:39Z",
+      "category": "Energy"
     },
     {
-      "title": "El proyecto de Ley de Defensa de la Soberanía por Malvinas de Milei despertó fuertes críticas: las razones",
+      "title": "Apagón en Buenos Aires: más de 86.000 usuarios quedaron sin luz",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/apagon-en-buenos-aires-mas-de-6000-usuarios-quedaron-sin-luz-en-barrios-portenos-y-zona-norte.phtml",
+      "published_date": "2026-09-20T00:11:43Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Decenas de miles de usuarios sin luz por un apagón que afectó varios barrios porteños y zona norte del Gran Buenos Aires",
       "source": "Clarín",
-      "url": "https://www.clarin.com/politica/proyecto-ley-defensa-soberania-malvinas-milei-desperto-fuertes-criticas-razones_0_4Xq1FuMD3p.html",
-      "published_date": "2026-09-18T23:56:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "De la Espriella rechazó un canje de rehenes con el ELN en Colombia",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/18/de-la-espriella-rechazo-un-canje-de-rehenes-con-el-eln-en-colombia/",
-      "published_date": "2026-09-18T23:47:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump anunció un acuerdo con Dinamarca por el “control permanente” de la seguridad de Groenlandia",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/trump-anuncio-un-acuerdo-con-dinamarca-por-el-control-permanente-de-la-seguridad-de-groenlandia-nid18092026/",
-      "published_date": "2026-09-18T23:39:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "La Armada apartó a nueve militares tras la denuncia por fraude en la liquidación de sueldos",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/18/la-armada-aparto-a-nueve-militares-tras-la-denuncia-por-fraude-en-la-liquidacion-de-sueldos/",
-      "published_date": "2026-09-18T22:08:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Guerra a la prensa: Donald Trump prohibió el ingreso a la Casa Blanca de la CNN, Politico y MSNOW",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/guerra-a-la-prensa-donald-trump-prohibio-el-ingreso-a-la-casa-blanca-de-la-cnn-msnow-y-politico.phtml",
-      "published_date": "2026-09-18T21:32:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Soberanía nacional: las divergencias entre Argentina y Canadá",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/soberania-nacional-las-divergencias-entre-argentina-y-canada.phtml",
-      "published_date": "2026-09-18T20:58:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "En Ronda de Corresponsales explicaron la propuesta de la Unión Europea para profundizar el vínculo con Canadá",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/en-ronda-de-corresponsales-explicaron-la-propuesta-de-la-union-europea-para-profundizar-el-vinculo-con-canada.phtml",
-      "published_date": "2026-09-18T19:55:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Reino Unido salió a responderle a Milei tras el proyecto de Ley de Soberanía por Malvinas",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/18/reino-unido-salio-a-responderle-a-milei-tras-el-proyecto-de-ley-de-soberania-por-malvinas/",
-      "published_date": "2026-09-18T19:26:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Reino Unido blinda a las petroleras en Malvinas y eleva la tensión con la Argentina por los recursos del Atlántico Sur",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/reino-unido-sale-a-blindar-a-las-petroleras-en-malvinas-y-desafia-las-sanciones-argentinas-son-inaceptables-y-carecen-de-justificacion-legal/",
-      "published_date": "2026-09-18T18:23:38Z",
-      "category": "Military"
+      "url": "https://www.clarin.com/sociedad/mil-usuarios-luz-apagon-afecto-varios-barrios-portenos_0_Av1xfky9uP.html",
+      "published_date": "2026-09-19T23:58:39Z",
+      "category": "Energy"
     },
     {
       "title": "¿Hasta dónde podrían subir los precios del gas natural?",
@@ -410,25 +431,123 @@
       "category": "Energy"
     },
     {
-      "title": "En Ronda de Economistas analizaron qué puede pasar con las tarifas si continúa la caída de la recaudación",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/tarifas-dolar-y-mercado-en-rdeco-que-puede-pasar-con-los-precios-regulados-y-el-tipo-de-cambio.phtml",
-      "published_date": "2026-09-16T22:16:02Z",
-      "category": "Energy"
+      "title": "El Congreso pone a prueba al Gobierno",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/20/el-congreso-pone-a-prueba-al-gobierno/",
+      "published_date": "2026-09-21T00:30:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Los buitres contraatacan",
+      "title": "Gavin Newsom celebra el Mes de la Herencia Hispana: “Los latinos son la fuerza impulsora de California”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/gavin-newsom-celebra-el-mes-de-la-herencia-hispana-los-latinos-son-la-fuerza-impulsora-de-california-nid19092026/",
+      "published_date": "2026-09-20T00:36:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Congreso pone a prueba al Gobierno con los debates por Discapacidad y endeudamiento",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/20/el-congreso-pone-a-prueba-al-gobierno-con-los-debates-por-discapacidad-y-endeudamiento/",
+      "published_date": "2026-09-20T00:27:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“Son un poco optimistas”: la advertencia de Artana sobre la inflación y el crecimiento en 2027",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/son-un-poco-optimistas-la-advertencia-de-artana-sobre-la-inflacion-y-el-crecimiento-en-2027/",
+      "published_date": "2026-09-20T00:06:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psicólogo: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid19092026/",
+      "published_date": "2026-09-20T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El elefante en el bazar",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/16/los-buitres-contratacan/",
-      "published_date": "2026-09-16T21:02:20Z",
-      "category": "Energy"
+      "url": "https://www.pagina12.com.ar/2026/09/19/el-elefante-en-el-bazar/",
+      "published_date": "2026-09-19T23:41:34Z",
+      "category": "Economy"
     },
     {
-      "title": "La industria sin rumbo: “Utilizar el 60% de la capacidad instalada es como utilizar 6 de cada 10 máquinas, 4 máquinas no se utilizan”",
+      "title": "El apellido del exsecretario de Transporte de Milei aparece en la concesión de 682 kilómetros de rutas: “No tengo relación con la empresa”",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/la-industria-sin-rumbo-utilizar-el-60-de-la-capacidad-instalada-es-como-utilizar-6-de-cada-10-maquinas-4-maquinas-no-se-utilizan.phtml",
-      "published_date": "2026-09-16T20:44:51Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/cordoba/el-apellido-del-exsecretario-de-transporte-de-milei-aparece-en-la-concesion-de-682-kilometros-de-rutas-no-tengo-relacion-con-la-empresa.phtml",
+      "published_date": "2026-09-19T23:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De Naomi Watts a Lali Espósito: los mejores looks del Festival Internacional de Cine de San Sebastián",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/de-naomi-watts-a-lali-esposito-los-mejores-looks-del-festival-internacional-de-cine-de-san-sebastian-nid19092026/",
+      "published_date": "2026-09-19T21:34:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Una hipótesis maldita en el camino a la reelección",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/una-hipotesis-maldita-en-el-camino-a-la-reeleccion-nid19092026/",
+      "published_date": "2026-09-19T21:22:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "A cuánto abre el dólar el lunes 21 de septiembre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-el-lunes-21-de-septiembre-nid19092026/",
+      "published_date": "2026-09-19T21:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fuego cruzado en los cuarteles: desfalco millonario y salarios por el piso",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/19/fuego-cruzado-en-los-cuarteles-desfalco-millonario-y-salarios-por-el-piso/",
+      "published_date": "2026-09-19T21:11:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Impuestos, renta mundial y patrimonio: qué revela un ranking global sobre la Argentina como destino fiscal",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/residencia-fiscal-por-que-la-argentina-queda-relegada-frente-a-los-paises-que-atraen-a-los-contribuyentes-moviles/",
+      "published_date": "2026-09-19T20:06:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dónde pesa más llenar el changuito: la radiografía provincial del costo de vida de la clase media",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-mapa-desigual-del-changuito-cuanto-cuesta-llenar-el-super-y-que-provincias-exigen-mas-ingresos/",
+      "published_date": "2026-09-19T20:05:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El creciente malestar de los aliados complica el Presupuesto y la suspensión de las PASO",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/19/el-creciente-malestar-de-los-aliados-complica-el-presupuesto-y-la-suspension-de-las-paso/",
+      "published_date": "2026-09-19T20:02:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La fiscalía rechaza partir en dos el juicio de Cristina y Máximo Kirchner porque sospecha que puede debilitar la condena",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-fiscalia-rechaza-partir-en-dos-el-juicio-de-cristina-kirchner-porque-sospecha-que-puede-debilitar-nid19092026/",
+      "published_date": "2026-09-19T19:57:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Noche de los Bares Notables: los recorridos que permitirán conocer la importancia histórica y cultural de estos espacios",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/ciudad-de-buenos-aires/noche-de-los-bares-a50-notables-los-recorridos-que-permitiran-conocer-la-importancia-historica-y-cultural-de-estos-espacios.phtml",
+      "published_date": "2026-09-19T18:55:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Natalia de la Sota: \"El Presupuesto 2027 de Milei ajusta aún más al sistema de discapacidad\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/natalia-de-la-sota-el-presupuesto-2027-de-milei-ajusta-aun-mas-al-sistema-de-discapacidad.phtml",
+      "published_date": "2026-09-19T15:13:00Z",
+      "category": "Economy"
     },
     {
       "title": "Jordy Caicedo, el ecuatoriano de los goles importantes, se destaca en Huracán y se ilusiona con Gallardo",
@@ -452,125 +571,6 @@
       "category": "Economy"
     },
     {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 19 de septiembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-19-de-septiembre-nid19092026/",
-      "published_date": "2026-09-19T10:37:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los chefs vascos se plantan: “Para que las lentejas queden perfectas necesitás aceite de oliva, ajo y pimentón”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/los-chefs-vascos-se-plantan-para-que-las-lentejas-queden-perfectas-necesitas-aceite-de-oliva-ajo-y-nid18092026/",
-      "published_date": "2026-09-19T10:25:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Macabro hallazgo en Merlo: operarios encontraron un bebé muerto en una bolsa enterrada",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/policia/macabro-hallazgo-en-merlo-operarios-encontraron-un-bebe-muerto-en-una-bolsa-enterrada.phtml",
-      "published_date": "2026-09-19T10:21:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El nuevo mapa del arte argentino",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-nuevo-mapa-del-arte-argentino-nid19092026/",
-      "published_date": "2026-09-19T09:04:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Luisa Kuliok: “El escenario no es para el lucimiento del ego, sino una trinchera de indagación humana”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/luisa-kuliok-el-escenario-no-es-para-el-lucimiento-del-ego-sino-una-trinchera-de-indagacion-humana-nid19092026/",
-      "published_date": "2026-09-19T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La agenda de Milei en la ONU: reclamo por Malvinas, charla con economistas,  encuentro con un rabino y galardón",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-agenda-de-milei-en-la-onu-reclamo-por-malvinas-charla-con-economistas-encuentro-con-un-rabino-y-nid18092026/",
-      "published_date": "2026-09-19T06:06:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El presidente de Bolivia eliminó el subsidio al diésel tras la aprobación de un préstamo del FMI",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-presidente-de-bolivia-elimino-el-subsidio-al-diesel-tras-la-aprobacion-de-un-prestamo-del-fmi-nid19092026/",
-      "published_date": "2026-09-19T06:00:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gabriel Rolón, psicoanalista: “Ser feliz implica una responsabilidad muy grande”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-ser-feliz-implica-una-responsabilidad-muy-grande-nid19092026/",
-      "published_date": "2026-09-19T05:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Megamiente",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/19/megamiente/",
-      "published_date": "2026-09-19T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El “modelo changa” gana cada vez más terreno",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/18/el-modelo-changa-gana-cada-vez-mas-terreno/",
-      "published_date": "2026-09-19T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un ajuste a mayor velocidad",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/18/un-ajuste-a-mayor-velocidad/",
-      "published_date": "2026-09-19T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jefes de Nvidia y OpenAI, entre los invitados a una cena con Xi en la Casa Blanca",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/jefes-de-nvidia-y-openai-entre-los-invitados-a-una-cena-con-xi-en-la-casa-blanca_0_3wKZcjjdYC.html",
-      "published_date": "2026-09-19T00:20:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La psicología dice que las personas que celebran su cumpleaños con una gran fiesta no pretenden llamar la atención, sino que refuerzan su identidad",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-celebran-cumpleanos-gran-fiesta-pretenden-llamar-atencion-refuerzan-identidad_0_TK6mIIhiaL.html",
-      "published_date": "2026-09-19T00:04:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El riesgo país, en 526 puntos",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/18/el-riesgo-pais-en-526-puntos/",
-      "published_date": "2026-09-18T23:14:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El superávit comercial se mantuvo en alza",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/18/el-superavit-comercial-se-mantuvo-en-alza/",
-      "published_date": "2026-09-18T23:02:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Fue una gloria olímpica y se convirtió en la mujer más importante de Martita y Felipe Fort: la historia de Marisa López, una jugadora de toda la cancha",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/fue-una-gloria-olimpica-y-se-convirtio-en-la-mujer-mas-importante-de-martita-y-felipe-fort-la-nid18092026/",
-      "published_date": "2026-09-18T22:47:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Moyano no podrá ver a su expareja: la Justicia rechazó levantar las restricciones y sus abogados renunciaron",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/judiciales/moyano-no-podra-ver-a-su-expareja-la-justicia-rechazo-levantar-las-restricciones-y-sus-abogados-renunciaron.phtml",
-      "published_date": "2026-09-18T22:43:56Z",
-      "category": "Economy"
-    },
-    {
       "title": "The Government puts the magnifying glass on university funds in the run-up to the march",
       "source": "El Cronista",
       "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-la-lupa-sobre-los-fondos-de-las-universidades-en-la-previa-de-la-marcha/",
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Ni más aceite ni manteca: el truco para que el relleno del pastel de papa quede jugoso",
+      "title": "Planes para disfrutar del Día de la Primavera al aire libre entre flores, jardines y vistas soñadas en la Ciudad de Buenos Aires",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/recetas/ni-mas-aceite-ni-manteca-el-truco-para-que-el-relleno-del-pastel-de-papa-quede-jugoso-nid19092026/",
-      "published_date": "2026-09-19T14:00:10Z",
+      "url": "https://www.lanacion.com.ar/que-sale/lugares-para-disfrutar-del-dia-de-la-primavera-al-aire-libre-entre-flores-jardines-y-vistas-sonadas-nid19092026/",
+      "published_date": "2026-09-20T00:34:03Z",
       "category": "Local Events"
     },
     {
-      "title": "TPS de Venezuela: los documentos que mantienen su vigencia hasta el 2 de octubre",
+      "title": "Así está el medallero de los Juegos Suramericanos Santa Fe 2026, tras el día 7",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/tps-de-venezuela-los-documentos-que-mantienen-su-vigencia-hasta-el-2-de-octubre-nid19092026/",
-      "published_date": "2026-09-19T13:58:04Z",
+      "url": "https://www.lanacion.com.ar/deportes/asi-esta-el-medallero-de-los-juegos-suramericanos-santa-fe-2026-tras-el-dia-7-nid19092026/",
+      "published_date": "2026-09-20T00:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tesoro en Florida: hallan un lingote valuado en hasta US$25.000 en un naufragio de hace 400 años",
+      "title": "Un día entero en el futuro",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/20/un-dia-entero-en-el-futuro/",
+      "published_date": "2026-09-20T00:27:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kevin Ramírez no tuvo nada de lo que esperaba de él y perdió sin atenuantes ante Jonathan Kogasso",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/tesoro-en-florida-hallan-un-lingote-valuado-en-hasta-us25000-en-un-naufragio-de-hace-400-anos-nid19092026/",
-      "published_date": "2026-09-19T13:53:53Z",
+      "url": "https://www.lanacion.com.ar/deportes/boxeo/kevin-ramirez-no-tuvo-nada-de-lo-que-esperaba-de-el-y-perdio-sin-atenuantes-ante-jonathan-kogasso-nid19092026/",
+      "published_date": "2026-09-20T00:26:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Tiene 67 y vive en soledad en el corazón del monte cordobés: “Hay que aprovechar la tierra para producir alimentos sanos para uno”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/tiene-67-y-vive-en-soledad-en-el-corazon-del-monte-cordobes-hay-que-aprovechar-la-tierra-para-nid18092026/",
-      "published_date": "2026-09-19T13:53:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Un abrazo que esperó 15 años”: el conmovedor reencuentro que hizo llorar a todos en Es mi sueño",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/un-abrazo-que-espero-15-anos-el-conmovedor-reencuentro-que-hizo-llorar-a-todos-en-es-mi-sueno-nid19092026/",
-      "published_date": "2026-09-19T13:53:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Santiago Grassi, en los Juegos Suramericanos: “Encontré valor fuera del agua, soy mucho más que alguien que nada”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/natacion/santiago-grassi-en-los-juegos-suramericanos-encontre-valor-fuera-del-agua-soy-mucho-mas-que-alguien-nid19092026/",
-      "published_date": "2026-09-19T13:53:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrestos en aeropuertos: tenía un EAD válido, pero aun así el ICE lo detuvo antes de abordar el avión",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/arrestos-en-aeropuertos-tenia-un-ead-valido-pero-aun-asi-el-ice-lo-detuvo-antes-de-abordar-el-avion-nid19092026/",
-      "published_date": "2026-09-19T13:48:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Gobierno intenta bajar el tono a los desmarques de Bullrich en una semana de tensión",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-intenta-bajar-el-tono-a-los-desmarques-de-bullrich-en-una-semana-de-tension-nid19092026/",
-      "published_date": "2026-09-19T13:47:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abandonó Texas con dos maletas y voló a Europa, donde paga US$1000 de alquiler y asegura que es más feliz",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/abandono-texas-con-dos-maletas-y-volo-a-europa-donde-paga-us1000-de-alquiler-y-asegura-que-es-mas-nid19092026/",
-      "published_date": "2026-09-19T13:44:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El regreso del humor y las plumas: la revista porteña está en la calle Corrientes con Vuelve",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/vivo/el-regreso-del-humor-y-las-plumas-la-revista-portena-esta-en-la-calle-corrientes-con-vuelve.phtml",
-      "published_date": "2026-09-19T13:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actualización del Uscis: la nueva regla de carga pública que rige desde este 18 de septiembre y afecta la green card",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/actualizacion-del-uscis-hoy-la-nueva-regla-de-carga-publica-que-rige-desde-este-18-de-septiembre-y-nid18092026/",
-      "published_date": "2026-09-19T13:26:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A un año y medio de su separación de Darío Cvitanich, Chechu Bonelli reveló: “Llegué a ir a terapia cuatro veces por semana”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/a-un-ano-y-medio-de-su-separacion-de-dario-cvitanich-chechu-bonelli-revelo-llegue-a-ir-a-terapia-nid19092026/",
-      "published_date": "2026-09-19T13:23:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las mejores películas y series de Netflix para disfrutar el fin de semana del sábado 19 y domingo 20 de septiembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/las-mejores-peliculas-y-series-de-netflix-para-disfrutar-el-fin-de-semana-del-sabado-19-y-domingo-20-nid18092026/",
-      "published_date": "2026-09-19T13:17:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Casa Blanca prohíbe el acceso a la primera periodista tras la polémica medida de Trump",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-casa-blanca-prohibe-el-acceso-a-la-primera-periodista-tras-la-polemica-medida-de-trump-nid19092026/",
-      "published_date": "2026-09-19T13:17:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gimnasia de Mendoza vs Deportivo Riestra, por el Torneo Clausura EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, sábado 19 de septiembre",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/gimnasia-mendoza-vs-deportivo-riestra-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_KhWqN9EmSe.html",
-      "published_date": "2026-09-19T13:17:02Z",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-sabado-19-septiembre_0_rWHUytDSmA.html",
+      "published_date": "2026-09-20T00:25:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Mientras cruje la interna por Discapacidad, el Gobierno negocia una contrapropuesta con aliados",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/mientras-cruje-la-interna-por-discapacidad-el-gobierno-negocia-una-contrapropuesta-con-aliados/",
-      "published_date": "2026-09-19T13:10:46Z",
+      "title": "River perdió 2-1 con Huracán en el Monumental y extendió una racha de casi diez años sin vencerlo en Núñez",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/river-vs-huracan-en-vivo-nid19092026/",
+      "published_date": "2026-09-20T00:24:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Shakira, Maluma, Feid, Pedro Capó, Gian Marco y Elvis Crespo, entre los estrenos latinos",
+      "title": "La campaña de Lula viaja a los Estados Unidos",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/20/la-campana-de-lula-viaja-a-los-estados-unidos/",
+      "published_date": "2026-09-20T00:24:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huracán, una piedra en el zapato para River en el Monumental: hace 10 años que no puede ganarle jugando como local",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/shakira-maluma-feid-pedro-capo-gian-marco-y-elvis-crespo-entre-los-estrenos-latinos_0_9rUa8ih2pE.html",
-      "published_date": "2026-09-19T13:10:09Z",
+      "url": "https://www.clarin.com/deportes/huracan-piedra-zapato-river-monumental-hace-10-anos-puede-ganarle-jugando-local_0_OR2njxln3g.html",
+      "published_date": "2026-09-20T00:23:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Alerta aérea en Arabia Saudita: atacaron instalaciones cerca del aeropuerto de Riad y refinerías petroleras",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/alerta-en-riad-tras-explosiones-y-una-columna-de-humo-cerca-del-aeropuerto-en-medio-de-la-escalada-en-yemen.phtml",
-      "published_date": "2026-09-19T13:07:18Z",
+      "title": "Arabia Saudí dice que los hutíes intentaron atacar su capital y otras noticias de Oriente Medio",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/arabia-saudi-dice-que-los-huties-intentaron-atacar-su-capital-y-otras-noticias-de-oriente-medio_0_UNFz5ViFxR.html",
+      "published_date": "2026-09-20T00:20:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ya es oficial: confirman cuándo llega el otoño 2026 a California, Florida y Texas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/ya-es-oficial-confirman-cuando-llega-el-otono-2026-a-california-florida-y-texas-nid19092026/",
+      "published_date": "2026-09-20T00:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Difunden un “Manual de Autodefensa” para las familias endeudadas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/20/difunden-un-manual-de-autodefensa-para-las-familias-endeudadas/",
+      "published_date": "2026-09-20T00:15:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Un águila pescadora que sufrió una severa infestación por larvas volvió a volar en libertad tras una rehabilitación: \"De regreso a la naturaleza\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/aguila-pescadora-sufrio-severa-infestacion-larvas-volvio-volar-libertad-rehabilitacion-regreso-naturaleza_0_9aRK0L0MjM.html",
+      "published_date": "2026-09-20T00:15:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La natación argentina celebró en grande en los Juegos Suramericanos 2026: nueve medallas en la jornada",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/la-natacion-argentina-sumo-en-grande-en-los-juegos-suramericanos-2026-nueve-medallas-en-la-jornada-nid14092026/",
+      "published_date": "2026-09-20T00:14:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "José Meolans en los Juegos Suramericanos 2026: “Agostina Hein es la abanderada de la natación  argentina”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/jose-meolans-en-los-juegos-suramericanos-2026-agostina-hein-es-la-abanderada-de-la-natacion-nid14092026/",
+      "published_date": "2026-09-20T00:13:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luciana Aymar en los Juegos Suramericanos 2026: “Esto me hace acordar a mis inicios con las Leonas”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/luciana-aymar-en-los-juegos-suramericanos-2026-esto-me-hace-acordar-a-mis-inicios-con-las-leonas-nid16092026/",
+      "published_date": "2026-09-20T00:12:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Copa Davis: Argentina confirma el favoritismo y mira adelante obligada a no cometer errores del pasado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/tenis/copa-davis-argentina-confirma-el-favoritismo-y-mira-adelante-obligada-a-no-cometer-errores-del-nid19092026/",
+      "published_date": "2026-09-20T00:10:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La psicología dice que las personas que nunca piden ayuda a su familia no son orgullosas; hace décadas comprendieron que, durante su infancia, necesitar algo era lo mismo que perder, y prefieren hacerlo solos antes que volver a ser derrotados",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-piden-ayuda-familia-orgullosas-hace-decadas-comprendieron-infancia-necesitar-mismo-perder-prefieren-hacerlo-solos-volver-derrotados_0_VjHW31TfpV.html",
+      "published_date": "2026-09-20T00:06:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arthur Brooks, catedrático de Harvard, de 62 años: “Hay una inteligencia que nace a partir de los 40 años”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-de-62-anos-hay-una-inteligencia-que-nace-a-partir-de-los-40-nid19092026/",
+      "published_date": "2026-09-20T00:00:00Z",
       "category": "Local Events"
     }
   ]
