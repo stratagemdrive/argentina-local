@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:34:12Z",
+  "generated_at": "2026-10-01T01:57:04Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -11,6 +11,139 @@
   ],
   "stories": [
     {
+      "title": "Cómo va Argentina vs. Bolivia, por un amistoso internacional",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-argentina-vs-bolivia-y-por-donde-se-puede-ver-en-vivo-nid30092026/",
+      "published_date": "2026-10-01T01:49:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tensión con Londres por Malvinas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/01/tension-con-londres-por-malvinas/",
+      "published_date": "2026-10-01T01:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vivió 20 años en España y ahora vuelve a la Argentina: “Hoy, si querés ganar mejor, no te tenés que ir”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/vivio-20-anos-en-espana-y-ahora-vuelve-a-la-argentina-hoy-si-queres-ganar-mejor-no-te-tenes-que-ir-nid30092026/",
+      "published_date": "2026-10-01T01:17:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El ministro de Comercio de Brasil espera lograr un acuerdo con EEUU",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/el-ministro-de-comercio-de-brasil-espera-lograr-un-acuerdo-con-eeuu_0_Vp1Jxaug0U.html",
+      "published_date": "2026-10-01T01:10:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elisa Carrió: \"Son simples empleados a sueldo para enajenación de la Nación Argentina\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/elisa-carrio-son-simples-empleados-a-sueldo-para-enajenacion-de-la-nacion-argentina.phtml",
+      "published_date": "2026-10-01T00:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Una embajada explotada de figuras con elogios franceses a Messi",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/una-embajada-explotada-de-figuras-con-los-elogios-franceses-a-messi-nid30092026/",
+      "published_date": "2026-09-30T23:49:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La agenda de la TV del jueves: los ensayos de la Fórmula 1 en Sepang, Copa Argentina y la UEFA Nations League",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-jueves-los-ensayos-de-la-formula-1-en-sepang-copa-argentina-y-la-uefa-nations-nid30092026/",
+      "published_date": "2026-09-30T23:48:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Terminó la misión del FMI",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/30/termino-la-mision-del-fmi/",
+      "published_date": "2026-09-30T23:27:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aymeric Laporte no olvida la final con Argentina: dijo que era “el antifútbol” y habló de “cosas raras”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/aymeric-laporte-no-olvida-la-final-con-argentina-dijo-que-era-el-antifutbol-y-hablo-de-cosas-raras-nid30092026/",
+      "published_date": "2026-09-30T23:09:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "David Trezeguet dejó todo por River, pero pasó de compinche a decepcionarse con Marcelo Gallardo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/david-trezeguet-dejo-todo-por-river-pero-paso-de-compinche-a-decepcionarse-con-marcelo-gallardo-nid30092026/",
+      "published_date": "2026-09-30T22:55:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel condenó el \"atentado yihadista\" en el vuelo de Flydubai y advirtió que el agresor buscó quebrar los Acuerdos de Abraham",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/israel-condeno-el-atentado-yihadista-en-el-vuelo-de-flydubai-y-advirtio-que-el-agresor-busco-quebrar-los-acuerdos-de-abraham.phtml",
+      "published_date": "2026-09-30T22:47:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Por dónde pasan Argentina vs. Bolivia y qué canal lo transmite en vivo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-argentina-vs-bolivia-y-que-canal-lo-transmite-en-vivo-nid30092026/",
+      "published_date": "2026-09-30T22:39:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La clasificación en la Copa del Golfo entre Omán e Irak se resolvió con un sorteo en un hotel",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-clasificacion-en-la-copa-del-golfo-entre-oman-e-irak-se-resolvio-con-un-sorteo-en-un-hotel-nid30092026/",
+      "published_date": "2026-09-30T22:35:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Malvinas: Reino Unido convocó a la embajadora argentina y acusó a Milei de “socavar los medios de vida de los isleños”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/malvinas-reino-unido-convoco-a-la-embajadora-argentina-y-acuso-a-milei-de-socavar-los-medios-de-vida.phtml",
+      "published_date": "2026-09-30T22:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Concluyó la revisión del FMI y se espera un nuevo desembolso por US$869 millones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/concluyo-la-revision-del-fmi-y-se-espera-un-nuevo-desembolso-por-us869-millones-nid30092026/",
+      "published_date": "2026-09-30T22:02:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Proyectan que el consumo de huevos en la Argentina crecerá un 8% y alcanzará las 430 unidades por habitante",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/proyectan-que-el-consumo-de-huevos-en-la-argentina-crecera-un-8-y-llegara-a-430-unidades-por-nid30092026/",
+      "published_date": "2026-09-30T21:59:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Liquidación de beneficios sociales: claves para evitar errores y sanciones",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/empresas-y-protagonistas/liquidacion-de-beneficios-sociales-claves-para-evitar-errores-y-sanciones.phtml",
+      "published_date": "2026-09-30T20:52:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Por qué Milei puede provocar que Rafael Grossi pierda las elecciones en la ONU",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/modo-fontevecchia/por-que-milei-puede-provocar-que-rafael-grossi-pierda-las-elecciones-en-la-onu-modof.phtml",
+      "published_date": "2026-09-30T20:50:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Terminó la misión del FMI: cuándo será el próximo desembolso",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/termino-la-mision-del-fmi-en-argentina-que-sigue/",
+      "published_date": "2026-09-30T18:47:01Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Reino Unido ve \"fuertes indicios\" de implicación de Irán en incidente de base aérea",
       "source": "Clarín",
       "url": "https://www.clarin.com/estados-unidos/reino-unido-ve-fuertes-indicios-de-implicacion-de-iran-en-incidente-de-base-aerea_0_crCCLqNFrJ.html",
@@ -18,137 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Anne Hathaway recordó una noche con Joaquín Furriel y reveló cómo Lionel Messi ayudó a su hijo a hacer un nuevo amigo",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/anne-hathaway-recordo-noche-joaquin-furriel-revelo-lionel-messi-ayudo-hijo-hacer-nuevo-amigo_0_xf5qkRemls.html",
-      "published_date": "2026-09-30T16:17:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "En Mar del Plata, empieza la cumbre de IDEA que pone a prueba la transición de la estabilización al crecimiento",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/mar-del-plata-empieza-cumbre-idea-pone-prueba-transicion-estabilizacion-crecimiento-a40.phtml",
-      "published_date": "2026-09-30T15:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Gobierno acelera el Presupuesto 2027 para llegar con media sanción antes de la visita del Papa",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-gobierno-acelera-el-presupuesto-2027-para-llegar-con-media-sancion-antes-de-la-visita-del-papa/",
-      "published_date": "2026-09-30T15:49:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rockhopper dijo que las sanciones de la Argentina son “ilegítimas” y que avanzará con la explotación petrolífera en Malvinas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/rockhopper-dijo-que-las-sanciones-de-argentina-son-ilegitimas-y-que-avanzara-con-la-explotacion-nid30092026/",
-      "published_date": "2026-09-30T15:20:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El repunte bursátil de Argentina se limita a las empresas petroleras",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/bloomberg/bc-el-repunte-bursatil-de-argentina-se-limita-a-las-empresas-petroleras.phtml",
-      "published_date": "2026-09-30T15:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La justicia de Estados Unidos frenó la ejecución de Christa Pike",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-justicia-de-estados-unidos-freno-la-ejecucion-de-christa-pike-nid30092026/",
-      "published_date": "2026-09-30T15:18:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Scaloni y la selección: cómo avanzan las charlas para renovar su contrato",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/scaloni-y-la-seleccion-como-avanzan-las-charlas-para-renovar-su-contrato-nid30092026/",
-      "published_date": "2026-09-30T15:06:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rockhopper desafía las sanciones “ilegítimas” de Argentina y seguirá explotando petróleo en Malvinas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/rockhopper-considero-ilegitimas-las-sanciones-de-argentina-y-desafio-las-medidas-al-ratificar-que-seguira-con-el-petroleo-en-malvinas.phtml",
-      "published_date": "2026-09-30T14:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "RDE: Javier Milei viaja a París con 13 gobernadores y la mirada puesta en el Congreso",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/masperfil/javier-milei-viaja-a-paris-con-13-gobernadores-y-la-mirada-puesta-en-el-congreso.phtml",
-      "published_date": "2026-09-30T13:19:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Javier Milei, en VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de su viaje a París",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-insistio-en-la-eliminacion-de-las-paso-y-dijo-que-nid29092026/",
-      "published_date": "2026-09-30T00:45:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La AFA presentó la apelación a las sanciones recibidas en la final del Mundial: busca que reduzcan las penas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-afa-presento-la-apelacion-a-las-sanciones-recibidas-en-la-final-del-mundial-busca-que-reduzcan-nid29092026/",
-      "published_date": "2026-09-29T23:53:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Los abogados de Cristina Kirchner hicieron una nueva presentación ante la ONU para que se revise la condena de la expresidenta",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/los-abogados-de-cristina-kirchner-hicieron-la-presentacion-ante-la-onu-para-que-se-revise-la-condena-nid29092026/",
-      "published_date": "2026-09-29T23:36:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Descubrieron uno de los tratados de paz más antiguos del mundo y el mensaje que contenía dejó absortos a los científicos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ciencia/descubrieron-uno-de-los-tratados-de-paz-mas-antiguos-del-mundo-y-el-mensaje-que-contenia-dejo-nid29092026/",
-      "published_date": "2026-09-29T23:24:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei quiere inversores que vengan “a llenarse los bolsillos en la Argentina”",
+      "title": "El debate del proyecto de Soberanía tuvo un comienzo complicado",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/29/milei-quiere-inversores-que-vengan-a-llenarse-los-bolsillos-en-la-argentina/",
-      "published_date": "2026-09-29T22:55:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/10/01/el-debate-del-proyecto-de-soberania-tuvo-un-comienzo-complicado/",
+      "published_date": "2026-10-01T00:18:34Z",
+      "category": "Military"
     },
     {
-      "title": "El fitness crece a pesar de la crisis",
+      "title": "Diputado y excombatiente tras el fallo de la Corte: \"Siento mucha bronca e impotencia\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/el-fitness-crece-a-pesar-de-la-crisis.phtml",
-      "published_date": "2026-09-29T22:54:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/nea/diputado-y-excombatiente-tras-el-fallo-de-la-corte-siento-mucha-bronca-e-impotencia.phtml",
+      "published_date": "2026-10-01T00:02:00Z",
+      "category": "Military"
     },
     {
-      "title": "El día que Robbie Williams vino a la Argentina para cantar en el programa de Tinelli, conoció a Amalia Granata y se abrazó con la mamá de Tini",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/el-dia-que-robbie-williams-vino-a-la-argentina-para-cantar-en-el-programa-de-tinelli-conocio-a-nid29092026/",
-      "published_date": "2026-09-29T22:46:47Z",
-      "category": "Diplomacy"
+      "title": "Las tropas de EE.UU. se retiraron de Irak tras 12 años de misión antiyihadista",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/30/las-tropas-de-eeuu-se-retiraron-de-irak-tras-12-anos-de-mision-antiyihadista/",
+      "published_date": "2026-09-30T23:35:21Z",
+      "category": "Military"
     },
     {
-      "title": "Cristina Kirchner pidió a la ONU que suspenda su inhabilitación política",
+      "title": "Netanyahu asegura que un piloto del vuelo de Flydubai intentó estrellar el avión",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/09/30/netanyahu-asegura-que-un-piloto-del-vuelo-de-flydubai-intento-estrellar-el-avion/",
+      "published_date": "2026-09-30T23:13:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "“Vamos a sacar petróleo en 2028″: la respuesta de la empresa Rockhopper a Milei por Malvinas",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/09/29/cristina-kirchner-busca-ante-la-onu-recuperar-sus-derechos-politicos-y-ser-candidata-en-2027/",
-      "published_date": "2026-09-29T21:20:21Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/09/30/vamos-a-sacar-petroleo-en-2028-la-respuesta-de-la-empresa-rockhopper-a-milei-por-malvinas/",
+      "published_date": "2026-09-30T21:52:42Z",
+      "category": "Military"
     },
     {
-      "title": "\"En Chile la alianza de Pinochet con Inglaterra es política de Estado, Malvinas debilita nuestra competencia con Argentina por la Antártida\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/modo-fontevecchia/en-chile-la-alianza-de-pinochet-con-inglaterra-es-politica-de-estado-malvinas-debilita-nuestra-competencia-con-argentina-por-la-antartida-mf.phtml",
-      "published_date": "2026-09-29T20:57:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reunión antes de la pausa en Rosada: los frentes que quedan abiertos mientras el Gobierno viaja a París",
+      "title": "Escándalo en Diputados por la Ley Malvinas: Grabois, insultos y manotazos con libertarios, y la reacción de Milei",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/reunion-antes-de-la-pausa-en-rosada-los-frentes-que-quedan-abiertos-mientras-el-gobierno-viaja-a-paris/",
-      "published_date": "2026-09-29T17:53:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/escandalo-en-diputados-por-la-ley-malvinas-grabois-insultos-y-manotazos-con-libertarios-y-la-reaccion-de-milei/",
+      "published_date": "2026-09-30T21:00:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "“Cagón”, “vendepatria” y forcejeos: el fuerte cruce de Grabois con libertarios durante una comisión de Diputados",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/cagon-vendepatria-y-forcejeos-el-fuerte-cruce-de-grabois-con-libertarios-durante-una-comision-de-diputados.phtml",
+      "published_date": "2026-09-30T21:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ni la justicia puede ayudar a Milei con su denuncia de 30 mil terroristas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/09/30/ni-la-justicia-puede-ayudar-a-milei-con-su-denuncia-de-30-mil-terroristas/",
+      "published_date": "2026-09-30T17:48:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "El DNU 70/23, otra vez en la mira: la estrategia de la oposición para derogarlo y cómo LLA evalúa salvarlo",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-dnu-7023-otra-vez-en-la-mira-la-estrategia-de-la-oposicion-para-derogarlo-y-como-lla-evalua-salvarlo/",
+      "published_date": "2026-09-30T17:34:18Z",
+      "category": "Military"
     },
     {
       "title": "Terror en un vuelo de Flydubai: las fotos y videos del ataque al piloto del avión",
@@ -228,67 +291,39 @@
       "category": "Military"
     },
     {
-      "title": "Malvinas: una de las petroleras británicas confirmó que avanzará con el plan de extracción",
+      "title": "Transporte: cómo controlar consumos de combustible y reducir costos en 2026",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/malvinas-una-de-las-petroleras-britanicas-que-busca-operar-en-las-islas-confirmo-que-avanzara-con-el-plan-de-extraccion/",
-      "published_date": "2026-09-30T12:35:09Z",
-      "category": "Military"
+      "url": "https://www.cronista.com/negocios/transporte-como-controlar-consumos-de-combustible-y-reducir-costos-en-2026/",
+      "published_date": "2026-10-01T01:29:05Z",
+      "category": "Energy"
     },
     {
-      "title": "Un sismo de magnitud 3.5 sacudió a la ciudad de Lima durante la madrugada de este miércoles",
+      "title": "RIGI: en RDEco debatieron qué queda en el país después de los anuncios de proyectos",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/un-sismo-a50-de-magnitud-35-sacudio-a-la-ciudad-de-lima-durante-la-madrugada.phtml",
-      "published_date": "2026-09-30T12:30:00Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/masperfil/rigi-e-inversiones-en-argentina-mineria-petroleo-y-el-debate-por-el-empleo-y-las-divisas.phtml",
+      "published_date": "2026-09-30T22:34:17Z",
+      "category": "Energy"
     },
     {
-      "title": "Una “pelea entre pilotos” y pánico entre los pasajeros: Israel denuncia \"terrorismo\" en el vuelo de FlyDubai",
+      "title": "Modelo “rapiña”, un camino hacia el precipicio",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/una-pelea-entre-pilotos-y-panico-entre-los-pasajeros-israel-investiga-el-incidente-de-flydubai-como-posible-atentado-terrorista.phtml",
-      "published_date": "2026-09-30T12:04:36Z",
-      "category": "Military"
+      "url": "https://www.perfil.com/noticias/opinion/modelo-rapina-un-camino-hacia-el-precipicio.phtml",
+      "published_date": "2026-09-30T22:29:57Z",
+      "category": "Energy"
     },
     {
-      "title": "Gil Domínguez: \"Cualquier persona o Estado extranjero pueden comprar toda la tierra rural donde quiera\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/gil-dominguez-cualquier-persona-o-estado-extranjero-pueden-comprar-toda-la-tierra-rural-a-donde-quieran.phtml",
-      "published_date": "2026-09-30T11:26:00Z",
-      "category": "Military"
+      "title": "Un país entero con el consumo básico en rojo",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/30/un-pais-entero-con-el-consumo-basico-en-rojo/",
+      "published_date": "2026-09-30T21:01:19Z",
+      "category": "Energy"
     },
     {
-      "title": "Un avión de FlyDubai con destino a Tel Aviv aterrizó de emergencia tras un incidente entre pilotos",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/30/un-avion-de-flydubai-con-destino-a-tel-aviv-aterrizo-de-emergencia-tras-un-incidente-entre-pilotos/",
-      "published_date": "2026-09-30T11:13:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "El exjefe del Shin Bet demandará a Netanyahu por difamación",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/29/el-exjefe-del-shin-bet-demandara-a-netanyahu-por-difamacion/",
-      "published_date": "2026-09-30T00:23:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sin un paro en carpeta, la CGT marchará el 8 de octubre en “defensa de la industria nacional”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/sin-un-paro-en-carpeta-la-cgt-marchara-el-8-de-octubre-en-defensa-de-la-industria-nacional-nid29092026/",
-      "published_date": "2026-09-29T23:29:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Otros seis aviones cazas F-16 llegaron a Río Cuarto y se suman a la Fuerza Aérea",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/otros-seis-aviones-cazas-f-16-llegaron-a-rio-cuarto-y-se-suman-a-la-fuerza-aerea-nid29092026/",
-      "published_date": "2026-09-29T22:40:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Un funcionario libertario, que votó a favor de la Ley de Alcohol Cero, dio positivo en un control y se fugó",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/un-funcionario-que-voto-a-favor-de-la-ley-de-alcohol-cero-dio-positivo-en-un-control-y-se-fugo-nid29092026/",
-      "published_date": "2026-09-29T22:29:47Z",
-      "category": "Military"
+      "title": "Café Martínez va por Vaca Muerta, negocia con estaciones de servicio y busca producir granos en Tucumán",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/cafe-martinez-va-por-vaca-muerta-negocia-con-estaciones-de-servicio-y-busca-producir-granos-propios-en-tucuman/",
+      "published_date": "2026-09-30T17:25:37Z",
+      "category": "Energy"
     },
     {
       "title": "Las reservas de petróleo de EEUU suben a pesar de que el mercado prevía un descenso",
@@ -396,178 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Avanza la privatización de Enarsa",
+      "title": "Los autos no vuelan, pero se enchufan",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/autos-vuelan-enchufan_0_UtWjAxfkGO.html",
+      "published_date": "2026-10-01T01:13:41Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Por qué algunos bidets tienen un agujero en la parte superior y para qué sirve",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/por-que-algunos-bidets-tienen-un-agujero-en-la-parte-superior-y-para-que-sirve-nid30092026/",
+      "published_date": "2026-10-01T00:47:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nueva York suspende los trámites del seguro de desempleo por una actualización y advierte demoras en los pagos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/nueva-york-suspende-los-tramites-del-seguro-de-desempleo-por-una-actualizacion-y-advierte-demoras-en-nid30092026/",
+      "published_date": "2026-10-01T00:40:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Lacalle Pou explicó el secreto uruguayo y dejó una advertencia sobre las reformas y el poder",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/lacalle-pou-explico-el-secreto-uruguayo-y-dejo-una-advertencia-sobre-las-reformas-y-el-poder-nid30092026/",
+      "published_date": "2026-10-01T00:36:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Coloquio de IDEA: los empresarios respaldan la estabilización, pero atan la inversión a las elecciones de 2027",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/coloquio-de-idea-los-empresarios-respaldan-la-estabilizacion-pero-atan-la-inversion-a-las-elecciones-nid30092026/",
+      "published_date": "2026-10-01T00:25:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Milei prometió ajuste para otros 40 años",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/09/28/avanza-la-privatizacion-de-enarsa/",
-      "published_date": "2026-09-28T22:40:20Z",
-      "category": "Energy"
+      "url": "https://www.pagina12.com.ar/2026/10/01/milei-prometio-ajuste-para-otros-40-anos/",
+      "published_date": "2026-10-01T00:16:13Z",
+      "category": "Economy"
     },
     {
-      "title": "China y EE.UU. bajarán los aranceles mutuos por 60 mil millones de dólares",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/09/28/china-y-eeuu-bajaran-los-aranceles-mutuos-por-60-mil-millones-de-dolares/",
-      "published_date": "2026-09-28T22:31:58Z",
-      "category": "Energy"
+      "title": "Impacto en la inversión real: cayó 5,4% en agosto",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/nea/impacto-en-la-inversion-real-cayo-54-en-agosto.phtml",
+      "published_date": "2026-10-01T00:01:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Se acelera la venta de bonos mientras el petróleo vuelve a dispararse",
+      "title": "El duro descargo de Mauro Icardi por estar libre y seguir sin club: “Confunden desempleo con fracaso”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/el-duro-descargo-de-mauro-icardi-por-estar-libre-y-seguir-sin-club-confunden-desempleo-con-fracaso-nid30092026/",
+      "published_date": "2026-09-30T23:57:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Fue a un restaurante uruguayo y al ver el ticket desató una fuerte polémica por una burla al peso argentino",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/fue-a-un-restaurante-uruguayo-y-al-ver-el-ticket-desato-una-fuerte-polemica-por-una-burla-al-peso-nid30092026/",
+      "published_date": "2026-09-30T23:56:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Números negativos en inversión",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/09/30/numeros-negativos-en-inversion/",
+      "published_date": "2026-09-30T23:32:02Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Banco Central compró US$ 160 millones y las reservas terminaron septiembre en el nivel más bajo en tres meses",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-banco-central-compro-us-160-millones-pero-las-reservas-terminaron-septiembre-en-el-nivel-mas-bajo-en-tres-meses-a40.phtml",
+      "published_date": "2026-09-30T23:10:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Caputo se reunió con el ministro de Economía francés y destacó el respaldo a la Argentina ante el FMI",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/se-acelera-la-venta-de-bonos-mientras-el-petroleo-vuelve-a-dispararse/",
-      "published_date": "2026-09-28T19:11:32Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/economia-politica/caputo-se-reunio-con-el-ministro-de-economia-frances-y-destaco-el-respaldo-a-la-argentina-ante-el-fmi/",
+      "published_date": "2026-09-30T23:01:31Z",
+      "category": "Economy"
     },
     {
-      "title": "Las tarifas de la luz se multiplicaron por cuatro para la industria y asfixian a las PyMEs",
+      "title": "Comprar un 0 km todavía exige más de un año de sueldo y un Tesla podría costar hasta US$ 65.000 en Argentina",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/tarifas-luz-multiplicaron-cuatro-industria-asfixia-pymes-a40.phtml",
-      "published_date": "2026-09-28T15:55:00Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/economia/comprar-un-0-km-todavia-exige-mas-de-un-ano-de-sueldo-y-un-tesla-podria-costar-hasta-us65000-en-argentina-a40.phtml",
+      "published_date": "2026-09-30T22:40:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Milei encabezará en París un nuevo “Argentina Week” con Caputo, Bausili y CEOs globales de energía, minería y agro",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/milei-encabezara-en-paris-un-nuevo-argentina-week-con-caputo-bausili-y-ceos-globales-de-energia-mineria-y-agro/",
-      "published_date": "2026-09-27T21:42:19Z",
-      "category": "Energy"
+      "title": "Argentina Week: en RDEco explicaron por qué el RIGI tiene posibilidades de atraer inversiones europeas",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/argentina-busca-inversiones-en-europa-rigi-mercosur-y-el-desafio-de-abrir-nuevos-mercados.phtml",
+      "published_date": "2026-09-30T22:27:53Z",
+      "category": "Economy"
     },
     {
-      "title": "Tanzania: las inesperadas enseñanzas de la naturaleza más salvaje",
+      "title": "“La construcción se va a movilizar”: en RDEco analizaron qué sectores podrían impulsar la recuperación",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/economia-argentina-en-rdeco-actividad-recesion-y-los-sectores-que-pueden-impulsar-el-crecimiento.phtml",
+      "published_date": "2026-09-30T22:22:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "China promete nuevas medidas ante debilidad de consumo y sector inmobiliario",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-china-promete-nuevas-medidas-ante-debilidad-de-consumo-y-sector-inmobiliario.phtml",
+      "published_date": "2026-09-30T22:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflación supera previsiones en Francia e Italia y aumenta presión sobre el BCE",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-inflacion-supera-previsiones-en-francia-e-italia-y-aumenta-presion-sobre-el-bce.phtml",
+      "published_date": "2026-09-30T22:18:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Claudio Lozano en RDEco: “Canjean inflación en pesos por inflación en dólares”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/en-rdeco-tocar-el-dolar-solo-puede-triturar-aun-mas-el-mercado-interno.phtml",
+      "published_date": "2026-09-30T22:15:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El campo celebra la apertura de Japón a toda la carne argentina, pero advierte que no exportará un gran volumen",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/el-campo-celebra-la-apertura-de-japon-a-toda-la-carne-argentina-pero-advierte-que-no-exportara-un-gran-volumen-a40.phtml",
+      "published_date": "2026-09-30T22:12:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Confucio: “Aquel que se exige mucho a sí mismo y espera poco de los demás mantendrá lejos el resentimiento”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/tanzania-las-inesperadas-ensenanzas-de-la-naturaleza-mas-salvaje-nid30092026/",
-      "published_date": "2026-09-30T16:27:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El ambicioso plan de China para instalar fábricas... fuera de China: qué pasará con la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/el-ambicioso-plan-de-china-para-instalar-fabricas-fuera-de-china-que-pasara-con-la-argentina-nid30092026/",
-      "published_date": "2026-09-30T16:23:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Elisa Carrió: \"Son simples empleados a sueldo para enajenación de la Nación Argentina\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/elisa-carrio-son-simples-empleados-a-sueldo-para-enajenacion-de-la-nacion-argentina.phtml",
-      "published_date": "2026-09-30T16:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 30 de septiembre, minuto a minuto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid30092026/",
-      "published_date": "2026-09-30T16:00:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A cuánto cotiza el dólar blue hoy, miércoles 30 de septiembre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-30-de-septiembre.phtml",
-      "published_date": "2026-09-30T15:46:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Tesoro volvió a vender dólares para frenar el tipo de cambio lejos del techo de la banda",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-tesoro-volvio-a-vender-dolares-para-frenar-el-tipo-de-cambio-lejos-del-techo-de-la-banda-nid30092026/",
-      "published_date": "2026-09-30T15:41:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A cuánto cotiza el euro blue hoy, miércoles 30 de septiembre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-miercoles-30-de-septiembre.phtml",
-      "published_date": "2026-09-30T15:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Avanza el “mini RIGI” para Pymes: los beneficios para invertir y las aclaraciones de ARCA",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/avanza-el-mini-rigi-para-pymes-los-beneficios-para-invertir-y-las-aclaraciones-de-arca/",
-      "published_date": "2026-09-30T15:33:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La suba del riesgo país fue la noticia negativa de un mes que golpeó a las finanzas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/la-suba-del-riesgo-pais-fue-la-noticia-negativa-de-un-mes-que-golpeo-a-las-finanzas-nid30092026/",
-      "published_date": "2026-09-30T15:33:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Metrogas extiende su licencia hasta 2047: le exigen US$ 186,8 millones en inversiones y el retiro de reclamos",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/metrogas-extiende-su-licencia-hasta-2047-el-gobierno-exige-us-1868-millones-en-inversiones-y-el-retiro-de-reclamos-a40.phtml",
-      "published_date": "2026-09-30T15:24:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilar Sordo: “La vida es un hotel, uno entra sabiendo que se tiene que ir”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-la-vida-es-un-hotel-uno-entra-sabiendo-que-se-tiene-que-ir-nid30092026/",
-      "published_date": "2026-09-30T15:11:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Las profesoras de pilates coinciden: “Sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/cadenas-miofasciales-los-ejercicios-que-revolucionaron-la-forma-de-practicar-pilates-una-tecnica-que-nid27092026/",
-      "published_date": "2026-09-30T15:10:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gabriel Rolón: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-felicidad-en-nid26092026/",
-      "published_date": "2026-09-30T15:09:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“Que vuelva a Estados Unidos”: Malena Galmarini y Martín Guzmán se cruzaron en redes y se acusaron por Milei",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/que-vuelva-a-estados-unidos-malena-galmarini-y-martin-guzman-se-cruzaron-en-redes-y-se-revolearon-con-milei.phtml",
-      "published_date": "2026-09-30T15:07:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El dólar en Córdoba: a cuánto cotiza este miércoles 30 de septiembre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-30-de-septiembre-300926.phtml",
-      "published_date": "2026-09-30T14:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ANSES confirmó el calendario definitivo de octubre: cuándo cobran jubilados y pensionados",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/anses-confirmo-calendario-definitivo-octubre-cuando-cobran-jubilados-pensionados-a35.phtml",
-      "published_date": "2026-09-30T13:51:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El impuesto más distorsivo de la Argentina, según JP Morgan: qué contrapeso encontró",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-jp-morgan-definio-al-sistema-tributario-argentino-como-gravoso-que-puede-equilibrarlo/",
-      "published_date": "2026-09-30T13:25:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Gobierno amplió el cupo sin arancel para autos eléctricos: qué cambia para el mercado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-gobierno-amplio-los-topes-para-importar-autos-electricos-e-hibridos-sin-arancel-su-impacto-en-precios/",
-      "published_date": "2026-09-30T13:15:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Caputo anunció que Japón volverá a comprar carne argentina después de 20 años: cómo es la relación comercial",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/buena-noticia-para-caputo-japon-volvera-a-comprar-carne-argentina-despues-de-20-anos/",
-      "published_date": "2026-09-30T12:55:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¡Mirá en vivo Canal E!: toda la información económica",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/canal-e/mira-en-vivo-canal-e-toda-la-informacion-economica.phtml",
-      "published_date": "2026-09-30T12:40:00Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/confucio-aquel-que-se-exige-mucho-a-si-mismo-y-espera-poco-de-los-demas-mantendra-lejos-el-nid30092026/",
+      "published_date": "2026-09-30T22:11:00Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Confirmado: el listado de hospitales y clínicas de PAMI donde los jubilados pueden atenderse en octubre de 2026",
+      "title": "VIDEO: los goles de Argentina frente a Bolivia, en el primer amistoso después del Mundial",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/video-los-goles-de-argentina-frente-a-bolivia-en-el-primer-amistoso-despues-del-mundial-nid30092026/",
+      "published_date": "2026-10-01T01:53:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina vs. Bolivia, en vivo: el minuto a minuto del partido amistoso",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-bolivia-en-vivo-nid30092026/",
+      "published_date": "2026-10-01T01:52:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Iglesia, diputados y movimientos sociales apuestan por una ley para los barrios populares",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/01/la-iglesia-diputados-y-movimientos-sociales-apuestan-por-una-ley-para-los-barrios-populares/",
+      "published_date": "2026-10-01T01:52:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Propuesta oficial: qué dice el acuerdo demócrata que busca abolir el ICE para proteger a los inmigrantes en EE.UU.",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/propuesta-oficial-que-dice-el-acuerdo-democrata-que-busca-abolir-el-ice-para-proteger-a-los-nid30092026/",
+      "published_date": "2026-10-01T01:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El tablero cambió, pero ¿cambió el directorio?",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/confirmado-el-listado-de-hospitales-y-clinicas-de-pami-donde-los-jubilados-pueden-atenderse-en-octubre-de-2026/",
-      "published_date": "2026-09-30T16:27:40Z",
+      "url": "https://www.cronista.com/columnistas/el-tablero-cambio-pero-cambio-el-directorio/",
+      "published_date": "2026-10-01T01:44:11Z",
       "category": "Local Events"
     },
     {
-      "title": "La oposición busca forzar una sesión especial en contra del DNU de Milei que habilita la venta de tierras a extranjeros",
+      "title": "Sorpresa e indignación por el aval de la Corte a la extranjerización de la tierra",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/01/sorpresa-e-indignacion-por-el-aval-de-la-corte-a-la-extranjerizacion-de-la-tierra/",
+      "published_date": "2026-10-01T01:41:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El peronismo prepara una sesión en Diputados para frenar la extranjerización de la tierra",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/01/el-peronismo-prepara-una-sesion-en-diputados-para-frenar-la-extranjerizacion-de-la-tierra/",
+      "published_date": "2026-10-01T01:26:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: “Si la izquierda francesa protesta, se lo agradezco porque es un honor”, dijo el Presidente antes de partir a París",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-oposicion-busca-forzar-una-sesion-especial-en-contra-del-dnu-de-milei-que-habilita-la-venta-de-nid30092026/",
-      "published_date": "2026-09-30T16:26:22Z",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-si-la-izquierda-francesa-protesta-se-lo-agradezco-porque-es-un-honor-dijo-el-nid30092026/",
+      "published_date": "2026-10-01T01:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Helado de vainilla, café negro  y pollo frito: un estudio analizó lo que piden los condenados a muerte en EE.UU. como última comida y llegó a esta conclusión sobre su estado mental",
+      "title": "Flydubai suspendió temporalmente sus vuelos con destino a Israel tras el ataque",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/flydubai-suspendio-temporalmente-sus-vuelos-con-destino-a-israel-tras-el-ataque-nid30092026/",
+      "published_date": "2026-10-01T01:13:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo de hoy, jueves 01 de octubre: las predicciones para la salud, el amor y el dinero",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/helado-vainilla-cafe-negro-pollo-frito-estudio-analizo-piden-condenados-muerte-eeuu-ultima-comida-llego-conclusion-estado-mental_0_n4YlpJ4RT8.html",
-      "published_date": "2026-09-30T16:24:01Z",
+      "url": "https://www.clarin.com/astrologia/horoscopo-hoy-jueves-01-octubre-predicciones-salud-amor-dinero_0_m9Mav0HdDJ.html",
+      "published_date": "2026-10-01T01:05:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Daniel Osvaldo puso en venta su chalet en Lomas de Zamora por 500.000 dólares: un recorrido en fotos por el interior",
+      "title": "Noticias del Uscis: EE.UU. mantiene el TPS hasta el 27 de noviembre para ciertos migrantes extensión automática",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/daniel-osvaldo-puso-en-venta-su-chalet-en-lomas-de-zamora-por-500000-dolares-un-recorrido-en-fotos-nid30092026/",
-      "published_date": "2026-09-30T16:23:23Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/noticias-del-uscis-eeuu-mantiene-el-tps-hasta-el-27-de-noviembre-para-ciertos-migrantes-extension-nid30092026/",
+      "published_date": "2026-10-01T01:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pep Guardiola respaldó a Manchester City por las acusaciones, pero Wayne Rooney fue lapidario: “Quiero el mayor castigo”",
+      "title": "Arthur Brooks, experto en felicidad de Harvard: “Las personas que son felices y saludables cuando son mayores tienen un matrimonio sólido o amistades cercanas”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/pep-guardiola-respaldo-a-manchester-city-por-las-acusaciones-pero-wayne-rooney-fue-lapidario-quiero-nid30092026/",
-      "published_date": "2026-09-30T16:23:15Z",
+      "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-experto-en-felicidad-de-harvard-las-personas-que-son-felices-y-saludables-cuando-son-nid28092026/",
+      "published_date": "2026-10-01T01:04:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tras el escándalo, ordenaron que Pity Álvarez sea sometido a un estudio médico para saber si puede continuar con el juicio",
+      "title": "Una elección de dimensión global",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/tras-el-escandalo-ordenaron-que-pity-alvarez-sea-sometido-a-un-estudio-medico-para-saber-si-puede-nid30092026/",
-      "published_date": "2026-09-30T16:22:18Z",
+      "url": "https://www.lanacion.com.ar/politica/una-eleccion-de-dimension-global-nid30092026/",
+      "published_date": "2026-10-01T01:03:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Ya es ley oficial: Newsom prohíbe los guantes con cargas eléctricas que planeaba usar el ICE contra inmigrantes",
+      "title": "Pilar Sordo, sobre los recuerdos: “Queremos congelar momentos; somos conscientes de que todo pasa”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/california/ya-es-ley-oficial-newsom-prohibe-los-guantes-con-cargas-electricas-que-planeaba-usar-el-ice-contra-nid30092026/",
-      "published_date": "2026-09-30T16:22:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-sobre-los-recuerdos-queremos-congelar-momentos-somos-conscientes-de-que-todo-pasa-nid28092026/",
+      "published_date": "2026-10-01T01:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Matías Soulé fue padre por primera vez y se fue de la concentración de la selección para recibir al bebé",
+      "title": "El Principito y su frase sobre el amor propio y los vínculos: “Sos el dueño de tu vida y tus emociones, nunca lo olvides; para bien y para mal”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/matias-soule-fue-padre-por-primera-vez-y-se-fue-de-la-concentracion-de-la-seleccion-nid29092026/",
-      "published_date": "2026-09-30T16:19:28Z",
+      "url": "https://www.lanacion.com.ar/sociedad/el-principito-y-su-frase-sobre-el-amor-propio-y-los-vinculos-sos-el-dueno-de-tu-vida-y-tus-emociones-nid29092026/",
+      "published_date": "2026-10-01T01:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tom Bateman: de su gran historia de amor con Daisy Ridley a su casamiento secreto",
+      "title": "Registro nacional de médicos: hay más activos de los que se creía por arriba de los 65 años y menos por debajo de esa edad",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/tom-bateman-de-su-gran-historia-de-amor-con-daisy-ridley-a-su-casamiento-secreto-nid30092026/",
-      "published_date": "2026-09-30T16:19:23Z",
+      "url": "https://www.lanacion.com.ar/sociedad/registro-nacional-de-medicos-hay-mas-activos-de-los-que-se-creia-por-arriba-de-los-65-anos-y-menos-nid30092026/",
+      "published_date": "2026-10-01T01:00:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Frenaron la pena de muerte contra Christa Pike: iba a ser la primera mujer ejecutada en Tennessee en 200 años",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/christa-pike-afronta-sus-ultimas-horas-hoy-sera-la-primera-mujer-ejecutada-en-tennessee-en-200-anos-nid30092026/",
-      "published_date": "2026-09-30T16:19:06Z",
+      "title": "Horóscopo Piscis de hoy, 01 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-01-octubre-2026-predicciones-salud-amor-dinero_0_mpOlzxFzC0.html",
+      "published_date": "2026-10-01T01:00:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Gritos, peleas en la cabina y pánico: los dramáticos testimonios de los pasajeros del vuelo de Flydubai",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/los-testimonios-de-pasajeros-del-vuelo-de-flydubai-que-aterrizo-de-emergencia-por-un-incidente-entre-nid30092026/",
-      "published_date": "2026-09-30T16:18:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elecciones Brasil 2026, EN VIVO: qué se sabe de los comicios hoy, miércoles 30 de septiembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-que-se-sabe-de-los-comicios-hoy-miercoles-30-de-septiembre-nid30092026/",
-      "published_date": "2026-09-30T16:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hasta US$250 por noche con vista a la Bombonera: el fenómeno que empuja los alquileres temporarios en los barrios del sur de CABA",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/los-barrios-del-sur-de-caba-donde-el-alquiler-temporario-ya-compite-con-palermo-en-precio-pero-que-nid30092026/",
-      "published_date": "2026-09-30T16:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Así fue el recorrido del avión de Flydubai que iba a Israel: cayó 6000 metros en menos de un minuto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/asi-fue-el-recorrido-del-avion-de-flydubai-que-iba-a-israel-cayo-6000-metros-en-menos-de-un-minuto-nid30092026/",
-      "published_date": "2026-09-30T16:14:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hay alerta amarilla por nevadas para este miércoles 30 de septiembre: las provincias afectadas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-nevadas-para-este-miercoles-30-de-septiembre-las-provincias-nid30092026/",
-      "published_date": "2026-09-30T16:14:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un cardiólogo reveló cuál es el mayor miedo que tienen sus pacientes y qué relación tiene con la presión arterial",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-revelo-cual-es-el-mayor-miedo-que-tienen-sus-pacientes-y-que-relacion-tiene-con-la-nid30092026/",
-      "published_date": "2026-09-30T16:14:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un piloto de avión contó cómo son las medidas de seguridad para la tripulación de cabina y por qué pudieron haber fallado",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-piloto-de-avion-conto-como-son-las-medidas-de-seguridad-para-la-tripulacion-de-cabina-y-por-que-nid30092026/",
-      "published_date": "2026-09-30T16:14:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un analista internacional explicó en detalle qué pasó con el avión de Flydubai, que aterrizó de emergencia en Arabia Saudita, y la hipótesis más relevante",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-que-paso-con-el-avion-de-flydubai-que-aterrizo-de-nid30092026/",
-      "published_date": "2026-09-30T16:14:27Z",
+      "title": "Horóscopo Capricornio de hoy, 01 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-capricornio-hoy-01-octubre-2026-predicciones-salud-amor-dinero_0_wulbjDWbAR.html",
+      "published_date": "2026-10-01T01:00:06Z",
       "category": "Local Events"
     }
   ]
