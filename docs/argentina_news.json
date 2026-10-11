@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:00:50Z",
+  "generated_at": "2026-10-11T01:46:19Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "El Banco Central también timbeó con el oro que quedó en sus bóvedas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/10/el-banco-central-tambien-timbeo-con-el-oro-que-quedo-en-sus-bovedas/",
+      "published_date": "2026-10-11T01:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "De Cristina Pérez a Nina Francisca: las figuras que asistieron al evento inspirado en el Kentucky Derby",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/de-cristina-perez-a-nina-francisca-las-figuras-que-asistieron-al-evento-inspirado-en-el-kentucky-derby.phtml",
+      "published_date": "2026-10-11T00:20:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A un mes de la visita del papa León XIV, el Gobierno prepara un megaoperativo de seguridad y la Iglesia atrae aportantes privados",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/a-un-mes-de-la-visita-del-papa-leon-xiv-el-gobierno-prepara-un-megaoperativo-de-seguridad-y-la-nid10102026/",
+      "published_date": "2026-10-10T23:33:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Una carta blanca presidencial para Patricia Bullrich",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/10/una-carta-blanca-presidencial-para-patricia-bullrich/",
+      "published_date": "2026-10-10T20:43:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sorpresa en los boxes de la Fórmula 1: el canciller Pablo Quirno apareció en el Gran Premio de Singapur",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/deportes/la-sorpresa-de-la-formula-1-pablo-quirno-aparecio-en-el-gran-premio-de-singapur-y-pidio-que-vuelva-a-la-argentina.phtml",
+      "published_date": "2026-10-10T19:35:30Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "La mesa de la Asamblea de CPI lamenta las sanciones de EE.UU., que buscan \"obstaculizarla\"",
       "source": "Clarín",
@@ -57,6 +92,13 @@
       "source": "Perfil",
       "url": "https://www.perfil.com/noticias/elobservador/la-seguridad-nacional-de-milei-un-combo-de-extravagancia-improvisacion-e-ignorancia.phtml",
       "published_date": "2026-10-10T05:13:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel acusó a Navi Pillay de “demonizar” a su país y mentir sobre el genocidio en Gaza",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/09/israel-acuso-a-navi-pillay-de-demonizar-a-su-pais-y-mentir-sobre-el-genocidio-en-gaza/",
+      "published_date": "2026-10-10T03:01:00Z",
       "category": "Diplomacy"
     },
     {
@@ -109,46 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "La ONU considera \"inaceptables\" las sanciones de EE.UU. a la Corte Penal Internacional",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/la-onu-considera-inaceptables-las-sanciones-de-ee-uu-a-la-corte-penal-internacional_0_QRs7Q20HFZ.html",
-      "published_date": "2026-10-09T16:50:19Z",
-      "category": "Diplomacy"
+      "title": "Terrorismo, genocidio y continuidad colonial",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/10/terrorismo-genocidio-y-continuidad-colonial/",
+      "published_date": "2026-10-10T23:57:25Z",
+      "category": "Military"
     },
     {
-      "title": "La UE ayudará a la CPI a realizar su trabajo pese a sanciones de EEUU",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/la-ue-ayudara-a-la-cpi-a-realizar-su-trabajo-pese-a-sanciones-de-eeuu_0_4iZaVGmsRZ.html",
-      "published_date": "2026-10-09T16:40:21Z",
-      "category": "Diplomacy"
+      "title": "Las botas avanzan: los militares ya hablan de cambio de época",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/10/la-militarizacion-avanza-las-botas-ya-hablan-de-cambio-de-epoca/",
+      "published_date": "2026-10-10T23:51:44Z",
+      "category": "Military"
     },
     {
-      "title": "\"Goebbels aplaude desde el infierno\": Israel ataca al comité del Nobel por premiar a la jueza que denunció genocidio en Gaza",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/goebbels-aplaude-desde-el-infierno-israel-ataca-al-comite-del-nobel-por-premiar-a-la-jueza-que-denuncio-genocidio-en-gaza.phtml",
-      "published_date": "2026-10-09T15:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La feroz amenaza de Trump contra la Corte Penal Internacional tras el Nobel de la Paz",
+      "title": "Cita del día, Napoleón: “En toda batalla hay un momento en el que la menor maniobra es decisiva y da la superioridad, así como una sola gota de agua hace desbordar un vaso”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/la-feroz-amenaza-de-trump-contra-la-corte-penal-internacional-tras-el-nobel-de-la-paz-nid09102026/",
-      "published_date": "2026-10-09T15:02:15Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/lifestyle/cita-del-dia-napoleon-en-toda-batalla-hay-un-momento-en-el-que-la-menor-maniobra-es-decisiva-y-da-la-nid10102026/",
+      "published_date": "2026-10-10T22:30:00Z",
+      "category": "Military"
     },
     {
-      "title": "Santilli retomó las bilaterales con gobernadores con la mira en reformar las PASO: quiénes van y qué está en juego",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/santilli-retomo-las-bilaterales-con-gobernadores-camino-a-reformar-las-paso-quienes-van-y-que-esta-en-juego/",
-      "published_date": "2026-10-09T14:52:31Z",
-      "category": "Diplomacy"
+      "title": "Ucrania bombardeó una terminal petrolera rusa",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/10/ucrania-bombardeo-una-terminal-petrolera-rusa/",
+      "published_date": "2026-10-10T17:55:23Z",
+      "category": "Military"
     },
     {
-      "title": "El PJ correntino ratificó la expulsión de Camau Espínola y rechazó el ajuste de Milei",
+      "title": "Trump \"en pie de guerra\" con Noruega por el Nobel de la Paz: \"Ni sé quien es esa mujer que ganó\"",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/el-pj-correntino-ratifico-la-expulsion-de-camau-espinola-y-rechazo-el-ajuste-de-milei.phtml",
-      "published_date": "2026-10-09T14:22:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.perfil.com/noticias/internacional/trump-esta-en-pie-de-guerra-con-noruega-por-el-nobel-de-la-paz-no-se-ni-quien-es-esa-mujer.phtml",
+      "published_date": "2026-10-10T17:11:20Z",
+      "category": "Military"
     },
     {
       "title": "El jefe del Estado Mayor Conjunto revela detalles de la nueva Base Naval de Ushuaia y cuándo se activa",
@@ -256,39 +291,25 @@
       "category": "Military"
     },
     {
-      "title": "El Nobel de la Paz fue para la jueza sudafricana Navanethem “Navi” Pillay: su ironía contra Donald Trump",
+      "title": "Privatizaciones en el banquillo",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/11/privatizaciones-en-el-banquillo/",
+      "published_date": "2026-10-11T01:14:23Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump desacreditó a la ganadora del Premio Nobel de la Paz y al comité que la eligió",
       "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/09/el-nobel-de-la-paz-fue-para-la-jueza-sudafricana-navanethem-navi-pillay/",
-      "published_date": "2026-10-09T10:31:48Z",
-      "category": "Military"
+      "url": "https://www.pagina12.com.ar/2026/10/10/trump-desacredito-a-la-ganadora-del-premio-nobel-de-la-paz-y-al-comite-que-la-eligio/",
+      "published_date": "2026-10-10T23:34:38Z",
+      "category": "Energy"
     },
     {
-      "title": "“Repudiamos todo acto de terrorismo”: el mensaje del Colegio de Abogados de la Ciudad a tres años de la masacre del 7 de octubre",
+      "title": "Trump apunta contra Zelensky y consolida su acercamiento a Moscú: “Es hora de un nuevo presidente”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/repudiamos-todo-acto-de-terrorismo-el-mensaje-del-colegio-de-abogados-de-la-ciudad-a-tres-anos-de-la-nid08102026/",
-      "published_date": "2026-10-08T23:39:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "EE. UU. transmitirá en vivo la ejecución del autor de la masacre de Fort Hood",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/ee-uu-transmitira-en-vivo-la-ejecucion-del-autor-de-la-masacre-de-fort-hood.phtml",
-      "published_date": "2026-10-08T23:18:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Es ingenuo suponer que el extremismo tecno financiero militar es liberal”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/es-ingenuo-suponer-que-el-extremismo-tecno-financiero-militar-es-liberal.phtml",
-      "published_date": "2026-10-08T22:38:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Alerta por un buque chileno que busca abastecer a Malvinas: la inteligencia trasandina advierte sobre un inminente \"evento crítico\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/alerta-por-un-buque-chileno-que-busca-abastecer-a-malvinas-la-inteligencia-trasandina-advierte-sobre-un-inminente-evento-critico.phtml",
-      "published_date": "2026-10-08T22:19:25Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/el-mundo/trump-apunta-contra-zelensky-y-consolida-su-acercamiento-a-moscu-es-hora-de-un-nuevo-presidente-nid10102026/",
+      "published_date": "2026-10-10T20:57:57Z",
+      "category": "Energy"
     },
     {
       "title": "Impacto en el empleo industrial: se perdieron más de 66 mil puestos entre todas las provincias",
@@ -396,6 +417,13 @@
       "category": "Energy"
     },
     {
+      "title": "Se abrochó la venta de Aysa en medio de serios cuestionamientos",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/08/se-abrocho-la-venta-de-aysa-en-medio-de-serios-cuestionamientos/",
+      "published_date": "2026-10-09T03:01:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Inventó un ventilador casero que no necesita electricidad y se volvió furor en redes",
       "source": "La Nación",
       "url": "https://www.lanacion.com.ar/lifestyle/invento-un-ventilador-casero-que-no-necesita-electricidad-y-se-volvio-furor-en-redes-nid08102026/",
@@ -403,32 +431,81 @@
       "category": "Energy"
     },
     {
-      "title": "Científicos descubrieron que la esperanza de vida del Sistema solar es mucho menor de la que se creía",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/ciencia/cientificos-descubrieron-que-la-esperanza-de-vida-del-sistema-solar-es-mucho-menor-de-la-que-se-nid08102026/",
-      "published_date": "2026-10-08T23:59:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Los expertos coinciden: “El termotanque eléctrico, la plancha o el aire acondicionado pueden aumentar bastante tu consumo”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/los-expertos-coinciden-el-termo-electrico-la-plancha-o-el-aire-acondicionado-pueden-aumentar-nid07102026/",
-      "published_date": "2026-10-08T23:55:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "YPF se quedó con la parte que le faltaba de una de sus principales subsidiarias",
+      "title": "Dólar estable y volvió el superávit, pero una señal alerta al Gobierno rumbo al año electoral",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/ypf-se-quedo-con-la-parte-que-le-faltaba-de-una-de-sus-principales-subsidiarias/",
-      "published_date": "2026-10-08T23:12:05Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/economia-politica/un-solo-motor-y-una-economia-en-modo-espera-el-escenario-que-condiciona-el-ano-electoral/",
+      "published_date": "2026-10-11T00:52:54Z",
+      "category": "Economy"
     },
     {
-      "title": "Jorge Brito inauguró el parque solar más grande de San Juan",
+      "title": "Dejó su trabajo de US$75.000 en Chicago y se mudó al medio de la nada: “Pago menos de US$100 de alquiler”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/dejo-su-trabajo-de-us75000-en-chicago-y-se-mudo-al-medio-de-la-nada-pago-menos-de-us100-de-alquiler-nid10102026/",
+      "published_date": "2026-10-10T23:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rentabilidad de alquileres en CABA: cuáles son los barrios que más pagan en octubre 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/inversiones/rentabilidad-de-alquileres-en-caba-cuales-son-los-barrios-que-mas-pagan-en-octubre-2026-nid10102026/",
+      "published_date": "2026-10-10T22:48:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Es profesora y la despidieron luego de descubrir que ofreció buenas calificaciones a cambio de donaciones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/es-profesora-y-la-despidieron-luego-de-descubrir-que-ofrecio-buenas-calificaciones-a-cambio-de-nid10102026/",
+      "published_date": "2026-10-10T22:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Qué efectos tiene la glucemia en el organismo y por qué hay que controlarla de cerca",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/que-efectos-tiene-la-glucemia-en-el-organismo-y-por-que-hay-que-controlarla-de-cerca-web-lo-nid10102026/",
+      "published_date": "2026-10-10T22:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Premio Nobel de Economía 2026: mañana, fumata blanca",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/premio-nobel-de-economia-2026-manana-fumata-blanca-nid10102026/",
+      "published_date": "2026-10-10T22:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Loan: el niño desapareció, las mentiras todavía están entre nosotros",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/jorge-brito-inauguro-parque-solar-mas-grande-san-juan.phtml",
-      "published_date": "2026-10-08T22:57:54Z",
-      "category": "Energy"
+      "url": "https://www.perfil.com/noticias/opinion/loan-el-nino-desaparecio-las-mentiras-todavia-estan-entre-nosotros.phtml",
+      "published_date": "2026-10-10T21:50:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Willem Dafoe, a sus 71 años: “Nunca soy más feliz que lavando los platos, limpiando el estiércol de los animales o haciendo cosas sencillas”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/willem-dafoe-a-sus-71-anos-nunca-soy-mas-feliz-que-lavando-los-platos-limpiando-el-estiercol-de-los-nid08102026/",
+      "published_date": "2026-10-10T19:21:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "José Ruiz, entrenador: “A los 50, 60 y 70, no deberíamos estar simplemente intentando no perder fuerza, técnica y control”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/jose-ruiz-entrenador-a-los-50-60-y-70-no-deberiamos-estar-simplemente-intentando-no-perder-fuerza-nid08102026/",
+      "published_date": "2026-10-10T19:14:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Wanda Nara contó cómo fue filmar las escenas de sexo con Agustín Bernasconi para su nueva película: “Me daba vergüenza”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/wanda-nara-conto-como-fue-filmar-las-escenas-de-sexo-con-agustin-bernasconi-para-su-nueva-pelicula-nid10102026/",
+      "published_date": "2026-10-10T19:11:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Alberto Ades habló del dólar (y tal vez \"los mejores 18 meses de la historia\" son sin Caputo)",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/alberto-ades-hablo-del-dolar-y-tal-vez-los-mejores-18-meses-de-la-historia-son-sin-caputo.phtml",
+      "published_date": "2026-10-10T18:17:36Z",
+      "category": "Economy"
     },
     {
       "title": "Lorenzetti defendió el fallo sobre la Ley de Tierras, criticó el \"humo digital\" de las redes y aseguró que la Corte no se deja presionar",
@@ -494,83 +571,6 @@
       "category": "Economy"
     },
     {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 10 de octubre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-10-de-octubre-nid10102026/",
-      "published_date": "2026-10-10T10:32:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La pregunta que cambió todo: una familia se animó a un negocio que no tenía en sus planes con la carne y hoy llega a Suiza, Dubái, Estados Unidos e Israel",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/la-pregunta-que-cambio-todo-una-familia-se-animo-a-un-negocio-que-no-tenia-en-sus-planes-con-la-nid10102026/",
-      "published_date": "2026-10-10T09:39:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Se perdieron más de 66 mil puestos de trabajo industriales",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/se-perdieron-mas-de-66-mil-puestos-de-trabajo-industriales.phtml",
-      "published_date": "2026-10-10T05:59:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La indumentaria y los restaurantes más caros de la región",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/la-indumentaria-y-los-restaurantes-mas-caros-de-la-region.phtml",
-      "published_date": "2026-10-10T05:56:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Una batalla tras otra: la canadiense Anne Carson ganó el Premio Nobel de Literatura",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cultura/una-batalla-tras-otra-la-canadiense-anne-carson-gano-el-premio-nobel-de-literatura.phtml",
-      "published_date": "2026-10-10T04:56:09Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Del dólar a los recursos",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/del-dolar-a-los-recursos-por-rosendo-fraga-h.phtml",
-      "published_date": "2026-10-10T04:54:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pérdida millonaria por la timba de Bausili-Caputo",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/09/perdida-millonaria-en-coberturas/",
-      "published_date": "2026-10-10T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El costo del ajuste en cuestión",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/09/el-costo-del-ajuste-en-cuestion/",
-      "published_date": "2026-10-10T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Viajar cuesta más",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/09/mas-de-1-millon-de-pesos/",
-      "published_date": "2026-10-10T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Gobierno ya descarta una recuperación visible de la economía en el año electoral",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/opinion/gobierno-descarta-recuperacion-visible-economia-ano-electoral_0_O3I1o1sD3X.html",
-      "published_date": "2026-10-10T01:20:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La oposición intentará sesionar y derogar el DNU 70/2023",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/10/la-oposicion-intentara-avanzar-contra-el-dnu-7023/",
-      "published_date": "2026-10-10T00:34:58Z",
-      "category": "Economy"
-    },
-    {
       "title": "The Government puts the magnifying glass on university funds in the run-up to the march",
       "source": "El Cronista",
       "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-la-lupa-sobre-los-fondos-de-las-universidades-en-la-previa-de-la-marcha/",
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Video: el potente huracán Isaías causó destrozos y cortes de luz en Florida y Alabama",
+      "title": "River vs. Estudiantes de Río Cuarto, en vivo",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/video-el-potente-huracan-isaias-causo-destrozos-y-cortes-de-luz-en-florida-y-alabama-nid10102026/",
-      "published_date": "2026-10-10T15:44:01Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/river-plate/river-vs-estudiantes-de-rio-cuarto-en-vivo-nid10102026/",
+      "published_date": "2026-10-11T01:33:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Christa Pike fue dada de alta tras sobrevivir a dos inyecciones letales",
+      "title": "Lionel Messi con Inter Miami vs. DC United, EN VIVO: el minuto a minuto por la MLS",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/christa-pike-fue-dada-de-alta-tras-sobrevivir-a-dos-inyecciones-letales-nid10102026/",
-      "published_date": "2026-10-10T15:42:49Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-con-inter-miami-vs-dc-united-en-vivo-nid10102026/",
+      "published_date": "2026-10-11T01:29:44Z",
       "category": "Local Events"
     },
     {
-      "title": "El blooper de Neuer que terminó en gol de Augsburgo ante Bayern Munich (y en récord) en la liga de Alemania",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/el-blooper-de-neuer-que-termino-en-gol-de-augsburgo-ante-bayern-munich-y-en-record-en-la-liga-de-nid10102026/",
-      "published_date": "2026-10-10T15:40:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paul Newman donó 3 hectáreas para construir una reserva natural en Westport, el que fue su lugar en el mundo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/paul-newman-dono-3-hectareas-para-construir-una-reserva-natural-en-westport-el-que-fue-su-lugar-en-nid10102026/",
-      "published_date": "2026-10-10T15:35:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golpe en Boca: se confirmó la lesión de Leandro Paredes y no jugará ante Vasco da Gama",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/golpe-boca-confirmo-lesion-leandro-paredes-jugara-vasco-da-gama_0_evGhWYgBzx.html",
-      "published_date": "2026-10-10T15:26:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qué dejó en pie el veredicto del juicio por el crimen de Gabriela Pérez: 10 claves para entender lo que viene",
+      "title": "La visita del Papa expone a un intendente en retirada y una autonomía municipal debilitada",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/que-dejo-en-pie-el-veredicto-del-juicio-por-el-crimen-de-gabriela-perez-10-claves-para-entender-lo-que-viene.phtml",
-      "published_date": "2026-10-10T15:25:00Z",
+      "url": "https://www.perfil.com/noticias/cordoba/la-visita-del-papa-expone-a-un-intendente-en-retirada-y-una-autonomia-municipal-debilitada.phtml",
+      "published_date": "2026-10-11T01:21:15Z",
       "category": "Local Events"
     },
     {
-      "title": "¿Cuánto es (10 + 6) x 3² - 144 ÷ 12? El cálculo matemático cuyo resultado se volvió un misterio en Internet",
+      "title": "SIC derrotó a CUBA y llega jaqueado a la última fecha: necesita ganar y que Hindú caiga ante Rosario",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/juegos/retos-visuales/cuanto-es-10-6-x-3-144-12-el-calculo-matematico-cuyo-resultado-se-volvio-un-misterio-en-internet-nid10102026/",
-      "published_date": "2026-10-10T15:22:11Z",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/sic-derroto-a-cuba-y-llega-jaqueado-a-la-ultima-fecha-necesita-ganar-y-que-hindu-caiga-ante-rosario-nid10102026/",
+      "published_date": "2026-10-11T01:20:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Norris hizo lo mismo que le cuestionó a Colapinto y generó tensión en McLaren durante la carrera sprint",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/norris-hizo-lo-mismo-que-le-cuestiono-a-colapinto-y-genero-tension-en-mclaren-durante-la-carrera-nid10102026/",
-      "published_date": "2026-10-10T15:20:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christa Pike, que sobrevivió a un intento de ejecución en Tennessee, recibe el alta hospitalaria",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/christa-pike-que-sobrevivio-a-un-intento-de-ejecucion-en-tennessee-recibe-el-alta-hospitalaria_0_LN6DhFm8Rk.html",
-      "published_date": "2026-10-10T15:20:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "F1: A qué hora corre Franco Colapinto en el GP de Singapur 2026 y por dónde se puede ver",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/f1-a-que-hora-corre-franco-colapinto-en-el-gp-de-singapur-2026-y-por-donde-se-puede-ver-nid10102026/",
-      "published_date": "2026-10-10T15:20:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inversiones tecnológicas y presión legislativa: el guiño de un gigante de los datos a la Argentina y el reclamo de Milei",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/inversiones-tecnologicas-y-presion-legislativa-el-guino-de-un-gigante-de-los-datos-a-la-argentina-y-el-reclamo-de-milei/",
-      "published_date": "2026-10-10T15:20:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leandro Paredes sufrió un desgarro: no jugará contra Vasco da Gama y estará afuera hasta el Superclásico",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/leandro-paredes-sufrio-un-desgarro-y-estara-afuera-hasta-el-superclasico-nid10102026/",
-      "published_date": "2026-10-10T15:18:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: motochorros le apuntaron con un arma a un conductor en la autopista Buenos Aires-La Plata",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/video-motochorros-le-apuntaron-con-un-arma-a-un-conductor-en-la-autopista-buenos-aires-la-plata-nid10102026/",
-      "published_date": "2026-10-10T15:17:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Franco Colapinto largará 15° el Gran Premio de Singapur, tras un toque con el muro en la Q2",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid10102026-2/",
-      "published_date": "2026-10-10T15:13:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mendiolaza: Arning cesanteó al exintendente Salibi por \"abandono de servicio\"",
+      "title": "La UNC desarrolla una prótesis de mano de bajo costo que responde a impulsos musculares",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/mendiolaza-arning-cesanteo-al-exintendente-salibi-por-abandono-de-servicio.phtml",
-      "published_date": "2026-10-10T15:13:00Z",
+      "url": "https://www.perfil.com/noticias/cordoba/la-unc-desarrolla-una-protesis-de-mano-de-bajo-costo-que-responde-a-impulsos-musculares.phtml",
+      "published_date": "2026-10-11T01:13:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Horario del GP de Singapur de la Fórmula 1 de este domingo 10 de octubre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/horario-del-gp-de-singapur-de-la-formula-1-de-este-domingo-10-de-octubre-nid10102026/",
-      "published_date": "2026-10-10T15:09:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oficial y confirmado: el DMV de California mantiene suspendidas las licencias de conducir comerciales para inmigrantes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/california/oficial-y-confirmado-el-dmv-de-california-mantiene-suspendidas-las-licencias-de-conducir-comerciales-nid10102026/",
-      "published_date": "2026-10-10T15:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los hutíes de Yemen atacaron el aeropuerto de Riad con un misil (fuente diplomática)",
+      "title": "Horóscopo de hoy, domingo 11 de octubre: las predicciones para la salud, el amor y el dinero",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/los-huties-de-yemen-atacaron-el-aeropuerto-de-riad-con-un-misil-fuente-diplomatica_0_1efcKgwV3N.html",
-      "published_date": "2026-10-10T15:00:18Z",
+      "url": "https://www.clarin.com/astrologia/horoscopo-hoy-domingo-11-octubre-predicciones-salud-amor-dinero_0_BiqrOK4LnS.html",
+      "published_date": "2026-10-11T01:05:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Piscis de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_RLTeDN1fsT.html",
+      "published_date": "2026-10-11T01:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Capricornio de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-capricornio-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_NY6Kj6p0xQ.html",
+      "published_date": "2026-10-11T01:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Acuario de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-acuario-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_CMzdXeNalB.html",
+      "published_date": "2026-10-11T01:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Sagitario de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-sagitario-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_uHKXB6MBCl.html",
+      "published_date": "2026-10-11T01:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Libra de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-libra-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_GKFWyqLgSs.html",
+      "published_date": "2026-10-11T01:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Escorpio de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-escorpio-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_jDnEM9RT1e.html",
+      "published_date": "2026-10-11T01:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Virgo de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-virgo-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_Xex8X45ts5.html",
+      "published_date": "2026-10-11T01:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Leo de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-leo-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_JdlaPctgAM.html",
+      "published_date": "2026-10-11T01:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo Géminis de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/astrologia/horoscopo-geminis-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_Pn9berQuFg.html",
+      "published_date": "2026-10-11T01:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Estanislao Bachrach, experto en neurociencia: “Los mejores analgésicos están en el estómago”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lnmas/estanislao-bachrach-experto-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid10102026/",
+      "published_date": "2026-10-11T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tony Robbins, experto en desarrollo personal: “Todos somos egoístas a veces, pero si te quedás ahí, sufrís”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-desarrollo-personal-todos-somos-egoistas-a-veces-pero-si-te-quedas-ahi-nid10102026/",
+      "published_date": "2026-10-11T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hinojosa apunta contra el gobernador rumbo a las elecciones 2026: “Bienvenidos al Texas de Abbott”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/texas/hinojosa-apunta-contra-el-gobernador-rumbo-a-las-elecciones-2026-bienvenidos-al-texas-de-abbott-nid10102026/",
+      "published_date": "2026-10-11T00:55:00Z",
       "category": "Local Events"
     }
   ]
