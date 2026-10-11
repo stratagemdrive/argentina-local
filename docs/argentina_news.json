@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:46:19Z",
+  "generated_at": "2026-10-11T16:28:29Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,69 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "La Iglesia argentina pidió rezar por la salud del papa León XIV ante la operación a la que será sometido",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-iglesia-argentina-pidio-rezar-por-la-salud-del-papa-leon-xiv-ante-la-operacion-a-la-que-sera-nid11102026/",
+      "published_date": "2026-10-11T16:05:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Niño en Argentina: fuertes crecidas de los ríos Paraná y Uruguay causan inundaciones en Entre Ríos y Corrientes",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/sociedad/nino-argentina-fuertes-crecidas-rios-parana-uruguay-causan-inundaciones-rios-corrientes_0_mg2IqKyb8H.html",
+      "published_date": "2026-10-11T15:39:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lionel Scaloni corrió el Gran Fondo Argentina en las calles de Buenos Aires: el tiempo del DT de la Selección en un hito del ciclismo",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/lionel-scaloni-corrio-gran-fondo-argentina-calles-buenos-aires-tiempo-dt-seleccion-hito-ciclismo_0_rN7gdHocEm.html",
+      "published_date": "2026-10-11T15:31:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "¿Cuándo son las elecciones 2027 en la Argentina? Todas las fechas clave",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/cuando-son-las-elecciones-2027-en-la-argentina-todas-las-fechas-clave-nid08102026/",
+      "published_date": "2026-10-11T13:29:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Por qué es feriado este lunes 12 de octubre en la Argentina y a quiénes les corresponde el fin de semana largo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/feriados/2026/por-que-es-feriado-este-lunes-12-de-octubre-en-la-argentina-y-a-quienes-les-corresponde-el-fin-de-nid07102026/",
+      "published_date": "2026-10-11T13:26:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Feriados del 9, 10 y 11 de noviembre por la visita de papa León XIV a la Argentina: a quién le corresponde cada uno de los asuetos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/feriados/2026/feriados-del-9-10-y-11-de-noviembre-por-la-visita-de-papa-leon-xiv-a-la-argentina-a-quien-le-nid23092026/",
+      "published_date": "2026-10-11T13:26:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ravier habla del nuevo salvataje de EE.UU., la broma de Karina y la pelea con las universidades: “No incumplimos la ley”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-nuevo-salvataje-de-eeuu-la-broma-de-karina-y-la-pelea-con-las-universidades-no-incumplimos-la-ley/",
+      "published_date": "2026-10-11T11:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europa critica el acuerdo con el Kremlin y mantiene las sanciones",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/europa-critica-el-acuerdo-con-el-kremlin-y-mantiene-las-sanciones.phtml",
+      "published_date": "2026-10-11T06:25:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El estrés sigue en alza: una encuesta encontró que seis de cada diez argentinas dicen padecerlo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/sociedad/el-estres-sigue-en-alza-una-encuesta-encontro-que-seis-de-cada-diez-argentinas-dicen-padecerlo.phtml",
+      "published_date": "2026-10-11T05:22:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "El Banco Central también timbeó con el oro que quedó en sus bóvedas",
       "source": "Página/12 — El País",
@@ -88,67 +151,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "La seguridad nacional de Milei: un combo de extravagancia, improvisación e ignorancia",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/elobservador/la-seguridad-nacional-de-milei-un-combo-de-extravagancia-improvisacion-e-ignorancia.phtml",
-      "published_date": "2026-10-10T05:13:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel acusó a Navi Pillay de “demonizar” a su país y mentir sobre el genocidio en Gaza",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/09/israel-acuso-a-navi-pillay-de-demonizar-a-su-pais-y-mentir-sobre-el-genocidio-en-gaza/",
-      "published_date": "2026-10-10T03:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alemania y Francia ofrecen financiar el 100% de la compra de tres submarinos para la Armada Argentina",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/alemania-francia-financiamiento-compra-tres-submarinos-armada-argentina.phtml",
-      "published_date": "2026-10-10T00:35:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "380 kilómetros de autonomía por US$24.990: así es el auto que tiene casi el 60% del mercado de los eléctricos en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/380-kilometros-de-autonomia-por-us24990-asi-es-el-auto-que-tiene-casi-el-60-del-mercado-de-los-nid08102026/",
-      "published_date": "2026-10-09T23:41:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE.UU. anuncia sanciones contra la Corte Penal Internacional tras el Nobel de la Paz a su exjueza Navi Pillay",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/eeuu-anuncia-sanciones-contra-la-cpi-tras-el-nobel-de-la-paz-a-su-exjueza-navi-pillay.phtml",
-      "published_date": "2026-10-09T23:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ocho países europeos y aliados de EE.UU. rechazaron las sanciones de Trump a la CPI",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/09/ocho-paises-europeos-y-aliados-de-eeuu-rechazaron-las-sanciones-de-trump-a-la-cpi/",
-      "published_date": "2026-10-09T22:59:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aeropuertos Argentina anunció master plan de inversión de u$s 1500 millones en Ezeiza, Aeroparque y más de 30 terminales",
+      "title": "Malvinas mejoró la imagen digital de Milei, pero hay un dato que limita el repunte",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/aeropuertos-argentina-anuncio-el-master-plan-de-su-inversion-de-us-1500-millones-en-ezeiza-aeroparque-y-mas-de-30-terminales-del-interior/",
-      "published_date": "2026-10-09T19:19:25Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/malvinas-mejoro-la-imagen-digital-de-milei-pero-hay-un-dato-que-limita-el-repunte/",
+      "published_date": "2026-10-11T16:22:00Z",
+      "category": "Military"
     },
     {
-      "title": "El activista antiderechos que Milei puso a cargo de la visita del Papa",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/09/el-activista-antiderechos-que-milei-puso-a-cargo-de-la-visita-del-papa/",
-      "published_date": "2026-10-09T18:31:25Z",
-      "category": "Diplomacy"
+      "title": "Zelenski rechazó el pedido de Trump de un cambio de presidente en Ucrania",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/11/zelenski-rechazo-el-pedido-de-trump-de-un-cambio-de-presidente-en-ucrania/",
+      "published_date": "2026-10-11T14:06:28Z",
+      "category": "Military"
     },
     {
-      "title": "Alemania, Francia, R. Unido y otros cinco países rechazan sanciones de EEUU contra la CPI",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/alemania-francia-r-unido-y-otros-cinco-paises-rechazan-sanciones-de-eeuu-contra-la-cpi_0_QekaWNc0Ci.html",
-      "published_date": "2026-10-09T16:50:21Z",
-      "category": "Diplomacy"
+      "title": "Miden 13 cm y pesan casi un kilo: Gendarmería recuperó seis huevos de ñandú que iban escondidos de forma ilegal debajo del asiento de un auto en la Patagonia",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/miden-13-cm-y-pesan-casi-un-kilo-gendarmeria-recupero-seis-huevos-de-nandu-que-iban-escondidos-de-nid08102026/",
+      "published_date": "2026-10-11T13:27:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sueldo oficial: cuánto ganan los miembros de las Fuerzas Armadas en octubre de 2026 con el aumento confirmado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/sueldo-oficial-cuanto-ganan-los-miembros-de-las-fuerzas-armadas-en-octubre-de-2026-con-el-aumento-nid08102026/",
+      "published_date": "2026-10-11T13:25:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Paritaria con aumento: cuánto gana el personal de la Policía Federal Argentina en octubre 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-gana-el-personal-de-la-policia-federal-argentina-en-octubre-2026-nid07102026/",
+      "published_date": "2026-10-11T13:25:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "La guerra, el mar y la escritura contra el abismo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cultura/la-guerra-el-mar-y-la-escritura-contra-el-abismo.phtml",
+      "published_date": "2026-10-11T08:29:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "El giro copernicano de Milei",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/elobservador/el-giro-copernicano-de-milei.phtml",
+      "published_date": "2026-10-11T07:13:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Malvinas: Argentina recurrirá al Tribunal del Mar para denunciar a Londres por Sea Lion",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/malvinas-argentina-recurrira-al-tribunal-del-mar-para-denunciar-a-londres-por-sea-lion.phtml",
+      "published_date": "2026-10-11T05:47:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "Control militar",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/control-militar-por-juan-pablo-laporte.phtml",
+      "published_date": "2026-10-11T04:36:27Z",
+      "category": "Military"
     },
     {
       "title": "Terrorismo, genocidio y continuidad colonial",
@@ -214,80 +277,17 @@
       "category": "Military"
     },
     {
+      "title": "“Navi” Pillay, la Nobel de la Paz que desató la ira de Trump y Netanyahu",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/09/el-nobel-de-la-paz-fue-para-la-jueza-sudafricana-navanethem-navi-pillay/",
+      "published_date": "2026-10-10T03:01:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Rays esperan rival en Serie de Campeonato tras ganar 101 duelos jugando el béisbol requerido",
       "source": "Clarín",
       "url": "https://www.clarin.com/estados-unidos/rays-esperan-rival-en-serie-de-campeonato-tras-ganar-101-duelos-jugando-el-beisbol-requerido_0_arcjuHAwnh.html",
       "published_date": "2026-10-10T01:40:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"Más que un país en guerra\": Santiago Caputo afirmó que el 60% de las pensiones por invalidez son truchas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/mas-que-un-pais-en-guerra-santiago-caputo-denuncio-que-el-60-de-las-pensiones-por-invalidez-son-truchas.phtml",
-      "published_date": "2026-10-10T00:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Rechazaron el pedido de la defensa de Pity Álvarez y el juicio se reanuda el 16 de octubre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/judiciales/rechazaron-el-pedido-de-la-defensa-de-pity-alvarez-y-el-juicio-se-reanuda-el-16-de-octubre.phtml",
-      "published_date": "2026-10-09T23:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Protagonizó una polémica foto que trascendió el mundo hace 40 años: cómo afectó su vida la difusión y qué fue de ella",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/protagonizo-una-polemica-foto-que-trascendio-el-mundo-hace-40-anos-como-afecto-su-vida-la-difusion-y-nid09102026/",
-      "published_date": "2026-10-09T22:56:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cómo Ryan Reynolds presionó a Sony para que saliera en defensa de su esposa, Blake Lively: “Imperdonable”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/como-ryan-reynolds-presiono-a-sony-para-que-saliera-en-defensa-de-su-esposa-blake-lively-nid09102026/",
-      "published_date": "2026-10-09T22:39:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tata Yofre deja la escuela nacional de espías y lo reemplaza un veterano de Malvinas",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/tata-yofre-deja-la-escuela-de-espias-y-el-gobierno-nombra-a-un-veterano-de-malvinas-en-su-lugar/",
-      "published_date": "2026-10-09T21:46:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Gobierno autorizó la licitación  para construir el muelle de la base militar en Ushuaia",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/gobierno-autorizo-licitacion-construir-muelle-base-militar-ushuaia_0_PYHU73uDwC.html",
-      "published_date": "2026-10-09T16:45:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "La CPI, un tribunal sancionado por incomodar a los grandes poderes",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/la-cpi-un-tribunal-sancionado-por-incomodar-a-los-grandes-poderes_0_LGMtvNwArk.html",
-      "published_date": "2026-10-09T16:40:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Ejército Argentino viaja a Brasil para un ejercicio militar combinado: más de 400 efectivos, 99 vehículos y una semana de trabajo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-ejercito-argentino-viaja-a-brasil-para-un-ejercicio-militar-combinado-mas-de-400-efectivos-99-vehiculos-y-una-semana-de-trabajo/",
-      "published_date": "2026-10-09T16:14:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mamdani acorrala a Trump y le exige sacar al ICE de Nueva York: “Actúa con total impunidad, siembra el caos y el terror en todo el país”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-acorrala-a-trump-y-le-exige-sacar-al-ice-de-nueva-york-actua-con-total-impunidad-siembra-el-nid09102026/",
-      "published_date": "2026-10-09T15:54:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Día 1035: ¿La rebeldía volverá a ser de izquierda?",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/modo-fontevecchia/dia-1035-la-rebeldia-volvera-a-ser-de-izquierda-modof.phtml",
-      "published_date": "2026-10-09T15:16:00Z",
       "category": "Military"
     },
     {
@@ -431,143 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Dólar estable y volvió el superávit, pero una señal alerta al Gobierno rumbo al año electoral",
+      "title": "El economista Alberto Ades explicó por qué participó de la reunión de Gabinete",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/el-economista-alberto-ades-explico-por-que-participo-de-la-reunion-de-gabinete-nid11102026/",
+      "published_date": "2026-10-11T15:26:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La pregunta que cambió todo: una familia se animó a un negocio que no tenía en sus planes con la carne y hoy llega a Suiza, Dubái, Estados Unidos e Israel",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/la-pregunta-que-cambio-todo-una-familia-se-animo-a-un-negocio-que-no-tenia-en-sus-planes-con-la-nid10102026/",
+      "published_date": "2026-10-11T15:06:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Alfredo Di Costanzo, de la Universidad de Minnesota, y un éxito de EE.UU. ahora bajo presión: productores de 80 años con 500 vacas sin herederos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/alfredo-di-costanzo-de-la-universidad-de-minnesota-y-un-exito-de-eeuu-ahora-bajo-presion-productores-nid10102026/",
+      "published_date": "2026-10-11T14:53:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Se despide DeSantis y pide votar en noviembre una enmienda que define el impuesto a la propiedad en Florida",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/se-despide-desantis-y-pide-votar-en-noviembre-la-enmienda-3-que-define-el-impuesto-a-la-propiedad-en-nid11102026/",
+      "published_date": "2026-10-11T14:50:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "$1300 millones de inversión en el norte de la Ciudad: transformaron un antiguo galpón ferroviario en un centro de salud para atención primaria, pediatría y otras especialidades",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/1300-millones-de-inversion-en-el-norte-de-la-ciudad-transformaron-un-antiguo-galpon-ferroviario-en-nid07102026/",
+      "published_date": "2026-10-11T13:29:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cuánto cobran los jubilados en octubre de 2026 con el nuevo bono confirmado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-octubre-de-2026-con-el-nuevo-bono-confirmado-nid29092026/",
+      "published_date": "2026-10-11T13:27:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Con bono oficial y aumento confirmado: este es el monto que cobran los jubilados de la Anses en octubre 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/con-bono-oficial-y-aumento-confirmado-este-es-el-monto-que-cobran-los-jubilados-de-la-anses-en-nid28092026/",
+      "published_date": "2026-10-11T13:27:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cuánto cobran de mínima los jubilados de la Anses en octubre 2026 con el aumento oficial",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/cuanto-cobran-de-minima-los-jubilados-de-la-anses-en-octubre-2026-con-el-aumento-oficial-nid23092026/",
+      "published_date": "2026-10-11T13:27:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Jubilaciones de Anses: cuánto se cobra en octubre 2026, con el bono y el aumento confirmado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-cuanto-se-cobra-en-octubre-2026-con-el-bono-y-el-aumento-confirmado-nid14092026/",
+      "published_date": "2026-10-11T13:27:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Calendario para imprimir de octubre 2026 en la Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/calendario-para-imprimir-de-octubre-2026-nid23092026/",
+      "published_date": "2026-10-11T13:26:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paritaria oficial: cuánto ganan los camioneros en octubre 2026 tras el aumento confirmado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paritaria-oficial-cuanto-ganan-los-camioneros-en-octubre-2026-tras-el-aumento-confirmado-nid07102026/",
+      "published_date": "2026-10-11T13:25:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paritaria confirmada: cuánto cobran las empleadas domésticas en octubre de 2026 con el aumento oficial",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paritaria-confirmada-cuanto-cobran-las-empleadas-domesticas-en-octubre-de-2026-con-el-aumento-nid06102026/",
+      "published_date": "2026-10-11T13:25:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Nueva paritaria de la construcción: cuánto cobra un albañil en octubre 2026 con el aumento confirmado por la Uocra",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-la-construccion-cuanto-cobra-un-albanil-en-octubre-2026-con-el-aumento-confirmado-nid01102026/",
+      "published_date": "2026-10-11T13:25:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cómo configurar una alerta de precio en Mercado Libre para comprar productos baratos",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/tecnologia/como-configurar-una-alerta-de-precio-en-mercado-libre-para-comprar-productos-baratos-nid08102026/",
+      "published_date": "2026-10-11T12:53:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La estrella de la Economía del Conocimiento ya no es el software y genera el 64% de las exportaciones",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/un-solo-motor-y-una-economia-en-modo-espera-el-escenario-que-condiciona-el-ano-electoral/",
-      "published_date": "2026-10-11T00:52:54Z",
+      "url": "https://www.cronista.com/negocios/la-estrella-de-la-economia-del-conocimiento-ya-no-es-el-software-y-genera-el-64-de-las-exportaciones/",
+      "published_date": "2026-10-11T11:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "Dejó su trabajo de US$75.000 en Chicago y se mudó al medio de la nada: “Pago menos de US$100 de alquiler”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/dejo-su-trabajo-de-us75000-en-chicago-y-se-mudo-al-medio-de-la-nada-pago-menos-de-us100-de-alquiler-nid10102026/",
-      "published_date": "2026-10-10T23:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Rentabilidad de alquileres en CABA: cuáles son los barrios que más pagan en octubre 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inversiones/rentabilidad-de-alquileres-en-caba-cuales-son-los-barrios-que-mas-pagan-en-octubre-2026-nid10102026/",
-      "published_date": "2026-10-10T22:48:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Es profesora y la despidieron luego de descubrir que ofreció buenas calificaciones a cambio de donaciones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/es-profesora-y-la-despidieron-luego-de-descubrir-que-ofrecio-buenas-calificaciones-a-cambio-de-nid10102026/",
-      "published_date": "2026-10-10T22:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Qué efectos tiene la glucemia en el organismo y por qué hay que controlarla de cerca",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/que-efectos-tiene-la-glucemia-en-el-organismo-y-por-que-hay-que-controlarla-de-cerca-web-lo-nid10102026/",
-      "published_date": "2026-10-10T22:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Premio Nobel de Economía 2026: mañana, fumata blanca",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/premio-nobel-de-economia-2026-manana-fumata-blanca-nid10102026/",
-      "published_date": "2026-10-10T22:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Loan: el niño desapareció, las mentiras todavía están entre nosotros",
+      "title": "Presupuesto 2027: Carlos Guberman abre en el debate en Diputados",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/loan-el-nino-desaparecio-las-mentiras-todavia-estan-entre-nosotros.phtml",
-      "published_date": "2026-10-10T21:50:45Z",
+      "url": "https://www.perfil.com/noticias/politica/presupuesto-2027-carlos-guberman-abre-en-el-debate-en-diputados.phtml",
+      "published_date": "2026-10-11T09:16:53Z",
       "category": "Economy"
     },
     {
-      "title": "Willem Dafoe, a sus 71 años: “Nunca soy más feliz que lavando los platos, limpiando el estiércol de los animales o haciendo cosas sencillas”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/willem-dafoe-a-sus-71-anos-nunca-soy-mas-feliz-que-lavando-los-platos-limpiando-el-estiercol-de-los-nid08102026/",
-      "published_date": "2026-10-10T19:21:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "José Ruiz, entrenador: “A los 50, 60 y 70, no deberíamos estar simplemente intentando no perder fuerza, técnica y control”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/jose-ruiz-entrenador-a-los-50-60-y-70-no-deberiamos-estar-simplemente-intentando-no-perder-fuerza-nid08102026/",
-      "published_date": "2026-10-10T19:14:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Wanda Nara contó cómo fue filmar las escenas de sexo con Agustín Bernasconi para su nueva película: “Me daba vergüenza”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/wanda-nara-conto-como-fue-filmar-las-escenas-de-sexo-con-agustin-bernasconi-para-su-nueva-pelicula-nid10102026/",
-      "published_date": "2026-10-10T19:11:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Alberto Ades habló del dólar (y tal vez \"los mejores 18 meses de la historia\" son sin Caputo)",
+      "title": "Aeropuertos Argentina invertirá US$ 1.500 M",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/alberto-ades-hablo-del-dolar-y-tal-vez-los-mejores-18-meses-de-la-historia-son-sin-caputo.phtml",
-      "published_date": "2026-10-10T18:17:36Z",
+      "url": "https://www.perfil.com/noticias/economia/aeropuertos-argentina-invertira-us-1500-m.phtml",
+      "published_date": "2026-10-11T06:13:53Z",
       "category": "Economy"
     },
     {
-      "title": "Lorenzetti defendió el fallo sobre la Ley de Tierras, criticó el \"humo digital\" de las redes y aseguró que la Corte no se deja presionar",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/lorenzetti-defendio-fallo-ley-tierras-critico-humo-digital-redes-aseguro-corte-deja-presionar_0_Fpo8fsWH41.html",
-      "published_date": "2026-10-10T15:06:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jorge Tartaglione, médico: “Más de la mitad de los argentinos no tiene peso normal y eso trae diabetes, hipertensión y muerte pronta”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-mas-de-la-mitad-de-los-argentinos-no-tiene-peso-normal-y-eso-trae-diabetes-nid10102026/",
-      "published_date": "2026-10-10T15:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La Argentina se abarató en dólares pero lidera el ranking de indumentaria y restaurantes más caros",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/la-argentina-se-abarato-en-dolares-pero-lidera-el-ranking-de-indumentaria-y-restaurantes-mas-caros-nid10102026/",
-      "published_date": "2026-10-10T13:49:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La producción de autos vuelve a caer, pero las exportaciones tuvieron el mejor mes del año",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/la-produccion-de-autos-vuelve-a-caer-pero-las-exportaciones-tuvieron-el-mejor-mes-del-ano-nid05102026/",
-      "published_date": "2026-10-10T13:17:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Maslatón: \"Hay solo dos personas que saben que este plan económico fracasó: Caputo y Bausili\"",
+      "title": "Alberto Ades: “Argentina es un barco mal mantenido que enfiló en la dirección incorrecta y terminó encallando”",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/maslaton-hay-solo-dos-personas-que-saben-que-este-plan-economico-fracaso-caputo-y-bausili.phtml",
-      "published_date": "2026-10-10T13:00:00Z",
+      "url": "https://www.perfil.com/noticias/economia/alberto-ades-argentina-es-un-barco-mal-mantenido-que-enfilo-en-la-direccion-incorrecta-y-termino-encallando.phtml",
+      "published_date": "2026-10-11T06:11:09Z",
       "category": "Economy"
     },
     {
-      "title": "Elecciones en Brasil: Flávio Bolsonaro lidera las encuestas frente a Lula y la inflación suma presión sobre el Gobierno",
+      "title": "Más pantallas, menos presupuesto",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/internacional/elecciones-en-brasil-flavio-bolsonaro-lidera-las-encuestas-frente-a-lula-y-la-inflacion-suma-presion-sobre-el-gobierno.phtml",
-      "published_date": "2026-10-10T11:49:00Z",
+      "url": "https://www.perfil.com/noticias/opinion/mas-pantallas-menos-presupuesto-por-florencia-lopez-boo.phtml",
+      "published_date": "2026-10-11T05:21:11Z",
       "category": "Economy"
     },
     {
-      "title": "Inflación: mientras el INDEC prepara el dato de septiembre, un rubro clave del IPC ya da una señal para octubre",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/inflacion-mientras-el-indec-prepara-el-dato-de-septiembre-un-rubro-clave-del-ipc-ya-da-una-senal-para-octubre/",
-      "published_date": "2026-10-10T11:35:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El motor de la recaudación provincial pierde impulso: la caída del impuesto que más aporta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-motor-de-la-recaudacion-provincial-pierde-impulso-la-caida-del-impuesto-que-mas-aporta/",
-      "published_date": "2026-10-10T11:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un restaurante fue clave: la pieza de carne que es furor entre los japoneses y ganó popularidad con el tren bala",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/un-restaurante-la-hizo-famosa-la-pieza-de-carne-que-es-furor-entre-los-japoneses-y-gano-popularidad-nid09102026/",
-      "published_date": "2026-10-10T10:56:36Z",
+      "title": "La crisis económica del “Menem trucho”",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/10/la-crisis-economica-del-menem-trucho/",
+      "published_date": "2026-10-11T03:01:16Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "River vs. Estudiantes de Río Cuarto, en vivo",
+      "title": "Paul Newman donó tres hectáreas para construir una reserva natural en Westport, el que fue su lugar en el mundo",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/river-plate/river-vs-estudiantes-de-rio-cuarto-en-vivo-nid10102026/",
-      "published_date": "2026-10-11T01:33:36Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/paul-newman-dono-3-hectareas-para-construir-una-reserva-natural-en-westport-el-que-fue-su-lugar-en-nid10102026/",
+      "published_date": "2026-10-11T16:21:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Lionel Messi con Inter Miami vs. DC United, EN VIVO: el minuto a minuto por la MLS",
+      "title": "Qué pasó con Valentín Yankelevich, el hijo de Romina Yan",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-con-inter-miami-vs-dc-united-en-vivo-nid10102026/",
-      "published_date": "2026-10-11T01:29:44Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/que-paso-con-valentin-yankelevich-el-hijo-de-romina-yan-nid11102026/",
+      "published_date": "2026-10-11T16:21:48Z",
       "category": "Local Events"
     },
     {
-      "title": "La visita del Papa expone a un intendente en retirada y una autonomía municipal debilitada",
+      "title": "La reacción de Gustavo Yankelevich al fuerte relato de su nieto Valentín sobre la violencia que sufrió de parte de su padre Darío Giordano",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-gustavo-yankelevich-al-fuerte-relato-de-su-nieto-valentin-sobre-la-violencia-que-nid11102026/",
+      "published_date": "2026-10-11T16:13:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Franco Colapinto, tras abandonar en el Gran Premio de Singapur: “Tengo ganas de revancha”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-tras-abandonar-en-el-gran-premio-de-singapur-tengo-ganas-de-revancha-nid11102026/",
+      "published_date": "2026-10-11T16:12:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ranking de intendentes deja una señal para Llaryora: sube un cacique del PJ y cae un general radical",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/la-visita-del-papa-expone-a-un-intendente-en-retirada-y-una-autonomia-municipal-debilitada.phtml",
-      "published_date": "2026-10-11T01:21:15Z",
+      "url": "https://www.perfil.com/noticias/cordoba/ranking-de-intendentes-deja-una-senal-para-llaryora-sube-un-cacique-del-pj-y-cae-un-general-radical.phtml",
+      "published_date": "2026-10-11T16:11:23Z",
       "category": "Local Events"
     },
     {
-      "title": "SIC derrotó a CUBA y llega jaqueado a la última fecha: necesita ganar y que Hindú caiga ante Rosario",
+      "title": "El papa León XIV anunció que se internará para operarse de un nódulo en un pulmón a pocos días del viaje a la Argentina",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/rugby/sic-derroto-a-cuba-y-llega-jaqueado-a-la-ultima-fecha-necesita-ganar-y-que-hindu-caiga-ante-rosario-nid10102026/",
-      "published_date": "2026-10-11T01:20:51Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-anuncio-que-se-internara-para-operarse-de-un-nodulo-en-un-pulmon-a-pocos-dias-del-nid11102026/",
+      "published_date": "2026-10-11T16:02:16Z",
       "category": "Local Events"
     },
     {
-      "title": "La UNC desarrolla una prótesis de mano de bajo costo que responde a impulsos musculares",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/la-unc-desarrolla-una-protesis-de-mano-de-bajo-costo-que-responde-a-impulsos-musculares.phtml",
-      "published_date": "2026-10-11T01:13:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo de hoy, domingo 11 de octubre: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-hoy-domingo-11-octubre-predicciones-salud-amor-dinero_0_BiqrOK4LnS.html",
-      "published_date": "2026-10-11T01:05:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Piscis de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_RLTeDN1fsT.html",
-      "published_date": "2026-10-11T01:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Capricornio de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-capricornio-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_NY6Kj6p0xQ.html",
-      "published_date": "2026-10-11T01:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Acuario de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-acuario-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_CMzdXeNalB.html",
-      "published_date": "2026-10-11T01:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Sagitario de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-sagitario-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_uHKXB6MBCl.html",
-      "published_date": "2026-10-11T01:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Libra de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-libra-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_GKFWyqLgSs.html",
-      "published_date": "2026-10-11T01:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Escorpio de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-escorpio-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_jDnEM9RT1e.html",
-      "published_date": "2026-10-11T01:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Virgo de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-virgo-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_Xex8X45ts5.html",
-      "published_date": "2026-10-11T01:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Leo de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-leo-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_JdlaPctgAM.html",
-      "published_date": "2026-10-11T01:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Horóscopo Géminis de hoy, 11 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/astrologia/horoscopo-geminis-hoy-11-octubre-2026-predicciones-salud-amor-dinero_0_Pn9berQuFg.html",
-      "published_date": "2026-10-11T01:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estanislao Bachrach, experto en neurociencia: “Los mejores analgésicos están en el estómago”",
+      "title": "Ciudadanía estadounidense bajo revisión: el gobierno busca desnaturalizar a decenas de inmigrantes",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lnmas/estanislao-bachrach-experto-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid10102026/",
-      "published_date": "2026-10-11T01:00:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/ciudadania-estadounidense-bajo-revision-el-gobierno-busca-desnaturalizar-a-decenas-de-inmigrantes-nid11102026/",
+      "published_date": "2026-10-11T16:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tony Robbins, experto en desarrollo personal: “Todos somos egoístas a veces, pero si te quedás ahí, sufrís”",
+      "title": "“Arquitectura multidireccional”: Marta Minujín, premiada por una obra que desafía los límites",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/tony-robbins-experto-en-desarrollo-personal-todos-somos-egoistas-a-veces-pero-si-te-quedas-ahi-nid10102026/",
-      "published_date": "2026-10-11T01:00:00Z",
+      "url": "https://www.lanacion.com.ar/cultura/arquitectura-multidireccional-marta-minujin-premiada-por-una-obra-que-desafia-los-limites-nid09102026/",
+      "published_date": "2026-10-11T15:59:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Hinojosa apunta contra el gobernador rumbo a las elecciones 2026: “Bienvenidos al Texas de Abbott”",
+      "title": "Mauricio Macri celebró los 15 años de su hija Antonia con un emotivo posteo y fotos retro: “Lo que nos queda por vivir”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/hinojosa-apunta-contra-el-gobernador-rumbo-a-las-elecciones-2026-bienvenidos-al-texas-de-abbott-nid10102026/",
-      "published_date": "2026-10-11T00:55:00Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/mauricio-macri-celebro-los-15-anos-de-su-hija-antonia-con-un-emotivo-posteo-y-fotos-retro-lo-que-nos-nid11102026/",
+      "published_date": "2026-10-11T15:57:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horóscopo: cómo será tu semana del 11 al 17 de octubre de 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-11-al-17-de-octubre-de-2026-nid10102026/",
+      "published_date": "2026-10-11T15:51:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tomás Olivieri, coach ontológico: “Lo que le da sentido a la vida es que existe la muerte”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/tomas-olivieri-coach-ontologico-lo-que-le-da-sentido-a-la-vida-es-que-existe-la-muerte-nid11102026/",
+      "published_date": "2026-10-11T15:48:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tirar canela en la tierra de las plantas: para qué sirve, cada cuánto hacerlo y por qué los jardineros lo recomiendan",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/tirar-canela-tierra-plantas-sirve-hacerlo-jardineros-recomiendan_0_8pW2YjBSE3.html",
+      "published_date": "2026-10-11T15:44:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Talleres vs. Independiente: qué canal pasa el partido del Torneo Clausura 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/talleres-vs-independiente-que-canal-pasa-el-partido-del-torneo-clausura-2026-nid11102026/",
+      "published_date": "2026-10-11T15:34:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Se supo qué pasará con el tigre que mató a un joven que ingresó a su recinto en Inglaterra: el comunicado del zoológico",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/internacional/supo-pasara-tigre-mato-joven-ingreso-recinto-inglaterra-comunicado-zoologico_0_sgZsIObvdC.html",
+      "published_date": "2026-10-11T15:32:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yesica Espínola, cabañera de 34 años: “Las vacas no tienen ni feriado ni fines de semana, por eso estamos todos los días pendientes”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/yesica-espinola-cabanera-34-anos-y-al-frente-de-un-equipo-de-hombres-algunos-renegaban-de-que-los-nid08102026/",
+      "published_date": "2026-10-11T15:29:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quién toca en el Movistar Arena hoy: todos los recitales de la semana del 12 al 18 de octubre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-de-la-semana-del-12-al-18-de-octubre-nid11102026/",
+      "published_date": "2026-10-11T15:26:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nelson Ginter, de 62 años, el productor de huevos de color azul más austral del mundo: “Si los dejás más de un día se congelan”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/nelson-ginter-de-62-anos-el-productor-de-huevos-mas-austral-del-mundo-si-los-dejas-mas-de-un-dia-se-nid09102026/",
+      "published_date": "2026-10-11T15:24:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sorpresa en Brasil: Clarence Seedorf es el nuevo DT de Corinthians y llega para salvarlo del descenso",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/sorpresa-brasil-clarence-seedorf-leyenda-futbol-europeo-nuevo-dt-corinthians-llega-salvarlo-descenso_0_YgBSEWUAwb.html",
+      "published_date": "2026-10-11T15:23:39Z",
       "category": "Local Events"
     }
   ]
