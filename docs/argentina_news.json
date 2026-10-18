@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:01:13Z",
+  "generated_at": "2026-10-18T00:47:31Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,34 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Trump suspendió temporalmente el paquete de sanciones contra Rusia",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/17/trump-suspendio-temporalmente-el-paquete-de-sanciones-contra-rusia/",
+      "published_date": "2026-10-17T23:07:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Máximo Kirchner recordó el 17 de octubre e insistió con una candidatura de CFK",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/17/maximo-kirchner-recordo-el-17-de-octubre-e-insistio-con-una-candidatura-de-cfk/",
+      "published_date": "2026-10-17T17:44:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lemoine 'reprimió' a Amnistía Internacional: \"¿Personas afectadas? Se mojaron, déjense de joder...\"",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/lemoine-reprimio-a-aministia-internacional-afectadas-se-mojaron-dejense-de-joder.phtml",
+      "published_date": "2026-10-17T17:23:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump eximió a Rusia de sanciones y aranceles",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/17/trump-eximio-a-rusia-de-sanciones-y-aranceles/",
+      "published_date": "2026-10-17T15:19:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "El embajador de Francia elige sus restaurantes favoritos y analiza nuestras costumbres",
       "source": "La Nación",
@@ -123,32 +151,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "María Corina Machado denuncia que Estados Unidos la dejó fuera de las negociaciones en Venezuela",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/16/maria-corina-machado-denuncia-que-estados-unidos-la-dejo-fuera-de-las-negociaciones-en-venezuela/",
-      "published_date": "2026-10-16T19:49:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La titular del FMI comparó Argentina con Grecia",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/16/la-titular-del-fmi-comparo-argentina-con-grecia/",
-      "published_date": "2026-10-16T19:42:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Gobierno se sacó la careta malvinera: se abstuvo en la ONU de condenar el colonialismo",
+      "title": "Un país movilizado",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/16/el-gobierno-se-saco-la-careta-malvinera-se-abstuvo-en-la-onu-de-condenar-el-colonialismo/",
-      "published_date": "2026-10-16T17:36:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/10/17/un-pais-movilizado/",
+      "published_date": "2026-10-17T23:30:53Z",
+      "category": "Military"
     },
     {
-      "title": "Cuestión Malvinas: la apuesta argentina por el Tribunal del Mar y el contraataque británico",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/cuestion-malvinas-la-apuesta-argentina-por-el-tribunal-del-mar-y-el-contraataque-britanico/",
-      "published_date": "2026-10-16T16:54:38Z",
-      "category": "Diplomacy"
+      "title": "Malvinas, Chile, el Papa y las urgencias; el peronismo, con equilibrio fiscal y RIGI",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/malvinas-chile-papa-urgencias-peronismo-equilibrio-fiscal-rigi_0_7SqAdKuAKB.html",
+      "published_date": "2026-10-17T23:21:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Plan Cóndor II: Trump prepara otra cumbre para coordinar la persecución de la izquierda",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/17/plan-condor-ii-trump-prepara-otra-cumbre-para-coordinar-la-persecucion-de-la-izquierda/",
+      "published_date": "2026-10-17T22:53:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "La renovada ofensiva de Milei por Malvinas profundizó la crisis bilateral con Gran Bretaña",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-renovada-ofensiva-de-milei-por-malvinas-profundizo-la-crisis-bilateral-con-gran-bretana-nid17102026/",
+      "published_date": "2026-10-17T20:38:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "El Escudo de las Américas, Flávio Bolsonaro y los militares",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/columnistas/el-escudo-de-las-americas-flavio-bolsonaro-y-los-militares.phtml",
+      "published_date": "2026-10-17T18:32:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "París es una guerra: violentos choques de la policía con miles de manifestantes contra Macron",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/graves-disturbios-en-paris-durante-una-masiva-jornada-de-protestas-contra-macron-esperan-hasta-100000-manifestantes.phtml",
+      "published_date": "2026-10-17T14:08:38Z",
+      "category": "Military"
     },
     {
       "title": "Petróleo, satélites y traición: la ruptura entre EE.UU. y Ucrania que beneficia a Rusia",
@@ -249,46 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Thomas Edison: “Hasta que no dejemos de dañar a todos los seres vivos, los humanos seguiremos siendo salvajes”",
+      "title": "Cuánto cuesta cargar un auto eléctrico en casa este mes frente a llenar el tanque de nafta",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/thomas-edison-hasta-que-no-dejemos-de-danar-a-todos-los-seres-vivos-los-humanos-seguiremos-siendo-nid15102026/",
-      "published_date": "2026-10-15T21:13:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump descarta transmisión en directo de ejecución de un condenado por matanza en base militar",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-descarta-transmision-en-directo-de-ejecucion-de-un-condenado-por-matanza-en-base-militar_0_TruJc4iAaP.html",
-      "published_date": "2026-10-15T15:00:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Marcos Rojo otra vez en problemas: no fue habilitado para jugar vs Flamengo y Estudiantes arranca otra guerra con Conmebol",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/marcos-rojo-problemas-habilitado-jugar-vs-flamengo-estudiantes-aviso-ira-tas_0_sBUaqVqkbz.html",
-      "published_date": "2026-10-15T14:50:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "La Cámara de Casación sobreseyó a la esposa de José López en el caso por la fortuna oculta en el convento",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-camara-de-casacion-sobreseyo-a-la-esposa-de-jose-lopez-en-el-caso-por-la-fortuna-oculta-en-el-nid15102026/",
-      "published_date": "2026-10-15T14:38:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Un compañero de Franco Colapinto en Alpine podría perder su licencia de conducir: el insólito motivo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/un-companero-de-franco-colapinto-en-alpine-podria-perder-su-licencia-de-conducir-el-insolito-motivo-nid15102026/",
-      "published_date": "2026-10-15T13:51:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hermann Göring: el criminal nazi que se suicidó para evitar la horca y el soldado que, 60 años después, dijo haberle dado el veneno",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/hermann-goring-el-criminal-nazi-que-se-suicido-para-evitar-la-horca-y-el-soldado-que-60-anos-despues-nid15102026/",
-      "published_date": "2026-10-15T13:36:07Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/autos/cuanto-cuesta-cargar-un-auto-electrico-en-casa-este-mes-frente-a-llenar-el-tanque-de-nafta-nid17102026/",
+      "published_date": "2026-10-17T21:54:00Z",
+      "category": "Energy"
     },
     {
       "title": "El IRS anuncia la nueva forma de pagar los impuestos sin recargo desde el 19 de octubre",
@@ -424,11 +431,109 @@
       "category": "Energy"
     },
     {
-      "title": "Vaca Muerta y la minería traccionan el comercio exterior",
+      "title": "La deuda como detonante y Caputo en su laberinto",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/18/la-deuda-como-detonante-y-caputo-en-su-laberinto/",
+      "published_date": "2026-10-18T00:40:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/18/el-deutsche-bank-exbanco-de-caputo-y-bausili-se-beneficio-con-las-operaciones-del-oro-argentino/",
+      "published_date": "2026-10-18T00:33:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "(In) Felices Fiestas con crisis e inflación",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/17/in-felices-fiestas-con-crisis-e-inflacion/",
+      "published_date": "2026-10-17T23:40:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La bazuca de Milei y su alianza de cristal",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-bazuca-de-milei-y-su-alianza-de-cristal-nid17102026/",
+      "published_date": "2026-10-17T23:18:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "¿El fin del papel higiénico? Crearon un producto para reemplazarlo y la idea vale millones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/el-fin-del-papel-higienico-crearon-un-producto-para-reemplazarlo-y-la-idea-vale-millones-nid17102026/",
+      "published_date": "2026-10-17T23:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“Excedente de dólares”: Caputo reveló la condición que falta para terminar de levantar el cepo",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/transport-cargo/vaca-muerta-y-la-mineria-traccionan-el-comercio-exterior/",
-      "published_date": "2026-10-13T22:00:00Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/economia-politica/excedente-de-dolares-caputo-anticipo-que-falta-para-terminar-de-levantar-el-cepo/",
+      "published_date": "2026-10-17T22:05:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cruces y maniobras dilatorias en torno a un exhorto a EE.UU. que incluye datos sobre Tapia, Toviggino y la firma de Faroni",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/cruces-y-maniobras-dilatorias-en-torno-a-un-exhorto-a-eeuu-que-incluye-datos-sobre-tapia-toviggino-y-nid17102026/",
+      "published_date": "2026-10-17T21:26:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El salario mínimo de California subirá a US$17,40 por hora en 2027, más del doble del federal",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/el-salario-minimo-de-california-subira-a-us1740-por-hora-en-2027-mas-del-doble-del-federal-nid17102026/",
+      "published_date": "2026-10-17T21:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Parkinson: un especialista explicó cuál es el primer síntoma detectable",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/parkinson-un-especialista-explico-cual-es-el-primer-sintoma-detectable-nid17102026/",
+      "published_date": "2026-10-17T21:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ranking: los cinco lugares del mundo donde las personas viven más y qué hay detrás de esto",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/ranking-los-cinco-lugares-del-mundo-donde-las-personas-viven-mas-y-que-hay-detras-de-esto-nid17102026/",
+      "published_date": "2026-10-17T21:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Por qué son falsos los datos de pobreza",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/17/por-que-son-falsos-los-datos-de-pobreza/",
+      "published_date": "2026-10-17T20:18:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "LeBron James comenzará su temporada 24 en la NBA a los 41 años, en un nuevo equipo y con salario mínimo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/basquetbol/lebron-james-comenzara-su-temporada-24-en-la-nba-a-los-41-anos-en-un-nuevo-equipo-y-con-salario-nid17102026/",
+      "published_date": "2026-10-17T20:05:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“El tren ya pasó”: un exdirector del BCRA alertó por el dólar y anticipó qué puede pasar en el año electoral",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-tren-ya-paso-un-exdirector-del-bcra-alerto-por-el-dolar-y-anticipo-que-puede-pasar-en-el-ano-electoral/",
+      "published_date": "2026-10-17T19:59:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pitágoras: “No digas poco con muchas palabras, sino mucho con pocas; calla o di algo más valioso que el silencio”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/pitagoras-no-digas-poco-con-muchas-palabras-sino-mucho-con-pocas-calla-o-di-algo-mas-valioso-que-el-nid17102026/",
+      "published_date": "2026-10-17T19:50:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Merval cambia este lunes: qué se sabe sobre el nuevo índice de MSCI",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/el-merval-cambia-este-lunes-que-se-sabe-sobre-el-nuevo-indice-de-msci-nid17102026/",
+      "published_date": "2026-10-17T19:18:50Z",
+      "category": "Economy"
     },
     {
       "title": "Storm King, un museo de esculturas al aire libre en Nueva York que mira \"hacia el futuro\"",
@@ -459,115 +564,10 @@
       "category": "Economy"
     },
     {
-      "title": "Nissan deja de ser filial en la Argentina y revela su nuevo plan, ahora con importadores locales",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/nissan-deja-de-ser-filial-en-la-argentina-y-revela-su-nuevo-plan-ahora-con-importadores-locales-nid15102026/",
-      "published_date": "2026-10-17T11:35:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La avenida de zona norte que empieza a atraer desarrollos premium con valores 20% más bajos que Libertador",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/la-avenida-de-zona-norte-que-empieza-a-atraer-desarrollos-premium-con-valores-20-mas-bajos-que-nid15102026/",
-      "published_date": "2026-10-17T11:24:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¿Quién te dijo que no podías hacer una diferencia?: El valor de las pequeñas acciones que pueden salvar vidas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/quien-te-dijo-que-no-podias-hacer-una-diferencia-el-valor-de-las-pequenas-acciones-que-pueden-salvar-vidas.phtml",
-      "published_date": "2026-10-17T11:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La crisis del mercado laboral detrás de la revolución del monotributo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-crisis-del-mercado-laboral-detras-de-la-revolucion-del-monotributo-nid17102026/",
-      "published_date": "2026-10-17T10:58:17Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los precios de los autos chinos en la Argentina en octubre 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/los-precios-de-los-autos-chinos-en-la-argentina-en-octubre-2026-nid17102026/",
-      "published_date": "2026-10-17T10:48:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Boca le ganó a Talleres, está primero en la Tabla Anual y toma impulso para lo que más le importa",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-le-gano-a-talleres-esta-primero-en-la-tabla-anual-y-toma-impulso-para-lo-que-mas-le-importa-nid16102026/",
-      "published_date": "2026-10-17T10:22:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 17 de octubre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-17-de-octubre-nid17102026/",
-      "published_date": "2026-10-17T10:02:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Declaraciones juradas al compás de la baja de retenciones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/declaraciones-juradas-al-compas-de-la-baja-de-retenciones-nid17102026/",
-      "published_date": "2026-10-17T09:52:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
-      "published_date": "2026-10-17T09:33:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El mapa de las inversiones que pagan impuestos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/negocios/el-mapa-de-las-inversiones-que-pagan-impuestos-nid17102026/",
-      "published_date": "2026-10-17T09:27:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El sector que exporta dólares sin rutas, puertos ni RIGI: cuál es su próximo desafío",
+      "title": "Se disparan los “mileístas” que no ven mejoras en la economía y el “efecto Bullrich” lo aprovecha",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-sector-que-exporta-dolares-sin-rutas-puertos-ni-rigi-cual-es-su-proximo-desafio/",
-      "published_date": "2026-10-17T09:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Transferencias a billeteras y a bancos: cuándo los movimientos dan aviso a ARCA",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/transferencias-a-billeteras-y-a-bancos-cuando-los-movimientos-dan-aviso-a-arca/",
-      "published_date": "2026-10-17T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los primeros impactos de El Niño y un debate que comienza a asomar",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/los-primeros-impactos-de-el-nino-y-un-debate-que-comienza-a-asomar-nid17102026/",
-      "published_date": "2026-10-17T08:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Buenas noticias para inmigrantes que renuevan el EAD en USA: el Uscis confirma que el trámite no subirá de precio",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/buenas-noticias-para-inmigrantes-que-renuevan-el-ead-en-usa-el-uscis-confirma-que-el-tramite-no-nid17102026/",
-      "published_date": "2026-10-17T07:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Luis Caputo defendió la gestión del Gobierno y aseguró que hay \"excedente de dólares\"",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/luis-caputo-defendio-la-gestion-del-gobierno-y-aseguro-que-hay-excedente-de-dolares.phtml",
-      "published_date": "2026-10-17T07:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Deborah Bellota, psicóloga, sobre el hijo preferido: “No tiene que ver con el amor”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/deborah-bellota-psicologa-sobre-el-hijo-preferido-no-tiene-que-ver-con-el-amor-nid17102026/",
-      "published_date": "2026-10-17T06:00:00Z",
+      "url": "https://www.cronista.com/economia-politica/la-tropa-acerrima-de-milei-con-el-bolsillo-golpeado-el-doble-click-que-puede-incomodar-al-presidente-de-cara-a-las-elecciones/",
+      "published_date": "2026-10-17T11:41:25Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Dibu Martínez chocó con un rival y fue retirado en camilla durante Everton vs. Chelsea",
+      "title": "El 17 de octubre francés de los chalecos amarillos",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/18/el-17-de-octubre-frances-de-los-chalecos-amarillos/",
+      "published_date": "2026-10-18T00:45:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alerta por los colectivos: 104 líneas circularían con menos frecuencia desde el lunes, ¿cuáles son?",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/alerta-por-los-colectivos-104-lineas-circularian-con-menos-frecuencia-desde-el-lunes-cuales-son/",
+      "published_date": "2026-10-18T00:38:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Demichelis pasó del “venimos a ganar” a Bayern Munich a pedir disculpas por la goleada 6-1",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-choco-con-un-rival-y-fue-retirado-en-camilla-durante-everton-vs-chelsea-nid17102026/",
-      "published_date": "2026-10-17T13:49:20Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/demichelis-paso-del-venimos-a-ganar-a-bayern-munich-a-pedir-disculpas-por-la-goleada-6-1-nid17102026/",
+      "published_date": "2026-10-18T00:37:16Z",
       "category": "Local Events"
     },
     {
-      "title": "La vuelta de Ramón Díaz a River, atada al futuro inmediato: por qué antes no y ahora sí es el elegido",
+      "title": "Inter Miami, con Lionel Messi, vs. Atlanta United, en vivo",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-vuelta-de-ramon-diaz-a-river-atada-al-futuro-inmediato-por-que-antes-no-y-ahora-si-es-el-elegido-nid16102026/",
-      "published_date": "2026-10-17T13:43:11Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-con-lionel-messi-vs-atlanta-united-en-vivo-nid17102026/",
+      "published_date": "2026-10-18T00:37:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Davidovich venció a Zverev y dio la gran sorpresa en Shanghái",
+      "title": "Pese a sumar condenas y procesamientos, fue atrapado en pleno raid de robos con la réplica de una ametralladora",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/tenis/davidovich-vencio-a-zverev-y-dio-la-gran-sorpresa-en-shanghai-nid17102026/",
-      "published_date": "2026-10-17T13:40:46Z",
+      "url": "https://www.lanacion.com.ar/seguridad/pese-a-sumar-condenas-y-procesamientos-fue-atrapado-en-pleno-raid-de-robos-con-la-replica-de-una-nid17102026/",
+      "published_date": "2026-10-18T00:29:59Z",
       "category": "Local Events"
     },
     {
-      "title": "El papa León XIV fue dado de alta tras ser operado por un cáncer de pulmón",
+      "title": "Barcelona ganó con un golazo de Yamal, le anularon otro a Lo Celso y Pellegrini explotó contra el árbitro",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-sera-dado-de-alta-tras-ser-operado-por-un-cancer-de-pulmon-nid17102026/",
-      "published_date": "2026-10-17T13:39:15Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/barcelona-gano-con-un-golazo-de-yamal-le-anularon-otro-a-lo-celso-y-pellegrini-exploto-contra-el-nid17102026/",
+      "published_date": "2026-10-18T00:29:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Alarma con el Dibu Martínez en la Premier League: se golpeó la cabeza y tuvo que salir en camilla en el partido del Chelsea",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/alarma-dibu-martinez-premier-league-golpeo-cabeza-salir-camilla-partido-chelsea_0_woYdSGVQM7.html",
-      "published_date": "2026-10-17T13:34:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Sociedad Rural se sumó al masivo repudio contra el fallo que absolvió a los sindicalistas que bloquearon San Nicolás",
+      "title": "Tragedia en Chile: al menos tres muertos y cuatro heridos por una avalancha",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-sociedad-rural-se-sumo-al-masivo-repudio-contra-el-fallo-que-absolvio-a-los-sindicalistas-que-nid17102026/",
-      "published_date": "2026-10-17T13:33:21Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/tragedia-en-un-centro-de-esqui-chileno-en-el-limite-con-mendoza-al-menos-cuatro-muertos-y-cuatro-nid17102026/",
+      "published_date": "2026-10-18T00:11:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Masivas protestas sacuden el gobierno de Macron en Francia: fuertes choques con la Policía y más de 150 detenidos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/masivas-protestas-sacuden-el-gobierno-de-macron-en-francia-fuertes-choques-con-la-policia-y-mas-de-nid17102026/",
-      "published_date": "2026-10-17T13:31:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diputada peronista: \"En algún momento el partido va a tener que tomar decisión sobre estos pseudocompañeros\"",
+      "title": "Asesinaron a un hombre a tiros en el subte de Nueva York tras una discusión en un andén de Manhattan",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/diputada-peronista-en-algun-momento-el-partido-va-a-tener-que-tomar-decision-sobre-estos-pseudocompaneros.phtml",
-      "published_date": "2026-10-17T13:30:00Z",
+      "url": "https://www.perfil.com/noticias/internacional/asesinaron-a-un-hombre-a-tiros-en-el-subte-de-nueva-york-tras-una-discusion-en-un-anden-de-manhattan.phtml",
+      "published_date": "2026-10-18T00:04:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Platense vs Lanús, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido por el Torneo Clausura",
+      "title": "Un conductor irrumpe con su vehículo en un campo de fútbol en EE.UU. y causa dos muertos",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/platense-vs-lanus-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura_0_s3zSuJCYIg.html",
-      "published_date": "2026-10-17T13:27:24Z",
+      "url": "https://www.clarin.com/estados-unidos/un-conductor-irrumpe-con-su-vehiculo-en-un-campo-de-futbol-en-ee-uu-y-causa-dos-muertos_0_nZexOUYt59.html",
+      "published_date": "2026-10-18T00:00:09Z",
       "category": "Local Events"
     },
     {
-      "title": "El PJ comparó a Cristina Kirchner con Perón y llamó a “luchar”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/17/el-pj-comparo-a-cristina-kirchner-con-peron-y-llamo-a-luchar/",
-      "published_date": "2026-10-17T13:24:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Era un buen chico\": Shauntai Nickerson, madre del tirador de 16 años John J. Griffin II, habló tras el sangriento ataque en una escuela de Oregon",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/buen-chico-shauntai-nickerson-madre-tirador-16-anos-john-j-griffin-ii-hablo-sangriento-ataque-escuela-oregon_0_jPVbJIg4l3.html",
-      "published_date": "2026-10-17T13:21:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Viajó miles de kilómetros para encontrarse con la chica que conoció online y lo que descubrió al llegar se volvió viral",
+      "title": "Joseph Pilates, creador del método: “La felicidad está subordinada al bienestar físico”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/viajo-miles-de-kilometros-para-conocer-a-la-chica-que-conocio-online-y-lo-que-descubrio-al-llegar-se-nid15102026/",
-      "published_date": "2026-10-17T13:19:40Z",
+      "url": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-la-felicidad-esta-subordinada-al-bienestar-fisico-nid17102026/",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Juan Minujín reveló cómo llegó a trabajar con Angelina Jolie: del rechazo inicial a la preparación maratónica y el mejor final",
+      "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/juan-minujin-revelo-como-llego-a-trabajar-con-angelina-jolie-del-rechazo-inicial-a-la-preparacion-nid17102026/",
-      "published_date": "2026-10-17T13:17:55Z",
+      "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Quién era Camila Pereira da Silva, la mujer de 32 años que murió tras ser baleada por un policía en Brasil",
+      "title": "Zaira Nara y Paula Chaves, reconciliadas tras años de distanciamiento: “Acá no hay orgullo”",
       "source": "Clarín",
-      "url": "https://www.clarin.com/internacional/camila-pereira-da-silva-mujer-32-anos-murio-baleada-policia-brasil_0_9FuTQ8L6MH.html",
-      "published_date": "2026-10-17T13:15:11Z",
+      "url": "https://www.clarin.com/fama/zaira-nara-paula-chaves-reconciliadas-anos-distanciamiento-aca-orgullo_0_f5FQll7GmU.html",
+      "published_date": "2026-10-17T23:59:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Laura Massolo: “Escribí mi primer libro en el último tren Roca, el de las 0:40”",
+      "title": "Violentos disturbios en Francia: incendiaron el histórico ayuntamiento de Limoges",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/violentos-disturbios-en-francia-incendiaron-el-historico-ayuntamiento-de-limoges.phtml",
+      "published_date": "2026-10-17T23:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tigre amargó sobre el final a Independiente Rivadavia, que se desinfla en la tabla anual",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/laura-massolo-escribi-mi-primer-libro-en-el-ultimo-tren-roca-el-de-las-040-nid17102026/",
-      "published_date": "2026-10-17T13:09:54Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/tigre-amargo-sobre-el-final-a-independiente-rivadavia-que-se-desinfla-en-la-tabla-anual-nid17102026/",
+      "published_date": "2026-10-17T23:55:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Leonel Flores les pidió disculpas a los hinchas de Boca por un video viral: “Es algo que no se hace”",
+      "title": "Loan Peña y Lucio Dupuy: dos niños, dos familias y una verdad que nadie puede esconder",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/judiciales/loan-pena-y-lucio-dupuy-dos-ninos-dos-familias-y-una-verdad-que-no-nadie-puede-esconder.phtml",
+      "published_date": "2026-10-17T23:53:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Un descuido en la computadora de la escuela expuso las fotos íntimas de una docente: denunció en la Justicia a sus alumnos por viralizarlas",
       "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/leonel-flores-pidio-disculpas-hinchas-boca-video-viral-hace_0_2RziH7JuRE.html",
-      "published_date": "2026-10-17T13:07:54Z",
+      "url": "https://www.clarin.com/sociedad/descuido-computadora-escuela-expuso-fotos-intimas-docente-denuncio-justicia-alumnos-viralizarlas_0_g1jLGPmqAa.html",
+      "published_date": "2026-10-17T23:53:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Independiente Rivadavia vs Tigre, EN VIVO: a qué hora es, formaciones y cómo ver el partido",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/independiente-rivadavia-vs-tigre-vivo-hora-formaciones-ver-partido_0_fZqC4Zbjyx.html",
-      "published_date": "2026-10-17T13:06:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gimena Accardi se mostró a los besos con su novio de 27 años",
+      "title": "Dibu Martínez, siempre al límite: de atajar lesionado en el Mundial a una fractura de mandíbula que conmueve a todos",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/gimena-accardi-se-mostro-a-los-besos-con-su-novio-de-27-anos-nid17102026/",
-      "published_date": "2026-10-17T13:03:36Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-siempre-al-limite-de-atajar-lesionado-en-el-mundial-a-una-fractura-de-mandibula-que-nid17102026/",
+      "published_date": "2026-10-17T23:49:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El golazo de Matías Giménez para que Argentinos triunfe en Banfield, sea puntero en su zona y alcance a Boca en la Tabla Anual",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-golazo-de-matias-gimenez-para-que-argentinos-triunfe-en-banfield-sea-puntero-en-su-zona-y-alcance-nid17102026/",
+      "published_date": "2026-10-17T23:46:54Z",
       "category": "Local Events"
     }
   ]
