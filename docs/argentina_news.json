@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:33:08Z",
+  "generated_at": "2026-10-24T01:27:33Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,83 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Milei amenazó a los medios que investigan la causa $LIBRA",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/24/milei-amenazo-a-los-medios-que-investigan-la-causa-libra/",
+      "published_date": "2026-10-24T01:08:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La nueva etapa de Milei en el mundo: el pariente que todos prefieren ver poco",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/nueva-etapa-milei-mundo-pariente-prefieren-ver_0_dYvh4RZbUT.html",
+      "published_date": "2026-10-24T00:19:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qué ver en Netflix: las mejores películas y series para disfrutar este fin de semana del 24 y 25 de octubre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-24-y-25-de-nid23102026/",
+      "published_date": "2026-10-23T23:40:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Para las empresas argentinas no fue una buena noticia”: Juan Pablo Perojo cuestionó la postergación del FAL",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/fal-y-reforma-laboral-las-criticas-de-las-pymes-por-la-postergacion-del-fondo-para-indemnizaciones.phtml",
+      "published_date": "2026-10-23T22:02:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OpenAI rebaja su valoración en nueva ronda de financiamiento a US$1,25 billones",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/bloomberg/bc-openai-rebaja-su-valoracion-en-nueva-ronda-de-financiamiento-a-us125-billones.phtml",
+      "published_date": "2026-10-23T21:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marihuana, hipocresía y consumo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/opinion/marihuana-hipocresia-y-consumo.phtml",
+      "published_date": "2026-10-23T20:22:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carlos Gervasoni: “Argentina es uno de los paises que peor le fue en los últimos 70 años sin tener guerras ni cataclismos”",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/modo-fontevecchia/carlos-gervasoni-argentina-es-uno-de-los-paises-que-peor-le-fue-en-los-ultimos-70-anos-sin-tener-guerras-ni-cataclismos-modof.phtml",
+      "published_date": "2026-10-23T19:53:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RDC: qué dijo Pedro Sánchez sobre Javier Milei, Donald Trump y la corrupción durante su aparición televisiva",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/pedro-sanchez-participo-en-la-revuelta-el-programa-que-supero-ampliamente-a-sus-competidores-en-la-television-espanola.phtml",
+      "published_date": "2026-10-23T19:39:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei recibió a funcionarios estadounidenses y crece la presión para demorar la Ley Malvinas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/23/milei-recibio-a-funcionarios-estadounidenses-y-crece-la-presion-para-demorar-la-ley-malvinas/",
+      "published_date": "2026-10-23T18:53:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aeropuertos Argentina emite deuda por u$s 400 millones para financiar su megaplan de obras en 35 terminales",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/aeropuertos-argentina-emite-deuda-por-us-400-millones-para-financiar-su-megaplan-de-obras-en-35-terminales/",
+      "published_date": "2026-10-23T16:53:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riesgo país: lo que el nombre promete y lo que el índice mide",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/financial-times/riesgo-pais-lo-que-el-nombre-promete-y-lo-que-el-indice-mide/",
+      "published_date": "2026-10-23T16:31:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Milei recibió a la misión de Trump en medio de las negociaciones por la ley Malvinas",
       "source": "El Cronista",
@@ -74,81 +151,116 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Argentina: error estableciendo una conexión con la realidad",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/argentina-error-estableciendo-una-conexion-con-la-realidad.phtml",
-      "published_date": "2026-10-23T08:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El desafío de votar sin profanar la esencia democrática",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/el-desafio-de-votar-sin-profanar-la-esencia-democratica.phtml",
-      "published_date": "2026-10-23T08:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE. UU., Malvinas y las infelices consecuencias de delegar la política exterior",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/columnistas/eeuu-malvinas-y-las-infelices-consecuencias-de-delegar-la-politica-exterior.phtml",
-      "published_date": "2026-10-23T08:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Gobierno argentino recibirá US$15 millones para crear un centro de ciberseguridad y reemplazar tecnología china",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-gobierno-argentino-recibira-us15-millones-para-crear-un-centro-de-ciberseguridad-y-reemplazar-tecnologia-china.phtml",
-      "published_date": "2026-10-23T08:22:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La orden que llegó de la Casa Blanca contra la Ley de Soberanía",
+      "title": "Ley Malvinas con destino incierto",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/23/la-orden-llego-de-la-casa-blanca/",
-      "published_date": "2026-10-23T03:01:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.pagina12.com.ar/2026/10/24/ley-malvinas-con-destino-incierto/",
+      "published_date": "2026-10-24T01:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "Enviado de Trump dice en Argentina que el gobierno de Milei es el más alineado con EEUU",
+      "title": "En busca de la unidad y en defensa de las PASO",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/24/en-busca-de-la-unidad-y-en-defensa-de-las-paso/",
+      "published_date": "2026-10-24T00:56:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zulemita Menem cruzó a Luis Petri por sus críticas contra el Islam: “Confundirlo con el terrorismo es un grave error”",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/enviado-de-trump-dice-en-argentina-que-el-gobierno-de-milei-es-el-mas-alineado-con-eeuu_0_E6ApjFLQLu.html",
-      "published_date": "2026-10-23T01:00:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.clarin.com/politica/zulemita-menem-cruzo-luis-petri-criticas-islam-confundirlo-terrorismo-grave-error_0_5ASyMOaKlC.html",
+      "published_date": "2026-10-24T00:52:36Z",
+      "category": "Military"
     },
     {
-      "title": "Un cardiólogo explicó por qué cada vez hay más más infartos en la Argentina y remarcó la importancia de saber hacer RCP",
+      "title": "Javier Milei en la Fundación Faro: \"Hemos iniciado el camino para que las Islas Malvinas vuelvan a su legítimo dueño\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/javier-milei-fundacion-faro-iniciado-camino-islas-malvinas-vuelvan-legitimo-dueno_0_5skXVMwcOQ.html",
+      "published_date": "2026-10-24T00:48:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cuba acusa a EE.UU. de \"ambiciones de dominación\" sobre la isla y rechaza \"toda amenaza\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/cuba-acusa-a-ee-uu-de-ambiciones-de-dominacion-sobre-la-isla-y-rechaza-toda-amenaza_0_OgigOFciDr.html",
+      "published_date": "2026-10-24T00:30:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "El insólito gol de Nacho Fernández en el triunfo de Gimnasia ante Sarmiento por el Torneo Clausura",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-cardiologo-explico-por-que-cada-vez-hay-mas-mas-infartos-en-la-argentina-y-remarco-la-importancia-nid22102026/",
-      "published_date": "2026-10-23T00:35:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-de-nacho-fernandez-para-gimnasia-ante-sarmiento-por-el-torneo-clausura-nid23102026/",
+      "published_date": "2026-10-23T23:54:08Z",
+      "category": "Military"
     },
     {
-      "title": "Las tres argentinas: transformar para sostener la estabilidad",
+      "title": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/mas-de-200-policias-rodearon-una-zona-caliente-de-mar-del-plata-donde-secuestraron-armas-municiones-nid23102026/",
+      "published_date": "2026-10-23T23:39:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "La respuesta de Villarruel a la crisis de la Ley Malvinas volvió a exponer su distancia con Milei",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/las-tres-argentinas-transformar-para-sostener-la-estabilidad/",
-      "published_date": "2026-10-22T23:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/la-respuesta-de-villarruel-a-la-crisis-de-la-ley-malvinas-volvio-a-exponer-su-distancia-con-milei/",
+      "published_date": "2026-10-23T23:07:00Z",
+      "category": "Military"
     },
     {
-      "title": "El Gobierno no se anima a confrontar a Trump por el Comité de Descolonización",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/22/el-gobierno-no-se-anima-a-confrontar-a-trump-por-el-comite-de-descolonizacion/",
-      "published_date": "2026-10-22T23:48:36Z",
-      "category": "Diplomacy"
+      "title": "“Una zona de guerra”: el crudo relato de un argentino que presenció los disturbios en París y el temor por lo que puede ocurrir este fin de semana",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/una-zona-de-guerra-el-crudo-relato-de-un-argentino-que-presencio-los-disturbios-en-paris-y-el-temor-nid23102026/",
+      "published_date": "2026-10-23T23:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "León XIV no se baja: “Argentina, allá vamos”",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/22/leon-xiv-no-se-baja-argentina-alla-vamos/",
-      "published_date": "2026-10-22T23:23:29Z",
-      "category": "Diplomacy"
+      "title": "Villa Olímpica: los departamentos ya están a la venta con una financiación a 20 años y una de las tasas más bajas del mercado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/villa-olimpica-los-departamentos-ya-estan-a-la-venta-con-una-financiacion-a-20-anos-y-una-de-las-nid23102026/",
+      "published_date": "2026-10-23T22:22:40Z",
+      "category": "Military"
     },
     {
-      "title": "Causa ANDIS: citaron a indagatoria a los dueños de Suizo Argentina",
+      "title": "Netanyahu anunció una operación militar a gran escala en Cisjordania",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/23/netanyahu-anuncio-una-operacion-militar-a-gran-escala-en-cisjordania/",
+      "published_date": "2026-10-23T22:16:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "El fenómeno del “Ejército de Lula” sacude las redes sociales en Brasil",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/23/el-fenomeno-del-ejercito-de-lula-en-las-redes-sociales/",
+      "published_date": "2026-10-23T22:12:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "Denuncian en Bariloche a un candidato del oficialismo local por apología del terrorismo de Estado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/denuncian-en-bariloche-a-un-candidato-del-oficialismo-local-por-apologia-del-terrorismo-de-estado-nid23102026/",
+      "published_date": "2026-10-23T22:11:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Gran Bretaña le advirtió a Trump sobre las “consecuencias económicas” de la ofensiva de Milei por Malvinas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/gran-bretana-le-advirtio-a-trump-sobre-las-consecuencias-economicas-de-la-ofensiva-de-milei-por-nid23102026/",
+      "published_date": "2026-10-23T21:53:40Z",
+      "category": "Military"
+    },
+    {
+      "title": "Campaña del miedo y guerra “sucia” con los algoritmos: la Justicia presiona a X y Meta a 48 horas del balotaje",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/causa-andis-citaron-a-indagatoria-a-los-duenos-de-suizo-argentina/",
-      "published_date": "2026-10-22T22:52:04Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/cruces-en-la-calle-y-guerra-sucia-con-los-algoritmos-la-justicia-presiona-a-x-y-meta-a-48-horas-del-balotaje/",
+      "published_date": "2026-10-23T21:45:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "“Por momentos parecía que el Gobierno se estaba preparando para una guerra”: En RDC describieron el operativo ante las protestas en Francia",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/chalecos-amarillos-en-francia-crece-la-tension-social-y-se-refuerza-el-operativo-policial.phtml",
+      "published_date": "2026-10-23T20:00:53Z",
+      "category": "Military"
     },
     {
       "title": "El presidente chino Xi Jinping pide nuevos logros en la nueva Gran Marcha",
@@ -179,116 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Perú: superpoderes para  imponer mano dura",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/22/peru-superpoderes-para-imponer-mano-dura/",
-      "published_date": "2026-10-22T23:41:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Balean un ómnibus escolar en México y los estudiantes viven momentos de pánico",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/balean-un-omnibus-escolar-en-mexico-y-los-estudiantes-viven-momentos-de-panico-nid22102026/",
-      "published_date": "2026-10-22T23:02:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nueva York prohíbe los carruajes tirados por caballos tras una muerte en Central Park",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york-prohibe-los-carruajes-tirados-por-caballos-tras-una-muerte-en-central-park-nid22102026/",
-      "published_date": "2026-10-22T22:49:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Partido de los Trabajadores de Brasil intensificó su lucha contra el algoritmo",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/22/el-partido-de-los-trabajadores-de-brasil-intensifico-su-lucha-contra-el-algoritmo/",
-      "published_date": "2026-10-22T22:44:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "La agresión que sufrió Mercedes Ninci de un colega y la defensa de Moria Casán en vivo: “Atrevido y maleducado”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/la-agresion-que-sufrio-mercedes-ninci-de-un-colega-y-la-defensa-de-moria-casan-en-vivo-atrevido-y-nid22102026/",
-      "published_date": "2026-10-22T22:18:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Malvinas: el enviado de Trump expresó preocupación por los \"intereses\" de EE.UU. en la ley de Soberanía",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/malvinas-el-enviado-de-trump-expreso-preocupacion-por-los-intereses-de-eeuu-en-la-ley-de-soberania-a60.phtml",
-      "published_date": "2026-10-22T21:30:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Europa no quiere escuchar",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/opinion/europa-no-quiere-escuchar.phtml",
-      "published_date": "2026-10-22T21:22:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Victoria Cantero seguirá presa por el crimen de Julián Álvarez: rechazaron su apelación a la prisión preventiva",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/victoria-cantero-seguira-presa-por-el-crimen-de-julian-alvarez-rechazaron-su-apelacion-a-la-prision-preventiva.phtml",
-      "published_date": "2026-10-22T19:45:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "La Corte dejó firme la condena a un prefecto por abusar de una subalterna en Misiones",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/la-corte-dejo-firme-la-condena-a-un-prefecto-por-abusar-de-una-subalterna-en-misiones.phtml",
-      "published_date": "2026-10-22T19:32:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bariloche: amplio repudio a un candidato constituyente que reivindicó a Videla",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/22/bariloche-amplio-repudio-a-un-candidato-constituyente-que-reivindico-a-videla/",
-      "published_date": "2026-10-22T16:14:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "El riesgo país volvió a superar los 700 puntos y sigue en valores máximos de un año",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/el-riesgo-pais-volvio-a-superar-los-700-puntos-y-sigue-en-valores-maximos-de-un-ano.phtml",
-      "published_date": "2026-10-22T15:17:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Gobierno incorporó a dos cárteles mexicanos y a grupos armados de Colombia y Ecuador al registro de organizaciones terroristas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-incorporo-a-dos-carteles-mexicanos-y-a-grupos-armados-de-colombia-y-ecuador-al-registro-nid22102026/",
-      "published_date": "2026-10-22T14:49:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "El gobierno británico le declara la guerra a los que usan celulares sin auriculares en el transporte público",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-gobierno-britanico-le-declara-la-guerra-a-los-que-usan-celulares-sin-auriculares-en-el-transporte-nid22102026/",
-      "published_date": "2026-10-22T14:04:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ejecutaron en Florida a un veterano de la Guerra de Vietnam condenado por matar a un policía hace 40 años",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/ejecutaron-en-florida-a-un-veterano-de-la-guerra-de-vietnam-condenado-por-matar-a-un-policia-hace-40-nid22102026/",
-      "published_date": "2026-10-22T13:52:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Gobierno declaró terroristas al Cártel de Sinaloa, las FARC-EP y otros tres grupos de la región",
+      "title": "Súper RIGI, GNL y Vaca Muerta: los temas que quedan en la agenda de Energía y Minería",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-gobierno-declaro-terroristas-al-cartel-de-sinaloa-las-farc-ep-y-otros-tres-grupos-de-la-region/",
-      "published_date": "2026-10-22T13:40:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Macron anunció restricciones a la manifestaciones en Francia: “Prohibiremos las concentraciones”",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/22/macron-anuncio-restricciones-a-la-manifestaciones-en-francia-prohibiremos-las-concentraciones/",
-      "published_date": "2026-10-22T13:11:27Z",
-      "category": "Military"
+      "url": "https://www.cronista.com/economia-politica/la-agenda-que-deja-daniel-gonzalez-para-mineria-y-energia/",
+      "published_date": "2026-10-23T21:43:07Z",
+      "category": "Energy"
     },
     {
       "title": "Los nuevos Mamdani batallan por alcaldías clave en Estados Unidos",
@@ -424,150 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Juicio por YPF: la jueza Loretta Preska formalizó la anulación de la condena de US$16.100 millones contra la Argentina",
+      "title": "Milei rechazó emitir más pesos para mejorar la actividad económica",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/un-fallo-de-la-jueza-preska-acerca-el-cierre-del-juicio-por-ypf-y-la-caida-del-reclamo-por-us16000-nid20102026/",
-      "published_date": "2026-10-21T14:11:30Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Dólar hoy y dólar blue, EN VIVO:  y cuál es el precio del paralelo este viernes 23 de octubre, minuto a minuto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-y-cual-es-el-precio-del-paralelo-este-viernes-23-de-octubre-minuto-a-nid23102026/",
-      "published_date": "2026-10-23T15:20:00Z",
+      "url": "https://www.lanacion.com.ar/politica/milei-rechazo-emitir-mas-pesos-para-mejorar-la-actividad-economica-nid23102026/",
+      "published_date": "2026-10-24T01:07:26Z",
       "category": "Economy"
     },
     {
-      "title": "Menos trabajadores aportan y más jubilados dependen del Estado: la crisis previsional que amenaza las cuentas públicas",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/menos-trabajadores-aportan-jubilados-dependen-estado-crisis-previsional-amenaza-cuentas-publicas-a40.phtml",
-      "published_date": "2026-10-23T14:55:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Inversiones: qué opciones recomiendan los analistas ante la volatilidad global",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/inversiones-que-opciones-recomiendan-los-analistas-ante-la-volatilidad-global-nid23102026/",
-      "published_date": "2026-10-23T14:54:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 23 de octubre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-23-de-octubre-nid23102026/",
-      "published_date": "2026-10-23T14:41:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Video: una joven murió atropellada por un acoplado en el mercado central de La Matanza",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/video-una-joven-murio-atropellada-por-un-acoplado-en-el-mercado-central-de-la-matanza-nid23102026/",
-      "published_date": "2026-10-23T14:40:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Senador demócrata presidenciable: La carestía que castigó a Biden amenaza ahora a Trump",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/senador-democrata-presidenciable-la-carestia-que-castigo-a-biden-amenaza-ahora-a-trump_0_iozrX7x1ZF.html",
-      "published_date": "2026-10-23T14:40:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Inocencia Fiscal II: cuál es el nuevo cuello de botella y qué pasará con la presentación de Ganancias",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-cual-es-el-nuevo-cuello-de-botella-y-que-pasara-con-la-presentacion-de-ganancias/",
-      "published_date": "2026-10-23T14:19:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El dólar en Córdoba: a cuánto cotiza este viernes 23 de octubre",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/cordoba-dolar-hoy-dolar-blue-hoy-cotizacion-23-de-octubre-231026.phtml",
-      "published_date": "2026-10-23T14:04:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El riesgo para el peso argentino de cara a las elecciones de 2027",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/el-riesgo-para-el-peso-argentino-de-cara-a-las-elecciones-de-2027/",
-      "published_date": "2026-10-23T13:57:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La mayoría de las personas quiere ser escuchada, pero pocas saben escuchar",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/la-mayoria-de-las-personas-quiere-ser-escuchada-pero-pocas-saben-escuchar/",
-      "published_date": "2026-10-23T13:47:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Así quedó conformada la final de la Copa Libertadores 2026, con Estudiantes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-conformada-la-final-de-la-copa-libertadores-2026-con-estudiantes-nid22102026/",
-      "published_date": "2026-10-23T13:32:19Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El duro análisis de Financial Times sobre las reformas económicas de Milei",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-duro-analisis-de-financial-times-sobre-las-reformas-economicas-de-milei-nid23102026/",
-      "published_date": "2026-10-23T12:55:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un candidato nuevo, tres jefes y una interna: cómo se prepara el peronismo para enfrentar a Milei",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/un-candidato-nuevo-tres-jefes-y-una-interna-como-se-prepara-el-peronismo-para-enfrentar-a-milei/",
-      "published_date": "2026-10-23T12:50:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Financial Times analizó el plan Milei y alertó por una economía estancada rumbo a elecciones de 2027",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/financial-times-puso-lupa-sobre-plan-milei-alerto-por-una-economia-estancada-cara-elecciones-2027-a40.phtml",
-      "published_date": "2026-10-23T12:35:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los alimentos acumulan siete semanas consecutivas de aumentos: su impacto en la inflación mensual",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/alimentos-acumulan-siete-semanas-consecutivas-aumentos-a40.phtml",
-      "published_date": "2026-10-23T12:23:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sueldos de octubre en Corrientes: confirman el cronograma de pago para estatales",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/nea/sueldos-de-octubre-en-corrientes-confirman-el-cronograma-de-pago-para-estatales.phtml",
-      "published_date": "2026-10-23T12:05:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 23 de octubre de 2026",
+      "title": "Caputo empieza a bajar los cuadros",
       "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/23/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-23-de-octubre-de-2026/",
-      "published_date": "2026-10-23T11:49:00Z",
+      "url": "https://www.pagina12.com.ar/2026/10/24/caputo-empieza-a-bajar-los-cuadros/",
+      "published_date": "2026-10-24T00:42:17Z",
       "category": "Economy"
     },
     {
-      "title": "Es oficial la nueva declaración jurada simplificada de Ganancias: quiénes pueden acceder al beneficio ampliado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/es-oficial-la-nueva-declaracion-jurada-simplificada-de-ganancias-quienes-pueden-acceder-al-beneficio-ampliado/",
-      "published_date": "2026-10-23T11:04:11Z",
+      "title": "El Gobierno reglamentó Inocencia Fiscal II",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/24/el-gobierno-reglamento-inocencia-fiscal-ii/",
+      "published_date": "2026-10-24T00:29:16Z",
       "category": "Economy"
     },
     {
-      "title": "Causa Zenit: el fiscal propuso 5 años y 4 meses de prisión efectiva para Cristian Bazán",
+      "title": "El Financial Times advirtió que las reformas económicas de Milei están \"bajo presión\" por la crisis",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/causa-zenit-el-fiscal-propuso-5-anos-y-4-meses-de-prision-efectiva-para-cristian-bazan.phtml",
-      "published_date": "2026-10-23T10:46:31Z",
+      "url": "https://www.perfil.com/noticias/politica/el-financial-times-advirtio-que-las-reformas-economicas-de-milei-estan-bajo-presion.phtml",
+      "published_date": "2026-10-23T23:56:00Z",
       "category": "Economy"
     },
     {
-      "title": "Escala salarial de encargados de edificios en octubre: cuál es el sueldo de los empleados de SUTERH",
+      "title": "Denzel Washington y el método para cumplir metas: “Un sueño equivale a una fantasía; en cambio, un objetivo tiene fecha, planificación y acciones concretas”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/denzel-washington-y-el-metodo-para-cumplir-metas-un-sueno-equivale-a-una-fantasia-en-cambio-un-nid21102026/",
+      "published_date": "2026-10-23T23:42:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Virginia Woolf: “No se puede pensar bien, amar bien, dormir bien, si no se ha comido bien”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/virginia-woolf-no-se-puede-pensar-bien-amar-bien-dormir-bien-si-no-se-ha-comido-bien-nid22102026/",
+      "published_date": "2026-10-23T23:41:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "¿Republicanismo gorilista o republiqueta libertaria?",
       "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/escala-salarial-encargados-edificios-octubre-cual-sueldo-empleados-suterh-a40.phtml",
-      "published_date": "2026-10-23T10:25:00Z",
+      "url": "https://www.perfil.com/noticias/opinion/republicanismo-gorilista-o-republiqueta-libertaria.phtml",
+      "published_date": "2026-10-23T23:32:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Un médico cardiólogo explicó en detalle por qué existe la obesidad: “Las personas no son haraganas, tienen una genética clave”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/un-medico-cardiologo-explico-en-detalle-por-que-existe-la-obesidad-las-personas-no-son-haraganas-nid23102026/",
+      "published_date": "2026-10-23T23:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Las reacciones al sobreseimiento de los Milei en la causa $LIBRA: del insulto de Santiago Caputo a las críticas de la oposición",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/las-reacciones-al-sobreseimiento-de-los-milei-en-la-causa-libra-del-insulto-de-santiago-caputo-a-las-nid23102026/",
+      "published_date": "2026-10-23T22:58:09Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Amenazas a Daniela Morales Leanza: ordenan detener a una cordobesa que reside en Colombia",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/cordoba/amenazas-a-daniela-morales-leanza-ordenan-detener-a-una-cordobesa-que-reside-en-colombia.phtml",
+      "published_date": "2026-10-23T22:43:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Costantini invierte hasta US$30 millones para ampliar un icónico edificio de Palermo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/costantini-invierte-hasta-us30-millones-para-ampliar-un-iconico-edificio-de-palermo-nid20102026/",
+      "published_date": "2026-10-23T22:28:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Robert De Niro: la inversión inmobiliaria del actor en un destino paradisíaco elegido por Lady Di",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/inversiones/robert-de-niro-la-inversion-inmobiliaria-del-actor-en-un-destino-paradisiaco-elegido-por-lady-di-nid20102026/",
+      "published_date": "2026-10-23T22:27:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Construyen un hotel de US$120 millones de inversión en una emblemática manzana de Palermo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/construyen-un-hotel-de-us120-millones-de-inversion-en-una-emblematica-manzana-de-palermo-nid20102026/",
+      "published_date": "2026-10-23T22:27:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Alquileres: se terminó una etapa que generó fuertes tensiones en el mercado inmobiliario argentino",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-se-termina-una-etapa-que-duro-tres-anos-y-provoco-uno-de-los-mayores-problemas-del-nid19102026/",
+      "published_date": "2026-10-23T22:27:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Calzado chino por menos de US$ 2 el par: en RDEco analizaron el riesgo para los fabricantes argentinos",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/alerta-por-el-futuro-de-la-industria-del-calzado-dumping-chino-contrabando-y-caida-del-mercado-interno.phtml",
+      "published_date": "2026-10-23T22:22:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: por qué la recuperación ferroviaria requiere inversión estatal y planificación a largo plazo",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/ferrocarriles-en-argentina-cual-es-el-rol-del-estado-y-el-proyecto-privado-para-vaca-muerta.phtml",
+      "published_date": "2026-10-23T22:14:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Detuvieron por lavado de dinero a Ariel Vallejo, dueño de Sur Finanzas y allegado a la AFA",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/detuvieron-a-ariel-vallejos-dueno-de-sur-finanzas-por-lavado-nid23102026/",
+      "published_date": "2026-10-23T22:11:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Argentina mantiene un extenso historial de presupuestos incumplidos: en RDI se analizaron las última proyecciones económicas",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/masperfil/argentina-mantiene-un-extenso-historial-de-presupuestos-incumplidos-en-rdi-se-analizaron-las-ultima-proyecciones-economicas.phtml",
+      "published_date": "2026-10-23T22:08:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Soja Visec: habilitan una modalidad para negociar el “premio” sobre la soja tradicional",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/soja-visec-habilitan-una-modalidad-para-negociar-el-premio-sobre-la-soja-tradicional-nid23102026/",
+      "published_date": "2026-10-23T22:05:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Datos que respaldan lo que Milei ya admite",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/23/datos-que-respaldan-lo-que-milei-ya-admite/",
+      "published_date": "2026-10-23T22:00:24Z",
       "category": "Economy"
     },
     {
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Ya no puede tapar el sol con la mano",
+      "title": "Elecciones Brasil 2026: encuestas del balotaje Lula vs. Flavio Bolsonaro y últimas noticias, hoy viernes 23 de octubre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-encuestas-del-balotaje-lula-vs-flavio-bolsonaro-y-ultimas-noticias-hoy-nid23102026/",
+      "published_date": "2026-10-24T01:22:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula y Bolsonaro se enfrentan en su último cara a cara antes del balotaje en Brasil",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-y-bolsonaro-se-enfrentan-en-su-ultimo-cara-a-cara-antes-del-balotaje-en-brasil-nid23102026/",
+      "published_date": "2026-10-24T01:17:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esa manito judicial que deja libre a los Milei",
       "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/10/22/ya-no-puede-tapar-el-sol-con-la-mano/",
-      "published_date": "2026-10-23T23:44:00Z",
+      "url": "https://www.pagina12.com.ar/2026/10/24/esa-manito-judicial-que-deja-libre-a-los-milei/",
+      "published_date": "2026-10-24T01:15:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Crece la alarma en Europa por los ataques rusos en el Mar Negro: se hundió otro buque alcanzado por un dron",
+      "title": "“Puente de la Memoria”, el homenaje",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/24/puente-de-la-memoria-el-homenaje/",
+      "published_date": "2026-10-24T01:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perdieron el TPS y ahora se esconden o se van: el pueblo de Estados Unidos que pierde trabajadores inmigrantes",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/crece-la-alarma-en-europa-por-los-ataques-rusos-en-el-mar-negro-se-hundio-otro-buque-alcanzado-por-nid23102026/",
-      "published_date": "2026-10-23T15:24:47Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/perdieron-el-tps-y-ahora-se-esconden-o-se-van-el-pueblo-de-estados-unidos-que-pierde-trabajadores-nid23102026/",
+      "published_date": "2026-10-24T01:08:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Noticias de Florida: arrestaron a la alcaldesa puertorriqueña de Kissimmee por fraude y enfrentaría hasta 30 años de cárcel",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/noticias-de-florida-arrestaron-a-la-alcaldesa-puertorriquena-de-kissimmee-por-fraude-y-enfrentaria-nid23102026/",
-      "published_date": "2026-10-23T15:24:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El cumpleaños de Charly García, EN VIVO: agenda de recitales y los saludos por los 75 años del genio del rock nacional",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/el-cumpleanos-de-charly-garcia-en-vivo-agenda-de-recitales-y-los-saludos-por-los-75-anos-del-genio-nid23102026/",
-      "published_date": "2026-10-23T15:24:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Créditos: un banco amplía las condiciones para la compra de casas modulares",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/creditos-un-banco-amplia-las-condiciones-para-la-compra-de-casas-modulares-nid22102026/",
-      "published_date": "2026-10-23T15:23:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El riesgo país vuelve a subir y se acerca a los 720 puntos con un nuevo valor máximo del año",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-subir-y-se-acerca-a-los-720-puntos-con-un-nuevo-valor-maximo-del-ano-nid23102026/",
-      "published_date": "2026-10-23T15:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miqueas y Tomás Thärigen, los “guardianes” del Barolo: de trabajar como cadete a crear un negocio que ayuda a conservarlo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/empezo-como-cadete-y-creo-un-negocio-que-ayuda-a-mantener-uno-de-los-edificios-portenos-mas-iconicos-nid23102026/",
-      "published_date": "2026-10-23T15:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberan una pitón de casi 5 metros y 67 kilos, mientras Florida revela estrategia con drones para rastrear serpientes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/liberan-una-piton-de-casi-5-metros-y-67-kilos-mientras-florida-revela-estrategia-con-drones-para-nid21102026/",
-      "published_date": "2026-10-23T15:22:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el mandatario dijo que piensa un proyecto a “100 años” para la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/",
-      "published_date": "2026-10-23T15:22:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bullrich volvió a coquetear con una candidatura a través de un sugestivo video: “Es un secreto”",
+      "title": "Milei habló tras ser sobreseído en la causa Libra: “Intentaron un golpe de Estado y no pudieron”",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/bullrich-volvio-a-coquetear-con-una-candidatura-a-traves-de-un-sugestivo-video-es-un-secreto/",
-      "published_date": "2026-10-23T15:20:11Z",
+      "url": "https://www.cronista.com/economia-politica/milei-hablo-tras-haber-sido-sobreseido-en-la-causa-libra-la-verdad-triunfa-por-si-misma-la-mentira-necesita-siempre-complicidad/",
+      "published_date": "2026-10-24T01:04:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Un referente de la poderosa industria alimentaria de Brasil sobre las medidas de Milei: “Son muy duras y perjudican principalmente a los más pobres”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/un-referente-de-la-poderosa-industria-alimentaria-de-brasil-sobre-las-medidas-de-milei-son-muy-duras-nid23102026/",
-      "published_date": "2026-10-23T15:10:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cuándo juega Boca vs. River por el Torneo Clausura 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-river-por-el-torneo-clausura-2026-nid23102026/",
-      "published_date": "2026-10-23T15:07:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crimen en Corrientes: son cuatro los sospechosos acusados por el homicidio de la docente Nanci Godoy",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/crimen-en-corrientes-son-cuatro-los-sospechosos-acusados-por-el-homicidio-de-la-docente-nanci-godoy-nid23102026/",
-      "published_date": "2026-10-23T15:07:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elecciones en Texas 2026: los sheriffs demócratas que desmienten a Greg Abbott y niegan haber apoyado su reelección",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/texas/elecciones-en-texas-2026-los-sheriffs-democratas-que-desmienten-a-greg-abbott-y-niegan-haber-apoyado-nid23102026/",
-      "published_date": "2026-10-23T15:05:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juicio a Cristina Kirchner, EN VIVO: arranca el proceso por Hotesur y Los Sauces donde investigan la corrupción K",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-arranca-el-proceso-por-hotesur-y-los-sauces-donde-investigan-la-nid23102026/",
-      "published_date": "2026-10-23T15:03:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Filarmónica de Berlín se lució con el mítico “sonido Berlín”, empastado, suntuoso y  finísimamente pulido",
+      "title": "Una garza rehabilitada regresó a la vida silvestre tiempo después de haber sido hallada en mal estado de salud, con un hilo enredado en una de sus alas",
       "source": "Clarín",
-      "url": "https://www.clarin.com/espectaculos/filarmonica-berlin-lucio-mitico-sonido-berlin-empastado-suntuoso-finisimamente-pulido_0_MPvNZTVlYs.html",
-      "published_date": "2026-10-23T15:03:04Z",
+      "url": "https://www.clarin.com/internacional/garza-rehabilitada-regreso-vida-silvestre-tiempo-despues-hallada-mal-estado-salud-hilo-enredado-alas_0_xDCglpuldC.html",
+      "published_date": "2026-10-24T00:54:05Z",
       "category": "Local Events"
     },
     {
-      "title": "El desgarrador llanto de Dalma tras el cierre del juicio por la muerte de Diego Maradona",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/fama/desgarrador-llanto-dalma-cierre-juicio-muerte-diego-maradona_0_7xqo2sYr7s.html",
-      "published_date": "2026-10-23T15:01:59Z",
+      "title": "Francia: discursos violentos y atentado racista",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/24/francia-discursos-violentos-y-atentado-racista/",
+      "published_date": "2026-10-24T00:49:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza",
+      "title": "De acuerdo con la OMS: 1.60, 1.70 y 1.80. ¿cuál es el peso ideal para cada altura?",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-sobre-los-efectos-que-tendra-el-fenomeno-en-la-argentina-y-cuando-impactara-nid19102026/",
-      "published_date": "2026-10-23T15:00:58Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/de-acuerdo-con-la-oms-160-170-y-180-cual-es-el-peso-ideal-para-cada-altura-nid23102026/",
+      "published_date": "2026-10-24T00:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_PdGaEU5K1O.html",
+      "published_date": "2026-10-24T00:36:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los puntajes de Clarín de la fecha 14 de la Liga Profesional de Fútbol",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/puntajes-clarin-fecha-14-liga-profesional-futbol_0_si5QXQlxR8.html",
+      "published_date": "2026-10-24T00:35:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_fIYbIFC20P.html",
+      "published_date": "2026-10-24T00:31:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_EeRMIDnpp5.html",
+      "published_date": "2026-10-24T00:31:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, viernes 23 de octubre",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-viernes-23-octubre_0_CE4zKU8XOK.html",
+      "published_date": "2026-10-24T00:31:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los restos de la verdad",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/24/los-restos-de-la-verdad/",
+      "published_date": "2026-10-24T00:30:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EN VIVO | Lula y Flávio Bolsonaro se enfrentan en el último debate antes del balotaje en Brasil",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/internacional/en-vivo-lula-y-flavio-bolsonaro-se-enfrentan-en-el-ultimo-debate-antes-del-balotaje-en-brasil.phtml",
+      "published_date": "2026-10-24T00:30:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La chef mexicana que lleva la nostalgia de la comida casera a Washington: “Gran parte de mi vida está aquí”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/la-chef-mexicana-que-lleva-nostalgia-migrante-al-menu-de-pascual-en-washington-gran-parte-de-mi-vida-nid23102026/",
+      "published_date": "2026-10-24T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Universitarios llevaron al Papa una denuncia contra Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/24/universitarios-llevaron-al-papa-una-denuncia-contra-milei/",
+      "published_date": "2026-10-24T00:22:00Z",
       "category": "Local Events"
     }
   ]
