@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:40:30Z",
+  "generated_at": "2026-10-26T01:05:36Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,41 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "El mensaje del peronismo tras el triunfo de Lula en Brasil: “Hay otro camino”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-mensaje-del-peronismo-tras-el-triunfo-de-lula-en-brasil-hay-otro-camino/",
+      "published_date": "2026-10-26T00:51:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Así fue la votación de los brasileños en la Argentina: prendas rojas, cantos y abucheos a votantes de Bolsonaro",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/asi-fue-la-votacion-de-los-brasilenos-en-la-argentina-prendas-rojas-cantos-y-abucheos-a-votantes-de-nid25102026/",
+      "published_date": "2026-10-26T00:45:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Así quedó el mapa político de la región tras el triunfo de Lula en Brasil",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/asi-quedo-el-mapa-politico-de-la-region-tras-el-triunfo-de-lula-en-brasil-nid25102026/",
+      "published_date": "2026-10-26T00:20:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El factor Trump, Chile y las internas en Defensa: los escollos de la Casa Rosada con Malvinas",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/opinion/factor-trump-chile-internas-defensa-escollos-casa-rosada-malvinas_0_BP4Dkm0no1.html",
+      "published_date": "2026-10-25T23:22:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Murió Roxana Amed, la reconocida cantante argentina de jazz",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/murio-roxana-amed-la-reconocida-cantante-argentina-de-jazz-nid25102026/",
+      "published_date": "2026-10-25T21:10:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Súper Niño 2026 en Argentina, EN VIVO: cuándo será el pico de las lluvias y las provincias más afectadas",
       "source": "Clarín",
@@ -116,39 +151,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ley Malvinas: el Gobierno habla de “avances” en las negociaciones y que podría haber dictamen la próxima semana",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/ley-malvinas-el-gobierno-habla-de-avances-en-las-negociaciones-y-que-podria-haber-dictamen-la-proxima-semana/",
-      "published_date": "2026-10-24T16:35:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Apuestas online: la presión de las empresas ante la avanzada reguladora en el Senado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/apuestas-online-la-presion-de-las-empresas-ante-la-avanzada-reguladora-en-el-senado/",
-      "published_date": "2026-10-24T13:56:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Efemérides del 24 de octubre: ¿qué pasó un día como hoy?",
+      "title": "Noche violenta en Fuerte Apache: dos muertos y varios heridos en un enfrentamiento armado entre bandas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/efemerides-del-24-de-octubre-que-paso-un-dia-como-hoy-nid24102026/",
-      "published_date": "2026-10-24T11:57:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/seguridad/noche-violenta-en-fuerte-apache-dos-muertos-y-varios-heridos-en-un-enfrentamiento-armado-entre-nid25102026/",
+      "published_date": "2026-10-26T00:31:33Z",
+      "category": "Military"
     },
     {
-      "title": "¿La carne argentina es cara o barata? Cinco claves para interpretar las diferencias de precios frente a los principales mercados",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-carne-argentina-es-cara-o-barata-cinco-claves-para-interpretar-las-diferencias-de-precios-frente-a-los-principales-mercados/",
-      "published_date": "2026-10-24T11:36:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gabriel Bornoroni: “La gente no quiere candidatos que viven en campaña permanente”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/cordoba/gabriel-bornoroni-la-gente-no-quiere-candidatos-que-viven-en-campana-permanente.phtml",
-      "published_date": "2026-10-24T11:02:00Z",
-      "category": "Diplomacy"
+      "title": "Polémica en Mendoza con una ministra que hizo una costosa capacitación con fondos del Estado provincial",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/polemica-en-mendoza-con-una-ministra-que-hizo-una-costosa-capacitacion-con-fondos-del-estado-nid25102026/",
+      "published_date": "2026-10-25T21:52:32Z",
+      "category": "Military"
     },
     {
       "title": "Irán pide a la población reducir un 10% el consumo de gas antes del invierno",
@@ -221,6 +235,20 @@
       "category": "Military"
     },
     {
+      "title": "Netanyahu anunció una operación militar a gran escala en Cisjordania",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/23/netanyahu-anuncio-una-operacion-militar-a-gran-escala-en-cisjordania/",
+      "published_date": "2026-10-24T03:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "El fenómeno del “Ejército de Lula” sacude las redes sociales en Brasil",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/23/el-fenomeno-del-ejercito-de-lula-en-las-redes-sociales/",
+      "published_date": "2026-10-24T03:01:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Ley Malvinas con destino incierto",
       "source": "Página/12 — El País",
       "url": "https://www.pagina12.com.ar/2026/10/24/ley-malvinas-con-destino-incierto/",
@@ -263,32 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "Más de 200 policías rodearon una zona caliente de Mar del Plata, donde secuestraron armas, municiones y drogas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/mas-de-200-policias-rodearon-una-zona-caliente-de-mar-del-plata-donde-secuestraron-armas-municiones-nid23102026/",
-      "published_date": "2026-10-23T23:39:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "La respuesta de Villarruel a la crisis de la Ley Malvinas volvió a exponer su distancia con Milei",
+      "title": "Con prisa y sin pausa. El boom del oil & gas sigue en 2027",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-respuesta-de-villarruel-a-la-crisis-de-la-ley-malvinas-volvio-a-exponer-su-distancia-con-milei/",
-      "published_date": "2026-10-23T23:07:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Una zona de guerra”: el crudo relato de un argentino que presenció los disturbios en París y el temor por lo que puede ocurrir este fin de semana",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/una-zona-de-guerra-el-crudo-relato-de-un-argentino-que-presencio-los-disturbios-en-paris-y-el-temor-nid23102026/",
-      "published_date": "2026-10-23T23:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Villa Olímpica: los departamentos ya están a la venta con una financiación a 20 años y una de las tasas más bajas del mercado",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/villa-olimpica-los-departamentos-ya-estan-a-la-venta-con-una-financiacion-a-20-anos-y-una-de-las-nid23102026/",
-      "published_date": "2026-10-23T22:22:40Z",
-      "category": "Military"
+      "url": "https://www.cronista.com/columnistas/con-prisa-y-sin-pausa-el-boom-del-oil-gas-sigue-en-2027/",
+      "published_date": "2026-10-25T23:56:43Z",
+      "category": "Energy"
     },
     {
       "title": "Los fallos anteriores de los jueces de Hotesur - Los Sauces: la “ruta del dinero K”, los bolsos de López y Oil Combustibles",
@@ -424,11 +431,88 @@
       "category": "Energy"
     },
     {
-      "title": "Golpe a los mercados: Meta se desploma y las bolsas mundiales caen mientras sube el petróleo",
+      "title": "Tras la sorpresa de Lula, el mercado anticipa un lunes de tensión, caída de activos y mayor presión cambiaria",
+      "source": "Perfil",
+      "url": "https://www.perfil.com/noticias/economia/tras-la-sorpresa-de-lula-el-mercado-anticipa-un-lunes-de-tension-caida-de-activos-y-mayor-presion-cambiaria-a40.phtml",
+      "published_date": "2026-10-26T00:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ganó Lula en Brasil: cómo impactará en los mercados, las exportaciones argentinas y las vacaciones de verano",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/gano-lula-en-brasil-como-impactara-en-los-mercados-las-exportaciones-argentinas-y-las-vacaciones-de-nid25102026/",
+      "published_date": "2026-10-26T00:35:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cómo saber a nombre de quién está una propiedad",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/como-saber-a-nombre-de-quien-esta-una-propiedad-nid25102026/",
+      "published_date": "2026-10-26T00:31:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Balotaje en Brasil: Lula, el viejo ídolo progresista se recupera frente a la derecha y se queda en el Palacio del Planalto por cuatro años más",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/balotaje-brasil-lula-viejo-idolo-progresista-recupera-frente-derecha-queda-palacio-planalto-anos_0_hk4f0LIa5d.html",
+      "published_date": "2026-10-26T00:29:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tras la victoria de Lula en Brasil, cuáles son los 5 desafíos para reflotar el comercio con Argentina",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/golpe-a-los-mercados-meta-se-desploma-y-las-bolsas-mundiales-caen-mientras-sube-el-petroleo/",
-      "published_date": "2026-10-22T15:12:40Z",
-      "category": "Energy"
+      "url": "https://www.cronista.com/economia-politica/tras-la-victoria-de-lula-en-brasil-cuales-son-los-5-desafios-para-reflotar-el-comercio-con-argentina/",
+      "published_date": "2026-10-26T00:25:02Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psicoanalista: “Siempre habrá una herida, una ausencia que se siente a tu lado y te emocione con un recuerdo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-siempre-habra-una-herida-una-ausencia-que-se-siente-a-tu-lado-y-te-nid25102026/",
+      "published_date": "2026-10-26T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Airbnb vs. alquiler tradicional en Buenos Aires: cuánto gana realmente cada uno en octubre 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/inversiones/airbnb-vs-alquiler-tradicional-en-buenos-aires-cuanto-gana-realmente-cada-uno-en-octubre-2026-nid24102026/",
+      "published_date": "2026-10-25T23:54:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Liu Ming, médico taoísta y maestro de taichí: “Este cuerpo es el mayor tesoro que tenemos”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/vida_sana/liu-ming-medico-taoista-y-maestro-de-taichi-este-cuerpo-es-el-mayor-tesoro-que-tenemos-nid18102026/",
+      "published_date": "2026-10-25T23:40:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gobernar en rotación permanente: las 300 renuncias y expulsiones en la era Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/25/gobernar-en-rotacion-permanente-las-300-renuncias-y-expulsiones-en-la-era-milei/",
+      "published_date": "2026-10-25T22:37:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Muy lejos de aquel fifty-fifty",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/25/muy-lejos-de-aquel-fifty-fifty/",
+      "published_date": "2026-10-25T21:37:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Faltan 22.700 millones de dólares",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/10/25/faltan-22700-millones-de-dolares/",
+      "published_date": "2026-10-25T21:17:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Empleadas domésticas: de cuánto será el aumento en noviembre y diciembre 2026",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/empleadas-domesticas-de-cuanto-sera-el-aumento-en-noviembre-y-diciembre-2026/",
+      "published_date": "2026-10-25T15:02:43Z",
+      "category": "Economy"
     },
     {
       "title": "Oficial y confirmado: Tampa Electric presenta un plan para proteger a los clientes de los costos de los centros de datos",
@@ -487,90 +571,6 @@
       "category": "Economy"
     },
     {
-      "title": "Más allá del saber",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/elobservador/mas-alla-del-saber.phtml",
-      "published_date": "2026-10-25T07:10:19Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilar Sordo, psicóloga: “El tiempo real no tiene que ver con el tiempo emocional; en un segundo puede pasarte algo que modifique tu historia”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lnmas/pilar-sordo-psicologa-el-tiempo-real-no-tiene-que-ver-con-el-tiempo-emocional-en-un-segundo-puede-nid25102026/",
-      "published_date": "2026-10-25T07:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Formar un “meta relato”",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/domingo/formar-un-meta-relato.phtml",
-      "published_date": "2026-10-25T06:57:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Actualización de visa de trabajo EB-3: noviembre llega con cambios para la presentación del trámite",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/actualizacion-de-visa-de-trabajo-eb-3-noviembre-llega-con-cambios-para-la-presentacion-del-tramite-nid24102026/",
-      "published_date": "2026-10-25T06:09:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La decadencia del peso argentino reflejada a través del flamante índice Iron Maiden",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/columnistas/la-decadencia-del-peso-argentino-reflejada-a-traves-del-flamante-indice-iron-maiden.phtml",
-      "published_date": "2026-10-25T05:17:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Revancha: Milei anuncia acciones legales contra la prensa",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/revancha-milei-anuncia-acciones-legales-contra-la-prensa.phtml",
-      "published_date": "2026-10-25T05:13:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pasaportes: Economía reconoció que un consorcio asesora al Gobierno sin licitación",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/pasaportes-economia-reconocio-que-un-consorcio-asesora-al-gobierno-sin-licitacion.phtml",
-      "published_date": "2026-10-25T05:09:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Florida vota el 3 de noviembre la propuesta para bajar el impuesto a la propiedad: qué dicen las encuestas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/florida-vota-el-3-de-noviembre-la-propuesta-para-bajar-el-impuesto-a-la-propiedad-que-dicen-las-nid24102026/",
-      "published_date": "2026-10-25T04:56:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "YPF, plazos fijo UVA y bonos CER, las inversiones ganadoras",
-      "source": "Perfil",
-      "url": "https://www.perfil.com/noticias/economia/ypf-plazos-fijo-uva-y-bonos-cer-las-inversiones-ganadoras.phtml",
-      "published_date": "2026-10-25T04:49:58Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Conrado Estol, sobre los vínculos y la longevidad: “Hay que ser proactivo: ´Me invitaron, no tengo ganas de ir, voy igual; siempre voy a sacar algo bueno”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-sobre-los-vinculos-y-la-longevidad-hay-que-ser-proactivo-me-invitaron-no-tengo-ganas-nid24102026/",
-      "published_date": "2026-10-25T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Natalia Lobo, actriz: “No importa si mientras meditas la mente se dispersa o aparece la incomodidad”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/mente/natalia-lobo-invito-a-meditar-en-medio-del-caos-nid24102026/",
-      "published_date": "2026-10-24T23:12:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Construyen un hotel de US$120 millones de inversión en una emblemática manzana de Palermo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/construyen-un-hotel-de-us120-millones-de-inversion-en-una-emblematica-manzana-de-palermo-nid20102026/",
-      "published_date": "2026-10-24T22:45:46Z",
-      "category": "Economy"
-    },
-    {
       "title": "The Government puts the magnifying glass on university funds in the run-up to the march",
       "source": "El Cronista",
       "url": "https://www.cronista.com/economia-politica/el-gobierno-pone-la-lupa-sobre-los-fondos-de-las-universidades-en-la-previa-de-la-marcha/",
@@ -585,129 +585,129 @@
       "category": "Local Events"
     },
     {
-      "title": "Los nutricionistas coinciden: “A los 50 el desayuno ideal es una tostada de pan de masa madre con huevo cocido y café con leche vegetal”",
+      "title": "Lula reaviva la esperanza de la izquierda en la región: Brasil no quedará aislado, pero será una voz disonante",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/los-nutricionistas-coinciden-a-los-50-el-desayuno-ideal-es-una-tostada-de-pan-de-masa-madre-con-nid23102026/",
-      "published_date": "2026-10-25T14:35:29Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/lula-reaviva-la-esperanza-de-la-izquierda-en-la-region-brasil-no-quedara-aislado-pero-sera-una-voz-nid25102026/",
+      "published_date": "2026-10-26T00:56:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Arqueólogos descubrieron una tumba milenaria con “antenas” en el desierto del Sahara",
+      "title": "Las posiciones del torneo Clausura y una Tabla Anual al rojo vivo: cómo están Boca y River a dos fechas del final",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/arqueologos-descubrieron-una-tumba-milenaria-con-antenas-en-el-desierto-del-sahara-nid25102026/",
-      "published_date": "2026-10-25T14:34:36Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/las-posiciones-del-torneo-clausura-y-una-tabla-anual-al-rojo-vivo-como-estan-boca-y-river-a-dos-nid25102026/",
+      "published_date": "2026-10-26T00:55:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Gritos, acusaciones y un Brasil partido en dos: así arrancó el balotaje entre Lula y Flavio Bolsonaro en Río de Janeiro",
+      "title": "Las PASO, el debate del momento",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/10/26/las-paso-el-debate-del-momento/",
+      "published_date": "2026-10-26T00:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Impacto en el bolsillo de los argentinos del resultado electoral en Brasil",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/gritos-acusaciones-y-un-brasil-partido-en-dos-asi-arranco-el-balotaje-entre-lula-y-flavio-bolsonaro-nid25102026/",
-      "published_date": "2026-10-25T14:32:49Z",
+      "url": "https://www.lanacion.com.ar/economia/impacto-en-el-bolsillo-de-los-argentinos-del-resultado-electoral-en-brasil-nid25102026/",
+      "published_date": "2026-10-26T00:48:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Efecto Papa León XIV: alojamientos de hasta $22 millones por una noche y muy poca disponibilidad ante la visita del sumo pontífice a la Argentina",
+      "title": "Rodolfo Arruabarrena tras el triunfo sobre la hora de Boca ante Independiente: “Acá... con el culo no se gana”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/efecto-papa-leon-xiv-alojamientos-de-hasta-22-millones-por-una-noche-y-muy-poca-disponibilidad-ante-nid25102026/",
-      "published_date": "2026-10-25T14:32:32Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/rodolfo-arruabarrena-tras-el-triunfo-sobre-la-hora-de-boca-ante-independiente-aca-con-el-culo-no-se-nid25102026/",
+      "published_date": "2026-10-26T00:46:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Intiman a retirar el único puesto de diarios de Puerto Madero: el dueño pide quedarse y los vecinos lo respaldan",
+      "title": "Resultados en vivo: Lula da Silva ganó el balotaje 2026 y fue elegido presidente de Brasil",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/intiman-a-retirar-el-unico-puesto-de-diarios-de-puerto-madero-el-dueno-pide-quedarse-y-los-vecinos-nid23102026/",
-      "published_date": "2026-10-25T14:14:09Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/como-van-las-elecciones-brasil-2026-en-vivo-resultados-y-quien-va-ganando-el-balotaje-entre-lula-y-nid25102026/",
+      "published_date": "2026-10-26T00:45:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Julián Alvarez, del sueño de jugar en Barcelona al perdón de los hinchas del Atlético de Madrid: el gol que selló la reconciliación",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/julian-alvarez-sueno-jugar-barcelona-perdon-hinchas-atletico-madrid-gol-sello-reconciliacion_0_8Etl4Ged6C.html",
-      "published_date": "2026-10-25T14:13:16Z",
+      "title": "Resultados Elecciones Brasil 2026: Lula ganó el balotaje y será presidente por cuarta vez",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/10/25/elecciones-brasil-2026-el-balotaje-entre-lula-y-bolsonaro/",
+      "published_date": "2026-10-26T00:42:50Z",
       "category": "Local Events"
     },
     {
-      "title": "En qué canal pasan Barcelona vs. Real Madrid, por La Liga de España 2026-2027",
+      "title": "La colombiana que fue detenida por el ICE y hoy ayuda a miles de migrantes en California a través de la lectura",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-barcelona-vs-real-madrid-por-la-liga-de-espana-2026-2027-nid25102026/",
-      "published_date": "2026-10-25T14:11:32Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/la-colombiana-que-fue-detenida-por-el-ice-y-hoy-ayuda-a-miles-de-migrantes-en-california-a-traves-de-nid25102026/",
+      "published_date": "2026-10-26T00:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Qué necesita Kimi Antonelli para ser campeón de la Fórmula 1 en el GP de Estados Unidos",
+      "title": "Según los nutricionistas, no hay plato más fácil de digerir que uno de arroz",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/que-necesita-kimi-antonelli-para-ser-campeon-de-la-formula-1-en-el-gp-de-estados-unidos-nid25102026/",
-      "published_date": "2026-10-25T14:00:00Z",
+      "url": "https://www.lanacion.com.ar/lnmas/segun-los-nutricionistas-no-hay-plato-mas-facil-de-digerir-que-uno-de-arroz-nid25102026/",
+      "published_date": "2026-10-26T00:41:11Z",
       "category": "Local Events"
     },
     {
-      "title": "El ex de Eva Longoria pidió US$20 millones por su mansión con parque acuático, pero no la vendió y bajó el precio a la mitad",
+      "title": "Robin Sharma, especialista en desarrollo personal: “Sé de personas excepcionales que protegen su tiempo y eso no significa que tengan que matarse trabajando”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/famosos/el-ex-de-eva-longoria-pidio-us20-millones-por-su-mansion-con-parque-acuatico-pero-no-la-vendio-y-nid25102026/",
-      "published_date": "2026-10-25T14:00:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/robin-sharma-especialista-en-desarrollo-personal-se-de-personas-excepcionales-que-protegen-su-tiempo-nid25102026/",
+      "published_date": "2026-10-26T00:41:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Horario de la gala del Balón de Oro 2026, con Lionel Messi entre los nominados",
+      "title": "La frase de Epicuro que funciona como mantra para cada día: “Ser feliz es que no duela”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/horario-de-la-gala-del-balon-de-oro-2026-con-lionel-messi-entre-los-nominados-nid25102026/",
-      "published_date": "2026-10-25T14:00:00Z",
+      "url": "https://www.lanacion.com.ar/lnmas/la-frase-de-epicuro-que-funciona-como-mantra-para-cada-dia-ser-feliz-es-que-no-duela-nid25102026/",
+      "published_date": "2026-10-26T00:41:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Rosario Ortega reveló cuál fue la reacción de Palito y Evangelina Salazar tras la ruptura de Emanuel Ortega y Julieta Prandi",
+      "title": "Jorge Tartaglione, médico, sobre accidentes en casa: “Si un niño toma lavandina, no hay que provocarle el vómito”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/rosario-ortega-revelo-cual-fue-la-reaccion-de-palito-y-evangelina-salazar-tras-la-ruptura-de-emanuel-nid25102026/",
-      "published_date": "2026-10-25T13:57:51Z",
+      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-accidentes-en-casa-si-un-nino-toma-lavandina-no-hay-que-provocarle-el-nid25102026/",
+      "published_date": "2026-10-26T00:40:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Son hijos de italianos, estudiaron gastronomía en Roma y desde hace 27 años que tienen un restaurante en Buenos Aires",
+      "title": "Estanislao Bachrach, doctor en biología molecular y divulgador de neurociencia: “La frustración es algo normal, el tema es poder decirlo y buscar ayuda”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/son-hijos-de-italianos-estudiaron-gastronomia-en-roma-y-desde-hace-27-anos-que-tienen-un-restaurante-nid25102026/",
-      "published_date": "2026-10-25T13:54:08Z",
+      "url": "https://www.lanacion.com.ar/lnmas/estanislao-bachrach-doctor-en-biologia-molecular-y-divulgador-de-neurociencia-la-frustracion-es-algo-nid25102026/",
+      "published_date": "2026-10-26T00:40:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Elecciones en Brasil 2026, EN VIVO: Lula y Bolsonaro ya votaron y se espera un reñido balotaje",
+      "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar también la imperfección del otro”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-y-las-ultimas-noticias-del-balotaje-voto-nid25102026/",
-      "published_date": "2026-10-25T13:53:05Z",
+      "url": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-tambien-la-imperfeccion-del-otro-nid25102026/",
+      "published_date": "2026-10-26T00:40:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Festival Bandera 2026: una marea de rock, pop y electrónica hizo temblar Rosario en una edición inolvidable",
+      "title": "Se aproxima un nuevo frente que provocará altibajos en la temperatura, nubosidad variable y lloviznas en medio del avance del Súper Niño: las zonas afectadas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/musica/festival-bandera-2026-una-marea-de-rock-pop-y-electronica-hizo-temblar-rosario-en-una-edicion-nid25102026/",
-      "published_date": "2026-10-25T13:40:49Z",
+      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-nuevo-frente-que-provocara-altibajos-en-la-temperatura-nubosidad-variable-y-lloviznas-nid25102026/",
+      "published_date": "2026-10-26T00:40:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump arremete contra Obama después de que expresidente participara en mitin en Michigan",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-arremete-contra-obama-despues-de-que-expresidente-participara-en-mitin-en-michigan_0_QYcP3kD4pu.html",
-      "published_date": "2026-10-25T13:40:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Formar talento que puede irse: el desafío actual de los líderes",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/formar-talento-que-puede-irse-el-desafio-actual-de-los-lideres/",
-      "published_date": "2026-10-25T13:34:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tomate con gusto a hamburguesa: una estudiante de 17 años de Miami modificó genéticamente este alimento y ya investigan sus potenciales beneficios",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/tomate-gusto-hamburguesa-estudiante-17-anos-miami-modifico-geneticamente-alimento-investigan-potenciales-beneficios_0_OrDs2lgiwu.html",
-      "published_date": "2026-10-25T13:33:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messi Cup 2026, en vivo: cómo ver online los partidos",
+      "title": "River derrotó 1 a 0 a Racing por el torneo Clausura y llega afilado al Superclásico de la próxima fecha",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/messi-cup-2026-en-vivo-como-ver-online-los-partidos-nid25102026/",
-      "published_date": "2026-10-25T13:31:34Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/river-vs-racing-en-vivo-nid25102026/",
+      "published_date": "2026-10-26T00:40:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La fórmula para que el cerebro descanse de verdad (y deje de pensar en todo)",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/la-formula-para-que-el-cerebro-descanse-de-verdad-y-deje-de-pensar-en-todo-nid25102026/",
+      "published_date": "2026-10-26T00:40:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qué le hace la papa al cuerpo y por qué se puede comer todos los días sin culpa, según una nutricionista",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/que-le-hace-la-papa-al-cuerpo-y-por-que-se-puede-comer-todos-los-dias-sin-culpa-segun-una-nid24102026/",
+      "published_date": "2026-10-26T00:40:06Z",
       "category": "Local Events"
     }
   ]
