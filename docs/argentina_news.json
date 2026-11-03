@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:54:25Z",
+  "generated_at": "2026-11-03T18:09:50Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -11,6 +11,76 @@
   ],
   "stories": [
     {
+      "title": "Los distintos tipos de pobreza de la Argentina contemporánea",
+      "source": "Perfil",
+      "url": "https://perfil.com/modo-fontevecchia/los-distintos-tipos-de-pobreza-de-la-argentina-contemporanea-aDexi2q94Jrr",
+      "published_date": "2026-11-03T17:39:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Este es el color de la suerte para cada signo del Zodíaco en noviembre en la Argentina 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/horoscopo/este-es-el-color-de-la-suerte-para-cada-signo-del-zodiaco-en-noviembre-en-la-argentina-2026-nid03112026/",
+      "published_date": "2026-11-03T17:10:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Antes de la visita del Papa, empresarios cristianos pidieron construir una “Argentina fraterna”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/antes-de-la-visita-del-papa-empresarios-cristianos-pidieron-construir-una-argentina-fraterna-nid03112026/",
+      "published_date": "2026-11-03T16:37:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Monseñor Braida: “Es una Argentina que padece necesidades y que busca el camino”",
+      "source": "Perfil",
+      "url": "https://perfil.com/nea/monsenor-braida-es-una-argentina-que-padece-necesidades-y-que-busca-el-camino-aNOFU7t8fNra",
+      "published_date": "2026-11-03T16:18:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Funcionarios de Milei viajaron a EE.UU. y el Gobierno blinda su discurso ante una derrota de Trump",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/funcionarios-de-milei-viajaron-a-ee.uu.-y-el-gobierno-blinda-su-discurso-ante-una-derrota-de-trump-aDWXY1T5xPnf",
+      "published_date": "2026-11-03T16:10:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un funcionario de Sturzenegger dijo que la Argentina es el país que más avanzó en libertad económica en los últimos dos años",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/un-funcionario-de-sturzenegger-dijo-que-la-argentina-es-el-pais-que-mas-avanzo-en-libertad-economica-nid03112026/",
+      "published_date": "2026-11-03T16:02:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mapa del desarrollo humano: CABA lidera el ranking nacional y Chaco ocupa el último puesto",
+      "source": "Perfil",
+      "url": "https://perfil.com/sociedad/desarrollo-humano-caba-lidera-el-ranking-nacional-y-chaco-ocupa-el-ultimo-puesto-agqKF0k6RYBC",
+      "published_date": "2026-11-03T15:20:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina le ofrece a Europa lo que necesita: alimentos, energía y minerales",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/financial-times/argentina-le-ofrece-a-europa-lo-que-necesita-alimentos-energia-y-minerales/",
+      "published_date": "2026-11-03T14:22:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Gobierno negó tensiones con la Iglesia y descartó críticas del papa León XIV durante su visita",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-gobierno-nego-tensiones-con-la-iglesia-y-descarto-criticas-del-papa-leon-xiv-durante-su-visita/",
+      "published_date": "2026-11-03T13:32:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elecciones en Estados Unidos: un test sobre el gobierno de Donald Trump y un dolor de cabeza para Javier Milei",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/03/elecciones-en-estados-unidos-un-test-sobre-el-gobierno-de-donald-trump-y-un-dolor-de-cabeza-para-javier-milei/",
+      "published_date": "2026-11-03T11:18:11Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "EEUU ataca objetivos iraníes en el estrecho de Ormuz, y otras noticias de Oriente Medio",
       "source": "Clarín",
       "url": "https://www.clarin.com/estados-unidos/eeuu-ataca-objetivos-iranies-en-el-estrecho-de-ormuz-y-otras-noticias-de-oriente-medio_0_lMpPWtYaj3.html",
@@ -21,6 +91,13 @@
       "title": "El futuro de Milei se define en Estados Unidos",
       "source": "Página/12 — Economía",
       "url": "https://www.pagina12.com.ar/2026/11/02/el-futuro-de-milei-se-define-en-estados-unidos/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“¿Por qué no?”: Cristina Kirchner no descartó ser candidata y vaticinó una derrota de Trump",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/02/por-que-no-cristina-kirchner-no-descarto-ser-candidata-y-vaticino-una-derrota-de-trump/",
       "published_date": "2026-11-03T03:01:00Z",
       "category": "Diplomacy"
     },
@@ -74,81 +151,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "El Vaticano hizo su último control: el mapa de Milei con el León XIV y la invitación de último momento",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-vaticano-hizo-su-ultimo-control-el-mapa-de-milei-con-el-leon-xiv-y-la-invitacion-de-ultimo-momento/",
-      "published_date": "2026-11-02T21:39:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Javier Milei se reunió en la Casa Rosada con el enviado especial de Donald Trump contra el antisemitismo",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/politica/javier-milei-reunio-casa-rosada-enviado-especial-donald-trump-antisemitismo_0_SVrHnBNGSC.html",
-      "published_date": "2026-11-02T19:58:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Massa se mostró con el ideólogo del “ejército de Lula” y proyecta el armado de un frente nacional anti Milei",
+      "title": "En plenas elecciones en EE.UU., Trump anuncia que dejará de enviarle 4000 millones de dólares a Israel",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-el-armador-del-ejercito-de-lula-y-proyecta-el-armado-de-un-frente-anti-milei-nid02112026/",
-      "published_date": "2026-11-02T19:44:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/el-mundo/en-plenas-elecciones-en-eeuu-trump-anuncia-que-dejara-de-enviarle-4000-millones-de-dolares-a-israel-nid03112026/",
+      "published_date": "2026-11-03T16:05:55Z",
+      "category": "Military"
     },
     {
-      "title": "Dónde conseguirlo: llega a la Argentina el primer autotest de VIH, con resultado en 20 minutos y de venta libre en góndolas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/donde-conseguirlo-llega-a-la-argentina-el-primer-autotest-de-vih-con-resultado-en-20-minutos-y-de-nid02112026/",
-      "published_date": "2026-11-02T19:18:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Presidente recibió a expertos en Educación, pero no se habló de los recortes presupuestarios",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/sin-hablar-de-los-recortes-presupuestarios-el-presidente-recibio-a-expertos-en-educacion-nid02112026/",
-      "published_date": "2026-11-02T18:56:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tras sus cruces con Milei, Pedro Sánchez advirtió que España “no se gobierna desde Buenos Aires”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/tras-sus-cruces-con-milei-pedro-sanchez-advirtio-que-espana-no-se-gobierna-desde-buenos-aires-nid02112026/",
-      "published_date": "2026-11-02T18:54:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un baile fuera del protocolo, un diluvio sin paraguas y reclamos por el pasado esclavista: la intensa gira de Carlos de III por el Caribe",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-baile-fuera-del-protocolo-un-diluvio-sin-paraguas-y-reclamos-por-el-pasado-esclavista-la-intensa-nid02112026/",
-      "published_date": "2026-11-02T18:49:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carne, ARTI y aranceles: qué se juega Argentina en la relación bilateral",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/carne-arti-y-aranceles-que-se-juega-argentina-en-la-relacion-bilateral/",
-      "published_date": "2026-11-02T18:48:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "¿Trump atacará Irán? Medio Oriente sigue las elecciones en EE.UU. con el temor a una guerra total",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/trump-atacara-iran-medio-oriente-sigue-las-elecciones-en-eeuu-con-el-temor-a-una-guerra-total-nid02112026/",
-      "published_date": "2026-11-02T18:28:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GP Ciudad de México: Verstappen ganó, Antonelli se llevó la gloria y Colapinto cayó al fondo por una sanción",
+      "title": "La SIDE abrió un concurso público para incorporar agentes y Adrián Ravier explicó cómo será el ingreso al organismo",
       "source": "Perfil",
-      "url": "https://perfil.com/deportes/gp-ciudad-de-mexico-verstappen-gano-antonelli-se-llevo-la-gloria-y-colapinto-cayo-al-fondo-por-una-sancion-anHxm9T1wZb4",
-      "published_date": "2026-11-02T17:43:32Z",
-      "category": "Diplomacy"
+      "url": "https://perfil.com/politica/la-side-abrio-un-concurso-publico-para-incorporar-agentes-y-adrian-ravier-explico-como-sera-el-ingreso-al-organismo-armX53s5tsGh",
+      "published_date": "2026-11-03T15:56:11Z",
+      "category": "Military"
     },
     {
-      "title": "Milei y Pedro Sánchez se verán cara a cara en la Cumbre Iberoamericana",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/02/milei-y-pedro-sanchez-se-veran-cara-a-cara-en-la-cumbre-iberoamericana/",
-      "published_date": "2026-11-02T14:56:43Z",
-      "category": "Diplomacy"
+      "title": "Malvinas Argentinas hizo historia como sede de los primeros Juegos Argentinos Urbanos",
+      "source": "Perfil",
+      "url": "https://perfil.com/comercial/malvinas-argentinas-hizo-historia-como-sede-de-los-primeros-juegos-argentinos-urbanos-ailFj2z0P6m5",
+      "published_date": "2026-11-03T15:42:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "La SIDE lanzó una insólita convocatoria para sumar espías en pleno recorte del empleo público",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-side-lanzo-una-convocatoria-para-sumar-espias-en-pleno-recorte-del-empleo-publico-nid03112026/",
+      "published_date": "2026-11-03T14:54:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "La SIDE busca nuevos agentes: qué requisitos pide, cómo son los exámenes y quiénes pueden anotarse",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-side-busca-nuevos-agentes-que-requisitos-pide-como-son-los-examenes-y-quienes-pueden-anotarse/",
+      "published_date": "2026-11-03T13:43:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cabotaje: al oficialismo le faltan firmas y la oposición pide que Defensa intervenga en el proyecto",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/cabotaje-el-oficialismo-le-faltan-firmas-y-la-oposicion-pide-que-defensa-intervenga-en-el-proyecto/",
+      "published_date": "2026-11-03T13:03:07Z",
+      "category": "Military"
     },
     {
       "title": "Al menos 250 periodistas palestinos murieron a manos del Ejército israelí desde 2023",
@@ -249,46 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Javier Milei opinó sobre el tenso cruce entre Santiago Maratea y la China Ansa: “Una emboscada por no ser kuka”",
+      "title": "La televisión estatal iraní difundió un video que explica qué hacer ante un ataque nuclear estadounidense",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-opino-sobre-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-una-emboscada-por-no-nid01112026/",
-      "published_date": "2026-11-01T21:54:31Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/el-mundo/la-television-estatal-irani-difundio-un-video-que-explica-que-hacer-ante-un-ataque-nuclear-nid03112026/",
+      "published_date": "2026-11-03T15:25:27Z",
+      "category": "Energy"
     },
     {
-      "title": "Disturbios en Alemania tras una masiva protesta juvenil contra el servicio militar y los recortes",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/disturbios-en-alemania-tras-una-masiva-protesta-juvenil-contra-el-servicio-militar-y-los-recortes-aWBpS6Z8o6HO",
-      "published_date": "2026-11-01T21:24:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Un terremoto sacudió las islas Sandwich del Sur: el epicentro se registró a más de 100 kilómetros de profundidad",
+      "title": "Juicio por YPF: fuerte lobby en EE.UU. para que la Corte Suprema revise el fallo favorable a la Argentina",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/un-terremoto-sacudio-las-islas-sandwich-del-sur-el-epicentro-se-registro-a-mas-de-100-kilometros-de-nid01112026/",
-      "published_date": "2026-11-01T19:26:16Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/economia/juicio-por-ypf-fuerte-lobby-en-eeuu-para-que-la-corte-suprema-revise-el-fallo-favorable-a-la-nid03112026/",
+      "published_date": "2026-11-03T15:11:50Z",
+      "category": "Energy"
     },
     {
-      "title": "Hindú vs. CASI: el mejor equipo del siglo le impuso su sentido de pertenencia y su intensidad al máximo campeón, un inexperto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/rugby/hindu-vs-casi-el-mejor-equipo-del-siglo-le-impuso-su-sentido-de-pertenencia-y-su-intensidad-al-nid31102026/",
-      "published_date": "2026-11-01T00:46:09Z",
-      "category": "Military"
+      "title": "La otra Vaca Muerta: cómo avanza la nueva “fábrica de dólares” a la que apuestan las petroleras",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-otra-vaca-muerta-como-avanza-la-nueva-fabrica-de-dolares-a-la-que-apuestan-las-petroleras/",
+      "published_date": "2026-11-03T14:04:22Z",
+      "category": "Energy"
     },
     {
-      "title": "Mientras Lali se casaba en San Telmo, la China Suárez organizó una fiesta de Halloween en Nordelta: las fotos del festejo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/mientras-lali-se-casaba-en-san-telmo-la-china-suarez-organizo-una-fiesta-de-halloween-en-nordelta-nid31102026/",
-      "published_date": "2026-10-31T22:51:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Miles de jóvenes protestaron en Alemania por el alto costo de vida",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/10/31/miles-de-jovenes-protestaron-en-alemania-por-el-alto-costo-de-vida/",
-      "published_date": "2026-10-31T22:43:58Z",
-      "category": "Military"
+      "title": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/ypf-cambio-de-escala-el-dato-que-muestra-cuanto-pesa-vaca-muerta-en-su-negocio/",
+      "published_date": "2026-11-03T13:52:59Z",
+      "category": "Energy"
     },
     {
       "title": "Leve repunte de la recaudación",
@@ -403,171 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Se confirmaron los aumentos de luz y gas en el AMBA para noviembre",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/10/30/se-confirmaron-los-aumentos-de-luz-y-gas-en-el-amba-para-noviembre/",
-      "published_date": "2026-10-30T15:13:12Z",
-      "category": "Energy"
+      "title": "¿Tomar café hace mal? Un estudio revela sus riesgos reales y qué vínculo tiene su consumo con las enfermedades cardíacas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/tomar-cafe-hace-mal-un-estudio-revela-sus-riesgos-reales-y-que-vinculo-tiene-su-consumo-con-las-nid03112026/",
+      "published_date": "2026-11-03T18:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Aumentan la luz y el gas en noviembre de 2026: cuánto subirán las facturas y qué pasará con los subsidios",
-      "source": "Perfil",
-      "url": "https://perfil.com/economia/aumentan-la-luz-y-el-gas-en-noviembre-cuanto-subiran-las-tarifas-anbVp2c6aL0M",
-      "published_date": "2026-10-30T13:42:09Z",
-      "category": "Energy"
+      "title": "Champions League, EN VIVO: con Atlético de Madrid vs. Bayern Munich como destacado, el minuto a minuto de la jornada",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid03112026/",
+      "published_date": "2026-11-03T17:56:37Z",
+      "category": "Economy"
     },
     {
-      "title": "Combustibles: el Gobierno volvió a postergar el aumento de impuestos que impactan en la nafta y el gasoil",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/combustibles-el-gobierno-volvio-a-postergar-el-aumento-de-impuestos-que-impactan-en-la-nafta-y-el-gasoil/",
-      "published_date": "2026-10-30T11:07:16Z",
-      "category": "Energy"
+      "title": "Javier Milei y sus medidas, en vivo: Bullrich celebró el anuncio de Caputo para las pymes y se atribuyó la idea",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-no-defendemos-a-israel-por-un-capricho-personal-dijo-el-nid03112026/",
+      "published_date": "2026-11-03T17:54:55Z",
+      "category": "Economy"
     },
     {
-      "title": "Las “YPF” del Pacífico le enseñan a Argentina cómo juntar u$s 200.000 millones para Vaca Muerta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/las-ypf-del-pacifico-le-ensenan-a-argentina-como-juntar-us-200000-millones-para-vaca-muerta/",
-      "published_date": "2026-10-30T09:00:01Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump asegura que EE.UU. tiene \"control total\" sobre Venezuela y 50 % del petróleo mundial",
+      "title": "Arizona comienza a votar con la mira en dos escaños clave que ilusionan a los demócratas",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-asegura-que-ee-uu-tiene-control-total-sobre-venezuela-y-50-del-petroleo-mundial_0_KcXsPJYiMc.html",
-      "published_date": "2026-11-03T03:30:08Z",
+      "url": "https://www.clarin.com/estados-unidos/arizona-comienza-a-votar-con-la-mira-en-dos-escanos-clave-que-ilusionan-a-los-democratas_0_BpMv2ZHIhN.html",
+      "published_date": "2026-11-03T17:40:15Z",
       "category": "Economy"
     },
     {
-      "title": "Lulismo vs. trumpismo: la guerra entre los ejércitos de Milei y los de Massa",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 3 de noviembre, minuto a minuto",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/lulismo-vs-trumpismo-la-guerra-entre-los-ejercitos-de-milei-y-los-de-massa-nid03112026/",
-      "published_date": "2026-11-03T03:05:00Z",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid03112026/",
+      "published_date": "2026-11-03T17:30:26Z",
       "category": "Economy"
     },
     {
-      "title": "La situación económica es la principal preocupación de los jóvenes y afecta su salud mental",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/02/la-situacion-economica-es-la-principal-preocupacion-de-los-jovenes-y-afecta-su-salud-mental/",
-      "published_date": "2026-11-03T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Primeros números del Cyber Monday",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/02/primeros-numeros-del-cyber-monday/",
-      "published_date": "2026-11-03T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El dólar arrancó la semana en alza",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/02/el-dolar-arranco-la-semana-en-alza/",
-      "published_date": "2026-11-03T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump enfrenta un test sobre su gobierno en las elecciones de medio término",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/02/trump-enfrenta-un-test-sobre-su-gobierno-en-las-elecciones-de-medio-termino/",
-      "published_date": "2026-11-03T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La inflación domina el ánimo electoral en EE.UU.",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/02/la-inflacion-domina-el-animo-electoral-en-eeuu/",
-      "published_date": "2026-11-03T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La propuesta final de Ron DeSantis que se vota en Florida y podría cambiar los impuestos a la propiedad de millones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/la-propuesta-final-de-ron-desantis-que-se-vota-en-florida-y-podria-cambiar-los-impuestos-a-la-nid03112026/",
-      "published_date": "2026-11-03T01:37:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Milei redobló su respaldo a Israel y lanzó una advertencia: \"Quienes se meten con Israel, se meten con Occidente\"",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/milei-redoblo-su-respaldo-a-israel-y-lanzo-una-advertencia-quienes-se-meten-con-israel-se-meten-con-occidente-a4IL16d7KjlV",
-      "published_date": "2026-11-03T00:45:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La industria recibe a Caputo: el anuncio clave que se prepara para sostener actividad",
+      "title": "Bullrich celebró el alivio a las PyMEs de Caputo en medio de rumores sobre su continuidad en el bloque",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-industria-recibe-a-caputo-y-espera-un-anuncio-clave-para-sostener-actividad/",
-      "published_date": "2026-11-02T23:33:01Z",
+      "url": "https://www.cronista.com/economia-politica/bullrich-celebro-el-alivio-a-las-pymes-de-caputo-en-medio-de-rumores-sobre-su-continuidad-en-el-bloque/",
+      "published_date": "2026-11-03T17:29:36Z",
       "category": "Economy"
     },
     {
-      "title": "El Renatre ya certificó a 17 empresas por sus prácticas laborales y otras 15 buscan obtener el sello",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/el-renatre-ya-certifico-a-17-empresas-por-sus-practicas-laborales-y-otras-15-buscan-obtener-el-sello-nid02112026/",
-      "published_date": "2026-11-02T22:55:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: la caída del Merval y la desconfianza del mercado pusieron en jaque la recuperación de los activos argentinos",
+      "title": "CAME destacó la suspensión de embargos a las pymes",
       "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdeco-la-caida-del-merval-y-la-desconfianza-del-mercado-pusieron-en-jaque-la-recuperacion-de-los-activos-argentinos-aAvgL7K7eSK8",
-      "published_date": "2026-11-02T22:53:39Z",
+      "url": "https://perfil.com/nea/came-destaco-la-suspension-de-embargos-a-las-pymes-az2ci4l33DEc",
+      "published_date": "2026-11-03T17:20:02Z",
       "category": "Economy"
     },
     {
-      "title": "Las compras del BCRA rondaron los US$ 15.000 millones: en RDEco analizaron el desafío de fortalecer las reservas",
-      "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/las-compras-del-bcra-rondaron-los-us-15.000-millones-en-rdeco-analizaron-el-desafio-de-fortalecer-las-reservas-aabWi7o35miU",
-      "published_date": "2026-11-02T22:50:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: economistas advirtieron sobre los desafíos políticos del sinceramiento cambiario",
-      "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdeco-economistas-advirtieron-sobre-los-desafios-politicos-del-sinceramiento-cambiario-az8NA5T0v1kg",
-      "published_date": "2026-11-02T22:45:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La paradoja de la felicidad que expone Gabriel Rolón: “Podemos alcanzar la faltacidad”",
+      "title": "Cuál es la diferencia entre demócratas y republicanos y por qué cada vez hay más candidatos independientes en USA",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/la-paradoja-de-la-felicidad-que-expone-gabriel-rolon-podemos-alcanzar-la-faltacidad-nid01112026/",
-      "published_date": "2026-11-02T22:39:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/cual-es-la-diferencia-entre-democratas-y-republicanos-y-por-que-cada-vez-hay-mas-candidatos-nid01112026/",
+      "published_date": "2026-11-03T17:19:58Z",
       "category": "Economy"
     },
     {
-      "title": "El ideólogo del “ejército de Lula” se mostró con Massa y con Cristina, mientras el peronismo proyecta un frente nacional anti Milei",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-el-armador-del-ejercito-de-lula-y-proyecta-el-armado-de-un-frente-anti-milei-nid02112026/",
-      "published_date": "2026-11-02T22:30:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Seth Meyer, sobre las midterms y Wall Street: “Los inversores deben mantener la perspectiva”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/seth-meyer-sobre-las-midterms-y-wall-street-los-inversores-deben-mantener-la-perspectiva-nid02112026/",
-      "published_date": "2026-11-02T22:20:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La recaudación tributaria creció 0,7% en octubre y acumuló cuatro meses sin caídas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/la-recaudacion-tributaria-crecio-07-en-octubre-y-acumulo-cuatro-meses-sin-caidas-nid02112026/",
-      "published_date": "2026-11-02T22:13:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La recaudación creció más que la inflación en octubre: qué sectores la impulsaron",
+      "title": "El “impuesto invisible” que acarrean las rutas en mal estado y el plan del Gobierno para reducirlo",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-recaudacion-crecio-mas-que-la-inflacion-en-octubre-que-sectores-la-impulsaron/",
-      "published_date": "2026-11-02T21:09:12Z",
+      "url": "https://www.cronista.com/economia-politica/el-impuesto-invisible-que-acarrean-las-rutas-en-mal-estado-y-el-plan-del-gobierno-para-reducirlo/",
+      "published_date": "2026-11-03T17:05:01Z",
       "category": "Economy"
     },
     {
-      "title": "Contrabando: la recaudación multimillonaria que pierde el Gobierno y los empleos en riesgo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/contrabando-la-recaudacion-multimillonaria-que-pierde-el-gobierno-y-los-empleos-en-riesgo/",
-      "published_date": "2026-11-02T21:00:00Z",
+      "title": "Polémica por una óptica que hizo un video en el que meten a una mujer en una bolsa de consorcio",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/polemica-por-una-optica-que-hizo-un-video-en-el-que-meten-a-una-mujer-en-una-bolsa-de-consorcio-nid03112026/",
+      "published_date": "2026-11-03T16:57:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Conrado Estol, neurólogo: “Cuando la ansiedad no se puede controlar, es importante consultar”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-cuando-la-ansiedad-no-se-puede-controlar-es-importante-consultar-nid03112026/",
+      "published_date": "2026-11-03T16:55:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+      "published_date": "2026-11-03T16:55:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
+      "published_date": "2026-11-03T16:55:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Se aproxima un frente de baja presión que traerá tormentas fuertes, lluvias abundantes, humedad y ráfagas de hasta 85 km: las zonas afectadas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-frente-de-baja-presion-que-traera-tormentas-fuertes-lluvias-abundantes-humedad-y-nid02112026/",
+      "published_date": "2026-11-03T16:53:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Qué anticipan los mercados de predicción sobre las elecciones de medio término Estados Unidos 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/que-anticipan-los-mercados-de-prediccion-sobre-las-elecciones-de-medio-termino-estados-unidos-2026-nid03112026/",
+      "published_date": "2026-11-03T16:53:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Camilo Tiscornia: Por qué Milei, siendo pro mercado, no consigue inversiones, a diferencia de Lula",
+      "source": "Perfil",
+      "url": "https://perfil.com/modo-fontevecchia/camilo-tiscornia-por-que-milei-siendo-pro-mercado-no-consigue-inversiones-a-diferencia-de-lula-aij1H0z6ScBD",
+      "published_date": "2026-11-03T16:18:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Martín Rechimuzzi reveló detalles de su discurso cuando ofició la boda de Lali Espósito y Pedro Rosemblat",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/martin-rechimuzzi-revelo-detalles-de-su-discurso-cuando-oficio-la-boda-de-lali-esposito-y-pedro-rosemblat-aO1xS6H3Oe9W",
+      "published_date": "2026-11-03T16:09:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El dólar toca el valor más alto del año y el riesgo país alcanza máximos desde las elecciones del año pasado",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-se-mantiene-e-los-niveles-de-tension-previos-a-las-elecciones-de-2025-nid03112026/",
+      "published_date": "2026-11-03T16:06:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Llaryora cuestionó el modelo de Milei durante la UIA: “Creer que el mercado lo puede todo es no entender”",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/llaryora-cuestiono-el-modelo-de-milei-durante-la-uia-creer-que-el-mercado-lo-puede-todo-es-no-entender-aqeOv8V3JmKv",
+      "published_date": "2026-11-03T16:05:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La industria pyme advierte que será difícil pagar los aguinaldos: se acelera la pérdida de empleadores",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/la-industria-pyme-advierte-que-sera-dificil-pagar-los-aguinaldos-se-acelera-la-perdida-de-empleadores-ahVrg4F70U5u",
+      "published_date": "2026-11-03T15:57:18Z",
       "category": "Economy"
     },
     {
@@ -578,136 +578,136 @@
       "category": "Local Events"
     },
     {
-      "title": "Se define la Tabla Anual: días y horarios de la última fecha del torneo Clausura, con Boca en busca del título",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/se-define-la-tabla-anual-dias-y-horarios-de-la-ultima-fecha-del-torneo-clausura-con-boca-en-busca-nid03112026/",
-      "published_date": "2026-11-03T03:48:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nosotros",
+      "title": "La historia de amor de Sergio Lapegüe y su esposa Bochi: El encuentro en un boliche, dos bodas y más de tres décadas juntos",
       "source": "Perfil",
-      "url": "https://perfil.com/actualidad/nosotros-aGlsp4l7yBRM",
-      "published_date": "2026-11-03T03:36:37Z",
+      "url": "https://perfil.com/entretenimiento/la-historia-de-amor-de-sergio-lapegue-y-su-esposa-bochi-el-encuentro-en-un-boliche-dos-bodas-y-mas-de-tres-decadas-juntos-a8Cpg9y7mPbw",
+      "published_date": "2026-11-03T18:06:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Maxey lidera a los 76ers en la victoria 126-107 sobre los Bulls, la cuarta seguida",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/maxey-lidera-a-los-76ers-en-la-victoria-126-107-sobre-los-bulls-la-cuarta-seguida_0_t3S4fDTqNW.html",
-      "published_date": "2026-11-03T03:30:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estados Unidos lanzó ataques “defensivos” contra objetivos iraníes en el estrecho de Ormuz",
+      "title": "Pedro Rosemblat reveló la historia detrás del traje que usó para casarse con Lali Espósito y emocionó a todos",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/estados-unidos-lanzo-ataques-defensivos-contra-objetivos-iranies-en-el-estrecho-de-ormuz-nid02112026/",
-      "published_date": "2026-11-03T03:22:29Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/pedro-rosemblat-revelo-la-historia-detras-del-traje-que-uso-para-casarse-con-lali-esposito-y-nid03112026/",
+      "published_date": "2026-11-03T18:02:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Gilgeous-Alexander anota triple decisivo y 43 puntos en triunfo del Thunder 117-112 ante Cavs",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/gilgeous-alexander-anota-triple-decisivo-y-43-puntos-en-triunfo-del-thunder-117-112-ante-cavs_0_t09fVMfIeK.html",
-      "published_date": "2026-11-03T03:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La psicóloga que volvió a la cordillera y convirtió dos hectáreas en una chacra de mieles y flores",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/revista-lugares/la-psicologa-que-volvio-a-la-cordillera-y-convirtio-dos-hectareas-en-una-chacra-de-mieles-y-flores-nid03112026/",
-      "published_date": "2026-11-03T03:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hogar Papa Francisco: cómo será el espacio que busca alojar a 200 personas en situación de calle en Córdoba",
+      "title": "El mensaje de Lionel Messi tras la muerte del futbolista español Jesús de Miguel: \"No hay palabras\"",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/hogar-papa-francisco-como-sera-el-espacio-que-busca-alojar-a-200-personas-en-situacion-de-calle-en-cordoba-awYVp0N3ztGe",
-      "published_date": "2026-11-03T03:14:56Z",
+      "url": "https://perfil.com/entretenimiento/el-mensaje-de-lionel-messi-tras-la-muerte-del-futbolista-espanol-jesus-de-miguel-aLiT35J1j2n7",
+      "published_date": "2026-11-03T18:00:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-3-noviembre-2026_0_EcA6UTcyCS.html",
-      "published_date": "2026-11-03T03:10:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Una mujer de 88 años fue hallada muerta en su casa de Mendoza: sospechan que la atacó su pitbull",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/policiales/mujer-88-anos-hallada-muerta-casa-mendoza-sospechan-ataco-pitbull_0_cSOl5PStDo.html",
-      "published_date": "2026-11-03T03:10:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_o98dunS60u.html",
-      "published_date": "2026-11-03T03:10:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_zuBGrXzOiO.html",
-      "published_date": "2026-11-03T03:10:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_pLWf0HQ9dm.html",
-      "published_date": "2026-11-03T03:10:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La democracia no es un menú que se elige por partes",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/editoriales/la-democracia-no-es-un-menu-que-se-elige-por-partes-nid03112026/",
-      "published_date": "2026-11-03T03:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_HFl7jWgAdM.html",
-      "published_date": "2026-11-03T03:09:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Celia, la mamá de Lionel Messi: \"Me decía que le hablaba a su abuela para que le de fuerzas\"",
+      "title": "Dra. Karina Patane: cirugía torácica, formación y atención centrada en el paciente",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/celia-la-mama-de-lionel-messi-me-decia-que-le-hablaba-a-su-abuela-para-que-le-de-fuerzas-a30BD9L8rJf4",
-      "published_date": "2026-11-03T03:06:17Z",
+      "url": "https://perfil.com/comercial/dra.-karina-patane-cirugia-toracica-formacion-y-atencion-centrada-en-el-paciente-aW45p1g7yRNI",
+      "published_date": "2026-11-03T17:59:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Los desafíos de Lula",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/editoriales/los-desafios-de-lula-nid03112026/",
-      "published_date": "2026-11-03T03:05:00Z",
+      "title": "Raúl Piola, de TecBA: hacia una ciudad más conectada y capaz de anticiparse",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/mundo-cio/raul-piola-de-tecba-hacia-una-ciudad-mas-conectada-y-capaz-de-anticiparse/",
+      "published_date": "2026-11-03T17:58:00Z",
       "category": "Local Events"
     },
     {
-      "title": "El desafío de alcanzar los frutos de la visita papal",
+      "title": "Elecciones en Estados Unidos 2026, EN VIVO: republicanos vs. demócratas y las últimas noticias de cómo quedan la Cámara y el Senado, voto a voto",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/el-desafio-de-alcanzar-los-frutos-de-la-visita-papal-nid03112026/",
-      "published_date": "2026-11-03T03:05:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-estados-unidos-2026-en-vivo-republicanos-vs-democratas-y-las-ultimas-noticias-de-como-nid03112026/",
+      "published_date": "2026-11-03T17:56:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Cartas de lectores: La desinformación, esperanza, gastos",
+      "title": "Fray Juan Antonio Gil Solórzano: “Francisco vio en León a un hombre que busca el bien común y no el interés personal”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-la-desinformacion-esperanza-gastos-nid03112026/",
-      "published_date": "2026-11-03T03:05:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/fray-juan-antonio-gil-solorzano-francisco-vio-en-leon-a-un-hombre-que-busca-el-bien-comun-y-no-el-nid03112026/",
+      "published_date": "2026-11-03T17:54:30Z",
       "category": "Local Events"
     },
     {
-      "title": "El Nobel que se llamó “inútil”",
+      "title": "El provocador mensaje de la Casa Blanca en medio de las elecciones: \"América no pertenece a quienes la odian\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/internacional/el-provocador-mensaje-de-la-casa-blanca-en-medio-de-las-elecciones-america-no-pertenece-a-quienes-la-odian-aB5pG1H1FWt6",
+      "published_date": "2026-11-03T17:53:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quilmes Rock 2027: grandes figuras, homenajes y un nombre “extraño” que llamó la atención",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/el-nobel-que-se-llamo-inutil-nid03112026/",
-      "published_date": "2026-11-03T03:05:00Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/personajes/quilmes-rock-2027-se-anuncio-el-line-up-completo-del-festival-con-grandes-figuras-regresos-y-nid02112026/",
+      "published_date": "2026-11-03T17:50:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milei mandó a el pliego de Rafecas para Casación: el trámite que pone a prueba los tiempos del Senado",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/milei-mando-a-el-pliego-de-rafecas-para-casacion-el-tramite-que-pone-a-prueba-los-tiempos-del-senado/",
+      "published_date": "2026-11-03T17:49:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alerta en Europa: una ola de falsas amenazas de bomba en aviones obligó a aterrizajes de emergencia",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/mundo/alerta-europa-ola-falsas-amenazas-bomba-aviones-obligo-aterrizajes-emergencia_0_lxD7jJCuSB.html",
+      "published_date": "2026-11-03T17:49:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las mejores fotos de las vacaciones en Disney de Pedro Alfonso y Paula Chaves en familia",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/las-mejores-fotos-de-las-vacaciones-en-disney-de-pedro-alfonso-y-paula-chaves-en-familia-atsMI5M91JMj",
+      "published_date": "2026-11-03T17:48:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ante la visita del Papa, crece la presión de la Iglesia y la oposición para que el Senado no deje caer la ley de Ludopatía",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/visita-papa-crece-presion-iglesia-oposicion-senado-deje-caer-ley-ludopatia_0_KKQKaxF7G7.html",
+      "published_date": "2026-11-03T17:48:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lollapalooza Argentina 2027: se confirmó qué artistas tocarán cada día y cuánto cuestan las entradas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/musica/lollapalooza-argentina-2027-se-confirmo-que-artistas-tocaran-cada-dia-y-cuanto-cuestan-las-entradas-nid03112026/",
+      "published_date": "2026-11-03T17:46:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La lista de la selección argentina para los amistosos ante Uruguay y Costa Rica: con regresos y sorpresas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/la-lista-de-la-seleccion-argentina-para-los-amistosos-ante-uruguay-y-costa-rica-con-regresos-y-nid03112026/",
+      "published_date": "2026-11-03T17:45:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cómo van las midterm elections USA 2026: proyecciones en vivo y quién va ganando hoy entre republicanos y demócratas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-midterm-elections-usa-2026-republicanos-democratas-nid03112026/",
+      "published_date": "2026-11-03T17:40:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sin Diego Simeone, Carla Pereyra compartió la emoción de viajar a Jujuy con sus hijas: “Descubrir mi país de la mano de ellas fue el regalo más lindo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/sin-diego-simeone-carla-pereyra-compartio-la-emocion-de-viajar-a-jujuy-con-sus-hijas-descubrir-mi-nid03112026/",
+      "published_date": "2026-11-03T17:38:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi encabeza la venta de camisetas en la MLS: la lista de las más buscadas y una sorpresa “argentina”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/messi-encabeza-la-venta-de-camisetas-en-la-mls-la-lista-de-las-mas-buscadas-y-una-sorpresa-argentina-nid03112026/",
+      "published_date": "2026-11-03T17:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El mercado inmobiliario en Córdoba: qué pasa con los precios de venta y cómo está la oferta de alquileres",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/el-mercado-inmobiliario-en-cordoba-que-pasa-con-los-precios-de-venta-y-como-esta-la-oferta-de-alquileres-aJglI7I9W8rV",
+      "published_date": "2026-11-03T17:36:40Z",
       "category": "Local Events"
     }
   ]
