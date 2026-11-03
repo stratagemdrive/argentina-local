@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:35:10Z",
+  "generated_at": "2026-11-03T03:54:25Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,76 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "EEUU ataca objetivos iraníes en el estrecho de Ormuz, y otras noticias de Oriente Medio",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/eeuu-ataca-objetivos-iranies-en-el-estrecho-de-ormuz-y-otras-noticias-de-oriente-medio_0_lMpPWtYaj3.html",
+      "published_date": "2026-11-03T03:20:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El futuro de Milei se define en Estados Unidos",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/02/el-futuro-de-milei-se-define-en-estados-unidos/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pablo Quirno aseguró que la agenda del Papa en la Argentina “sigue intacta”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
+      "published_date": "2026-11-03T02:58:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Visita del Papa: habrá dos cadenas nacionales y Villarruel estará en el encuentro con Milei",
+      "source": "Perfil",
+      "url": "https://perfil.com/sociedad/visita-del-papa-habra-dos-cadenas-nacionales-y-villarruel-estara-en-el-encuentro-con-milei-aI7hI7w3q0HX",
+      "published_date": "2026-11-03T00:41:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nadia Márquez celebró la visita de Milei a un templo evangélico en Neuquén: \"A lo de AMIA va siempre\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/nadia-marquez-celebro-la-visita-de-milei-a-un-templo-evangelico-en-neuquen-a-lo-de-amia-va-siempre-aBESX4X0uE4z",
+      "published_date": "2026-11-03T00:10:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macri busca recuperar el protagonismo del PRO en medio de la negociación con Milei",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/macri-busca-recuperar-el-protagonismo-del-pro-en-medio-de-la-negociacion-con-milei-aIbOq7F9Z8CU",
+      "published_date": "2026-11-03T00:05:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La ruta aérea argentina que encabeza un ranking mundial por sus turbulencias",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/la-ruta-aerea-argentina-que-encabeza-un-ranking-mundial-por-sus-turbulencias-nid02112026/",
+      "published_date": "2026-11-03T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Las elecciones de EE.UU. le dejan una incógnita a Milei: qué puede cambiar para Argentina",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/las-elecciones-de-eeuu-le-dejan-una-incognita-a-milei-que-puede-cambiar-para-argentina/",
+      "published_date": "2026-11-02T23:37:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La escritora argentina Josefina Licitra gana el Premio de Literatura Sor Juana Inés de la Cruz por la autoficción “Crac”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/cultura/la-escritora-argentina-josefina-licitra-gana-el-premio-de-literatura-sor-juana-ines-de-la-cruz-por-nid02112026/",
+      "published_date": "2026-11-02T22:34:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Vaticano hizo su último control: el mapa de Milei con el León XIV y la invitación de último momento",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-vaticano-hizo-su-ultimo-control-el-mapa-de-milei-con-el-leon-xiv-y-la-invitacion-de-ultimo-momento/",
+      "published_date": "2026-11-02T21:39:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Javier Milei se reunió en la Casa Rosada con el enviado especial de Donald Trump contra el antisemitismo",
       "source": "Clarín",
@@ -81,74 +151,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“¿Por qué no?”: Cristina Kirchner no descartó ser candidata y vaticinó una derrota de Trump",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/02/por-que-no-cristina-kirchner-no-descarto-ser-candidata-y-vaticino-una-derrota-de-trump/",
-      "published_date": "2026-11-02T12:06:27Z",
-      "category": "Diplomacy"
+      "title": "Al menos 250 periodistas palestinos murieron a manos del Ejército israelí desde 2023",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/02/al-menos-250-periodistas-palestinos-murieron-a-manos-del-ejercito-israeli-desde-2023/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Military"
     },
     {
-      "title": "Elecciones en los Estados Unidos: cómo pueden afectar el plan financiero de Milei",
+      "title": "Defensa y Justicia e  Independiente empataron 1-1 con una muy buena actuación de los arqueros",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/defensa-y-justicia-e-independiente-empataron-1-1-con-una-muy-buena-actuacion-de-los-arqueros-nid02112026/",
+      "published_date": "2026-11-03T00:38:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Milei recibió un premio por su apoyo a Israel y volvió a cuestionar a quienes critican su ofensiva contra el terrorismo",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/elecciones-en-los-estados-unidos-como-pueden-afectar-el-plan-financiero-de-milei/",
-      "published_date": "2026-11-02T09:00:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/economia-politica/milei-recibio-un-premio-por-su-apoyo-a-israel-y-volvio-a-cuestionar-a-quienes-critican-su-ofensiva-contra-el-terrorismo/",
+      "published_date": "2026-11-02T23:35:26Z",
+      "category": "Military"
     },
     {
-      "title": "El diagnóstico económico de Lacunza, la metáfora de los “pingüinos y esquimales” y tres cambios que haría como presidente",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lnmas/el-diagnostico-economico-de-lacunza-la-metafora-de-los-pinguinos-y-esquimales-y-tres-cambios-que-nid01112026/",
-      "published_date": "2026-11-02T02:00:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marco Rubio y el nuevo canciller venezolano se reunirán este lunes en Washington",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/marco-rubio-y-el-nuevo-canciller-venezolano-se-reuniran-este-lunes-en-washington_0_MBMpe4dCw3.html",
-      "published_date": "2026-11-02T01:50:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei prepara su viaje a España y coordina la llegada del papa León XIV: las actividades clave de la semana",
+      "title": "Malvinas: el Reino Unido designó un juez ad hoc en la causa por la explotación petrolera de Sea Lion",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/milei-prepara-su-viaje-a-espana-y-coordina-la-llegada-del-papa-leon-xiv-las-actividades-clave-de-la-semana-a9Dxh9f8iyQ8",
-      "published_date": "2026-11-02T00:55:27Z",
-      "category": "Diplomacy"
+      "url": "https://perfil.com/politica/malvinas-el-reino-unido-designo-un-juez-ad-hoc-en-la-causa-por-la-explotacion-petrolera-de-sea-lion-aM2Iq7z8qgsP",
+      "published_date": "2026-11-02T22:46:41Z",
+      "category": "Military"
     },
     {
-      "title": "Fátima Florez, la elegida de la embajada de Estados Unidos: su nuevo trabajo que homenajea a una gloria de ese país",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/fatima-florez-la-elegida-de-la-embajada-de-estados-unidos-su-nuevo-trabajo-que-homenajea-a-una-gloria-de-ese-pais-arvpd0F2QKlE",
-      "published_date": "2026-11-01T22:59:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quién toca en el Movistar Arena hoy: todos los recitales de noviembre 2026 en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-de-noviembre-2026-en-la-argentina-nid01112026/",
-      "published_date": "2026-11-01T19:34:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Superclásico: el picante posteo del expresidente de River, Rodolfo D’Onofrio",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/river-plate/superclasico-el-picante-posteo-del-expresidente-de-river-rodolfo-donofrio-nid01112026/",
-      "published_date": "2026-11-01T19:25:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Karina Milei y Jorge Macri supervisaron los preparativos para la visita del papa León XIV en Palermo",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/karina-milei-y-jorge-macri-supervisaron-los-preparativos-para-la-visita-del-papa-leon-xiv-en-palermo-afqG16n1G5CV",
-      "published_date": "2026-11-01T18:01:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Los celulares que se quedarán sin WhatsApp en noviembre de 2026 en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/los-celulares-que-se-quedaran-sin-whatsapp-en-noviembre-de-2026-en-la-argentina-nid30102026/",
-      "published_date": "2026-11-01T16:31:44Z",
-      "category": "Diplomacy"
+      "title": "Cristina Kirchner se reunió con André Janones, el estratega digital del “Ejército de Lula”",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/02/cristina-kirchner-se-reunio-con-andre-janones-el-estratega-digital-del-ejercito-de-lula/",
+      "published_date": "2026-11-02T21:59:13Z",
+      "category": "Military"
     },
     {
       "title": "Con foco en 2027, el creador del \"ejército digital\" de Lula se reunió con Cristina y con Massa",
@@ -256,39 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Irán lanzó una advertencia a Estados Unidos y amenazó con responder sin límites geográficos ante nuevos ataques",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/iran-lanzo-una-advertencia-a-estados-unidos-y-amenazo-con-responder-sin-limites-geograficos-ante-nuevos-ataques-ak3Ae2g19t9Z",
-      "published_date": "2026-10-31T20:44:01Z",
-      "category": "Military"
+      "title": "Leve repunte de la recaudación",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/02/leve-repunte-de-la-recaudacion/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Energy"
     },
     {
-      "title": "“Buen vuelo, Palo. Misión cumplida”: los halcones despiden a su “numeral de hierro”, el piloto Carlos Rinke",
+      "title": "Sandra Ortega, hija de Amancio, fundador de Zara: abrirá un exclusivo hotel en Portugal con precios de hasta 10.000 euros por noche",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/buen-vuelo-palo-mision-cumplida-los-halcones-despiden-a-su-numeral-de-hierro-el-piloto-carlos-rinke-nid31102026/",
-      "published_date": "2026-10-31T15:52:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "La “guerra” menos pensada: Hello Kitty, en medio de la disputa entre China y Japón",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/la-guerra-menos-pensada-hello-kitty-en-medio-de-la-disputa-entre-china-y-japon/",
-      "published_date": "2026-10-31T15:22:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Guerra en Medio Oriente: el líder supremo de Irán advirtió con atacar a EE.UU. e Israel en cualquier lugar del mundo si es amenazado",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/mundo/guerra-medio-oriente-lider-supremo-iran-advirtio-atacar-eeuu-israel-cualquier-lugar-mundo-amenazado_0_SOqkvCUW8v.html",
-      "published_date": "2026-10-31T15:03:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Noche de Halloween: las mejores películas de terror para ver por streaming",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/noche-de-halloween-las-mejores-peliculas-de-terror-para-ver-por-streaming-nid29102026/",
-      "published_date": "2026-10-31T13:36:32Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/sandra-ortega-hija-de-amancio-fundador-de-zara-abrira-un-exclusivo-hotel-en-portugal-con-precios-de-nid31102026/",
+      "published_date": "2026-11-03T02:37:00Z",
+      "category": "Energy"
     },
     {
       "title": "Hasta $3.400 por viaje: las empresas de colectivos de Chaco preparan un pedido de aumento",
@@ -417,157 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Scania renueva su negocio de buses: lanzó modelos más eficientes de un segmento donde tiene 45% de dominio",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/scania-renueva-su-negocio-de-buses-lanzo-modelos-mas-eficientes-de-un-segmento-donde-tiene-45-de-dominio/",
-      "published_date": "2026-10-29T21:44:07Z",
-      "category": "Energy"
-    },
-    {
-      "title": "“Argentina al palo”: Marín defendió el buffer de YPF y anticipó una sorpresa en la producción de Vaca Muerta para 2027",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/argentina-al-palo-marin-defendio-el-buffer-de-ypf-y-anticipo-una-sorpresa-en-la-produccion-de-vaca-muerta-para-2027/",
-      "published_date": "2026-10-29T20:48:20Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Entre la recesión y el rebote: las señales que anticipan un cambio de ciclo en la economía",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/entre-la-recesion-y-el-rebote-las-senales-que-anticipan-un-cambio-de-ciclo-en-la-economia/",
-      "published_date": "2026-11-02T20:20:59Z",
+      "title": "Trump asegura que EE.UU. tiene \"control total\" sobre Venezuela y 50 % del petróleo mundial",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/trump-asegura-que-ee-uu-tiene-control-total-sobre-venezuela-y-50-del-petroleo-mundial_0_KcXsPJYiMc.html",
+      "published_date": "2026-11-03T03:30:08Z",
       "category": "Economy"
     },
     {
-      "title": "Cuántas tazas de café se pueden tomar por día para no excederse",
+      "title": "Lulismo vs. trumpismo: la guerra entre los ejércitos de Milei y los de Massa",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/cuantas-tazas-de-cafe-se-pueden-tomar-por-dia-para-no-excederse-nid02112026/",
-      "published_date": "2026-11-02T20:00:00Z",
+      "url": "https://www.lanacion.com.ar/politica/lulismo-vs-trumpismo-la-guerra-entre-los-ejercitos-de-milei-y-los-de-massa-nid03112026/",
+      "published_date": "2026-11-03T03:05:00Z",
       "category": "Economy"
     },
     {
-      "title": "Tiene 450 empleados: la UOM se movilizó y advierte sobre más protestas en Pauny, la principal fábrica nacional de tractores",
+      "title": "La situación económica es la principal preocupación de los jóvenes y afecta su salud mental",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/02/la-situacion-economica-es-la-principal-preocupacion-de-los-jovenes-y-afecta-su-salud-mental/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Primeros números del Cyber Monday",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/02/primeros-numeros-del-cyber-monday/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El dólar arrancó la semana en alza",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/02/el-dolar-arranco-la-semana-en-alza/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump enfrenta un test sobre su gobierno en las elecciones de medio término",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/02/trump-enfrenta-un-test-sobre-su-gobierno-en-las-elecciones-de-medio-termino/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La inflación domina el ánimo electoral en EE.UU.",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/02/la-inflacion-domina-el-animo-electoral-en-eeuu/",
+      "published_date": "2026-11-03T03:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La propuesta final de Ron DeSantis que se vota en Florida y podría cambiar los impuestos a la propiedad de millones",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/tension-en-pauny-el-gremio-se-movilizo-y-advierte-sobre-mas-protestas-en-la-principal-fabrica-nid02112026/",
-      "published_date": "2026-11-02T19:57:15Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/la-propuesta-final-de-ron-desantis-que-se-vota-en-florida-y-podria-cambiar-los-impuestos-a-la-nid03112026/",
+      "published_date": "2026-11-03T01:37:00Z",
       "category": "Economy"
     },
     {
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 2 de noviembre, minuto a minuto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid02112026/",
-      "published_date": "2026-11-02T19:52:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El exchange cripto Mercado Bitcoin confirma el hackeo y robo de al menos US$46 millones en Brasil",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/el-exchange-cripto-mercado-bitcoin-confirma-el-hackeo-y-robo-de-al-menos-us46-millones-en-brasil-nid02112026/",
-      "published_date": "2026-11-02T19:33:28Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Elecciones en EE.UU.: las 5 claves que pueden cambiar el rumbo político del país",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/elecciones-en-eeuu-las-5-claves-que-pueden-cambiar-el-rumbo-politico-del-pais/",
-      "published_date": "2026-11-02T19:33:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trabajadores de Pauny coparon la plaza central de Las Varillas por sueldos adeudados",
+      "title": "Milei redobló su respaldo a Israel y lanzó una advertencia: \"Quienes se meten con Israel, se meten con Occidente\"",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/trabajadores-de-pauny-coparon-la-plaza-central-de-las-varillas-por-sueldos-adeudados-aF14M6l7B8sy",
-      "published_date": "2026-11-02T19:17:21Z",
+      "url": "https://perfil.com/politica/milei-redoblo-su-respaldo-a-israel-y-lanzo-una-advertencia-quienes-se-meten-con-israel-se-meten-con-occidente-a4IL16d7KjlV",
+      "published_date": "2026-11-03T00:45:42Z",
       "category": "Economy"
     },
     {
-      "title": "Willy Kohan: “Si Milei no logra reelegir es un problema para la economía, y si lo logra también”",
+      "title": "La industria recibe a Caputo: el anuncio clave que se prepara para sostener actividad",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/la-industria-recibe-a-caputo-y-espera-un-anuncio-clave-para-sostener-actividad/",
+      "published_date": "2026-11-02T23:33:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Renatre ya certificó a 17 empresas por sus prácticas laborales y otras 15 buscan obtener el sello",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/el-renatre-ya-certifico-a-17-empresas-por-sus-practicas-laborales-y-otras-15-buscan-obtener-el-sello-nid02112026/",
+      "published_date": "2026-11-02T22:55:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: la caída del Merval y la desconfianza del mercado pusieron en jaque la recuperación de los activos argentinos",
       "source": "Perfil",
-      "url": "https://perfil.com/modo-fontevecchia/willy-kohan-si-milei-no-logra-reelegir-es-un-problema-para-la-economia-y-si-lo-logra-tambien-ad5211S3LRog",
-      "published_date": "2026-11-02T19:14:53Z",
+      "url": "https://perfil.com/mas-perfil/rdeco-la-caida-del-merval-y-la-desconfianza-del-mercado-pusieron-en-jaque-la-recuperacion-de-los-activos-argentinos-aAvgL7K7eSK8",
+      "published_date": "2026-11-02T22:53:39Z",
       "category": "Economy"
     },
     {
-      "title": "Cuáles son los riesgos para la economía argentina que identifica el BCRA",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/cuales-son-los-riesgos-para-la-economia-argentina-que-identifica-el-bcra-nid02112026/",
-      "published_date": "2026-11-02T19:06:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Se aproxima un frente de baja presión que traerá tormentas fuertes, lluvias abundantes, humedad y ráfagas de hasta 85 km: las zonas afectadas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-frente-de-baja-presion-que-traera-tormentas-fuertes-lluvias-abundantes-humedad-y-nid02112026/",
-      "published_date": "2026-11-02T18:54:09Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Xiaomi presentó su familia Redmi Note 17 en el país, con baterías enormes y la posibilidad de sacar fotos bajo el agua",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/xiaomi-presento-su-familia-redmi-note-17-en-el-pais-con-baterias-enormes-y-la-posibilidad-de-sacar-nid02112026/",
-      "published_date": "2026-11-02T18:41:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilar Sordo, psicóloga, sobre cómo afrontar el dolor: “Es necesario ser dócil”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-como-afrontar-el-dolor-es-necesario-ser-docil-nid02112026/",
-      "published_date": "2026-11-02T18:38:25Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
-      "published_date": "2026-11-02T18:37:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-paradoja-financiera-y-politica-acecha-a-milei-cuales-serian-las-consecuencias-de-una-derrota-de-trump-para-la-argentina/",
-      "published_date": "2026-11-02T18:34:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Humming Airways completó su tercera ronda de inversión y sumará dos aviones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/era-la-preferida-de-sturzenegger-casi-la-funde-un-tero-y-ahora-vuelve-a-despegar-nid02112026/",
-      "published_date": "2026-11-02T18:30:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gustavo Córdoba: \"Los mercados dan por descontada una derrota de Trump\"",
+      "title": "Las compras del BCRA rondaron los US$ 15.000 millones: en RDEco analizaron el desafío de fortalecer las reservas",
       "source": "Perfil",
-      "url": "https://perfil.com/modo-fontevecchia/gustavo-cordoba-los-mercados-dan-por-descontada-una-derrota-de-trump-ab58i9p1vmNJ",
-      "published_date": "2026-11-02T18:27:49Z",
+      "url": "https://perfil.com/mas-perfil/las-compras-del-bcra-rondaron-los-us-15.000-millones-en-rdeco-analizaron-el-desafio-de-fortalecer-las-reservas-aabWi7o35miU",
+      "published_date": "2026-11-02T22:50:01Z",
       "category": "Economy"
     },
     {
-      "title": "“Falsedad absoluta”: Salvador Di Stefano cuestionó una de las ideas más instaladas sobre la inversión",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/falsedad-absoluta-salvador-di-stefano-cuestiono-una-de-las-ideas-mas-instaladas-sobre-la-inversion/",
-      "published_date": "2026-11-02T18:11:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Javkin sobre los subsidios al transporte: \"La discriminación que sufrimos es histórica\"",
+      "title": "RDEco: economistas advirtieron sobre los desafíos políticos del sinceramiento cambiario",
       "source": "Perfil",
-      "url": "https://perfil.com/nea/javkin-sobre-los-subsidios-al-transporte-la-discriminacion-que-sufrimos-es-historica-a4dVA0c3fsXc",
-      "published_date": "2026-11-02T17:35:56Z",
+      "url": "https://perfil.com/mas-perfil/rdeco-economistas-advirtieron-sobre-los-desafios-politicos-del-sinceramiento-cambiario-az8NA5T0v1kg",
+      "published_date": "2026-11-02T22:45:40Z",
       "category": "Economy"
     },
     {
-      "title": "El diagnóstico de un expresidente del Banco Central chileno sobre Argentina: por qué estabilizar la economía no alcanza",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-mirada-de-un-expresidente-del-banco-central-chileno-sobre-argentina-por-que-la-estabilizacion-no-alcanza-y-que-riesgo-ve-en-el-tipo-de-cambio/",
-      "published_date": "2026-11-02T16:37:32Z",
+      "title": "La paradoja de la felicidad que expone Gabriel Rolón: “Podemos alcanzar la faltacidad”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/la-paradoja-de-la-felicidad-que-expone-gabriel-rolon-podemos-alcanzar-la-faltacidad-nid01112026/",
+      "published_date": "2026-11-02T22:39:00Z",
       "category": "Economy"
     },
     {
-      "title": "Juan Martín Sotuyo, de PedidosYa: “En tecnología, los problemas difíciles son los que involucran a las personas”",
+      "title": "El ideólogo del “ejército de Lula” se mostró con Massa y con Cristina, mientras el peronismo proyecta un frente nacional anti Milei",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-el-armador-del-ejercito-de-lula-y-proyecta-el-armado-de-un-frente-anti-milei-nid02112026/",
+      "published_date": "2026-11-02T22:30:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Seth Meyer, sobre las midterms y Wall Street: “Los inversores deben mantener la perspectiva”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/seth-meyer-sobre-las-midterms-y-wall-street-los-inversores-deben-mantener-la-perspectiva-nid02112026/",
+      "published_date": "2026-11-02T22:20:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La recaudación tributaria creció 0,7% en octubre y acumuló cuatro meses sin caídas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/la-recaudacion-tributaria-crecio-07-en-octubre-y-acumulo-cuatro-meses-sin-caidas-nid02112026/",
+      "published_date": "2026-11-02T22:13:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La recaudación creció más que la inflación en octubre: qué sectores la impulsaron",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/infotechnology/mundo-cio/juan-martin-sotuyo-de-pedidosya-en-tecnologia-los-problemas-dificiles-son-los-que-involucran-a-las-personas/",
-      "published_date": "2026-11-02T14:44:20Z",
+      "url": "https://www.cronista.com/economia-politica/la-recaudacion-crecio-mas-que-la-inflacion-en-octubre-que-sectores-la-impulsaron/",
+      "published_date": "2026-11-02T21:09:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Contrabando: la recaudación multimillonaria que pierde el Gobierno y los empleos en riesgo",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/contrabando-la-recaudacion-multimillonaria-que-pierde-el-gobierno-y-los-empleos-en-riesgo/",
+      "published_date": "2026-11-02T21:00:00Z",
       "category": "Economy"
     },
     {
@@ -578,136 +578,136 @@
       "category": "Local Events"
     },
     {
-      "title": "RDC: quién era Nathalia Filgueiras, la joven de 20 años que habría pilotado el avión accidentado en Florida",
+      "title": "Se define la Tabla Anual: días y horarios de la última fecha del torneo Clausura, con Boca en busca del título",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/se-define-la-tabla-anual-dias-y-horarios-de-la-ultima-fecha-del-torneo-clausura-con-boca-en-busca-nid03112026/",
+      "published_date": "2026-11-03T03:48:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nosotros",
       "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdc-quien-era-nathalia-filgueiras-la-joven-de-20-anos-que-habria-pilotado-el-avion-accidentado-en-florida-aAZgX9Q7Ewz4",
-      "published_date": "2026-11-02T20:30:57Z",
+      "url": "https://perfil.com/actualidad/nosotros-aGlsp4l7yBRM",
+      "published_date": "2026-11-03T03:36:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Murió Juan Atkins a los 64 años: el pionero de Detroit que cambió la historia del techno",
+      "title": "Maxey lidera a los 76ers en la victoria 126-107 sobre los Bulls, la cuarta seguida",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/maxey-lidera-a-los-76ers-en-la-victoria-126-107-sobre-los-bulls-la-cuarta-seguida_0_t3S4fDTqNW.html",
+      "published_date": "2026-11-03T03:30:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Estados Unidos lanzó ataques “defensivos” contra objetivos iraníes en el estrecho de Ormuz",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/estados-unidos-lanzo-ataques-defensivos-contra-objetivos-iranies-en-el-estrecho-de-ormuz-nid02112026/",
+      "published_date": "2026-11-03T03:22:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gilgeous-Alexander anota triple decisivo y 43 puntos en triunfo del Thunder 117-112 ante Cavs",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/gilgeous-alexander-anota-triple-decisivo-y-43-puntos-en-triunfo-del-thunder-117-112-ante-cavs_0_t09fVMfIeK.html",
+      "published_date": "2026-11-03T03:20:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La psicóloga que volvió a la cordillera y convirtió dos hectáreas en una chacra de mieles y flores",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/revista-lugares/la-psicologa-que-volvio-a-la-cordillera-y-convirtio-dos-hectareas-en-una-chacra-de-mieles-y-flores-nid03112026/",
+      "published_date": "2026-11-03T03:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hogar Papa Francisco: cómo será el espacio que busca alojar a 200 personas en situación de calle en Córdoba",
       "source": "Perfil",
-      "url": "https://perfil.com/sociedad/murio-juan-atkins-a-los-64-anos-el-pionero-de-detroit-que-cambio-la-historia-del-techno-a50-aludO4A4iNdd",
-      "published_date": "2026-11-02T20:30:26Z",
+      "url": "https://perfil.com/cordoba/hogar-papa-francisco-como-sera-el-espacio-que-busca-alojar-a-200-personas-en-situacion-de-calle-en-cordoba-awYVp0N3ztGe",
+      "published_date": "2026-11-03T03:14:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Fiesta del Cordero Costero 2026 en Mar de Cobo: cuándo es, qué comer y qué artistas se presentan gratis",
+      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-3-noviembre-2026_0_EcA6UTcyCS.html",
+      "published_date": "2026-11-03T03:10:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Una mujer de 88 años fue hallada muerta en su casa de Mendoza: sospechan que la atacó su pitbull",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/policiales/mujer-88-anos-hallada-muerta-casa-mendoza-sospechan-ataco-pitbull_0_cSOl5PStDo.html",
+      "published_date": "2026-11-03T03:10:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_o98dunS60u.html",
+      "published_date": "2026-11-03T03:10:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_zuBGrXzOiO.html",
+      "published_date": "2026-11-03T03:10:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_pLWf0HQ9dm.html",
+      "published_date": "2026-11-03T03:10:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La democracia no es un menú que se elige por partes",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/fiesta-del-cordero-costero-2026-en-mar-de-cobo-cuando-es-que-comer-y-que-artistas-se-presentan-nid02112026/",
-      "published_date": "2026-11-02T20:26:03Z",
+      "url": "https://www.lanacion.com.ar/editoriales/la-democracia-no-es-un-menu-que-se-elige-por-partes-nid03112026/",
+      "published_date": "2026-11-03T03:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "El video y las fotos de Jude Bellingham en ropa interior que prendieron fuego la red",
+      "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_HFl7jWgAdM.html",
+      "published_date": "2026-11-03T03:09:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celia, la mamá de Lionel Messi: \"Me decía que le hablaba a su abuela para que le de fuerzas\"",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/el-video-y-las-fotos-de-jude-bellingham-en-ropa-interior-que-prendieron-fuego-la-red-a6VZf9Y16FAR",
-      "published_date": "2026-11-02T20:23:29Z",
+      "url": "https://perfil.com/entretenimiento/celia-la-mama-de-lionel-messi-me-decia-que-le-hablaba-a-su-abuela-para-que-le-de-fuerzas-a30BD9L8rJf4",
+      "published_date": "2026-11-03T03:06:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Julieta Prandi apuntó contra Juana Viale por haberse burlado de su separación: “No encuentro autoridad moral para que opine”",
+      "title": "Los desafíos de Lula",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/julieta-prandi-apunto-contra-juana-viale-por-haberse-burlado-de-su-separacion-no-encuentro-autoridad-nid02112026/",
-      "published_date": "2026-11-02T20:22:50Z",
+      "url": "https://www.lanacion.com.ar/editoriales/los-desafios-de-lula-nid03112026/",
+      "published_date": "2026-11-03T03:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Premios ADEPA a la excelencia periodística: por duodécimo año consecutivo, LA NACION es el medio con más distinciones",
+      "title": "El desafío de alcanzar los frutos de la visita papal",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/premios-adepa-a-la-excelencia-periodistica-por-duodecimo-ano-consecutivo-la-nacion-es-el-medio-con-nid02112026/",
-      "published_date": "2026-11-02T20:21:55Z",
+      "url": "https://www.lanacion.com.ar/opinion/el-desafio-de-alcanzar-los-frutos-de-la-visita-papal-nid03112026/",
+      "published_date": "2026-11-03T03:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "“Las elecciones de medio término más importantes de nuestra vida”: En su llamado final, Trump dijo que los demócratas quieren elegir “jihadistas y comunistas”",
+      "title": "Cartas de lectores: La desinformación, esperanza, gastos",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/las-elecciones-de-medio-termino-mas-importantes-de-nuestra-vida-en-su-llamado-final-trump-dijo-que-nid02112026/",
-      "published_date": "2026-11-02T20:20:07Z",
+      "url": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-la-desinformacion-esperanza-gastos-nid03112026/",
+      "published_date": "2026-11-03T03:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Ajuste de estatus del DHS y la regla que se aplicará para la residencia permanente en noviembre 2026",
+      "title": "El Nobel que se llamó “inútil”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/ajuste-de-estatus-del-dhs-y-la-regla-que-se-aplicara-para-la-residencia-permanente-en-noviembre-2026-nid02112026/",
-      "published_date": "2026-11-02T20:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ron Letheren, de 103 años: “El cerebro necesita usarse para sobrevivir”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/ron-letheren-de-103-anos-el-cerebro-necesita-usarse-para-sobrevivir-nid02112026/",
-      "published_date": "2026-11-02T20:15:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un DT insultó e increpó a un periodista durante una conferencia tras la derrota de su equipo en Perú",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/un-dt-insulto-e-increpo-a-un-periodista-durante-una-conferencia-tras-la-derrota-de-su-equipo-en-peru-nid02112026/",
-      "published_date": "2026-11-02T20:15:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "RDI: la confusión de Javier Milei con Odiseo y Eliseo despertó una gran cantidad de burlas en redes sociales además de polémica",
-      "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdi-la-confusion-de-javier-milei-con-odiseo-y-eliseo-desperto-una-gran-cantidad-de-burlas-en-redes-sociales-ademas-de-polemica-aZFTa9E2an8W",
-      "published_date": "2026-11-02T20:05:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/",
-      "published_date": "2026-11-02T20:05:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El agro ya liquidó u$s 25.156 millones: qué puede pasar con los dólares hasta fin de año",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-agro-ya-liquido-us-25156-millones-que-puede-pasar-con-los-dolares-hasta-fin-de-ano/",
-      "published_date": "2026-11-02T20:04:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Margarita en Vivo suma una tercera fecha en el Campo Argentino de Polo: cuándo salen a la venta las entradas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/margarita-en-vivo-suma-una-tercera-fecha-en-el-campo-argentino-de-polo-cuando-salen-a-la-venta-las-nid02112026/",
-      "published_date": "2026-11-02T20:04:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Es vergonzoso\": la feroz crítica de la prensa inglesa a Alexis Mac Allister",
-      "source": "Perfil",
-      "url": "https://perfil.com/deportes/es-vergonzoso-la-feroz-critica-de-la-prensa-inglesa-a-alexis-mac-allister-a2bop8W0QvBX",
-      "published_date": "2026-11-02T20:03:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gavier elevó a juicio al empresario Alicio Dagatti por vender carne en mal estado a las cárceles",
-      "source": "Perfil",
-      "url": "https://perfil.com/cordoba/gavier-elevo-a-juicio-al-empresario-alicio-dagatti-por-vender-carne-en-mal-estado-a-las-carceles-ad5pP6q8vQXI",
-      "published_date": "2026-11-02T20:02:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump cerró la campaña con un acto en Washington y advirtió que vetará todo si pierde el Congreso",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/trump-cerro-la-campana-con-un-acto-en-washington-y-advirtio-que-vetara-todo-si-pierde-el-congreso-atpEX3l8xPzS",
-      "published_date": "2026-11-02T20:02:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las últimas encuestas antes de las elecciones de mitad de mandato en EE.UU. entusiasman a los demócratas y preocupan a Trump",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/las-ultimas-encuestas-antes-de-las-elecciones-de-mitad-de-mandato-en-eeuu-entusiasman-a-los-nid02112026/",
-      "published_date": "2026-11-02T20:00:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Partes del avión que se estrelló en Palm Beach se desprendieron antes del impacto, según los investigadores",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/partes-del-avion-que-se-estrello-en-palm-beach-se-desprendieron-antes-del-impacto-segun-los-nid02112026/",
-      "published_date": "2026-11-02T19:55:44Z",
+      "url": "https://www.lanacion.com.ar/opinion/el-nobel-que-se-llamo-inutil-nid03112026/",
+      "published_date": "2026-11-03T03:05:00Z",
       "category": "Local Events"
     }
   ]
