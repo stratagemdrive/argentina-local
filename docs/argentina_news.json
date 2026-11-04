@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:59:52Z",
+  "generated_at": "2026-11-04T18:20:31Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,55 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Mario Riorda: \"En Argentina se va a discutir lo mismo que en las elecciones de EEUU, los problemas económicos y los límites democráticos\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/modo-fontevecchia/mario-riorda-en-argentina-se-va-a-discutir-lo-mismo-que-en-las-eleccions-de-ee.uu-los-problemas-economicos-y-los-limites-democraticos-azPZd2c7YKJP",
+      "published_date": "2026-11-04T17:38:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El embajador de la India recorrió Puerto Quequén",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/transport-cargo/el-embajador-de-la-india-recorrio-puerto-quequen/",
+      "published_date": "2026-11-04T17:25:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei vuelve a España para abrazar a la ultraderecha y ser ignorado por el rey",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/04/milei-vuelve-a-espana-para-abrazar-a-la-ultraderecha-y-ser-ignorado-por-el-rey/",
+      "published_date": "2026-11-04T17:21:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Seguimos trabajando con normalidad”: la definición del banco de EE.UU. que financia proyectos en Argentina",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/seguimos-trabajando-con-normalidad-definicion-del-banco-de-eeuu-que-financia-proyectos-en-argentina/",
+      "published_date": "2026-11-04T17:19:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jorge Tartaglione, médico, alertó sobre el brote que viene por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-alerto-sobre-el-brote-que-viene-por-el-avance-del-super-nino-en-la-nid04112026/",
+      "published_date": "2026-11-04T17:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gigante tecno japonés apuesta a la Argentina: invertirá más de u$s 200 millones y duplicará su planta",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/it-business/gigante-japones-apuesta-a-la-argentina-invertira-mas-de-us-200-millones-y-apunta-a-duplicar-su-planta/",
+      "published_date": "2026-11-04T16:21:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La derrota de Trump enciende alarmas en Milei: costo internacional y fuga del \"voto joven”",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/la-derrota-de-trump-enciende-alarmas-en-milei-costo-internacional-y-fuga-del-voto-joven-avuvT4O8RA75",
+      "published_date": "2026-11-04T15:57:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Franco Colapinto palpitó el GP de Brasil y buscará la revancha en Interlagos",
       "source": "Perfil",
@@ -102,53 +151,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Respaldo de EE.UU.: cómo afectaría al gobierno de Milei si Trump pierde las midterms",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/respaldo-de-eeuu-como-afectaria-al-gobierno-de-milei-si-trump-pierde-las-elecciones-de-medio-termino/",
-      "published_date": "2026-11-03T19:25:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Los distintos tipos de pobreza de la Argentina contemporánea",
-      "source": "Perfil",
-      "url": "https://perfil.com/modo-fontevecchia/los-distintos-tipos-de-pobreza-de-la-argentina-contemporanea-aDexi2q94Jrr",
-      "published_date": "2026-11-03T17:39:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Este es el color de la suerte para cada signo del Zodíaco en noviembre en la Argentina 2026",
+      "title": "Reproches y pases de factura de los republicanos a Trump tras la dura derrota electoral: el sorpresivo mensaje de JD Vance",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/horoscopo/este-es-el-color-de-la-suerte-para-cada-signo-del-zodiaco-en-noviembre-en-la-argentina-2026-nid03112026/",
-      "published_date": "2026-11-03T17:10:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/reproches-y-pases-de-factura-de-los-republicanos-a-trump-tras-la-dura-derrota-electoral-el-nid04112026/",
+      "published_date": "2026-11-04T17:46:23Z",
+      "category": "Military"
     },
     {
-      "title": "Antes de la visita del Papa, empresarios cristianos pidieron construir una “Argentina fraterna”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/antes-de-la-visita-del-papa-empresarios-cristianos-pidieron-construir-una-argentina-fraterna-nid03112026/",
-      "published_date": "2026-11-03T16:37:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Monseñor Braida: “Es una Argentina que padece necesidades y que busca el camino”",
+      "title": "Santiago Caputo se hizo eco de la campaña de reclutamiento de la SIDE",
       "source": "Perfil",
-      "url": "https://perfil.com/nea/monsenor-braida-es-una-argentina-que-padece-necesidades-y-que-busca-el-camino-aNOFU7t8fNra",
-      "published_date": "2026-11-03T16:18:51Z",
-      "category": "Diplomacy"
+      "url": "https://perfil.com/politica/santiago-caputo-se-hizo-eco-de-la-campana-de-reclutamiento-de-la-side-auzDM1s8NP23",
+      "published_date": "2026-11-04T17:31:09Z",
+      "category": "Military"
     },
     {
-      "title": "Funcionarios de Milei viajaron a EE.UU. y el Gobierno blinda su discurso ante una derrota de Trump",
+      "title": "\"Jamás tendría intenciones de hacerle daño a nadie\": la defensa de un jugador argentino a Owono",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/funcionarios-de-milei-viajaron-a-ee.uu.-y-el-gobierno-blinda-su-discurso-ante-una-derrota-de-trump-aDWXY1T5xPnf",
-      "published_date": "2026-11-03T16:10:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un funcionario de Sturzenegger dijo que la Argentina es el país que más avanzó en libertad económica en los últimos dos años",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/un-funcionario-de-sturzenegger-dijo-que-la-argentina-es-el-pais-que-mas-avanzo-en-libertad-economica-nid03112026/",
-      "published_date": "2026-11-03T16:02:47Z",
-      "category": "Diplomacy"
+      "url": "https://perfil.com/deportes/jamas-tendria-intenciones-de-hacerle-dano-a-nadie-la-defensa-de-un-jugador-argentino-a-owono-aK5Gr4v4Vyue",
+      "published_date": "2026-11-04T16:50:39Z",
+      "category": "Military"
     },
     {
       "title": "La inflación y la guerra marcan las elecciones de medio término en EE.UU.",
@@ -270,25 +291,18 @@
       "category": "Military"
     },
     {
-      "title": "Por dónde pasan Defensa y Justicia vs. Independiente y qué canal lo transmite en vivo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-defensa-y-justicia-vs-independiente-y-que-canal-lo-transmite-en-vivo-nid02112026/",
-      "published_date": "2026-11-02T19:00:00Z",
-      "category": "Military"
+      "title": "Pampa Energía inicia la construcción de su planta de fertilizantes y aumenta la producción en Rincón de Aranda",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/04/pampa-energia-inicia-la-construccion-de-su-planta-de-fertilizantes-y-aumenta-la-produccion-en-rincon-de-aranda/",
+      "published_date": "2026-11-04T12:48:48Z",
+      "category": "Energy"
     },
     {
-      "title": "Massa se reunió con el creador del “Ejército de Lula” para importar su estrategia de cara a 2027",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/massa-se-reunio-con-el-creador-del-ejercito-de-lula-para-importar-su-estrategia-de-cara-a-2027-aa42q4O8KVPy",
-      "published_date": "2026-11-02T18:45:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Después de casi un mes internado, Pity Álvarez volvió al juicio, pero se “alteró” y tuvo que ser atendido por dos médicos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/despues-de-casi-un-mes-internado-el-pity-alvarez-volvio-al-estrado-para-declarar-por-el-homicidio-nid02112026/",
-      "published_date": "2026-11-02T18:34:57Z",
-      "category": "Military"
+      "title": "El nuevo beneficio para Pymes que apunta a bajar un costo clave: de qué se trata",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/el-nuevo-beneficio-para-pymes-que-apunta-a-bajar-un-costo-clave-de-que-se-trata/",
+      "published_date": "2026-11-04T12:28:53Z",
+      "category": "Energy"
     },
     {
       "title": "Un supermercado podrá exportar a Europa un subproducto bovino que sirve para fabricar un combustible para los aviones",
@@ -417,157 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "Maíz tardío: el cultivo que desafía los límites y apuesta por la tecnología",
+      "title": "María Elvira Salazar tras las midterms y los resultados en Florida: “Mi Partido Republicano necesita corregir el rumbo en la economía y en la inmigración”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/maiz-tardio-el-cultivo-que-desafia-los-limites-y-apuesta-por-la-tecnologia-nid31102026/",
-      "published_date": "2026-10-31T10:00:00Z",
-      "category": "Energy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/florida/maria-elvira-salazar-tras-las-midterms-y-los-resultados-en-florida-mi-partido-republicano-necesita-nid04112026/",
+      "published_date": "2026-11-04T18:04:32Z",
+      "category": "Economy"
     },
     {
-      "title": "Schwarzenegger propone ampliar la energía nuclear en California para reducir la contaminación",
+      "title": "Peña nombra nuevo director del Banco Central y presenta un proyecto para devolver los ahorros: “Quiero transmitir tranquilidad”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/california/arnold-schwarzenegger-pide-un-giro-en-california-y-propone-ampliar-la-energia-nuclear-para-reducir-nid29102026/",
-      "published_date": "2026-10-31T00:38:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "La derrota de Trump anticipa un mercado inestable que buscará certidumbres",
-      "source": "Perfil",
-      "url": "https://perfil.com/economia/la-derrota-de-trump-anticipa-un-mercado-inestable-que-buscara-certidumbres-avL6g7Q3VPAO",
-      "published_date": "2026-11-04T02:51:11Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/pena-nombra-nuevo-director-del-banco-central-y-presenta-un-proyecto-para-devolver-los-ahorros-quiero-nid04112026/",
+      "published_date": "2026-11-04T18:02:43Z",
       "category": "Economy"
     },
     {
-      "title": "Estados Unidos: los primeros resultados de las legislativas castigan la gestión de Trump",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/04/estados-unidos-los-primeros-resultados-de-las-legislativas-castigan-la-gestion-de-trump/",
-      "published_date": "2026-11-04T02:50:48Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Elecciones en Estados Unidos: el costo de vida y el rechazo a Trump marcan el humor de los votantes, según dos encuestas",
+      "title": "China, de cliente a competidor: qué puede aprender Argentina del caso alemán",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/elecciones-en-estados-unidos-el-costo-de-vida-y-el-rechazo-a-trump-marcan-el-humor-de-los-votantes-segun-dos-encuestas/",
-      "published_date": "2026-11-04T02:34:37Z",
+      "url": "https://www.cronista.com/economia-politica/china-de-cliente-a-competidor-que-puede-aprender-argentina-del-caso-aleman/",
+      "published_date": "2026-11-04T17:58:46Z",
       "category": "Economy"
     },
     {
-      "title": "Las claves del desgaste republicano en las elecciones de medio término",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/las-claves-del-desgaste-republicano-en-las-elecciones-de-medio-termino-aPEI73s4ECYb",
-      "published_date": "2026-11-04T02:31:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El demócrata Phil Weiser gana la elección a gobernador en Colorado",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/el-democrata-phil-weiser-gana-la-eleccion-a-gobernador-en-colorado_0_o2ZkhdXwdz.html",
-      "published_date": "2026-11-04T02:20:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump enfrenta un voto castigo y peligra el control republicano del Congreso",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/trump-enfrenta-un-voto-castigo-y-peligra-el-control-republicano-del-congreso-a5bwN5d2EizG",
-      "published_date": "2026-11-04T01:59:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Gobierno estudia un bono “navideño” para sacar la paritaria docente de la campaña 2027",
-      "source": "Perfil",
-      "url": "https://perfil.com/cordoba/el-gobierno-estudia-un-bono-navideno-para-sacar-la-paritaria-docente-de-la-campana-2027-aoPel5t7pk2V",
-      "published_date": "2026-11-04T01:26:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Riesgo país en picos, dólar en mínimos y (micro) anuncios de Caputo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/riesgo-pais-en-picos-dolar-en-minimos-y-micro-anuncios-de-caputo/",
-      "published_date": "2026-11-04T00:26:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mapa de la Deuda PyME: crece la morosidad y advierten sobre la crisis del sector productivo",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/03/mapa-de-la-deuda-pyme-crece-la-morosidad-y-advierten-sobre-la-crisis-del-sector-productivo/",
-      "published_date": "2026-11-03T23:57:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ex Ciudad Deportiva de Boca: IRSA vendió otro terreno por casi US$9 millones y avanza el proyecto que da al río",
+      "title": "El insólito recorrido de un proyecto de ley que Milei firmó de madrugada y pidió retirar tres días después",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/ex-ciudad-deportiva-de-boca-irsa-vendio-otro-terreno-por-casi-us9-millones-y-ya-suma-21-lotes-nid03112026/",
-      "published_date": "2026-11-03T23:45:00Z",
+      "url": "https://www.lanacion.com.ar/politica/el-insolito-recorrido-de-un-proyecto-de-ley-que-milei-firmo-de-madrugada-y-pidio-retirar-tres-dias-nid04112026/",
+      "published_date": "2026-11-04T17:45:14Z",
       "category": "Economy"
     },
     {
-      "title": "Gianfranco Macri, empresario: “Quiero hacer la versión reloaded del Buenos Aires Golf en Punta del Este”",
+      "title": "RDC: Después del Brexit, Londres negocia un acercamiento con Bruselas para aliviar el costo de vida",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdc-despues-del-brexit-londres-negocia-un-acercamiento-con-bruselas-para-aliviar-el-costo-de-vida-aKquX5w67J0z",
+      "published_date": "2026-11-04T17:40:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El mensaje que Chano escribió hace 15 años y que pronosticó un éxito de Tan Biónica: “La cantaré ad eternum”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/gianfranco-macri-empresario-quiero-hacer-la-version-reloaded-del-buenos-aires-golf-en-punta-del-este-nid03112026/",
-      "published_date": "2026-11-03T23:34:00Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/el-tuit-que-chano-escribio-hace-15-anos-y-que-pronostico-un-hit-de-tan-bionica-la-cantare-ad-eternum-nid04112026/",
+      "published_date": "2026-11-04T17:33:16Z",
       "category": "Economy"
     },
     {
-      "title": "Bullrich muestra los dientes y amenaza a Milei con bloquearle el Congreso",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/03/bullrich-muestra-los-dientes-y-amenaza-a-milei-con-bloquearle-el-congreso/",
-      "published_date": "2026-11-03T23:33:36Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Georgieva sugiere “cortarle la cabeza” al populismo",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/04/hay-que-cortarle-la-cabeza-al-populismo/",
-      "published_date": "2026-11-03T23:28:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "RDEco: Pablo Blanco advierte que la deuda privada en Argentina apenas supera el 9% del PBI y el crédito sigue sin despegar",
+      "title": "Los Kovalivker se desligaron de la causa ANDIS y no respondieron las preguntas del fiscal",
       "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdeco-pablo-blanco-advierte-que-la-deuda-privada-en-argentina-apenas-supera-el-9-del-pbi-y-el-credito-sigue-sin-despegar-aS48i0t0JVV7",
-      "published_date": "2026-11-03T23:01:09Z",
+      "url": "https://perfil.com/politica/los-kovalivker-se-desligaron-de-la-causa-andis-y-no-respondieron-las-preguntas-del-fiscal-aWcPR5z3mGiH",
+      "published_date": "2026-11-04T17:31:36Z",
       "category": "Economy"
     },
     {
-      "title": "Presidente del banco central de Paraguay presenta renuncia tras crisis por Ueno Bank",
+      "title": "Previsión Social, Economía, Conmebol y empresas argentinas: uno por uno, los afectados por el colapso de Ueno Bank en Paraguay",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/prevision-social-economia-conmebol-y-empresas-argentinas-uno-por-uno-los-afectados-por-el-colapso-de-nid04112026/",
+      "published_date": "2026-11-04T17:20:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 4 de noviembre, minuto a minuto",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04112026/",
+      "published_date": "2026-11-04T17:20:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mercado Libre inauguró en Escobar su centro logístico más grande del país",
       "source": "Perfil",
-      "url": "https://perfil.com/economia/presidente-del-banco-central-de-paraguay-presenta-renuncia-tras-crisis-por-ueno-bank-a2y491Y4k4Dq",
-      "published_date": "2026-11-03T22:58:44Z",
+      "url": "https://perfil.com/comercial/mercado-libre-inauguro-en-escobar-su-centro-logistico-mas-grande-del-pais-ahlHE1I00Nd9",
+      "published_date": "2026-11-04T17:18:33Z",
       "category": "Economy"
     },
     {
-      "title": "RDEco: cuánto puede profundizarse la dolarización antes de las elecciones de 2027",
-      "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/rdeco-cuanto-puede-profundizarse-la-dolarizacion-antes-de-las-elecciones-de-2027-aTJ4Q5u8jSl2",
-      "published_date": "2026-11-03T22:57:30Z",
+      "title": "Caputo aseguró que la derrota de Trump no cambia la relación con Estados Unidos y defendió el nivel del dólar",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/caputo-aseguro-que-la-derrota-de-trump-no-cambia-la-relacion-con-estados-unidos-y-defendio-el-nivel-nid04112026/",
+      "published_date": "2026-11-04T17:08:49Z",
       "category": "Economy"
     },
     {
-      "title": "Vuelve la tensión a los mercados",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/03/vuelve-la-tension-a-los-mercados/",
-      "published_date": "2026-11-03T22:40:12Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Proyectan una flota mundial de 3460 aviones cargueros para 2045",
+      "title": "Caputo rechazó una devaluación y un “plan platita”: su receta para enfrentar el 2027",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/transport-cargo/proyectan-una-flota-mundial-de-3460-aviones-cargueros-para-2045/",
-      "published_date": "2026-11-03T22:00:00Z",
+      "url": "https://www.cronista.com/economia-politica/caputo-rechazo-una-devaluacion-y-planteo-su-receta-para-enfrentar-el-2027/",
+      "published_date": "2026-11-04T17:07:22Z",
       "category": "Economy"
     },
     {
-      "title": "Pettovello descartó críticas del Papa: uno por uno, los temas sensibles que la visita pone sobre la mesa",
+      "title": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
+      "published_date": "2026-11-04T17:01:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+      "published_date": "2026-11-04T17:00:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Daniel Rosato cuestionó las medidas de Luis Caputo para reactivar la actividad de las PyMEs: “No es suficiente”",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/daniel-rosato-cuestiono-las-medidas-de-luis-caputo-para-reactivar-la-actividad-de-las-pymes-no-es-suficiente-aPnRy3O9LBOF",
+      "published_date": "2026-11-04T16:54:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Corralito en Paraguay: similitudes y diferencias con el 2001 argentino",
+      "source": "Perfil",
+      "url": "https://perfil.com/modo-fontevecchia/corralito-en-paraguay-similitudes-y-diferencias-con-el-2001-argentino-aGqtR7S9p43v",
+      "published_date": "2026-11-04T16:42:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Caso $LIBRA: Casación evalúa el recurso de queja de dos inversores y la causa volvería a tener querellantes",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/pettovello-descarto-criticas-del-papa-uno-por-uno-los-temas-sensibles-del-gobierno-que-avecinan-la-visita/",
-      "published_date": "2026-11-03T21:25:19Z",
+      "url": "https://www.cronista.com/economia-politica/caso-libra-casacion-admitio-a-dos-querellantes-y-podria-reactivarse-la-causa/",
+      "published_date": "2026-11-04T16:38:55Z",
       "category": "Economy"
     },
     {
-      "title": "Caputo ofrece cuidados paliativos a una industria en terapia",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/03/caputo-ofrece-cuidados-paliativos-a-una-industria-en-terapia/",
-      "published_date": "2026-11-03T21:00:47Z",
+      "title": "Planes de pago de ARCA para empresas: quiénes podrán acceder tras el anuncio de Caputo",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/planes-de-pago-de-arca-para-empresas-quienes-podran-acceder-tras-el-anuncio-de-caputo/",
+      "published_date": "2026-11-04T16:36:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Que pasó con el Ueno Bank en Paraguay y qué sucederá con los ahorros de casi 3 millones de clientes",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/que-paso-con-el-ueno-bank-en-paraguay-y-que-sucedera-con-los-ahorros-de-casi-3-millones-de-clientes-akRIu5P10Qk5",
+      "published_date": "2026-11-04T16:32:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Causa $LIBRA: Casación revisará si dos inversores pueden ser querellantes tras el sobreseimiento de Milei",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/causa-libra-casacion-revisara-si-dos-inversores-pueden-ser-querellantes-tras-el-sobreseimiento-de-milei-aAvFc6E5l9uC",
+      "published_date": "2026-11-04T16:31:32Z",
       "category": "Economy"
     },
     {
@@ -578,136 +578,136 @@
       "category": "Local Events"
     },
     {
-      "title": "El deseo de Reid Wiseman, comandante de Artemis II, para nuevas misiones: “Estoy ansioso por ver a mis amigos continuar este legado”",
+      "title": "Cómo quedaron las midterm elections USA 2026: resultado final y quién ganó entre republicanos y demócratas",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-deseo-de-reid-wiseman-comandante-de-artemis-ii-para-nuevas-misiones-estoy-ansioso-por-ver-a-mis-nid01112026/",
-      "published_date": "2026-11-04T02:53:00Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-midterm-elections-usa-2026-republicanos-democratas-nid03112026/",
+      "published_date": "2026-11-04T18:14:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Quién ganó las elecciones en Florida 2026 y resultados de las midterms en Miami, Orlando y Tampa",
+      "title": "Champions League, en vivo: nueve partidos en Europa, minuto a minuto",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/quien-gano-las-elecciones-en-florida-2026-y-resultados-de-las-midterms-en-miami-orlando-y-tampa-nid03112026/",
-      "published_date": "2026-11-04T02:52:15Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid04112026/",
+      "published_date": "2026-11-04T18:14:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Quién es Byron Donalds, el aliado de Trump, que ganó las elecciones en Florida y será el próximo gobernador",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/byron-donalds-el-aliado-de-trump-gano-las-elecciones-en-florida-y-sera-el-proximo-gobernador-nid03112026/",
-      "published_date": "2026-11-04T02:50:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conrado Estol, médico: “Tener 75 años no significa quedarse mirando televisión todo el día, hay que mantenerse activo”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-medico-tener-75-anos-no-significa-quedarse-mirando-television-todo-el-dia-hay-que-nid02112026/",
-      "published_date": "2026-11-04T02:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los demócratas se perfilan como favoritos para arrebatarle a Trump el control del Congreso",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/los-democratas-se-perfilan-como-favoritos-para-arrebatarle-a-trump-el-control-del-congreso-nid03112026/",
-      "published_date": "2026-11-04T02:48:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jorge Rial opinó sobre las colectas que realizó Santiago Maratea: \"Se convirtieron en algo oscuro\"",
+      "title": "¿Margarita llega a Córdoba? Mora Bianchi, su protagonista, dejó abierta la posibilidad",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/jorge-rial-opino-sobre-las-colectas-que-realizo-santiago-maratea-se-convirtieron-en-algo-oscuro-a5lPS2Y2L3Ty",
-      "published_date": "2026-11-04T02:47:38Z",
+      "url": "https://perfil.com/cordoba/margarita-llega-a-cordoba-mora-bianchi-su-protagonista-dejo-abierta-la-posibilidad-aa5C90W0xmQx",
+      "published_date": "2026-11-04T18:12:53Z",
       "category": "Local Events"
     },
     {
-      "title": "El candidato musulmán que busca hacer historia en el Senado y los otros hitos que pueden marcar las elecciones en EE.UU.",
+      "title": "Gavin Newsom sobre Becerra, el nuevo gobernador electo: “Hijo de inmigrantes, un producto del sueño californiano que enfrentará a Trump”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/el-candidato-musulman-que-busca-hacer-historia-en-el-senado-y-los-otros-hitos-que-pueden-marcar-las-nid03112026/",
-      "published_date": "2026-11-04T02:46:19Z",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/gavin-newsom-sobre-becerra-el-nuevo-gobernador-electo-hijo-de-inmigrantes-un-producto-del-sueno-nid04112026/",
+      "published_date": "2026-11-04T18:11:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Lejos del teatro, Benjamín Vicuña anunció su nuevo proyecto que lo conecta con sus raíces",
+      "title": "Quién ganó las elecciones en Los Ángeles 2026: resultados de la alcaldía entre Karen Bass y Nithya Raman",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/california/quien-gana-las-elecciones-en-los-angeles-2026-karen-bass-o-nithya-raman-nid04112026/",
+      "published_date": "2026-11-04T18:10:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quién ganó las elecciones en Nueva York 2026: Kathy Hochul fue reelecta gobernadora y Mamdani celebra",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/quien-gano-las-elecciones-en-nueva-york-2026-kathy-hochul-fue-reelecta-gobernadora-nid03112026/",
+      "published_date": "2026-11-04T18:08:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El antiguo penthouse de Lady Gaga en Nueva York se vende por casi US$7 millones y antes alojó a otras dos estrellas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/famosos/el-antiguo-penthouse-de-lady-gaga-en-nueva-york-se-vende-por-casi-us7-millones-y-antes-alojo-a-otras-nid04112026/",
+      "published_date": "2026-11-04T18:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tomás Etcheverry puso la cara por el tenis argentino en el Masters de París con gran victoria sobre Álex de Miñaur",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/lejos-del-teatro-benjamin-vicuna-anuncio-su-nuevo-proyecto-que-lo-conecta-con-sus-raices-axTvv8E7QQMI",
-      "published_date": "2026-11-04T02:42:07Z",
+      "url": "https://perfil.com/deportes/tomas-etcheverry-metio-un-triunfazo-ante-alex-de-minaur-en-el-masters-de-paris-a9DD50V1cMXk",
+      "published_date": "2026-11-04T18:04:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Así está hoy Pía, la hija de Ángel Di María y Jorgelina Cardoso, que cumple 9 años",
+      "title": "El escándalo del banco digital Ueno ligado a Santiago Peña amenaza la reputación de Paraguay como polo de inversiones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-escandalo-de-un-banco-digital-ligado-al-presidente-amenaza-la-reputacion-de-paraguay-como-polo-de-nid03112026/",
+      "published_date": "2026-11-04T18:03:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nicole Vignola, neurocientífica: “Modificar hábitos implica alterar la idea que alguien tiene sobre sí mismo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/salud/nicole-vignola-neurocientifica-modificar-habitos-implica-alterar-la-idea-que-alguien-tiene-sobre-si-nid04112026/",
+      "published_date": "2026-11-04T18:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qué dijo Jesús Owono tras la muerte de Jesús de Miguel",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/que-dijo-jesus-owono-tras-la-muerte-de-jesus-de-miguel-nid04112026/",
+      "published_date": "2026-11-04T18:02:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El dueño de Don Julio conquista Manhattan: el New York Times destacó a Graciela, el bodegón de Pablo Rivero en el West Village",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/revista-lugares/el-dueno-de-don-julio-conquista-manhattan-el-new-york-times-destaco-a-graciela-el-bodegon-de-pablo-nid04112026/",
+      "published_date": "2026-11-04T18:01:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quiénes son los 10 empresarios convocados para recibir al Papa León XIV",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/asi-esta-hoy-pia-la-hija-de-angel-di-maria-y-jorgelina-cardoso-que-cumple-9-anos-amxgR4S8c9zT",
-      "published_date": "2026-11-04T02:38:05Z",
+      "url": "https://perfil.com/economia/quienes-son-los-10-empresarios-convocados-para-recibir-al-papa-leon-xiv-a5VOi9W87Duu",
+      "published_date": "2026-11-04T18:00:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Stephanie Demner mostró el increíble parecido de sus hijas, Arianna y Jazmín: “Copy Paste”",
+      "title": "Noviembre en streaming: un homenaje con aire de thriller, las desventuras de un grupo de amigos y una familia frente a una conspiración",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/noviembre-en-streaming-un-homenaje-con-aire-de-thriller-las-desventuras-de-un-grupo-de-amigos-y-una-nid04112026/",
+      "published_date": "2026-11-04T18:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Señales",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/04/senales/",
+      "published_date": "2026-11-04T17:59:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fernán Mirás fue el padrastro de Violeta Urtizberea: cómo fue el romance de su mamá, Gabriela Ferreyra, con el actor",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/stephanie-demner-mostro-el-increible-parecido-de-sus-hijas-arianna-y-jazmin-copy-paste-arxXY4P8yuL1",
-      "published_date": "2026-11-04T02:37:39Z",
+      "url": "https://perfil.com/entretenimiento/fernan-miras-fue-el-padrastro-de-violeta-urtizberea-como-fue-el-romance-de-su-mama-gabriela-ferreyra-con-el-actor-aVinp0Y0fI5W",
+      "published_date": "2026-11-04T17:54:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Haas confirmó la salida de Esteban Ocon y anunció a su reemplazante",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/automovilismo/haas-confirmo-la-salida-de-esteban-ocon-y-anuncio-a-su-reemplazante-nid03112026/",
-      "published_date": "2026-11-04T02:37:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adiós, Ron DeSantis: se confirma el último día de trabajo del gobernador de Florida después de las elecciones 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/adios-ron-desantis-cuando-es-el-ultimo-dia-de-trabajo-del-gobernador-de-florida-nid03112026/",
-      "published_date": "2026-11-04T02:36:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los demócratas arrebatan una banca clave en Carolina del Norte en su camino a quedarse con la mayoría en el Congreso",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/los-democratas-arrebatan-una-banca-clave-en-carolina-del-norte-en-su-camino-a-quedarse-con-la-nid03112026/",
-      "published_date": "2026-11-04T02:35:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Demi Moore deslumbró con un vestido de jean: la mente maestra detrás de un look que se volvió viral",
+      "title": "Ángel de Brito dio indicios de cómo será la grilla de América TV en el 2027: quiénes siguen en el canal",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/demi-moore-deslumbro-con-un-vestido-de-jean-la-mente-maestra-detras-de-un-look-que-se-volvio-viral-atVYB0m4u4Ck",
-      "published_date": "2026-11-04T02:33:25Z",
+      "url": "https://perfil.com/entretenimiento/angel-de-brito-dio-indicios-de-como-sera-la-grilla-de-america-tv-en-el-2027-quienes-siguen-en-el-canal-aT4sp2S1VuGy",
+      "published_date": "2026-11-04T17:50:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Resultados en vivo de las elecciones en Florida: Donalds le gana a Jolly y reemplazará a DeSantis",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/resultados-de-las-elecciones-en-florida-quien-gana-entre-byron-donalds-y-david-jolly-nid03112026/",
-      "published_date": "2026-11-04T02:30:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aurora Figueras brilla con su estilo vintage: tapado de piel, botas y accesorios protagonista",
+      "title": "“Los turnos de servicio son de seis horas”: cómo se preparan los 8.000 voluntarios para recibir a León XIV",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/aurora-figueras-brilla-con-su-estilo-vintage-tapado-de-piel-botas-y-accesorios-protagonista-alrvT5H5cGD0",
-      "published_date": "2026-11-04T02:30:23Z",
+      "url": "https://perfil.com/cordoba/los-turnos-de-servicio-son-de-seis-horas-como-se-preparan-los-8.000-voluntarios-para-recibir-a-leon-xiv-azCN12W9B9XF",
+      "published_date": "2026-11-04T17:50:22Z",
       "category": "Local Events"
     },
     {
-      "title": "De dónde son los padres de Byron Donalds, el candidato de Trump para Florida: su verdadero origen y antecedentes migrantes",
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/de-donde-son-los-padres-de-byron-donalds-el-candidato-de-trump-para-florida-su-verdadero-origen-y-nid07022026/",
-      "published_date": "2026-11-04T02:30:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resultados en vivo de las elecciones en Estados Unidos: cómo van las legislativas de medio término 2026",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/washington/resultados-en-vivo-de-las-elecciones-en-estados-unidos-como-van-las-legislativas-de-medio-termino-nid03112026/",
-      "published_date": "2026-11-04T02:29:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qué se sabe de los resultados de las elecciones de Estados Unidos 2026 hoy, martes 3 de noviembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/washington/que-se-sabe-de-los-resultados-de-las-elecciones-de-estados-unidos-2026-hoy-martes-3-de-noviembre-nid03112026/",
-      "published_date": "2026-11-04T02:28:51Z",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
+      "published_date": "2026-11-04T17:50:00Z",
       "category": "Local Events"
     }
   ]
