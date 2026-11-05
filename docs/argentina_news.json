@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:22:10Z",
+  "generated_at": "2026-11-05T18:24:37Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,125 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+      "published_date": "2026-11-05T18:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei saludó a Sánchez en la Cumbre Iberoamericana de Madrid y luego atacó al socialismo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/milei-saludo-a-sanchez-en-la-cumbre-iberoamericana-de-madrid-y-luego-ataco-al-socialismo-nid05112026/",
+      "published_date": "2026-11-05T18:02:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La caída de Ueno Bank se siente en Argentina: más de 900 trabajadores quedaron en la calle",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/05/la-caida-de-ueno-bank-se-siente-en-argentina-mas-de-900-trabajadores-quedaron-en-la-calle/",
+      "published_date": "2026-11-05T17:51:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AmCham advierte que la nueva conformación del Congreso de EE.UU. condicionaría el apoyo financiero a la Argentina",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/amcham-advierte-que-la-nueva-conformacion-del-congreso-de-ee.uu.-condicionaria-el-apoyo-financiero-a-la-argentina-apxaX9H3t12S",
+      "published_date": "2026-11-05T17:45:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina sigue siendo el país que más recursos le extrae al campo: la carga equivale al 13,5% de sus ingresos",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/rural/argentina-sigue-pais-recursos-extrae-campo-carga-equivale-135-ingresos_0_HNI2Y8MY44.html",
+      "published_date": "2026-11-05T17:38:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Papa León XIV en la Argentina: el médico Jorge Tartaglione explicó cómo influye la fe en la salud",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-el-medico-jorge-tartaglione-explico-como-influye-la-fe-en-la-salud-nid05112026/",
+      "published_date": "2026-11-05T17:04:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Karina Milei habló de la reelección de Milei junto a la senadora Nadia Márquez y tensa la interna con Bullrich",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/karina-milei-hablo-de-la-reeleccion-de-milei-junto-a-la-senadora-nadia-marquez-y-tensa-la-interna-con-bullrich-aOI5p0f9DAad",
+      "published_date": "2026-11-05T15:56:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La derrota de Trump también es un problema para Milei",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/la-derrota-de-trump-tambien-es-un-problema-para-milei-aI94S0a4mjYb",
+      "published_date": "2026-11-05T15:28:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gremios de la Marina Mercante argentina se declararon en alerta y movilización",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/transport-cargo/gremios-de-la-marina-mercante-argentina-se-declararon-en-alerta-y-movilizacion/",
+      "published_date": "2026-11-05T14:52:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Unicornio de IA puso la lupa sobre las empresas argentinas y detectó cuál es el verdadero reto que enfrentan hoy",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/it-business/unicornio-de-ia-puso-la-lupa-sobre-las-empresas-argentinas-y-detecto-cual-es-el-verdadero-reto-que-enfrentan-hoy/",
+      "published_date": "2026-11-05T14:47:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Llegaron a la Argentina los auriculares que ganaron un récord Guinness",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/infotechnology/gadgets/llegaron-a-la-argentina-los-auriculares-que-ganaron-un-record-guinness/",
+      "published_date": "2026-11-05T14:46:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Educación y capacitación en el foco de Puerto Dock Sud",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/transport-cargo/educacion-y-capacitacion-en-el-foco-de-puerto-dock-sud/",
+      "published_date": "2026-11-05T14:42:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quién es la argentina que liderará la nueva estrategia de Pinterest en el país y la región",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/negocios/quien-es-la-argentina-que-liderara-la-nueva-estrategia-de-pinterest-en-el-pais-y-la-region/",
+      "published_date": "2026-11-05T13:34:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Advertencia de EE.UU. a Milei: con un Congreso dividido, será más difícil que el FMI salga al rescate",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/advertencia-de-eeuu-a-milei-con-un-gobierno-dividido-sera-mas-dificil-que-el-fmi-salga-al-rescate/",
+      "published_date": "2026-11-05T13:32:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sergio Uñac habló en La Rioja de la Argentina que viene tras el gobierno de Milei",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/05/sergio-unac-hablo-en-la-rioja-de-la-argentina-que-viene-tras-el-gobierno-de-milei/",
+      "published_date": "2026-11-05T11:37:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mientras digiere la derrota de Trump, Milei retomó su campaña contra Pedro Sánchez en España",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/05/mientras-digiere-la-derrota-de-trump-milei-retomo-su-campana-contra-pedro-sanchez-en-espana/",
+      "published_date": "2026-11-05T10:55:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tras llamarlo “impresentable dictador” y “delincuente”, Milei se vio cara a cara con Pedro Sánchez",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/tras-llamarlo-impresentable-dictador-y-delincuente-milei-se-vio-cara-a-cara-con-pedro-sanchez/",
+      "published_date": "2026-11-05T10:36:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nivelar hacia arriba: la oportunidad de jerarquizar la carrera docente",
       "source": "La Nación",
@@ -29,125 +148,6 @@
       "source": "Página/12 — El País",
       "url": "https://www.pagina12.com.ar/2026/11/05/milei-viajo-pero-no-estuvo-ni-en-la-foto/",
       "published_date": "2026-11-05T03:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el Presidente le envió un mensaje al papa León XIV antes de su viaje a la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-      "published_date": "2026-11-05T02:13:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina Week 2027: Milei prepara su regreso a Nueva York, donde estalló el escándalo de Adorni",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/argentina-week-2027-milei-prepara-su-regreso-a-nueva-york-donde-estallo-el-escandalo-de-adorni-aIzUK3i2xTUV",
-      "published_date": "2026-11-05T02:01:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Encuesta: La mayoría de los argentinos cree que la derrota de Trump afecta las chances de reelección de Milei en 2027",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/encuesta-la-mayoria-de-los-argentinos-cree-que-la-derrota-de-trump-afecta-las-chances-de-reeleccion-de-milei-en-2027-aRm9F4V9gjzM",
-      "published_date": "2026-11-05T01:42:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Con el ánimo golpeado por EE.UU. y tras solo una foto con Abascal, Milei lleva su agenda libertaria a la Cumbre Iberoamericana en España",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/con-el-animo-golpeado-por-ee.uu.-y-tras-solo-una-foto-con-abascal-milei-lleva-su-agenda-libertaria-a-la-cumbre-iberoamericana-en-espana-a8dyp8S5XjF5",
-      "published_date": "2026-11-05T00:59:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei faltó a la apertura de la Cumbre Iberoamericana y no fue a la gala de los reyes, pero se reunió con Abascal",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-llega-otra-vez-a-espana-y-pidio-reunirse-con-el-rey-nid04112026/",
-      "published_date": "2026-11-05T00:49:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ADIMRA y Messe Frankfurt Argentina firmaron un convenio para promocionar la industria metalúrgica",
-      "source": "Perfil",
-      "url": "https://perfil.com/economia/adimra-y-messe-frankfurt-argentina-firmaron-un-convenio-para-promocionar-la-industria-metalurgica-ayE9h3V4IHQm",
-      "published_date": "2026-11-04T23:12:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El papa León XIV recibió a Bob Dylan en el Vaticano previo a su viaje a la Argentina",
-      "source": "Perfil",
-      "url": "https://perfil.com/protagonistas/el-papa-leon-xiv-recibio-a-bob-dylan-en-el-vaticano-a50-bgd-a1zm68m2V0Q8",
-      "published_date": "2026-11-04T22:44:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tras dos derrotas consecutivas de aliados, Milei se vuelve a involucrar en la campaña de España",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/tras-dos-derrotas-consecutivas-de-aliados-milei-se-vuelve-a-involucrar-en-la-campana-de-espana/",
-      "published_date": "2026-11-04T21:40:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La tesis de Goyburu sobre el revés electoral de Trump: qué puede pasar con el acuerdo comercial con Argentina",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-tesis-de-goyburu-sobre-el-reves-electoral-de-trump-que-puede-pasar-con-el-acuerdo-comercial-con-argentina/",
-      "published_date": "2026-11-04T19:31:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cómo lee el Gobierno la derrota de Trump: la sorpresa de los republicanos y la estrategia sobre el vínculo bilateral",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/como-lee-el-gobierno-la-derrota-de-trump-la-sorpresa-de-los-republicanos-y-la-estrategia-sobre-el-vinculo-bilateral/",
-      "published_date": "2026-11-04T19:24:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mario Riorda: \"En Argentina se va a discutir lo mismo que en las elecciones de EEUU, los problemas económicos y los límites democráticos\"",
-      "source": "Perfil",
-      "url": "https://perfil.com/modo-fontevecchia/mario-riorda-en-argentina-se-va-a-discutir-lo-mismo-que-en-las-eleccions-de-ee.uu-los-problemas-economicos-y-los-limites-democraticos-azPZd2c7YKJP",
-      "published_date": "2026-11-04T17:38:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El embajador de la India recorrió Puerto Quequén",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/transport-cargo/el-embajador-de-la-india-recorrio-puerto-quequen/",
-      "published_date": "2026-11-04T17:25:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei vuelve a España para abrazar a la ultraderecha y ser ignorado por el rey",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/04/milei-vuelve-a-espana-para-abrazar-a-la-ultraderecha-y-ser-ignorado-por-el-rey/",
-      "published_date": "2026-11-04T17:21:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Seguimos trabajando con normalidad”: la definición del banco de EE.UU. que financia proyectos en Argentina",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/seguimos-trabajando-con-normalidad-definicion-del-banco-de-eeuu-que-financia-proyectos-en-argentina/",
-      "published_date": "2026-11-04T17:19:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jorge Tartaglione, médico, alertó sobre el brote que viene por el avance del Súper Niño en la Argentina: “Es una tormenta perfecta con presencia de enfermedades”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-alerto-sobre-el-brote-que-viene-por-el-avance-del-super-nino-en-la-nid04112026/",
-      "published_date": "2026-11-04T17:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gigante tecno japonés apuesta a la Argentina: invertirá más de u$s 200 millones y duplicará su planta",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/infotechnology/it-business/gigante-japones-apuesta-a-la-argentina-invertira-mas-de-us-200-millones-y-apunta-a-duplicar-su-planta/",
-      "published_date": "2026-11-04T16:21:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La derrota de Trump enciende alarmas en Milei: costo internacional y fuga del \"voto joven”",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/la-derrota-de-trump-enciende-alarmas-en-milei-costo-internacional-y-fuga-del-voto-joven-avuvT4O8RA75",
-      "published_date": "2026-11-04T15:57:53Z",
       "category": "Diplomacy"
     },
     {
@@ -291,6 +291,13 @@
       "category": "Military"
     },
     {
+      "title": "RIGI: el Gobierno anunció la segunda ronda de proveedores, con Javier Milei como protagonista",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/rigi-el-gobierno-anuncio-la-segunda-ronda-de-proveedores-con-javier-milei-como-protagonista/",
+      "published_date": "2026-11-05T15:04:29Z",
+      "category": "Energy"
+    },
+    {
       "title": "Vaca Muerta responde positivamente en el actual contexto internacional",
       "source": "El Cronista",
       "url": "https://www.cronista.com/columnistas/vaca-muerta-responde-positivamente-en-el-actual-contexto-internacional/",
@@ -424,150 +431,143 @@
       "category": "Energy"
     },
     {
-      "title": "De la “corpo” a armar una startup que automatiza facturas para YPF, Arcos Dorados y Nike: van por u$s 7,5 millones",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/de-la-corpo-a-armar-una-startup-que-automatiza-facturas-para-ypf-arcos-dorados-y-nike-van-por-us-75-millones/",
-      "published_date": "2026-10-31T11:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Pérdida del crédito y la confianza, mientras se acelera la fuga",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/05/perdida-del-credito-y-la-confianza-mientras-se-acelera-la-fuga/",
-      "published_date": "2026-11-05T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El riesgo país saltó a 852 puntos",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/04/el-riesgo-pais-salto-a-852-puntos/",
-      "published_date": "2026-11-05T03:01:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gianfranco Macri, empresario: “Quiero hacer la versión reloaded del Buenos Aires Golf en Punta del Este”",
+      "title": "Caen los bonos argentinos y se dispara el riesgo país por encima de los 900 puntos",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/gianfranco-macri-empresario-quiero-hacer-la-version-reloaded-del-buenos-aires-golf-en-punta-del-este-nid03112026/",
-      "published_date": "2026-11-05T02:33:51Z",
+      "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/",
+      "published_date": "2026-11-05T18:09:28Z",
       "category": "Economy"
     },
     {
-      "title": "Ex Ciudad Deportiva de Boca: IRSA vendió otro terreno por casi US$9 millones y avanza el proyecto que da al río",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/ex-ciudad-deportiva-de-boca-irsa-vendio-otro-terreno-por-casi-us9-millones-y-ya-suma-21-lotes-nid03112026/",
-      "published_date": "2026-11-05T02:32:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cinco lugares del mundo donde la gente vive más (y qué tienen en común)",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/cinco-lugares-del-mundo-donde-la-gente-vive-mas-y-que-tienen-en-comun-nid04112026/",
-      "published_date": "2026-11-05T01:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Se complica la chequera de Estados Unidos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/se-complica-la-chequera-de-estados-unidos-nid04112026/",
-      "published_date": "2026-11-05T00:31:01Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Gobierno confirmó la fecha y la sede de la nueva edición de la Argentina Week para 2027",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-confirmo-la-fecha-y-la-sede-de-una-nueva-edicion-de-la-argentina-week-para-2027-nid04112026/",
-      "published_date": "2026-11-04T23:57:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "\"Freedom is beautiful\": Bullrich cruzó a Cristina por la derrota de Trump y le pidió más medidas a Caputo",
+      "title": "El Papa almorzará carne cordobesa durante su visita: qué corte le servirán y de dónde proviene",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/bullrich-cruzo-a-cristina-por-la-derrota-de-trump-y-le-pidio-mas-medidas-a-caputo-atwg51G8uugn",
-      "published_date": "2026-11-04T23:38:55Z",
+      "url": "https://perfil.com/cordoba/el-papa-almorzara-carne-cordobesa-durante-su-visita-que-corte-le-serviran-y-de-donde-proviene-azFYa8r9z63C",
+      "published_date": "2026-11-05T17:53:04Z",
       "category": "Economy"
     },
     {
-      "title": "Explosiones en Corrientes: cuatro camiones cisterna ardieron cerca de una estación de servicio",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/incendio-de-cuatro-camiones-cisterna-en-corrientes-a50-bgd-acJsf6E4ehMu",
-      "published_date": "2026-11-04T23:33:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Cayó la producción y la exportación de autos: los números que mira la industria automotriz",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 5 de noviembre, minuto a minuto",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/autos/cayo-la-produccion-y-la-exportacion-de-autos-los-numeros-que-mira-la-industria-automotriz-nid04112026/",
-      "published_date": "2026-11-04T23:15:30Z",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05112026/",
+      "published_date": "2026-11-05T17:51:50Z",
       "category": "Economy"
     },
     {
-      "title": "Humanismo, justicia social y soberanía",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/humanismo-justicia-social-y-soberania-aWRCF1R3z5Bs",
-      "published_date": "2026-11-04T23:09:27Z",
+      "title": "Se consolida un canal para la venta de hacienda con destino a exportación de carne",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/rural/consolida-canal-venta-hacienda-destino-exportacion-carne_0_OLkqpogI6e.html",
+      "published_date": "2026-11-05T17:49:59Z",
       "category": "Economy"
     },
     {
-      "title": "Mercado Libre tuvo un crecimiento del 45% interanual en sus ingresos del tercer trimestre",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/mercado-libre-tuvo-un-crecimiento-del-45-interanual-en-sus-ingresos-del-tercer-trimestre/",
-      "published_date": "2026-11-04T23:03:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“El mercado de alguna manera lo estaba descontando”: en RDEco explicaron la reacción de los mercados argentinos tras las elecciones de Estados Unidos",
-      "source": "Perfil",
-      "url": "https://perfil.com/mas-perfil/el-mercado-de-alguna-manera-lo-estaba-descontando-en-rdeco-explicaron-la-reaccion-de-los-mercados-argentinos-tras-las-elecciones-de-estados-unidos-ankqr8H3lbMr",
-      "published_date": "2026-11-04T22:50:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Volatilidad en los granos: había que blindarse para navegar la incertidumbre",
+      "title": "El ascenso y la caída de Santiago Peña, el presidente al que su padrino político terminó dándole la espalda",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/volatilidad-en-los-granos-habia-que-blindarse-para-navegar-la-incertidumbre-nid04112026/",
-      "published_date": "2026-11-04T22:48:59Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-ascenso-y-la-caida-de-santiago-pena-el-presidente-al-que-su-padrino-politico-termino-dandole-la-nid05112026/",
+      "published_date": "2026-11-05T17:42:57Z",
       "category": "Economy"
     },
     {
-      "title": "Un plan para después de Milei",
-      "source": "Página/12 — Economía",
-      "url": "https://www.pagina12.com.ar/2026/11/04/un-plan-para-despues-de-milei/",
-      "published_date": "2026-11-04T22:07:27Z",
+      "title": "Piden investigar si el Gobierno de Milei utilizó fondos públicos para facilitar la fuga de Flávio Bolsonaro",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/piden-investigar-si-el-gobierno-de-milei-utilizo-fondos-publicos-para-facilitar-la-fuga-de-flavio-bolsonaro-a5wNI9K79yCq",
+      "published_date": "2026-11-05T17:38:57Z",
       "category": "Economy"
     },
     {
-      "title": "Una nueva empresa se suma al mayor segmento de las motos: compite por el 90% del mercado",
+      "title": "Se estima un volumen excepcional de granos: “Tenemos 71 millones de toneladas de maíz, es una campaña récord”",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/se-estima-un-volumen-excepcional-de-granos-tenemos-71-millones-de-toneladas-de-maiz-es-una-campana-record-aFin48F2xeUn",
+      "published_date": "2026-11-05T17:34:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“Hoy la Argentina es un país stand-alone, no tiene grado de inversión, ni siquiera es un país emergente”, aseveró un economista",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/hoy-la-argentina-es-un-pais-stand-alone-no-tiene-grado-de-inversion-ni-siquiera-es-un-pais-emergente-asevero-un-economista-adLsX9Z1PC63",
+      "published_date": "2026-11-05T17:33:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Santiago Caputo explicó cómo Milei podría ganar las elecciones: “Hay que asumir que están perdidas de inicio”",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/una-nueva-empresa-se-suma-al-mayor-segmento-de-las-motos-compite-por-el-90-del-mercado/",
-      "published_date": "2026-11-04T21:57:39Z",
+      "url": "https://www.cronista.com/economia-politica/santiago-caputo-explico-como-milei-podria-ganar-las-elecciones-hay-que-asumir-que-estan-perdidas-de-inicio/",
+      "published_date": "2026-11-05T17:26:59Z",
       "category": "Economy"
     },
     {
-      "title": "La previsión no alcanza: los votos alimentan el riesgo político para el mercado",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/columnistas/la-prevision-no-alcanza-los-votos-alimentan-el-riesgo-politico-para-el-mercado/",
-      "published_date": "2026-11-04T21:09:35Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tesla desembarca en un shopping y prepara el terreno para vender sus autos",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/negocios/tesla-desembarca-en-unicenter-y-prepara-el-terreno-para-vender-sus-autos/",
-      "published_date": "2026-11-04T20:09:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un economista midió el costo financiero de una eventual candidatura de Kicillof: la comparación que golpea en la interna",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/un-economista-midio-el-costo-financiero-de-una-eventual-candidatura-de-kicillof-la-comparacion-que-golpea-en-la-interna/",
-      "published_date": "2026-11-04T20:06:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "María Elvira Salazar tras las midterms y los resultados en Florida: “Mi Partido Republicano necesita corregir el rumbo en la economía y en la inmigración”",
+      "title": "Plazo fijo: cuál es la tasa de interés banco por banco este jueves 5 de noviembre",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/florida/maria-elvira-salazar-tras-las-midterms-y-los-resultados-en-florida-mi-partido-republicano-necesita-nid04112026/",
-      "published_date": "2026-11-04T18:04:32Z",
+      "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-5-de-noviembre-nid05112026/",
+      "published_date": "2026-11-05T17:20:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Con la confianza renovada tras el “tsunami azul”, los demócratas ahora analizan como lidiar con Trump",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/con-la-confianza-renovada-tras-el-tsunami-azul-los-democratas-ahora-analizan-como-lidiar-con-trump-nid05112026/",
+      "published_date": "2026-11-05T17:17:33Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Daza le apuntó a la “incertidumbre” y relativizó la “recesión técnica”: qué falta para crecer",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/daza-le-apunto-a-la-incertidumbre-y-relativizo-la-recesion-tecnica-que-falta-para-crecer/",
+      "published_date": "2026-11-05T17:06:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pilar Sordo, psicóloga, sobre el poder del diálogo interno para fortalecer la estabilidad emocional: “Es una herramienta brutal de autoconocimiento”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-sobre-el-poder-del-dialogo-interno-para-fortalecer-la-estabilidad-emocional-es-nid01112026/",
+      "published_date": "2026-11-05T17:03:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Daniel López Rosetti, médico, sobre el ritmo de vida actual: “Estamos a velocidad digital y somos analógicos”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-sobre-el-ritmo-de-vida-actual-estamos-a-velocidad-digital-y-somos-nid04112026/",
+      "published_date": "2026-11-05T17:03:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Por qué las personas cambian con el tiempo y cómo influyen las circunstancias, según la psicología",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/por-que-las-personas-cambian-con-el-tiempo-y-como-influyen-las-circunstancias-segun-la-psicologia-nid05112026/",
+      "published_date": "2026-11-05T17:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "\"El riesgo país está alto respecto de la voluntad del Gobierno de volver al mercado de deuda\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/modo-fontevecchia/el-riesgo-pais-esta-alto-respecto-de-la-voluntad-del-gobierno-de-volver-al-mercado-de-deuda-auYNp7z62LHT",
+      "published_date": "2026-11-05T16:39:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Crisis en la industria textil: “La inversión hoy en este sector es prácticamente nula”",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/crisis-en-la-industria-textil-la-inversion-hoy-en-este-sector-es-practicamente-nula-aVkV07K1WzcN",
+      "published_date": "2026-11-05T16:15:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Entre el auge de los importados y la caída de ventas, la industria automotriz cayó 14,4% en octubre",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/entre-el-auge-de-los-importados-y-la-caida-de-ventas-la-industria-automotriz-cayo-144-en-octubre-aWxQk8Q54xYa",
+      "published_date": "2026-11-05T16:10:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Mapa nacional: La mora de las PyMEs llega al 17,7% y crece la presión por una salida en el Congreso",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/mapa-nacional-la-mora-de-las-pymes-llega-al-177-y-crece-la-presion-por-una-salida-en-el-congreso/",
+      "published_date": "2026-11-05T13:56:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Se celebra en Shanghai la 9 Exposición Internacional de Importaciones de China",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/05/se-celebra-en-shanghai-la-9-exposicion-internacional-de-importaciones-de-china/",
+      "published_date": "2026-11-05T13:41:27Z",
       "category": "Economy"
     },
     {
@@ -578,136 +578,136 @@
       "category": "Local Events"
     },
     {
-      "title": "Caso AMIA: no hay dudas sobre quiénes son las víctimas",
+      "title": "Aldosivi vs. River, EN VIVO: el minuto a minuto del partido",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/editoriales/caso-amia-no-hay-dudas-de-quienes-son-las-victimas-nid05112026/",
-      "published_date": "2026-11-05T03:10:00Z",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/aldosivi-vs-river-en-vivo-nid05112026/",
+      "published_date": "2026-11-05T18:14:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en Quito, Ecuador: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-quito-ecuador-pronostico-tiempo-jueves-5-noviembre-2026_0_b4G1lLfHNs.html",
-      "published_date": "2026-11-05T03:08:52Z",
+      "title": "James Talarico, senador electo de Texas, promete mano dura contra el ICE: “Esto tiene que parar”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/texas/james-talarico-senador-electo-de-texas-promete-mano-dura-contra-el-ice-esto-tiene-que-parar-nid05112026/",
+      "published_date": "2026-11-05T18:09:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en Ciudad de Guatemala, Guatemala: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guatemala-guatemala-pronostico-tiempo-jueves-5-noviembre-2026_0_Q5fbTDiQPL.html",
-      "published_date": "2026-11-05T03:08:51Z",
+      "title": "Pedro Sánchez le respondió a Milei: “El insulto no forma parte de mi forma de entender la política. Ahí lo dejo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/pedro-sanchez-le-respondio-a-milei-el-insulto-no-forma-parte-de-mi-forma-de-entender-la-politica-ahi-nid05112026/",
+      "published_date": "2026-11-05T18:09:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en San Salvador, El Salvador: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-san-salvador-salvador-pronostico-tiempo-jueves-5-noviembre-2026_0_FYgMiPRFtg.html",
-      "published_date": "2026-11-05T03:08:50Z",
+      "title": "¿River entra a la Libertadores 2027? Qué necesita para llegar a la copa",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/river-entra-a-la-libertadores-2027-que-necesita-para-llegar-a-la-copa-nid05112026/",
+      "published_date": "2026-11-05T18:07:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en San José, Costa Rica: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-san-jose-costa-rica-pronostico-tiempo-jueves-5-noviembre-2026_0_YHaAB8eLXh.html",
-      "published_date": "2026-11-05T03:08:26Z",
+      "title": "La provincia que decretó impuestos cero para empresas vinculadas a Vaca Muerta",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/la-provincia-que-decreto-impuestos-cero-para-empresas-vinculadas-a-vaca-muerta-nid05112026/",
+      "published_date": "2026-11-05T18:06:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Clima hoy en Barranquilla, Colombia: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-barranquilla-colombia-pronostico-tiempo-jueves-5-noviembre-2026_0_5Vad00vVNx.html",
-      "published_date": "2026-11-05T03:08:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Bogotá, Colombia: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-bogota-colombia-pronostico-tiempo-jueves-5-noviembre-2026_0_9mGNuB1S7C.html",
-      "published_date": "2026-11-05T03:08:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Valparaíso, Chile: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-valparaiso-chile-pronostico-tiempo-jueves-5-noviembre-2026_0_R3J36lbrdV.html",
-      "published_date": "2026-11-05T03:08:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Temuco, Chile: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-temuco-chile-pronostico-tiempo-jueves-5-noviembre-2026_0_lNYF06wvOD.html",
-      "published_date": "2026-11-05T03:08:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Viña del Mar, Chile: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-vina-mar-chile-pronostico-tiempo-jueves-5-noviembre-2026_0_R3rp3rBkOl.html",
-      "published_date": "2026-11-05T03:08:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clima hoy en Iquique, Chile: el pronóstico del tiempo para este jueves 5 noviembre de 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/informacion-general/clima-hoy-iquique-chile-pronostico-tiempo-jueves-5-noviembre-2026_0_dzoYbKKbrz.html",
-      "published_date": "2026-11-05T03:07:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nace el Foro Iberoamericano de Startups con participación cordobesa",
+      "title": "“El Rey atendió a Kast y no a Milei por insultar a Pedro Sánchez”",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/nace-el-foro-iberoamericano-de-startups-con-participacion-cordobesa-a6H5D2g0BOyq",
-      "published_date": "2026-11-05T03:07:04Z",
+      "url": "https://perfil.com/modo-fontevecchia/el-rey-atendio-a-kast-y-no-a-milei-por-insultar-a-pedro-sanchez-ahUvP3z1ZwyX",
+      "published_date": "2026-11-05T18:05:28Z",
       "category": "Local Events"
     },
     {
-      "title": "La agenda de la TV del jueves: River abre la fecha del Clausura, fútbol de Europa y tenis en París",
+      "title": "Leandro Paredes presentó un torneo de truco con $60 millones en premios: “Cuando se pica, yo soy el típico 5 argentino”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-jueves-river-abre-la-fecha-del-clausura-futbol-de-europa-y-tenis-en-paris-nid04112026/",
-      "published_date": "2026-11-05T03:06:00Z",
+      "url": "https://www.lanacion.com.ar/que-sale/leandro-paredes-presento-un-torneo-de-truco-con-60-millones-en-premios-cuando-se-pica-yo-soy-el-nid04112026/",
+      "published_date": "2026-11-05T18:04:52Z",
       "category": "Local Events"
     },
     {
-      "title": "En democracia, la ultraderecha aprendió a llegar al poder, pero no a dejarlo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/en-democracia-la-ultraderecha-aprendio-a-llegar-al-poder-pero-no-a-dejarlo-nid05112026/",
-      "published_date": "2026-11-05T03:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cuando la voluntad crea valor para la sociedad y sus instituciones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/cuando-la-voluntad-crea-valor-para-la-sociedad-y-sus-instituciones-nid05112026/",
-      "published_date": "2026-11-05T03:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "25 días de clase perdidos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/editoriales/25-dias-de-clase-perdidos-nid05112026/",
-      "published_date": "2026-11-05T03:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armar cultura",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/armar-cultura-nid05112026-2/",
-      "published_date": "2026-11-05T03:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cartas de lectores: Encuestas, corrupción, traslado negado",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-encuestas-corrupcion-traslado-negado-nid05112026/",
-      "published_date": "2026-11-05T03:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comienza la última fecha del Torneo Clausura: qué partidos se juegan este jueves y dónde verlos en vivo",
+      "title": "Ultra Buenos Aires 2027 confirmó nueva sede: fechas y todo lo que se sabe del festival",
       "source": "Perfil",
-      "url": "https://perfil.com/deportes/fecha-16-del-torneo-clausura-que-partidos-se-juegan-este-jueves-y-donde-verlos-en-vivo-aVqyC2S23NeO",
-      "published_date": "2026-11-05T03:03:51Z",
+      "url": "https://perfil.com/entretenimiento/ultra-buenos-aires-2027-confirmo-nueva-sede-fechas-y-todo-lo-que-se-sabe-del-festival-a50-aPkjG8b3SRB9",
+      "published_date": "2026-11-05T18:04:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Buscan al ganador de US$847 millones por el Powerball en Nueva Jersey",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/nueva-jersey/buscan-al-ganador-de-us847-millones-por-el-powerball-en-nueva-jersey-nid05112026/",
+      "published_date": "2026-11-05T18:03:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Máxima Zorreguieta la sorprendieron en el aeropuerto con un show de música y baile y no dudó en sumarse a la fiesta",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/a-maxima-zorreguieta-la-sorprendieron-en-el-aeropuerto-con-un-show-de-musica-y-baile-y-no-dudo-en-nid05112026/",
+      "published_date": "2026-11-05T18:01:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Yo vi al enemigo, y somos nosotros\": el histórico colapso del equipo de Trump desde adentro",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/new-york-times-international-weekly/vi-enemigo-historico-colapso-equipo-trump-adentro_0_0RXKuhOEwv.html",
+      "published_date": "2026-11-05T18:00:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A qué hora juega hoy River vs. Aldosivi y por dónde se puede ver en vivo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-river-vs-aldosivi-y-por-donde-se-puede-ver-en-vivo-nid05112026/",
+      "published_date": "2026-11-05T18:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Santiago del Moro confirmó su nuevo proyecto en Telefe fuera de Gran Hermano: “Teníamos este secreto bajo siete llaves”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/santiago-del-moro-confirmo-su-nuevo-proyecto-en-telefe-fuera-de-gran-hermano-teniamos-este-secreto-nid05112026/",
+      "published_date": "2026-11-05T18:00:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tasas hipotecarias en EEUU bajan por tercera semana consecutiva",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/tasas-hipotecarias-en-eeuu-bajan-por-tercera-semana-consecutiva_0_7gahocnXwi.html",
+      "published_date": "2026-11-05T18:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El operativo de los Menem y Karina Milei para demarcarse de Bullrich ya empezó y hay cortocircuitos en el equipo de la ex ministra",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/operativo-menem-karina-milei-demarcarse-bullrich-empezo-cortocircuitos-equipo-ex-ministra_0_92bgfH2aaQ.html",
+      "published_date": "2026-11-05T17:58:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "F1 GP de Brasil: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/f1-gp-brasil-horarios-entrenamiento-clasificacion-ver-formula-1_0_ZTMR6uGsXi.html",
+      "published_date": "2026-11-05T17:56:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Un nuevo restaurante abre en la antigua casona cordobesa que atravesó un siglo de transformaciones y entró a la Guía Michelin 2026",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/un-nuevo-restaurante-abre-en-la-antigua-casona-cordobesa-que-atraveso-un-siglo-de-transformaciones-y-nid05112026/",
+      "published_date": "2026-11-05T17:56:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suba del riesgo país: la explicación oficial y el contrapunto con empresarios por las causas",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/suba-del-riesgo-pais-la-explicacion-oficial-y-el-contrapunto-con-empresarios-por-las-causas/",
+      "published_date": "2026-11-05T17:56:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El look etéreo y romántico de María Vázquez: vestido blanco, transparencias y volados",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/el-look-etereo-y-romantico-de-maria-vazquez-vestido-blanco-transparencias-y-volados-aYi8s6E6SVBY",
+      "published_date": "2026-11-05T17:55:45Z",
       "category": "Local Events"
     }
   ]
