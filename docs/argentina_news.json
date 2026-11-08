@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:42:26Z",
+  "generated_at": "2026-11-08T02:13:50Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,55 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "“Es un Papa que busca actualizar debates que están muy vigentes”",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/es-un-papa-que-busca-actualizar-debates-que-estan-muy-vigentes-aq0R95w11oig",
+      "published_date": "2026-11-08T01:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "José María Poirier: “Un Papa no soluciona los problemas de la sociedad, pero esperemos que la Argentina sepa escucharlo”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/jose-maria-poirier-un-papa-no-soluciona-los-problemas-de-la-sociedad-pero-esperemos-que-la-argentina-nid07112026/",
+      "published_date": "2026-11-08T01:02:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El papa León XIV llega a la Argentina, una visita histórica que moviliza al país",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-llega-a-la-argentina-una-visita-historica-que-moviliza-al-pais-nid07112026/",
+      "published_date": "2026-11-08T00:03:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Loser: “No creo que los demócratas vayan a cortar la ayuda a la Argentina, pero las inversiones pueden bajar”",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/loser-no-creo-que-los-democratas-vayan-a-cortar-la-ayuda-a-la-argentina-pero-las-inversiones-pueden-bajar-aNs987B0XbOP",
+      "published_date": "2026-11-07T23:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "León XIV llegará al país en un clima de tensión entre Milei y la jerarquía de la Iglesia católica",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/07/leon-xiv-llegara-al-pais-en-un-clima-de-tension-entre-milei-y-la-jerarquia-de-la-iglesia-catolica/",
+      "published_date": "2026-11-07T21:02:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Camisetas del Papa: la particular colección de Claudio Destefano que será parte de la visita de León XIV a la Argentina",
+      "source": "Perfil",
+      "url": "https://perfil.com/deportes/camisetas-del-papa-la-particular-coleccion-de-claudio-destefano-que-sera-parte-de-la-visita-de-leon-xiv-a-la-argentina-agxLM0J3lYve",
+      "published_date": "2026-11-07T20:04:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un León que ruge por los que Milei descarta",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/07/un-leon-que-ruge-por-los-que-milei-descarta/",
+      "published_date": "2026-11-07T19:02:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "El GP de San Pablo seguirá en el calendario de la Fórmula 1 hasta 2035: por qué puede ser un guiño para la Argentina",
       "source": "Clarín",
@@ -102,53 +151,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Visita del papa León XIV a la Argentina: feriados, agenda, cronograma, misas y todo lo que hay que saber",
+      "title": "Boca recuperó el instinto, el valor del DT y a un líder total: en los segundos finales remató el trabajo de un año",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-a-la-argentina-feriados-agenda-cronograma-misas-y-todo-lo-que-hay-que-saber-nid02112026/",
-      "published_date": "2026-11-07T02:03:33Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/boca-recupero-el-instinto-el-valor-del-dt-y-a-un-lider-total-en-los-segundos-finales-remato-el-nid07112026/",
+      "published_date": "2026-11-08T01:24:32Z",
+      "category": "Military"
     },
     {
-      "title": "La FIFA le redujo la sanción a Nahuel Molina, pero mantuvo las 10 fechas de suspensión a Leandro Paredes: la AFA irá al TAS",
+      "title": "La SIDE informó que detuvo a una persona por “amenazas de muerte” contra el Papa",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-le-redujo-la-sancion-a-nahuel-molina-pero-mantuvo-las-10-fechas-de-suspension-a-leandro-nid06112026/",
-      "published_date": "2026-11-06T23:28:36Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/",
+      "published_date": "2026-11-08T01:20:20Z",
+      "category": "Military"
     },
     {
-      "title": "Matt Damon reveló el dramático problema de salud de su esposa argentina: “Sufrió un aneurisma cerebral”",
+      "title": "Central ganó y el Gigante era una fiesta, pero el gol agónico de Boca llenó de confusión a su gente: terminó segundo",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/matt-damon-revelo-el-dramatico-problema-de-salud-de-su-esposa-argentina-sufrio-un-aneurisma-cerebral-nid06112026/",
-      "published_date": "2026-11-06T23:16:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/rosario-central/central-gano-y-rosario-era-una-fiesta-pero-el-gol-agonico-de-boca-lleno-de-confusion-a-su-gente-nid07112026/",
+      "published_date": "2026-11-08T00:45:16Z",
+      "category": "Military"
     },
     {
-      "title": "Dura caída de Argentina XV frente a Inglaterra A: un mal resultado, una experiencia necesaria",
+      "title": "El gol sobre el final de Enner Valencia que le dio el título de la Tabla Anual a Boca",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/rugby/dura-caida-de-argentina-xv-frente-a-inglaterra-a-un-mal-resultado-una-experiencia-necesaria-nid06112026/",
-      "published_date": "2026-11-06T23:14:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/el-gol-agonico-de-enner-valencia-que-le-dio-el-titulo-de-la-tabla-anual-a-boca-nid07112026/",
+      "published_date": "2026-11-07T23:59:01Z",
+      "category": "Military"
     },
     {
-      "title": "Fallo de la FIFA tras la final del Mundial: le bajaron la sanción a Molina, pero le mantuvieron el castigo a Paredes",
+      "title": "Más de 300 balazos, un inocente herido y un traficante abatido en medio de una guerra narco en Fuerte Apache",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/mas-de-300-balazos-un-inocente-herido-y-un-traficante-abatido-en-medio-de-una-guerra-narco-en-fuerte-nid07112026/",
+      "published_date": "2026-11-07T23:58:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "En defensa de la propia tierra",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/07/en-defensa-de-la-propia-tierra-2/",
+      "published_date": "2026-11-07T23:37:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Los mejores memes de la consagración de Boca Juniors y el gol agónico de Enner Valencia",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/los-mejores-memes-de-la-consagracion-de-boca-juniors-y-el-gol-agonico-de-enner-valencia-nid07112026/",
+      "published_date": "2026-11-07T22:59:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Estados Unidos: Trump refuerza su política migratoria mientras los demócratas buscan ponerle límites",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/07/estados-unidos-trump-refuerza-su-politica-migratoria-mientras-los-democratas-buscan-ponerle-limites/",
+      "published_date": "2026-11-07T22:39:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Herzog le encargará a Gadi Eisenkot formar gobierno y Netanyahu podría quedar afuera del poder",
       "source": "Perfil",
-      "url": "https://perfil.com/deportes/la-fifa-le-bajo-el-castigo-a-nahuel-molina-y-la-afa-ira-al-tas-por-leandro-paredes-aznFh3a3sV9C",
-      "published_date": "2026-11-06T23:03:14Z",
-      "category": "Diplomacy"
+      "url": "https://perfil.com/politica/herzog-le-encargara-a-gadi-eisenkot-formar-gobierno-y-netanyahu-podria-quedar-afuera-del-poder-aCqi67F2pWq1",
+      "published_date": "2026-11-07T22:16:43Z",
+      "category": "Military"
     },
     {
-      "title": "Inhabilitan la licencia de conducir por reincidencia en exceso de velocidad en CABA",
-      "source": "Perfil",
-      "url": "https://perfil.com/ciudad-de-buenos-aires/inhabilitan-la-licencia-de-conducir-por-reincidencia-en-exceso-de-velocidad-en-caba-a50-jsm-aKLnw6A3UahI",
-      "published_date": "2026-11-06T22:21:20Z",
-      "category": "Diplomacy"
+      "title": "Cómo fue el primer viaje de un papa a la Argentina: la llegada de Juan Pablo II en medio de la Guerra de Malvinas",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/07/como-fue-el-primer-viaje-de-un-papa-a-la-argentina-la-llegada-de-juan-pablo-ii-en-medio-de-la-guerra-de-malvinas/",
+      "published_date": "2026-11-07T20:39:19Z",
+      "category": "Military"
     },
     {
-      "title": "Malvinas: la jugada de Milei para frenar el petróleo británico y los tres escenarios que se abren",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/malvinas-la-jugada-de-milei-para-frenar-el-petroleo-britanico-y-los-tres-escenarios-que-se-abren/",
-      "published_date": "2026-11-06T20:31:22Z",
-      "category": "Diplomacy"
+      "title": "Paraguay: un juez ordenó prisión preventiva deSantiago Peña",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/07/la-fiscalia-de-paraguay-pide-prision-preventiva-contra-santiago-pena/",
+      "published_date": "2026-11-07T18:45:29Z",
+      "category": "Military"
     },
     {
       "title": "Por dónde pasan Boca vs. Defensa y Justicia y qué canal lo transmite en vivo",
@@ -214,81 +291,32 @@
       "category": "Military"
     },
     {
-      "title": "Trump llamó al emir de Catar para que interceda con Irán",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/06/trump-llamo-al-emir-de-catar-para-que-interceda-con-iran/",
-      "published_date": "2026-11-06T20:00:02Z",
-      "category": "Military"
+      "title": "Comenzó la soldadura del gasoducto que conectará Vaca Muerta con el Golfo San Matías",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/economia/comenzo-soldadura-gasoducto-conectara-vaca-muerta-golfo-san-matias_0_xgAmHKFaO4.html",
+      "published_date": "2026-11-08T01:05:19Z",
+      "category": "Energy"
     },
     {
-      "title": "Malvinas: el Gobierno envía la misión para las audiencias ante el Tribunal del Mar y ya baraja los escenarios posibles",
+      "title": "Los aumentos en las tarifas eléctricas bonaerenses alimentan la tensión entre Kicillof y La Cámpora",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-envia-la-mision-para-las-audiencias-ante-el-tribunal-del-mar-y-ya-baraja-los-nid06112026/",
-      "published_date": "2026-11-06T16:28:37Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/politica/los-aumentos-en-las-tarifas-electricas-bonaerenses-alimentan-la-tension-entre-kicillof-y-la-campora-nid07112026/",
+      "published_date": "2026-11-07T22:21:24Z",
+      "category": "Energy"
     },
     {
-      "title": "Lee Know, de Stray Kids, anuncia su alistamiento militar en Corea del Sur: cuándo será",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/lee-know-de-stray-kids-anuncia-su-alistamiento-militar-en-corea-del-sur-cuando-sera-alsiM6x1i4pp",
-      "published_date": "2026-11-06T02:28:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lesa humanidad: la corte dejó firme la condena para un ex directivo de Ford por los secuestros de trabajadores en 1976",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/lesa-humanidad-la-corte-dejo-firme-la-condena-para-un-ex-directivo-de-ford-aTJnP6b17Lfd",
-      "published_date": "2026-11-05T23:37:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "El recuerdo de Denis Zakaria, de Suiza, sobre enfrentar a Lionel Messi en el Mundial",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/el-recuerdo-de-denis-zakaria-de-suiza-sobre-enfrentar-a-lionel-messi-en-el-mundial-nid04112026/",
-      "published_date": "2026-11-05T02:57:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tres banderas en Malvinas y militarización actual",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/tres-banderas-en-malvinas-y-militarizacion-actual-a1goc8I8IOnW",
-      "published_date": "2026-11-05T02:55:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "¿La Anual en peligro? La curiosa estadística del DT de Defensa y Justicia que atormenta a Boca",
-      "source": "Perfil",
-      "url": "https://perfil.com/deportes/julio-vaccari-vs-boca-el-invicto-del-dt-de-defensa-que-preocupa-al-xeneize-aJ2gV4a747Cq",
-      "published_date": "2026-11-05T01:40:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "La SIDE afirma que recibió 40 mil postulaciones en un día, mientras el Gobierno niega el alza del desempleo y la informalidad",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/la-side-afirma-que-recibio-40-mil-postulaciones-en-un-dia-mientras-el-gobierno-niega-el-alza-del-desempleo-y-la-informalidad-aYSjm7R3VoG0",
-      "published_date": "2026-11-04T23:31:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "El vicepresidente de Trump culpa a la guerra con Irán por la histórica derrota de los republicanos",
+      "title": "El mundo necesita lo que la Argentina posee",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/jd-vance-culpa-a-la-guerra-con-iran-por-la-historica-derrota-de-los-republicanos/",
-      "published_date": "2026-11-04T19:07:58Z",
-      "category": "Military"
+      "url": "https://www.cronista.com/columnistas/el-mundo-necesita-lo-que-la-argentina-posee/",
+      "published_date": "2026-11-07T18:22:27Z",
+      "category": "Energy"
     },
     {
-      "title": "Reproches y pases de factura de los republicanos a Trump tras la dura derrota electoral: el sorpresivo mensaje de JD Vance",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/reproches-y-pases-de-factura-de-los-republicanos-a-trump-tras-la-dura-derrota-electoral-el-nid04112026/",
-      "published_date": "2026-11-04T17:46:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Santiago Caputo se hizo eco de la campaña de reclutamiento de la SIDE",
+      "title": "Techint va por la revancha de los caños indios en la licitación de Argentina LNG",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/santiago-caputo-se-hizo-eco-de-la-campana-de-reclutamiento-de-la-side-auzDM1s8NP23",
-      "published_date": "2026-11-04T17:31:09Z",
-      "category": "Military"
+      "url": "https://perfil.com/economia/techint-va-por-la-revancha-de-los-canos-indios-en-la-licitacion-de-argentina-lng-aKIdd2E7wIlJ",
+      "published_date": "2026-11-07T17:27:04Z",
+      "category": "Energy"
     },
     {
       "title": "Juicio YPF: mucho ruido y una premisa equivocada",
@@ -403,32 +431,60 @@
       "category": "Energy"
     },
     {
-      "title": "La televisión estatal iraní difundió un video que explica qué hacer ante un ataque nuclear estadounidense",
+      "title": "Uruguay se presentó en el World Travel Market de Londres como una \"reserva de calma y paz\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/informacion-general/uruguay-presento-world-travel-market-londres-reserva-calma-paz_0_6c4Ean0Ylh.html",
+      "published_date": "2026-11-08T01:20:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Una pareja de Indiana logró convertir su única novilla en un rebaño de 160 vacas con su propio rancho familiar",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/pareja-indiana-logro-convertir-unica-novilla-rebano-160-vacas-propio-rancho-familiar_0_Xs0hnamrHi.html",
+      "published_date": "2026-11-08T01:15:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De refuerzo de emergencia a protagonista del título: la historia de Enner Valencia y su noche soñada en Boca",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/la-television-estatal-irani-difundio-un-video-que-explica-que-hacer-ante-un-ataque-nuclear-nid03112026/",
-      "published_date": "2026-11-03T15:25:27Z",
-      "category": "Energy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/de-refuerzo-de-emergencia-a-protagonista-del-titulo-la-historia-de-enner-valencia-y-su-noche-sonada-nid07112026/",
+      "published_date": "2026-11-08T01:14:58Z",
+      "category": "Economy"
     },
     {
-      "title": "Juicio por YPF: fuerte lobby en EE.UU. para que la Corte Suprema revise el fallo favorable a la Argentina",
+      "title": "La fuerte denuncia del Papa sobre los contrastes de Uruguay, “un país rico en recursos”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/juicio-por-ypf-fuerte-lobby-en-eeuu-para-que-la-corte-suprema-revise-el-fallo-favorable-a-la-nid03112026/",
-      "published_date": "2026-11-03T15:11:50Z",
-      "category": "Energy"
+      "url": "https://www.lanacion.com.ar/el-mundo/la-fuerte-denuncia-del-papa-sobre-los-contrastes-de-uruguay-un-pais-rico-en-recursos-nid07112026/",
+      "published_date": "2026-11-08T00:57:28Z",
+      "category": "Economy"
     },
     {
-      "title": "La otra Vaca Muerta: cómo avanza la nueva “fábrica de dólares” a la que apuestan las petroleras",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/la-otra-vaca-muerta-como-avanza-la-nueva-fabrica-de-dolares-a-la-que-apuestan-las-petroleras/",
-      "published_date": "2026-11-03T14:04:22Z",
-      "category": "Energy"
+      "title": "Cinco octubres consecutivos en caída golpean al comercio cordobés",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/cinco-octubres-consecutivos-en-caida-golpean-al-comercio-cordobes-aH5Yr7c6dBxy",
+      "published_date": "2026-11-07T23:57:00Z",
+      "category": "Economy"
     },
     {
-      "title": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/ypf-cambio-de-escala-el-dato-que-muestra-cuanto-pesa-vaca-muerta-en-su-negocio/",
-      "published_date": "2026-11-03T13:52:59Z",
-      "category": "Energy"
+      "title": "La economía dual: en Córdoba, Oliveto explicó por qué el crecimiento no llega al bolsillo",
+      "source": "Perfil",
+      "url": "https://perfil.com/cordoba/la-economia-dual-en-cordoba-oliveto-explico-por-que-el-crecimiento-no-llega-al-bolsillo-aI2ff1Z4BIro",
+      "published_date": "2026-11-07T23:49:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Entre la opacidad y la administración fraudulenta: las denuncias contra los hermanos Saguier",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/07/entre-la-opacidad-y-la-administracion-fraudulenta-las-denuncias-contra-los-hermanos-saguier/",
+      "published_date": "2026-11-07T23:26:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Súper Niño: pronostican más de 40 grados y tormentas intensas en una región",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/super-nino-pronostican-mas-de-40-grados-y-tormentas-intensas-en-una-region-nid07112026/",
+      "published_date": "2026-11-07T23:08:15Z",
+      "category": "Economy"
     },
     {
       "title": "Franco Colapinto afronta la clasificación del Gran Premio de Brasil: a qué hora es y cómo verlo en vivo",
@@ -515,199 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ferraro criticó el dictamen sobre Adorni: \"Realmente nos toman el pelo a todos los argentinos\"",
+      "title": "Trump le ofreció al jefe de una organización de artes marciales ser vocero de la Casa Blanca y le pidió que sume a seis luchadores como asistentes",
       "source": "Perfil",
-      "url": "https://perfil.com/nea/ferraro-critico-el-dictamen-sobre-adorni-realmente-nos-toman-el-pelo-a-todos-los-argentinos-aRhql8D0SlF1",
-      "published_date": "2026-11-07T13:00:00Z",
-      "category": "Economy"
+      "url": "https://perfil.com/politica/trump-le-ofrecio-al-jefe-de-una-organizacion-de-artes-marciales-ser-vocero-de-la-casa-blanca-y-le-pidio-que-sume-a-seis-luchadores-como-asistentes-aQIjb7l5uzqf",
+      "published_date": "2026-11-08T01:57:05Z",
+      "category": "Local Events"
     },
     {
-      "title": "Por qué la gente hace trampa: la economía detrás de la corrupción, los robos y las mentiras",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/financial-times/por-que-la-gente-hace-trampa-la-economia-detras-de-la-corrupcion-los-robos-y-las-mentiras/",
-      "published_date": "2026-11-07T12:00:00Z",
-      "category": "Economy"
+      "title": "Grego Rossello contó cómo fue el peor vuelo de su vida: “Lloré cuando se durmió”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/grego-rossello-conto-como-fue-el-peor-vuelo-de-su-vida-llore-cuando-se-durmio-nid07112026/",
+      "published_date": "2026-11-08T01:51:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Milei volvió a ajustar a las provincias y a recortar subsidios para mantener el superávit",
+      "title": "Un sanador para el alma herida de la Argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/un-sanador-para-el-alma-herida-de-la-argentina-nid07112026/",
+      "published_date": "2026-11-08T01:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marcha del Orgullo 2026: una multitud copó las calles de Buenos Aires con música y pedidos de más derechos",
       "source": "Perfil",
-      "url": "https://perfil.com/nea/milei-volvio-a-ajustar-a-las-provincias-y-a-recortar-subsidios-para-mantener-el-superavit-atiJH4g39Isy",
-      "published_date": "2026-11-07T12:00:00Z",
-      "category": "Economy"
+      "url": "https://perfil.com/sociedad/marcha-del-orgullo-2026-una-multitud-copo-las-calles-de-buenos-aires-con-musica-y-pedidos-de-mas-derechos-aPytg0S5upWZ",
+      "published_date": "2026-11-08T01:36:34Z",
+      "category": "Local Events"
     },
     {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 7 de noviembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-7-de-noviembre-nid07112026/",
-      "published_date": "2026-11-07T11:32:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Por qué las Pymes pierden empleados aunque les mejoren el sueldo: lo que pide el talento y empresas no ven",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/las-empresas-creen-que-sus-mejores-talentos-se-van-por-el-sueldo-pero-en-realidad-se-van-por-otra-cosa/",
-      "published_date": "2026-11-07T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Embargos trabados: qué debe hacer un pyme que tiene uno y lo considera indebido",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/embargos-trabados-que-debe-hacer-un-pyme-que-tiene-uno-y-lo-considera-indebido/",
-      "published_date": "2026-11-07T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Nicolás Mendizábal: “El rumbo económico de Milei es el de un país que no quiere y no necesita industria”",
+      "title": "Un ginecólogo fue sancionado por filmar una consulta con anteojos inteligentes: “Para nosotros, se configura un abuso sexual”",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/nicolas-mendizabal-el-rumbo-economico-de-milei-es-el-de-un-pais-que-no-quiere-y-no-necesita-industria-apruY5z7HwIw",
-      "published_date": "2026-11-07T03:01:00Z",
-      "category": "Economy"
+      "url": "https://perfil.com/cordoba/un-ginecologo-fue-sancionado-por-filmar-una-consulta-con-anteojos-inteligentes-para-nosotros-se-configura-un-abuso-sexual-acTbO2m59mVs",
+      "published_date": "2026-11-08T01:35:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "El Niño: anticipan temperaturas de más de 40 grados, riesgo de heladas y tormentas intensas",
+      "title": "Arruabarrena habló de las “limpiezas” acordadas con Riquelme y los mensajes de sus rivales, entre ellos Ponzio",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/el-nino-anticipan-temperaturas-de-mas-de-40-grados-riesgo-de-heladas-y-tormentas-intensas-nid05112026/",
-      "published_date": "2026-11-07T02:20:14Z",
-      "category": "Economy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/arruabarrena-hablo-de-las-limpiezas-acordadas-con-riquelme-y-los-mensajes-de-sus-rivales-entre-ellos-nid07112026/",
+      "published_date": "2026-11-08T01:33:17Z",
+      "category": "Local Events"
     },
     {
-      "title": "El papa León XIV hizo un elogio del mate, los puentes y las palmeras en su misa en Paysandú",
+      "title": "Horóscopo: cómo será tu semana del 8 al 14 de noviembre de 2026",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-hizo-elogio-del-mate-los-puentes-y-las-palmeras-en-su-misa-en-paysandu-nid07112026/",
-      "published_date": "2026-11-07T16:34:46Z",
+      "url": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-8-al-14-de-noviembre-de-2026-nid07112026/",
+      "published_date": "2026-11-08T01:28:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Tremendo triple choque en Chile: 12 muertos y 13 heridos",
-      "source": "Perfil",
-      "url": "https://perfil.com/internacional/tremendo-triple-choque-en-chile-12-muertos-y-13-heridos-awF9A9i3RnbH",
-      "published_date": "2026-11-07T16:34:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Partidos de hoy del Torneo Clausura 2026, sábado 7 de noviembre",
+      "title": "Ronnie Wood, 79 años, sobre su rutina ‘anti Stone’: “Tomo jugos verdes y como mucho cereal, pescado y huevos benedictinos”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-sabado-7-de-noviembre-nid07112026/",
-      "published_date": "2026-11-07T16:33:55Z",
+      "url": "https://www.lanacion.com.ar/salud/vida_sana/ronnie-wood-79-anos-sobre-su-rutina-anti-stone-tomo-jugos-verdes-y-como-mucho-cereal-pescado-y-nid06112026/",
+      "published_date": "2026-11-08T01:26:44Z",
       "category": "Local Events"
     },
     {
-      "title": "“Es el mejor del año”: los destinos de playa están a tope en este inesperado fin de semana largo por la visita de León XIV",
+      "title": "Murió Sergio “El Gallego” Ramírez, histórico productor de televisión",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/es-el-mejor-del-ano-los-destinos-de-playa-estan-a-tope-en-este-inesperado-fin-de-semana-largo-por-la-nid07112026/",
-      "published_date": "2026-11-07T16:32:51Z",
+      "url": "https://www.lanacion.com.ar/espectaculos/murio-sergio-el-gallego-ramirez-historico-productor-de-television-nid07112026/",
+      "published_date": "2026-11-08T01:26:02Z",
       "category": "Local Events"
     },
     {
-      "title": "El secreto mejor guardado: cómo transformar unas simples papas en un plato gourmet, crujiente y lleno de sabor",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/el-secreto-mejor-guardado-como-transformar-unas-simples-papas-en-un-plato-gourmet-crujiente-y-lleno-nid07112026/",
-      "published_date": "2026-11-07T16:31:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El expresidente Santiago Peña declara en la Fiscalía por el colapso de Ueno Bank",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
-      "published_date": "2026-11-07T16:30:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "León XIV ofició la primera misa de su papado en América del Sur",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/07/leon-xiv-oficio-la-primera-misa-de-su-papado-en-america-del-sur/",
-      "published_date": "2026-11-07T16:25:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Del mate a los puentes: los símbolos con los que el papa León XIV convocó a la unidad en su primera misa en Uruguay",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/visita-del-papa-leon-xiv-en-vivo-el-minuto-a-minuto-de-su-paso-por-uruguay-antes-de-llegar-a-argentina/",
-      "published_date": "2026-11-07T16:22:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ignacio Pereira nació en Chaco, tiene 16 años y firmó su primer contrato profesional con Santos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/ignacio-pereira-nacio-en-chaco-tiene-16-anos-y-firmo-su-primer-contrato-profesional-con-santos-nid07112026/",
-      "published_date": "2026-11-07T16:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colapinto quedó en el puesto 14 en el último entrenamiento, antes de la clasificación para Interlagos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/colapinto-quedo-en-el-puesto-14-en-el-ultimo-entrenamiento-antes-de-la-clasificacion-para-interlagos-nid07112026/",
-      "published_date": "2026-11-07T16:19:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La impensada foto de la China Suárez y Martín Migueles en medio del nuevo escándalo entre Mauro Icardi y Wanda Nara",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/la-impensada-foto-de-la-china-suarez-y-martin-migueles-en-medio-del-nuevo-escandalo-entre-mauro-nid07112026/",
-      "published_date": "2026-11-07T16:19:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De mal en peor: el line de los Pumas sigue en constante involución",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/rugby/de-mal-en-peor-el-line-de-los-pumas-sigue-en-constante-involucion-nid07112026/",
-      "published_date": "2026-11-07T16:18:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8 plantas de interior fáciles de cuidar que realmente adoran los baños húmedos",
+      "title": "Un conductor arrolla a 10 personas en Los Ángeles por motivos aún desconocidos",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/8-plantas-interior-faciles-cuidar-realmente-adoran-banos-humedos_0_xalnGNk4id.html",
-      "published_date": "2026-11-07T16:17:12Z",
+      "url": "https://www.clarin.com/estados-unidos/un-conductor-arrolla-a-10-personas-en-los-angeles-por-motivos-aun-desconocidos_0_6FyYDPmQQ5.html",
+      "published_date": "2026-11-08T01:20:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Visita del Papa León XIV, EN VIVO: su paso por Uruguay y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-paso-por-uruguay-y-las-ultimas-noticias-de-su-agenda-en-buenos-nid07112026/",
-      "published_date": "2026-11-07T16:13:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los escabrosos detalles sobre el escándalo policial entre Wanda Nara y Mauro Icardi por sus hijas: \"Episodio terrible\"",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/los-escabrosos-detalles-sobre-el-escandalo-policial-entre-wanda-nara-y-mauro-icardi-por-sus-hijas-episodio-terrible-aECvS1H2xNv1",
-      "published_date": "2026-11-07T16:01:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noah Okafor marca como suplente en 97 segundos y Leeds supera a Spurs entre críticas al VAR",
+      "title": "Nuggets vencen 114-102 a Pacers en Ciudad de México con 19 puntos de Jokic",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/noah-okafor-marca-como-suplente-en-97-segundos-y-leeds-supera-a-spurs-entre-criticas-al-var_0_s7U5s75vmi.html",
-      "published_date": "2026-11-07T16:00:04Z",
+      "url": "https://www.clarin.com/estados-unidos/nuggets-vencen-114-102-a-pacers-en-ciudad-de-mexico-con-19-puntos-de-jokic_0_dn0oKIyufF.html",
+      "published_date": "2026-11-08T01:20:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Se define la Tabla Anual 2026: a qué hora juegan Boca, Rosario Central y Argentinos Juniors",
+      "title": "La región reacciona a la caída de Santiago Peña y envía señales de apoyo al nuevo gobierno",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/se-define-la-tabla-anual-2026-a-que-hora-juegan-boca-rosario-central-y-argentinos-juniors-nid07112026/",
-      "published_date": "2026-11-07T15:59:16Z",
+      "url": "https://www.lanacion.com.ar/el-mundo/la-region-reacciona-a-la-caida-de-santiago-pena-y-envia-senales-de-apoyo-al-nuevo-gobierno-nid07112026/",
+      "published_date": "2026-11-08T01:11:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Simeone se queda sin Cuti Romero y alaba a Julián Alvarez antes del reencuentro del Atlético de Madrid contra Barcelona, tras el culebrón pos Mundial 2026",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/deportes/simeone-queda-cuti-romero-alaba-julian-alvarez-reencuentro-atletico-madrid-barcelona-culebron-pos-mundial-2026_0_B3cJvQiDYz.html",
-      "published_date": "2026-11-07T15:56:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tras el fallo de la Corte, detuvieron al jerarca de la Ford condenado por crímenes de lesa humanidad",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/07/tras-el-fallo-de-la-corte-detuvieron-al-jerarca-de-la-ford-condenado-por-crimenes-de-lesa-humanidad/",
-      "published_date": "2026-11-07T15:55:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un hombre perdió el control de su camioneta y se metió de lleno en un salón de estética de La Plata",
+      "title": "Avanza un frente de tormenta para el fin de semana y hay expectativa sobre cómo estará el clima para la llegada del Papa",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/un-hombre-perdio-el-control-de-su-camioneta-y-se-metio-de-lleno-en-un-salon-de-estetica-de-la-plata-nid07112026/",
-      "published_date": "2026-11-07T15:51:15Z",
+      "url": "https://www.lanacion.com.ar/clima/avanza-un-frente-de-tormenta-para-el-fin-de-semana-y-hay-expectativa-sobre-como-estara-el-clima-para-nid06112026/",
+      "published_date": "2026-11-08T01:07:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El hermano de JonBenét Ramsey reveló un dato que considera clave para resolver el asesinato de su hermana",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-hermano-de-jonbenet-ramsey-revelo-un-dato-que-considera-clave-para-resolver-el-asesinato-de-su-nid06112026/",
+      "published_date": "2026-11-08T01:07:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stranger Things tendrá su precuela: todos los detalles de la serie que llegará en 2028",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/stranger-things-tendra-su-precuela-todos-los-detalles-de-la-serie-que-llegara-en-2028-nid06112026/",
+      "published_date": "2026-11-08T01:07:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Entra en vigor una regla del DHS y el Uscis elimina la actualización automática del permiso de trabajo EAD de inmigrantes",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/entra-en-vigor-una-regla-del-dhs-y-el-uscis-elimina-la-actualizacion-automatica-del-permiso-de-nid05112026/",
+      "published_date": "2026-11-08T01:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las cinco frases que delatan una mentalidad pobre, según Robert Kiyosaki",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/las-cinco-frases-que-delatan-una-mentalidad-pobre-segun-robert-kiyosaki-nid06112026/",
+      "published_date": "2026-11-08T01:06:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perdió sus conexiones de ida y vuelta y la Justicia condenó a la aerolínea a pagarle una suma en pesos y otra en dólares de indemnización",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/perdio-sus-conexiones-de-ida-y-vuelta-y-la-justicia-condeno-a-la-aerolinea-a-pagarle-una-suma-en-nid06112026/",
+      "published_date": "2026-11-08T01:06:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crearon su casa familiar de 400 m² con cereales: “Todavía existe la percepción de que vivir de forma ecológica significa vivir como un hippie solitario”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lifestyle/crearon-su-casa-familiar-de-400-m-con-cereales-todavia-existe-la-percepcion-de-que-vivir-de-forma-nid06112026/",
+      "published_date": "2026-11-08T01:06:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newman, bicampeón del Top 14: el penal fallado por Bautista Farisé que fue decisivo en la caída de Hindú - Clone",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/newman-bicampeon-del-top-14-el-penal-fallado-por-bautista-farise-que-fue-decisivo-en-la-caida-de-nid07112026-2/",
+      "published_date": "2026-11-08T01:05:52Z",
       "category": "Local Events"
     }
   ]
