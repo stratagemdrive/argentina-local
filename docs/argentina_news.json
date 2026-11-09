@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:31:52Z",
+  "generated_at": "2026-11-09T21:12:01Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -11,144 +11,186 @@
   ],
   "stories": [
     {
-      "title": "Esto recién empieza",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/09/esto-recien-empieza-2/",
-      "published_date": "2026-11-09T01:48:32Z",
+      "title": "Encuentro con líderes de otros credos: con guiños Juan Pablo II y Francisco, el Papa destaca el rol de las religiones",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/encuentro-con-lideres-de-otros-credos-con-guinos-juan-pablo-ii-y-francisco-el-papa-destaco-el-rol-de-nid09112026/",
+      "published_date": "2026-11-09T21:02:56Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Milei evitó polemizar sobre el mensaje de León XIV: “No quiero caer en esa miserabilidad”",
+      "title": "Papa León XIV en la Argentina, EN VIVO: El Pontífice habla ante líderes de todas las religiones en el Palacio San Martín",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-buenos-aires-la-agenda-del-dia-y-las-ultimas-nid09112026/",
+      "published_date": "2026-11-09T21:01:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fin de semana largo: dónde es feriado el martes 10 de noviembre",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/fin-de-semana-largo-donde-es-feriado-el-martes-10-de-noviembre-nid09112026/",
+      "published_date": "2026-11-09T20:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Se viene un “veranito” en la Argentina: dónde se esperan temperaturas de hasta 40°C y cómo seguirá el tiempo",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-veranito-en-la-argentina-donde-se-esperan-temperaturas-de-hasta-40c-y-como-seguira-el-nid08112026/",
+      "published_date": "2026-11-09T20:49:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Enviados de Trump buscan persuadir a Rusia de que incluya a Europa en negociaciones",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/enviados-de-trump-buscan-persuadir-a-rusia-de-que-incluya-a-europa-en-negociaciones_0_S1GZODA0Ea.html",
+      "published_date": "2026-11-09T20:40:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Toda palabra pública es un acto político",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/toda-palabra-publica-es-un-acto-politico-afzg29m0xJOW",
+      "published_date": "2026-11-09T20:39:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Matt Damon habló del grave problema de salud de su esposa argentina, Luciana Barroso",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/matt-damon-hablo-del-grave-problema-de-salud-de-su-esposa-argentina-luciana-barroso-aF5Pl4L5DXhj",
+      "published_date": "2026-11-09T20:27:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La reflexión de Florencia Peña por la visita del Papa León XIV a la Argentina: \"Me parece esencial en un momento de tanta crueldad\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/la-reflexion-de-florencia-pena-por-la-visita-del-papa-leon-xiv-a-la-argentina-me-parece-esencial-en-un-momento-de-tanta-crueldad-aj5Zf2S3dSQS",
+      "published_date": "2026-11-09T20:09:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "¿Es feriado nacional mañana, martes 10 de noviembre, en la Argentina?",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/es-feriado-nacional-manana-martes-10-de-noviembre-en-la-argentina-nid09112026/",
+      "published_date": "2026-11-09T19:58:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Una ocasión especialmente valiosa”: así será el encuentro de León XIV con un centenar de líderes religiosos en Cancillería",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/una-ocasion-especialmente-valiosa-como-sera-el-encuentro-de-leon-xiv-con-un-centenar-de-lideres-nid09112026/",
+      "published_date": "2026-11-09T19:45:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "RDC: cómo reaccionó la prensa británica al discurso del Papa León XIV en su visita a Argentina",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdc-como-reacciono-la-prensa-britanica-al-discurso-del-papa-leon-xiv-en-su-visita-a-argentina-aOIn71g1Il33",
+      "published_date": "2026-11-09T19:36:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anticipan el impacto político de la misa del papa León XIV: “Va a ser realmente importante para el destino de la Argentina”",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/anticipan-el-impacto-politico-de-la-misa-del-papa-leon-xiv-va-a-ser-realmente-importante-para-el-destino-de-la-argentina-aruib9b8nCp8",
+      "published_date": "2026-11-09T19:28:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "En RDI se comparó los discursos del Papa León XIV en Argentina y Uruguay: cuáles fueron las diferencias",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/en-rdi-se-comparo-los-discursos-del-papa-leon-xiv-en-argentina-y-uruguay-cuales-fueron-las-diferencias-aWiI10v5wnAy",
+      "published_date": "2026-11-09T19:12:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abel Pintos, sobre la visita del papa León XIV a la Argentina: “Como hombre de fe me emociona; muchos queríamos esta oportunidad y me honra ser elegido”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/espectaculos/abel-pintos-sobre-la-visita-del-papa-leon-xiv-a-la-argentina-como-hombre-de-fe-me-emociona-muchos-nid08112026/",
+      "published_date": "2026-11-09T18:33:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gira del Papa León XIV: en RDI afirmaron que, “lo que más vende es Argentina, por Milei y sus desacuerdos ideológicos”",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/gira-del-papa-leon-xiv-por-sudamerica-en-rdi-afirmaron-que-lo-que-mas-vende-es-argentina-por-milei-y-sus-desacuerdos-ideologicos-a9P6K0B8zIJT",
+      "published_date": "2026-11-09T18:27:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La visita del Papa: lo que León le dijo a la Argentina (y no a los demás países)",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-visita-del-papa-lo-que-leon-le-dijo-a-la-argentina-y-no-a-los-demas-paises-nid09112026/",
+      "published_date": "2026-11-09T18:25:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Francia acusa a Irán por los ciberataques masivos a las heladeras de sus supermercados",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/francia-acusa-a-iran-por-los-ciberataques-masivos-a-las-heladeras-de-sus-supermercados-nid09112026/",
+      "published_date": "2026-11-09T18:25:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kiki Ramos tomó la determinación de representar a Haití en el Mundial Sub 17",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/velez/kiki-ramos-tomo-la-determinacion-de-representar-a-haiti-en-el-mundial-sub-17-nid09112026/",
+      "published_date": "2026-11-09T18:23:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Encuesta: el 26,4 por ciento dice que asistirá a alguna actividad del Papa",
+      "source": "Perfil",
+      "url": "https://perfil.com/sociedad/encuesta-el-264-por-ciento-dice-que-asistira-a-alguna-actividad-del-papa-aZl571U3U2tO",
+      "published_date": "2026-11-09T17:33:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La misa completa del papa León XIV en su segundo día en Argentina: cómo fue la eucaristía en el Monumento de los Españoles",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/milei-evito-polemizar-sobre-el-mensaje-de-leon-xiv-no-quiero-caer-en-esa-miserabilidad/",
-      "published_date": "2026-11-09T00:49:04Z",
+      "url": "https://www.cronista.com/economia-politica/la-misa-completa-del-papa-leon-xiv-en-su-segundo-dia-en-argentina-como-fue-la-eucaristia-en-el-monumento-de-los-espanoles/",
+      "published_date": "2026-11-09T16:16:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Los empresarios del Grupo de los Seis propondrán una mesa de diálogo nacional tras la visita del Papa",
+      "title": "El gol fantasma de Defensa y Justicia después de que Enner Valencia puso a Boca 1-0",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/los-empresarios-del-grupo-de-los-seis-propondran-una-mesa-de-dialogo-nacional-tras-la-visita-del-nid08112026/",
-      "published_date": "2026-11-09T00:36:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/el-gol-fantasma-de-defensa-y-justicia-despues-de-que-enner-valencia-puso-a-boca-1-0-nid09112026/",
+      "published_date": "2026-11-09T20:54:02Z",
+      "category": "Military"
     },
     {
-      "title": "Milei, sobre el pedido de diálogo del Papa: “En la Argentina, los debates no son honestos intelectualmente”",
+      "title": "Rubio subraya tras la derrota electoral que Trump seguirá marcando la política exterior",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/rubio-subraya-tras-la-derrota-electoral-que-trump-seguira-marcando-la-politica-exterior_0_1j6IbFi8DI.html",
+      "published_date": "2026-11-09T20:50:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "Un legislador republicano abre el proceso para intentar destituir al jefe del Pentágono",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/un-legislador-republicano-abre-el-proceso-para-intentar-destituir-al-jefe-del-pentagono_0_JsWOBh9trC.html",
+      "published_date": "2026-11-09T20:40:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mullin descarta amnistía para inmigrantes aunque Trump abierto a hablar con demócratas",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/mullin-descarta-amnistia-para-inmigrantes-aunque-trump-abierto-a-hablar-con-democratas_0_zmWFGSoJWz.html",
+      "published_date": "2026-11-09T20:20:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Los demócratas buscan la destitución del polémico secretario de Defensa de Trump",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/milei-sobre-el-pedido-de-consensos-del-papa-en-la-argentina-los-debates-no-son-honestos-nid08112026/",
-      "published_date": "2026-11-09T00:31:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/estados-unidos/los-democratas-buscan-la-destitucion-del-polemico-secretario-de-defensa-de-trump-nid09112026/",
+      "published_date": "2026-11-09T19:50:52Z",
+      "category": "Military"
     },
     {
-      "title": "Las mejores fotos del primer día del Papa León XIV en su visita a la Argentina",
+      "title": "El vecino de Pilar que amenazó de muerte al Papa será indagado por “intimidación pública con finalidad terrorista”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/las-mejores-fotos-del-primer-dia-del-papa-leon-xiv-en-su-visita-a-la-argentina-nid08112026/",
-      "published_date": "2026-11-08T23:59:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La llegada del papa León XIV a la Argentina: las imágenes de una jornada histórica",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-llegada-del-papa-leon-xiv-a-la-argentina-las-imagenes-de-una-jornada-historica-nid08112026/",
-      "published_date": "2026-11-08T23:47:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Comité “Cristina Libre” viajará a Estados Unidos para denunciar la situación judicial de la expresidenta",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/08/el-comite-cristina-libre-viajara-a-estados-unidos-para-denunciar-la-situacion-judicial-de-la-expresidenta/",
-      "published_date": "2026-11-08T23:06:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foto y regalos sin discursos: el encuentro de Milei y León XIV en la Rosada",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/08/foto-y-regalos-sin-discurso-asi-recibira-milei-a-leon-xiv/",
-      "published_date": "2026-11-08T23:05:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Belén Ludueña y su bebé Vito Macri, protagonistas de la bienvenida porteña al Papa León XIV",
-      "source": "Perfil",
-      "url": "https://perfil.com/protagonistas/maria-belen-luduena-y-su-bebe-vito-macri-protagonistas-de-la-bienvenida-portena-al-papa-leon-xiv-a50-a5WHT5O1v46Q",
-      "published_date": "2026-11-08T23:00:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El discurso completo del papa León XIV en el CCK",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/08/el-discurso-completo-del-papa-leon-xiv-en-el-cck/",
-      "published_date": "2026-11-08T22:43:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un hombre murió después de recibir un golpe y una patada en la cabeza a la salida de un boliche en La Cumbre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/un-hombre-murio-despues-de-recibir-un-golpe-y-una-patada-en-la-cabeza-a-la-salida-de-un-boliche-en-nid08112026/",
-      "published_date": "2026-11-08T22:32:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ante una multitud, el papa León XIV le rindió homenaje a San Martín",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/ante-una-multitud-el-papa-leon-xiv-le-rindio-homenaje-a-san-martin-nid08112026/",
-      "published_date": "2026-11-08T21:54:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El mensaje que Aerolíneas Argentinas le dedicó al papa León XIV en su llegada al país",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/el-mensaje-que-aerolineas-argentinas-le-dedico-al-papa-leon-xiv-en-su-llegada-al-pais-avsdY7a61zuT",
-      "published_date": "2026-11-08T21:47:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El mensaje de Javier Milei por la llegada del papa León XIV a la Argentina: “¡Bienvenido, Santo Padre!\"",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-javier-milei-por-la-llegada-del-papa-leon-xiv-a-la-argentina-bienvenido-santo-padre-nid08112026/",
-      "published_date": "2026-11-08T21:15:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Milei recibió al Papa en la Casa Rosada: una foto en un minuto y los detalles de la presentación de los ministros",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/milei-recibio-al-papa-en-la-casa-rosada-una-foto-en-un-minuto-y-presentacion-de-los-ministros-nid08112026/",
-      "published_date": "2026-11-08T21:07:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La visita de León XIV a la Argentina, en fotos: su llegada, el homenaje a San Martín y el encuentro con Milei",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/la-visita-de-leon-xiv-a-la-argentina-en-fotos-su-llegada-el-homenaje-a-san-martin-y-el-encuentro-con-milei-aKk3t9G01tVB",
-      "published_date": "2026-11-08T21:03:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump aleja la posibilidad de nuevos ataques contra Irán, pero mantiene la amenaza militar si fracasan las negociaciones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/trump-aleja-la-posibilidad-de-nuevos-ataques-contra-iran-pero-mantiene-la-amenaza-militar-si-nid08112026/",
-      "published_date": "2026-11-08T20:51:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "León XIV llegó a la Argentina: los saludos en Aeroparque y el recibimiento en su recorrido hacia Plaza San Martín",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/leon-xiv-llego-a-la-argentina-los-saludos-en-aeroparque-y-el-recibimiento-en-su-recorrido-hacia-plaza-san-martin-aRT5P6g8iOfz",
-      "published_date": "2026-11-08T20:37:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Papa León XIV en Argentina: así fue la llegada del Santo Padre y el recibimiento de Javier Milei",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/el-papa-leon-xiv-en-argentina-asi-fue-la-llegada-del-santo-padre-y-el-recibimiento-de-javier-milei-aNHte4S64H5k",
-      "published_date": "2026-11-08T20:25:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Matt Damon reveló el dramático problema de salud de su esposa argentina: “Sufrió un aneurisma cerebral”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/matt-damon-revelo-el-dramatico-problema-de-salud-de-su-esposa-argentina-sufrio-un-aneurisma-cerebral-nid06112026/",
-      "published_date": "2026-11-08T19:35:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/seguridad/el-vecino-de-pilar-que-amenazo-de-muerte-al-papa-sera-indagado-por-intimidacion-publica-con-nid09112026/",
+      "published_date": "2026-11-09T19:45:57Z",
+      "category": "Military"
     },
     {
       "title": "Polonia investiga el ataque en Cracovia como un acto terrorista",
@@ -235,59 +277,17 @@
       "category": "Military"
     },
     {
+      "title": "Paraguay: un juez ordenó prisión preventiva deSantiago Peña",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/07/la-fiscalia-de-paraguay-pide-prision-preventiva-contra-santiago-pena/",
+      "published_date": "2026-11-08T03:01:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Boca recuperó el instinto, el valor del DT y a un líder total: en los segundos finales remató el trabajo de un año",
       "source": "La Nación",
       "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/boca-recupero-el-instinto-el-valor-del-dt-y-a-un-lider-total-en-los-segundos-finales-remato-el-nid07112026/",
       "published_date": "2026-11-08T01:24:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "La SIDE informó que detuvo a una persona por “amenazas de muerte” contra el Papa",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/",
-      "published_date": "2026-11-08T01:20:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Central ganó y el Gigante era una fiesta, pero el gol agónico de Boca llenó de confusión a su gente: terminó segundo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/rosario-central/central-gano-y-rosario-era-una-fiesta-pero-el-gol-agonico-de-boca-lleno-de-confusion-a-su-gente-nid07112026/",
-      "published_date": "2026-11-08T00:45:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "El gol sobre el final de Enner Valencia que le dio el título de la Tabla Anual a Boca",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/el-gol-agonico-de-enner-valencia-que-le-dio-el-titulo-de-la-tabla-anual-a-boca-nid07112026/",
-      "published_date": "2026-11-07T23:59:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Más de 300 balazos, un inocente herido y un traficante abatido en medio de una guerra narco en Fuerte Apache",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/mas-de-300-balazos-un-inocente-herido-y-un-traficante-abatido-en-medio-de-una-guerra-narco-en-fuerte-nid07112026/",
-      "published_date": "2026-11-07T23:58:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "En defensa de la propia tierra",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/07/en-defensa-de-la-propia-tierra-2/",
-      "published_date": "2026-11-07T23:37:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Los mejores memes de la consagración de Boca Juniors y el gol agónico de Enner Valencia",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/los-mejores-memes-de-la-consagracion-de-boca-juniors-y-el-gol-agonico-de-enner-valencia-nid07112026/",
-      "published_date": "2026-11-07T22:59:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Estados Unidos: Trump refuerza su política migratoria mientras los demócratas buscan ponerle límites",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/07/estados-unidos-trump-refuerza-su-politica-migratoria-mientras-los-democratas-buscan-ponerle-limites/",
-      "published_date": "2026-11-07T22:39:45Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,111 @@
       "category": "Energy"
     },
     {
+      "title": "La inflación, en torno al 2%",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/09/la-inflacion-en-torno-al-2/",
+      "published_date": "2026-11-09T20:56:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Gobierno acelera en el Congreso, pero ya se prepara para las extraordinarias: los proyectos pendientes",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/politica/gobierno-acelera-congreso-prepara-extraordinarias-proyectos-pendientes_0_yZan9vH5Uk.html",
+      "published_date": "2026-11-09T20:36:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Qué es la glucemia, cómo influye en el organismo y por qué es importante controlarla",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/que-es-la-glucemia-como-influye-en-el-organismo-y-por-que-es-importante-controlarla-nid08112026/",
+      "published_date": "2026-11-09T20:33:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gabriel Rolón, psicoanalista: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid09112026/",
+      "published_date": "2026-11-09T20:32:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cuánto cobra el papa León XIV y cuales son los beneficios que recibe",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/cuanto-cobra-el-papa-leon-xiv-y-cuales-son-los-beneficios-que-recibe-aFeOc9a4NvjX",
+      "published_date": "2026-11-09T20:26:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Alivio en el exterior: el riesgo país perfora los 900 puntos y las acciones argentinas rebotan 3% en Wall Street",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/alivio-en-el-exterior-el-riesgo-pais-perfora-los-900-puntos-y-las-acciones-argentinas-rebotan-3-en-nid09112026/",
+      "published_date": "2026-11-09T20:21:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Un juez ordena a Nueva York informar a ICE sobre los residentes de un albergue en el Bronx",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/un-juez-ordena-a-nueva-york-informar-a-ice-sobre-los-residentes-de-un-albergue-en-el-bronx_0_aMVA2koZFJ.html",
+      "published_date": "2026-11-09T20:20:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDC: el compromiso con la responsabilidad fiscal que manifestó Lula en su cadena nacional no le alcanzó a los mercados",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdc-el-compromiso-con-la-responsabilidad-fiscal-que-manifesto-lula-en-su-cadena-nacional-no-le-alcanzo-a-los-mercados-ahy3V2k4Gup1",
+      "published_date": "2026-11-09T20:04:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 9 de noviembre, minuto a minuto",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-9-de-noviembre-nid09112026/",
+      "published_date": "2026-11-09T19:10:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paraguay designa al nuevo jefe del Banco Central y el presidente pide la renuncia de todos sus ministros",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/paraguay-designa-al-nuevo-jefe-del-banco-central-y-el-presidente-pidio-la-renuncia-de-todos-sus-nid09112026/",
+      "published_date": "2026-11-09T18:43:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Magnifica Humanitas: las claves de la poderosa encíclica escrita por León XIV",
+      "source": "Perfil",
+      "url": "https://perfil.com/sociedad/magnifica-humanitas-las-claves-de-la-poderosa-enciclica-escrita-por-leon-xiv-aJGgz5j9gTck",
+      "published_date": "2026-11-09T18:25:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paradoja: por qué Paraguay tiene un riesgo país seis veces menor que la Argentina pese a su crisis",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/paradoja-por-que-paraguay-tiene-un-riesgo-pais-seis-veces-menor-que-la-argentina-pese-a-su-crisis-nid09112026/",
+      "published_date": "2026-11-09T18:21:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“La política tiene que escuchar al Papa”: el mensaje de la CGT en la previa a la reunión con León XIV",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/09/la-politica-tiene-que-escuchar-al-papa-el-mensaje-de-la-cgt-en-la-previa-a-la-reunion-con-leon-xiv/",
+      "published_date": "2026-11-09T17:31:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tras el fuerte discurso de León XIV, el Gobierno pide no “apropiarse” de sus palabras",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/tras-el-fuerte-discurso-de-leon-xiv-el-gobierno-se-mantiene-firme-y-pide-no-apropiarse-de-sus-palabras/",
+      "published_date": "2026-11-09T15:37:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Los empresarios respaldaron el mensaje del Papa ante Milei: “No hay empresa próspera en una sociedad que fracasa”",
+      "source": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/los-empresarios-respaldaron-el-mensaje-del-papa-ante-milei-no-hay-empresa-prospera-en-una-sociedad-que-fracasa/",
+      "published_date": "2026-11-09T10:40:27Z",
+      "category": "Economy"
+    },
+    {
       "title": "Súper Niño: pronostican más de 40 grados y tormentas intensas en una región",
       "source": "La Nación",
       "url": "https://www.lanacion.com.ar/economia/campo/super-nino-pronostican-mas-de-40-grados-y-tormentas-intensas-en-una-region-nid07112026/",
@@ -466,248 +571,143 @@
       "category": "Economy"
     },
     {
-      "title": "Glucemia alta: qué pasa en el cuerpo cuando aumenta el azúcar en sangre y por qué hay que controlarla",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/glucemia-alta-que-pasa-en-el-cuerpo-cuando-aumenta-el-azucar-en-sangre-y-por-que-hay-que-controlarla-nid08112026/",
-      "published_date": "2026-11-09T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "León XIV pidió cuidar a los adultos mayores y reclamó una economía al servicio de las personas ante Milei",
+      "title": "El profundo mensaje de Khea sobre la depresión: \"Siempre hay una manera de empezar de nuevo\"",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/leon-xiv-pidio-cuidar-a-los-adultos-mayores-y-reclamo-una-economia-al-servicio-de-las-personas-ante-milei-a9X7X1G4oPzi",
-      "published_date": "2026-11-08T23:46:50Z",
-      "category": "Economy"
+      "url": "https://perfil.com/entretenimiento/el-profundo-mensaje-de-khea-sobre-la-depresion-siempre-hay-una-manera-de-empezar-de-nuevo-aPV0L5b54fOj",
+      "published_date": "2026-11-09T21:01:52Z",
+      "category": "Local Events"
     },
     {
-      "title": "Frente a Milei, León XIV marcó límites al modelo económico y reclamó que “la economía debe estar al servicio de la persona”",
+      "title": "Del mate de Cristina a los alfajores de Milei: los regalos que los políticos argentinos les hicieron a los papas",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/frente-a-milei-leon-xiv-marco-limites-al-modelo-economico-y-reclamo-que-la-economia-debe-estar-al-servicio-de-la-persona-aRkkf7B6Ohnf",
-      "published_date": "2026-11-08T23:41:23Z",
-      "category": "Economy"
+      "url": "https://perfil.com/politica/los-regalos-que-los-politicos-argentinos-les-hicieron-a-los-papas-aqS696K6MWUR",
+      "published_date": "2026-11-09T21:00:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "Las 10 frases más impactantes del discurso inaugural del papa León XIV en la Argentina",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/08/las-10-frases-mas-impactantes-del-discurso-inaugural-del-papa-leon-xiv-en-la-argentina/",
-      "published_date": "2026-11-08T23:39:39Z",
-      "category": "Economy"
+      "title": "Messi, de vuelta en el Monumental: River e Inter Miami tienen encaminado un amistoso para enero",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/messi-de-vuelta-en-el-monumental-river-e-inter-miami-tienen-encaminado-un-amistoso-para-enero-nid09112026/",
+      "published_date": "2026-11-09T21:00:27Z",
+      "category": "Local Events"
     },
     {
-      "title": "Aplausos, desaires y saludos dudosos: la trastienda del primer discurso del Papa en la Argentina",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-detras-de-escena-del-primer-discurso-de-leon-xiv-macri-villarruel-kicillof-y-los-gestos-de-una-intensa-jornada/",
-      "published_date": "2026-11-08T23:28:07Z",
-      "category": "Economy"
+      "title": "La frase de Platón que invita a reflexionar sobre los límites del conocimiento: “Vamos en busca de un saber que no vamos a alcanzar”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lnmas/la-frase-de-platon-que-invita-a-reflexionar-sobre-los-limites-del-conocimiento-vamos-en-busca-de-un-nid09112026/",
+      "published_date": "2026-11-09T21:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Primer mensaje de León XIV: pidió “ejercer el poder con prudencia” y reclamó una economía “al servicio de la gente”",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/primer-mensaje-de-leon-xiv-pidio-ejercer-el-poder-con-prudencia-y-reclamo-una-economia-al-servicio-de-la-gente/",
-      "published_date": "2026-11-08T23:12:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los demócratas preparan investigaciones a Musk y Miller",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/08/los-democratas-preparan-investigaciones-a-musk-y-miller/",
-      "published_date": "2026-11-08T23:03:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "En su primer día, León XIV envió un mensaje de fuerte tono político frente a Milei: \"La economía debe estar al servicio de la persona\"",
+      "title": "Lula cuenta con apenas 124 de los 513 diputados: en RDC analizaron el desafío del presidente para conseguir apoyo en Brasil",
       "source": "Perfil",
-      "url": "https://perfil.com/sociedad/en-su-primer-dia-leon-xiv-envio-un-mensaje-de-fuerte-tono-politico-frente-a-milei-la-economia-debe-estar-al-servicio-de-la-persona-ag6UM9l1unQl",
-      "published_date": "2026-11-08T23:00:21Z",
-      "category": "Economy"
+      "url": "https://perfil.com/mas-perfil/lula-cuenta-con-apenas-124-de-los-513-diputados-en-rdc-analizaron-el-desafio-del-presidente-para-conseguir-apoyo-en-brasil-a0U8u4a1HSnb",
+      "published_date": "2026-11-09T20:56:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "Mario Alonso Puig, sobre expresar las emociones: “Aguantarse, enferma”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-sobre-expresar-las-emociones-aguantarse-enferma-nid08112026/",
-      "published_date": "2026-11-08T23:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El Papa pidió “reconocer al que piensa distinto” y abogó por “el cuidado de la palabra” en la vida pública",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-papa-pidio-reconocer-al-que-piensa-distinto-y-abogo-por-el-cuidado-de-la-palabra-en-la-vida-nid08112026/",
-      "published_date": "2026-11-08T22:55:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Discurso completo del papa León XIV en la Argentina",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/discurso-completo-del-papa-leon-xiv-en-la-argentina-nid08112026/",
-      "published_date": "2026-11-08T22:27:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El cruce Milei y Bullrich, y la sonrisa socarrona de Caputo: cómo fue el paso de León XIV por la Casa Rosada",
+      "title": "Los jugadores de Ponzio que van a ser claves antes del playoffs",
       "source": "Perfil",
-      "url": "https://perfil.com/politica/el-cruce-milei-y-bullrich-y-la-sonrisa-socarrona-de-caputo-como-fue-el-paso-de-leon-xiv-por-la-casa-rosada-ae2VS9u08KPw",
-      "published_date": "2026-11-08T21:14:46Z",
-      "category": "Economy"
+      "url": "https://perfil.com/deportes/los-jugadores-de-ponzio-que-van-a-ser-claves-antes-del-playoffs-acMTS9A6ICdb",
+      "published_date": "2026-11-09T20:52:36Z",
+      "category": "Local Events"
     },
     {
-      "title": "Conrado Estol advirtió sobre el sueño: qué puede indicar quedarse dormido en menos de cinco minutos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-advirtio-sobre-el-sueno-que-puede-indicar-quedarse-dormido-en-menos-de-cinco-minutos-nid08112026/",
-      "published_date": "2026-11-08T21:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Palito Ortega, cantante, a sus 85 años: “Lo más importante es haber disfrutado hasta aquí, mucho de mis hijos”",
+      "title": "RDC: qué cambios podría impulsar Trump en su política de deportaciones tras la derrota electoral",
       "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/palito-ortega-cantante-a-sus-85-anos-lo-mas-importante-es-haber-disfrutado-hasta-aqui-mucho-de-mis-hijos-aG3sH7K4Lf1A",
-      "published_date": "2026-11-08T20:56:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sebastián Castillo, CEO de Abuelo Julio, que exporta carne: “Potenciamos el negocio familiar de más de cuatro generaciones”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/sebastian-castillo-ceo-de-abuelo-julio-que-exporta-carne-potenciamos-el-negocio-familiar-de-mas-de-nid08112026/",
-      "published_date": "2026-11-08T20:48:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "León XIV inició su visita: homenaje a San Martín, reunión con Milei y un duro discurso en el Palacio Libertad",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/leon-xiv-en-argentina-en-vivo-la-visita-del-papa-minuto-a-minuto-y-su-agenda-en-buenos-aires-cordoba-y-lujan/",
-      "published_date": "2026-11-09T02:24:24Z",
+      "url": "https://perfil.com/mas-perfil/rdc-que-cambios-podria-impulsar-trump-en-su-politica-de-deportaciones-tras-la-derrota-electoral-azy081o0k1DZ",
+      "published_date": "2026-11-09T20:51:09Z",
       "category": "Local Events"
     },
     {
-      "title": "La agenda de la TV del lunes: el WTA Finals de tenis femenino y los Juegos Olímpicos de la Juventud",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-el-wta-finals-de-tenis-femenino-y-los-juegos-olimpicos-de-la-juventud-nid08112026/",
-      "published_date": "2026-11-09T02:20:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cinco monjas iban a ver al papa León XIV y sobrevivieron a un vuelco en la Ruta 188",
+      "title": "En RDC explicaron quiénes están afectados por la crisis del Ueno Bank y qué respuestas esperan del nuevo Gobierno paraguayo",
       "source": "Perfil",
-      "url": "https://perfil.com/sociedad/monjas-volcaron-en-ruta-188-cuando-viajaban-a-ver-al-papa-a50-bgd-aGTte7k3EtHP",
-      "published_date": "2026-11-09T02:17:20Z",
+      "url": "https://perfil.com/mas-perfil/en-rdc-explicaron-quienes-estan-afectados-por-la-crisis-del-ueno-bank-y-que-respuestas-esperan-del-nuevo-gobierno-paraguayo-aQBol7R6q9xy",
+      "published_date": "2026-11-09T20:50:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Cuadro de octavos de final del Clausura 2026: todos los cruces de los playoffs",
-      "source": "Perfil",
-      "url": "https://perfil.com/deportes/cuadro-de-octavos-de-final-del-clausura-2026-todos-los-cruces-de-los-playoffs-a88Hs8E4WfmG",
-      "published_date": "2026-11-09T02:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Allanaron una de las casas de Santiago Peña en Paraguay y encontraron una bóveda oculta",
+      "title": "El mensaje de esperanza del papa León XIV para las familias en la misa de Palermo: “En medio de los sufrimientos y las crisis, Dios está y no podemos temer”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/allanaron-una-de-las-casas-de-santiago-pena-en-paraguay-y-encontraron-una-boveda-oculta-nid08112026/",
-      "published_date": "2026-11-09T02:00:18Z",
+      "url": "https://www.lanacion.com.ar/sociedad/el-mensaje-de-esperanza-del-papa-leon-xiv-para-las-familias-en-la-misa-de-palermo-en-medio-de-los-nid09112026/",
+      "published_date": "2026-11-09T20:49:52Z",
       "category": "Local Events"
     },
     {
-      "title": "El complejo de casi 7 acres que Will Smith compró en Secret Beach, en Hawái, pero que luego vendió por US$ 12 millones",
+      "title": "El momento en que el papa León XIV se emocionó durante su visita al Cottolengo Don Orione",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/estados-unidos/famosos/el-complejo-de-casi-7-acres-que-will-smith-compro-en-secret-beach-en-hawai-pero-que-luego-vendio-por-nid08112026/",
-      "published_date": "2026-11-09T01:55:00Z",
+      "url": "https://www.lanacion.com.ar/sociedad/el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-visita-al-cottolengo-don-orione-nid09112026/",
+      "published_date": "2026-11-09T20:49:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Claudia Villafañe habló sobre el casamiento Lali Espósito y Pedro Rosemblat tras estar a cargo de la organización",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/claudia-villafane-hablo-sobre-el-casamiento-lali-esposito-y-pedro-rosemblat-tras-estar-a-cargo-de-la-organizacion-a5q4Q5Q3zR0C",
-      "published_date": "2026-11-09T01:46:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "León XIV recibió la llave de la Ciudad de Buenos Aires",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/09/leon-xiv-recibio-la-llave-de-la-ciudad-de-buenos-aires/",
-      "published_date": "2026-11-09T01:43:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La confianza de La Natividad La Dolfina: “Somos un equipazo y el rival tiene que jugar muy bien para ganarnos”",
+      "title": "Los expertos coinciden: la bombilla del mate se limpia con bicarbonato",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/polo/somos-un-equipazo-y-el-rival-tiene-que-jugar-muy-bien-para-ganarnos-nid08112026/",
-      "published_date": "2026-11-09T01:39:15Z",
+      "url": "https://www.lanacion.com.ar/lifestyle/los-expertos-coinciden-la-bombilla-del-mate-se-limpia-con-bicarbonato-nid09112026/",
+      "published_date": "2026-11-09T20:49:46Z",
       "category": "Local Events"
     },
     {
-      "title": "¿Un Papa del Sur Global?",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/09/un-papa-del-sur-global/",
-      "published_date": "2026-11-09T01:36:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las palabras de León XIV: un pacificador, pero sin concesiones",
+      "title": "Cuál es la semilla que ayuda a cuidar la masa muscular y a refrescarse en los días de calor",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/las-palabras-de-leon-xiv-un-pacificador-pero-sin-concesiones-nid08112026/",
-      "published_date": "2026-11-09T01:33:52Z",
+      "url": "https://www.lanacion.com.ar/sociedad/cual-es-la-semilla-que-ayuda-a-cuidar-la-masa-muscular-y-a-refrescarse-en-los-dias-de-calor-nid08112026/",
+      "published_date": "2026-11-09T20:48:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump dice que su ofrecimiento a jefe de la UFC como secretario de prensa fue un chiste",
+      "title": "Lionel Messi fue elegido por los jugadores e integra el 11 ideal del FIFpro",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-fue-elegido-por-los-jugadores-e-integra-el-11-ideal-del-fifpro-nid09112026/",
+      "published_date": "2026-11-09T20:48:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La tensión entre Karina Milei y Patricia Bullrich ya impacta en el bloque libertario del Senado",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-dice-que-su-ofrecimiento-a-jefe-de-la-ufc-como-secretario-de-prensa-fue-un-chiste_0_2ldRPpXqyu.html",
-      "published_date": "2026-11-09T01:30:16Z",
+      "url": "https://www.clarin.com/politica/tension-karina-milei-patricia-bullrich-impacta-bloque-libertario-senado_0_rFkNHVRGiB.html",
+      "published_date": "2026-11-09T20:44:45Z",
       "category": "Local Events"
     },
     {
-      "title": "León XIV llegó a la Argentina y recordó a Francisco en internet: “La Iglesia universal escuchó su voz durante doce años”",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/leon-xiv-llego-a-la-argentina-y-recordo-a-francisco-en-internet-la-iglesia-universal-escucho-su-voz-durante-doce-anos-a7VYr7u6DZqb",
-      "published_date": "2026-11-09T01:28:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agenda de León XIV este lunes: horarios y misa en Buenos Aires",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/agenda-de-leon-xiv-este-lunes-horarios-y-misa-en-buenos-aires-a50-bgd-aZLU13O7zxI6",
-      "published_date": "2026-11-09T01:23:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump dice que \"solo bromeaba\" cuando pidió al director de las luchas UFC ser su portavoz",
-      "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-dice-que-solo-bromeaba-cuando-pidio-al-director-de-las-luchas-ufc-ser-su-portavoz_0_q6lEXU1XvL.html",
-      "published_date": "2026-11-09T01:20:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La oposición disfrutó del discurso de León XIV",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/09/la-oposicion-disfruto-del-discurso-de-leon-xiv/",
-      "published_date": "2026-11-09T01:15:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De la prohibición del tango al elogio de León XIV: el Papa citó a Gardel y Lepera para hablar del futuro argentino",
-      "source": "Perfil",
-      "url": "https://perfil.com/arte-cultura/de-la-prohibicion-del-tango-al-elogio-de-leon-xiv-el-papa-cito-a-gardel-y-lepera-para-hablar-del-futuro-argentino-aih540R8mnR4",
-      "published_date": "2026-11-09T01:15:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Villarruel recibió el saludo del Papa y valoró su discurso: “Fue acorde a un momento en el que hace falta la unidad nacional”",
+      "title": "Asado argentino vs. txuletón vasco: dos grandes asadores comparten sus secretos",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/villarruel-recibio-el-saludo-del-papa-y-valoro-su-discurso-fue-acorde-a-un-momento-en-el-que-hace-nid08112026/",
-      "published_date": "2026-11-09T01:13:41Z",
+      "url": "https://www.lanacion.com.ar/sabado/asado-argentino-vs-txuleton-vasco-dos-grandes-asadores-comparten-sus-secretos-nid09112026/",
+      "published_date": "2026-11-09T20:42:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump los indultó tras una condena por fraude millonario, pero el IRS ahora les reclama 1,57 millones de dólares",
+      "title": "Kicillof le regaló un mate a León XIV en el Cottolengo Don Orione: así fue el primer encuentro del peronismo con el Papa y las fotos de sus ministros",
       "source": "Clarín",
-      "url": "https://www.clarin.com/estados-unidos/trump-indulto-condena-fraude-millonario-irs-ahora-reclama-157-millones-dolares_0_CkkwYxlIVm.html",
-      "published_date": "2026-11-09T01:13:30Z",
+      "url": "https://www.clarin.com/politica/kicillof-regalo-mate-leon-xiv-cottolengo-don-orione-primer-encuentro-peronismo-papa-fotos-ministros_0_jTWS6bp8sl.html",
+      "published_date": "2026-11-09T20:40:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Llaryora, Prunotto y la dirigencia cordobesa valoraron el primer mensaje de León XIV en la Argentina",
+      "title": "Alpine no puede salir del pozo: Briatore calificó de “decepcionante” el GP de Brasil y admitió los problemas del auto bajo la lluvia",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/alpine-puede-salir-pozo-briatore-califico-decepcionante-gp-brasil-admitio-problemas-auto-lluvia_0_ipP92bcwah.html",
+      "published_date": "2026-11-09T20:40:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Papa habló del “drama” del desempleo, reivindicó la justicia social y apoyó el rol de los gremios y movimientos sociales",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-papa-hablo-del-drama-del-desempleo-reivindico-la-justicia-social-y-apoyo-el-rol-de-los-gremios-y-nid09112026/",
+      "published_date": "2026-11-09T20:38:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Que salga campeón y se vaya Martínez Quarta\": el insólito pedido de un hincha de River al Papa León XIV",
       "source": "Perfil",
-      "url": "https://perfil.com/cordoba/llaryora-prunotto-y-la-dirigencia-cordobesa-valoraron-el-primer-mensaje-de-leon-xiv-en-la-argentina-a0uh42Y5foFs",
-      "published_date": "2026-11-09T01:10:14Z",
+      "url": "https://perfil.com/deportes/que-salga-campeon-y-se-vaya-martinez-quarta-el-insolito-pedido-de-un-hincha-de-river-al-papa-leon-xiv-aeu2R2R5yyoe",
+      "published_date": "2026-11-09T20:37:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El discurso completo de León XIV en la UCA: de la justicia social a la defensa de los trabajadores informales",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/09/el-discurso-completo-de-leon-xiv-en-la-uca-de-la-justicia-social-a-la-defensa-de-los-trabajadores-informales/",
+      "published_date": "2026-11-09T20:36:14Z",
       "category": "Local Events"
     }
   ]
