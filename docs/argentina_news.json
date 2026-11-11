@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:22:11Z",
+  "generated_at": "2026-11-11T02:39:52Z",
   "country": "Argentina",
   "total_stories": 100,
   "categories": [
@@ -10,6 +10,48 @@
     "Local Events"
   ],
   "stories": [
+    {
+      "title": "Seis empresas argentinas de maquinaria agrícola buscan nuevos compradores en Italia",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/seis-empresas-argentinas-de-maquinaria-agricola-buscan-nuevos-compradores-en-italia-nid10112026/",
+      "published_date": "2026-11-10T23:22:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El trío que se rompió: Scaloni busca reconstruir una defensa que conocía de memoria en la selección argentina",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-trio-que-se-rompio-scaloni-busca-reconstruir-una-defensa-que-conocia-de-memoria-en-la-seleccion-nid10112026/",
+      "published_date": "2026-11-10T23:07:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El mensaje de León XIV deja una hoja de ruta a la Iglesia argentina para encarar “de forma inmediata”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-leon-xiv-deja-una-hoja-de-ruta-a-la-iglesia-argentina-para-encarar-de-forma-inmediata-nid10112026/",
+      "published_date": "2026-11-10T22:49:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La industria textil, en la lona",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/10/la-industria-textil-en-la-lona/",
+      "published_date": "2026-11-10T22:37:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "COP31: seis claves para entender la Cumbre del Clima “más grande de la historia”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/cop31-seis-claves-para-entender-la-cumbre-del-clima-mas-grande-de-la-historia-nid10112026/",
+      "published_date": "2026-11-10T22:31:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El vicepresidente de Estados Unidos canceló su visita a la Argentina",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/10/el-vicepresidente-de-estados-unidos-cancelo-su-visita-a-la-argentina/",
+      "published_date": "2026-11-10T20:37:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
       "source": "Perfil",
@@ -109,46 +151,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "En fotos. Todos los invitados al encuentro con el Papa en la UCA",
+      "title": "Se fugó Leonardo Bertulazzi, exmiembro de las Brigadas Rojas italianas, mientras esperaba su extradición",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/en-fotos-todos-los-invitados-al-encuentro-con-el-papa-en-la-uca-nid09112026/",
-      "published_date": "2026-11-09T23:45:13Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/seguridad/se-fugo-leonardo-bertulazzi-exmiembro-de-las-brigadas-rojas-italianas-mientras-esperaba-su-nid10112026/",
+      "published_date": "2026-11-11T02:17:38Z",
+      "category": "Military"
     },
     {
-      "title": "Diego Forlán contra la Argentina: Independiente, Menotti, Riquelme y amores de un Balón de Oro convertido en DT de selección",
+      "title": "La historia real detrás del pequeño hombrecito que causa terror en internet al caminar igual que Rumpelstiltskin",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/diego-forlan-contra-la-argentina-independiente-menotti-riquelme-y-amores-de-un-balon-de-oro-nid09112026/",
-      "published_date": "2026-11-09T22:43:15Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/lifestyle/la-historia-real-detras-del-pequeno-hombrecito-que-causa-terror-en-internet-al-caminar-igual-que-nid10112026/",
+      "published_date": "2026-11-11T01:20:23Z",
+      "category": "Military"
     },
     {
-      "title": "Matt Damon reveló el dramático problema de salud de su esposa argentina: “Sufrió un aneurisma cerebral”",
+      "title": "El caso Santi Mina: el exjugador de Celta prepara su ingreso en la cárcel",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/matt-damon-revelo-el-dramatico-problema-de-salud-de-su-esposa-argentina-sufrio-un-aneurisma-cerebral-nid06112026/",
-      "published_date": "2026-11-09T22:30:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-caso-santi-mina-el-exjugador-de-celta-prepara-su-ingreso-en-la-carcel-nid10112026/",
+      "published_date": "2026-11-10T23:55:36Z",
+      "category": "Military"
     },
     {
-      "title": "León XIV en la UCA: “Privar a una persona de trabajo no es solo negarle un ingreso, es herir gravemente su dignidad”",
+      "title": "Los republicanos evitan el juicio político contra Pete Hegseth",
+      "source": "Página/12 — El Mundo",
+      "url": "https://www.pagina12.com.ar/2026/11/10/los-republicanos-evitan-el-juicio-politico-contra-pete-hegseth/",
+      "published_date": "2026-11-10T23:48:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Con una chicana a Milei, Londres desvió la discusión por Malvinas hacia el terreno de la soberanía",
+      "source": "Perfil",
+      "url": "https://perfil.com/politica/con-una-chicana-a-milei-londres-desvio-la-discusion-por-malvinas-hacia-el-terreno-de-la-soberania-aGfYG9c7KMxb",
+      "published_date": "2026-11-10T23:45:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Con el apoyo republicano, el controvertido secretario de Defensa de Trump zafa de un juicio político",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/estados-unidos/con-el-apoyo-republicano-el-controvertido-secretario-de-defensa-de-trump-zafa-de-un-juicio-politico-nid10112026/",
+      "published_date": "2026-11-10T23:37:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "Comercio exterior, economía y defensa, el desafío del orden efectivo",
       "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/leon-xiv-en-la-uca-privar-a-una-persona-de-trabajo-no-es-solo-negarle-un-ingreso-es-herir-gravemente-su-dignidad/",
-      "published_date": "2026-11-09T21:54:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Encuentro con líderes de otros credos: con guiños Juan Pablo II y Francisco, el Papa destaca el rol de las religiones",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/encuentro-con-lideres-de-otros-credos-con-guinos-juan-pablo-ii-y-francisco-el-papa-destaco-el-rol-de-nid09112026/",
-      "published_date": "2026-11-09T21:02:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Papa León XIV en la Argentina, EN VIVO: El Pontífice habla ante líderes de todas las religiones en el Palacio San Martín",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-buenos-aires-la-agenda-del-dia-y-las-ultimas-nid09112026/",
-      "published_date": "2026-11-09T21:01:45Z",
-      "category": "Diplomacy"
+      "url": "https://www.cronista.com/transport-cargo/comercio-exterior-economia-y-defensa-el-desafio-del-orden-efectivo/",
+      "published_date": "2026-11-10T22:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Jefe del Estado Mayor Conjunto de EEUU llega a Bogotá para fortalecer cooperación militar",
@@ -242,53 +291,11 @@
       "category": "Military"
     },
     {
-      "title": "El vecino de Pilar que amenazó de muerte al Papa será indagado por “intimidación pública con finalidad terrorista”",
+      "title": "El Climate Photo Award pone en foco la crisis climática y la defensa de la biodiversidad",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/el-vecino-de-pilar-que-amenazo-de-muerte-al-papa-sera-indagado-por-intimidacion-publica-con-nid09112026/",
-      "published_date": "2026-11-09T19:45:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Polonia investiga el ataque en Cracovia como un acto terrorista",
-      "source": "Página/12 — El Mundo",
-      "url": "https://www.pagina12.com.ar/2026/11/08/polonia-investiga-el-ataque-en-cracovia-como-un-acto-terrorista/",
-      "published_date": "2026-11-08T23:47:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia investiga a su CEO por una relación extramatrimonial con una presunta espía china",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/nvidia-investiga-a-su-ceo-por-una-relacion-extramatrimonial-con-una-presunta-espia-china-nid08112026/",
-      "published_date": "2026-11-08T23:27:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Ministerio de Defensa explicó cómo es la protección del espacio aéreo por el papa León XIV: “Hay restricciones en Buenos Aires y Córdoba”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-ministerio-de-defensa-explico-como-es-la-proteccion-del-espacio-aereo-por-el-papa-leon-xiv-hay-nid08112026/",
-      "published_date": "2026-11-08T22:41:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carlos III encabezó un multitudinario homenaje a los soldados caídos en las guerras",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/carlos-iii-encabezo-un-multitudinario-homenaje-a-los-soldados-caidos-en-las-guerras-nid08112026/",
-      "published_date": "2026-11-08T21:19:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Los nuevos detalles sobre el atacante y la investigación por terrorismo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/los-nuevos-detalles-sobre-el-atacante-y-la-investigacion-por-terrorismo-nid08112026/",
-      "published_date": "2026-11-08T21:17:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Eisenkot advirtió que Israel está cerca de un “punto de no retorno” y enfrenta el desafío de formar gobierno",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/eisenkot-advirtio-que-israel-esta-cerca-de-un-punto-de-no-retorno-y-enfrenta-el-desafio-de-formar-nid08112026/",
-      "published_date": "2026-11-08T20:19:35Z",
-      "category": "Military"
+      "url": "https://www.lanacion.com.ar/cultura/el-climate-photo-award-pone-en-foco-la-crisis-climatica-y-la-defensa-de-la-biodiversidad-nid10112026/",
+      "published_date": "2026-11-10T23:29:55Z",
+      "category": "Energy"
     },
     {
       "title": "De la luz a la nafta: Edenor desembarca en el negocio de los combustibles con el 20% de la red Shell",
@@ -424,290 +431,283 @@
       "category": "Energy"
     },
     {
-      "title": "El nuevo beneficio para Pymes que apunta a bajar un costo clave: de qué se trata",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/el-nuevo-beneficio-para-pymes-que-apunta-a-bajar-un-costo-clave-de-que-se-trata/",
-      "published_date": "2026-11-04T12:28:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Un escándalo de amantes y espionaje chino golpea al fabricante de chips Nvidia y sacude al mundo tecnológico",
-      "source": "Perfil",
-      "url": "https://perfil.com/protagonistas/una-trama-de-sexo-espionaje-e-inteligencia-artificial-golpea-a-nvidia-a50-aLBA62T2QN2u",
-      "published_date": "2026-11-10T18:14:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Santiago Caputo dice que el encuentro del Papa con Milei cumple una profecía",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/santiago-caputo-dice-que-el-encuentro-del-papa-con-milei-cumple-una-profecia-aYusW6c4us1X",
-      "published_date": "2026-11-10T18:10:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Los cambios que necesita el programa económico del Gobierno: “Crecimiento económico con inclusión es desarrollo”",
-      "source": "Perfil",
-      "url": "https://perfil.com/canal-e/los-cambios-que-necesita-el-programa-economico-del-gobierno-crecimiento-economico-con-inclusion-es-desarrollo-asT9G4h2QBwW",
-      "published_date": "2026-11-10T17:53:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este martes 10 de noviembre, minuto a minuto",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-martes-10-de-noviembre-nid10112026/",
-      "published_date": "2026-11-10T17:42:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Un economista comparó el discurso económico de Javier Milei con el del Papa León XIV: “La empatía es algo ajeno”",
-      "source": "Perfil",
-      "url": "https://perfil.com/canal-e/un-economista-comparo-el-discurso-economico-de-javier-milei-con-el-del-papa-leon-xiv-la-empatia-es-algo-ajeno-ai6DT7k7WYy8",
-      "published_date": "2026-11-10T17:41:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Quién es Andrés Castellano, el rapero que unió la fe y los ritmos urbanos en la vigilia del papa León XIV en Córdoba",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lifestyle/quien-es-andres-castellano-el-rapero-que-unio-la-fe-y-los-ritmos-urbanos-en-la-vigilia-del-papa-leon-nid10112026/",
-      "published_date": "2026-11-10T17:39:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A cuánto abre el dólar este miércoles 11 de noviembre tras los feriados bancarios y la visita del papa León XIV",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/dolar/a-cuanto-abre-el-dolar-este-miercoles-11-de-noviembre-tras-los-feriados-bancarios-y-la-visita-del-nid10112026/",
-      "published_date": "2026-11-10T17:35:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthropic morigera sus expectativas y espera valer solo US$1 billón cuando cotice en la Bolsa",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/anthropic-morigera-sus-expectativas-y-espera-valer-solo-us1-billon-cuando-cotice-en-la-bolsa-nid10112026/",
-      "published_date": "2026-11-10T17:10:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Qué se sabe de la crisis en Paraguay hoy: “La posibilidad de que los ahorristas reclamen el dinero de todo el sistema y genere un crack financiero parecen haber quedado atrás”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-crisis-en-paraguay-hoy-la-posibilidad-de-que-los-ahorristas-reclamen-el-dinero-de-nid10112026/",
-      "published_date": "2026-11-10T16:57:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Qué es la glucemia, cómo influye en el organismo y por qué es importante controlarla",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/que-es-la-glucemia-como-influye-en-el-organismo-y-por-que-es-importante-controlarla-nid08112026/",
-      "published_date": "2026-11-10T16:56:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gabriel Rolón, psicoanalista: “Podemos alcanzar la faltacidad, la mezcla de falta y felicidad, que es una felicidad en falta”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/lnmas/gabriel-rolon-psicoanalista-podemos-alcanzar-la-faltacidad-la-mezcla-de-falta-y-felicidad-que-es-una-nid09112026/",
-      "published_date": "2026-11-10T16:56:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El riesgo país vuelve a caer y queda por debajo de los 860 puntos",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-bajar-y-queda-por-debajo-de-los-860-puntos-nid10112026/",
-      "published_date": "2026-11-10T16:46:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Magalí Altamirano: cómo era su vida antes de convertirse en una de las integrantes de Chapeaux",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/magali-altamirano-como-era-su-vida-antes-de-convertirse-en-una-de-las-integrantes-de-chapeaux-aibhS1Y7jM2Y",
-      "published_date": "2026-11-10T16:43:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La inflación en Estados Unidos volvió a acelerarse y crece la presión sobre la Fed para subir las tasas de interés",
-      "source": "Perfil",
-      "url": "https://perfil.com/economia/la-inflacion-en-estados-unidos-se-acelera-y-presiona-a-la-fed-para-subir-las-tasas-a40-aMCAx6z7Ql3g",
-      "published_date": "2026-11-10T16:27:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Mario Alonso Puig, cirujano especialista en emociones: “Las creencias limitantes suelen estar arraigadas en el inconsciente”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/salud/mente/mario-alonso-puig-cirujano-especialista-en-emociones-las-creencias-limitantes-suelen-estar-nid08112026/",
-      "published_date": "2026-11-10T16:27:08Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Atención jubilados y pensionados: PAMI pagará un bono excepcional de $ 58.560 para cubrir gastos de alimentación",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/atencion-jubilados-y-pensionados-pami-pagara-un-bono-excepcional-de-58560-para-cubrir-gastos-de-alimentacion/",
-      "published_date": "2026-11-10T16:24:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Las redes reflotan los viejos posteos de Milei sobre el Papa Franciso: \"Zurdo hijo de p...\"",
-      "source": "Perfil",
-      "url": "https://perfil.com/politica/las-redes-reflotan-los-viejos-posteos-de-milei-sobre-el-papa-franciso-zurdo-hijo-de-p...-aMeC91D3Qthy",
-      "published_date": "2026-11-10T16:22:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Carne para China: fuerte expectativa por otro millonario negocio en un mercado que “cada vez sorprende más”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/campo/carne-a-china-fuerte-expectativa-por-otro-millonario-negocio-en-un-mercado-que-cada-vez-sorprende-nid10112026/",
-      "published_date": "2026-11-10T16:04:30Z",
-      "category": "Economy"
-    },
-    {
-      "title": "El riesgo país sigue en baja y está a un paso de romper los 850 puntos, pero los ADR's argentinos operan en rojo",
-      "source": "Perfil",
-      "url": "https://perfil.com/economia/el-riesgo-pais-sigue-en-baja-y-esta-a-un-paso-de-romper-los-850-puntos-pero-los-adrs-argentinos-operan-en-rojo-awW7R4T7pcy1",
-      "published_date": "2026-11-10T15:58:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "¿Más inversiones significan más exportaciones? Argentina como caso testigo",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/mas-inversiones-significan-mas-exportaciones-argentina-como-caso-testigo/",
-      "published_date": "2026-11-10T15:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "“Buscamos a nuestros desaparecidos, que están acá cerca”: el encuentro entre Alba Camargo y el Papa",
-      "source": "Página/12 — El País",
-      "url": "https://www.pagina12.com.ar/2026/11/10/buscamos-a-nuestros-desaparecidos-que-estan-aca-cerca-el-encuentro-entre-alba-camargo-y-el-papa/",
-      "published_date": "2026-11-10T18:18:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zaira Nara mostró cómo es su vida en Uruguay: tardes de mate, playa y descanso con sus caballos y su familia",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/zaira-nara-mostro-como-es-su-vida-en-uruguay-tardes-de-mate-playa-y-descanso-con-sus-caballos-y-su-familia-atoZP9b4jl7C",
-      "published_date": "2026-11-10T18:16:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Insólito robo en Neuquén: hizo un boquete para entrar a una verdulería, pero un vecino lo descubrió y quedó filmado",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/seguridad/insolito-robo-en-neuquen-hizo-un-boquete-para-entrar-a-una-verduleria-pero-un-vecino-lo-descubrio-y-nid10112026/",
-      "published_date": "2026-11-10T18:11:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alex Caniggia mostró su impactante transformación física y sorprendió a todos: “De obeso a bestia humana”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/alex-caniggia-mostro-su-impactante-transformacion-fisica-y-sorprendio-a-todos-de-obeso-a-bestia-nid10112026/",
-      "published_date": "2026-11-10T18:09:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Después de 13 años de espera, Grand Theft Auto VI vuelve a Vice City este 19 de noviembre",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/tecnologia/despues-de-13-anos-de-espera-grand-theft-auto-vi-vuelve-a-vice-city-este-19-de-noviembre-nid10112026/",
-      "published_date": "2026-11-10T18:07:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casos Próvolo y Opus Dei: piden que el Papa reciba a más víctimas de abusos en la Iglesia",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/casos-provolo-y-opus-dei-piden-que-el-papa-reciba-a-mas-victimas-de-abusos-en-la-iglesia-nid10112026/",
-      "published_date": "2026-11-10T18:06:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jorge Macri habló tras el escándalo por la carpa VIP en la misa del Papa León XIV: \"Las medialunas y los budínes estuvieron de más\"",
-      "source": "Perfil",
-      "url": "https://perfil.com/entretenimiento/jorge-macri-hablo-tras-el-escandalo-por-la-carpa-vip-en-la-misa-del-papa-leon-xiv-las-medialunas-y-los-budines-estuvieron-de-mas-aU5dr7z2GgF9",
-      "published_date": "2026-11-10T18:02:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los fiscales intentan abrir la bóveda secreta de Peña en Paraguay mientras avanza la devolución a los ahorristas",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/los-fiscales-intentan-abrir-la-boveda-secreta-de-pena-en-paraguay-mientras-avanza-la-devolucion-a-nid10112026/",
-      "published_date": "2026-11-10T18:01:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Video: el emotivo momento en el que obispos le cantaron “Volver” de Gardel a León XIV en Buenos Aires",
-      "source": "Perfil",
-      "url": "https://perfil.com/sociedad/video-el-emotivo-momento-en-el-que-obispos-le-cantaron-volver-de-gardel-a-leon-xiv-en-buenos-aires-aY9ZE4C9LSwr",
-      "published_date": "2026-11-10T18:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La costumbre que nació entre las mesas de un restaurante de Lujan atendido por misioneras y llegó a los cinco continentes: “Todo lo que hacemos es para dar a conocer a Jesús”",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/que-sale/como-es-el-restaurante-de-lujan-atendido-por-misioneras-que-acompanan-la-visita-de-leon-xiv-todo-lo-nid09112026/",
-      "published_date": "2026-11-10T17:59:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jimena Barón no encontraba a su hijo Arturo y cuando vio dónde estaba se quedó sin palabras",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/jimena-baron-no-encontraba-a-su-hijo-arturo-y-cuando-vio-donde-estaba-se-quedo-sin-palabras-nid10112026/",
-      "published_date": "2026-11-10T17:59:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno desmiente a Villarruel por la invitación a la misa del Papa en Palermo",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-desmiente-a-villarruel-por-la-invitacion-a-la-misa-nid10112026/",
-      "published_date": "2026-11-10T17:59:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "León XIV se reúne con religiosos y seminaristas en la Catedral de Nuestra Señora de la Asunción en Córdoba",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/papa-leon-xiv-en-argentina-en-vivo-su-visita-minuto-a-minuto-y-la-agenda-en-cordoba-buenos-aires-y-lujan/",
-      "published_date": "2026-11-10T17:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dos testimonios y dos preguntas: cómo será el encuentro de León XIV con los jóvenes",
-      "source": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/dos-testimonios-y-dos-preguntas-como-sera-el-encuentro-de-leon-xiv-con-los-jovenes/",
-      "published_date": "2026-11-10T17:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La confesión de Judi Dench: por qué Daniel Craig decidió su final en James Bond y el día que Robin Williams la salvó",
-      "source": "Perfil",
-      "url": "https://perfil.com/personas/judi-dench-publico-sus-memorias-el-secreto-sobre-james-bond-y-la-enfermedad-que-la-aleja-del-cine-a50-sacm-aY3VY2m3bh1I",
-      "published_date": "2026-11-10T17:51:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alanis Morissette habló por primera vez sobre su orientación sexual",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/espectaculos/personajes/alanis-morissette-hablo-por-primera-vez-sobre-su-orientacion-sexual-nid10112026/",
-      "published_date": "2026-11-10T17:49:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Papa ya está en Sudamérica: la intimidad del viaje de León XIV",
-      "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
-      "published_date": "2026-11-10T17:49:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La visita de León XIV: cómo es ir \"en cápsula\" con el Papa a todas sus actividades",
+      "title": "Pat Murphy de Milwaukee, 1ro en ganar 3 premios consecutivos de Mánager del Año",
       "source": "Clarín",
-      "url": "https://www.clarin.com/sociedad/visita-leon-xiv-viajar-capsula-papa_0_MyuaRPriwp.html",
-      "published_date": "2026-11-10T17:45:51Z",
+      "url": "https://www.clarin.com/estados-unidos/pat-murphy-de-milwaukee-1ro-en-ganar-3-premios-consecutivos-de-manager-del-ano_0_s5qJf8Metr.html",
+      "published_date": "2026-11-11T01:50:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Glucemia alta: qué pasa en el cuerpo cuando aumenta el azúcar en sangre y por qué hay que controlarla",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/glucemia-alta-que-pasa-en-el-cuerpo-cuando-aumenta-el-azucar-en-sangre-y-por-que-hay-que-controlarla-nid08112026/",
+      "published_date": "2026-11-11T01:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hinojosa pide al Departamento de Parques y Vida Silvestre de Texas que suspenda la acción sobre los terrenos de Boca Chica en medio de las preocupaciones de SpaceX",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/hinojosa-pide-departamento-parques-vida-silvestre-texas-suspenda-accion-terrenos-boca-chica-medio-preocupaciones-spacex_0_Mw5AFlq0sc.html",
+      "published_date": "2026-11-11T01:31:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflación de estrellas y laberintos de copas: los títulos del fútbol argentino que restan por definirse en 2026",
+      "source": "Perfil",
+      "url": "https://perfil.com/deportes/inflacion-de-estrellas-y-laberintos-de-copas-los-titulos-del-futbol-argentino-que-restan-por-definirse-en-2026-azsxd2k13QXf",
+      "published_date": "2026-11-11T00:49:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Repunte de los papeles argentinos en Wall Street",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/10/repunte-de-los-papeles-argentinos-en-wall-street/",
+      "published_date": "2026-11-10T23:55:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: Jairo Straccia analizó el vínculo de Marcos Galperin con el poder político",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdeco-jairo-straccia-analizo-el-vinculo-de-marcos-galperin-con-el-poder-politico-ajwtM2w7GWBt",
+      "published_date": "2026-11-10T23:54:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "¿Existe un hijo preferido? Qué hay detrás de las preferencias de los padres, según una psicóloga",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/existe-un-hijo-preferido-que-hay-detras-de-las-preferencias-de-los-padres-segun-una-psicologa-nid10112026/",
+      "published_date": "2026-11-10T23:43:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La tasa de pobreza habría subido en el tercer trimestre",
+      "source": "Página/12 — Economía",
+      "url": "https://www.pagina12.com.ar/2026/11/10/la-tasa-de-pobreza-sigue-en-alza/",
+      "published_date": "2026-11-10T23:40:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La industria pierde entre 100 y 150 empresas por mes: en RDEco advirtieron por el deterioro de la economía real",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/la-industria-pierde-entre-100-y-150-empresas-por-mes-en-rdeco-advirtieron-por-el-deterioro-de-la-economia-real-a5wJa4O9hdLT",
+      "published_date": "2026-11-10T23:21:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“La vida humana queda subordinada a la renta y la ganancia”: en RDEco cuestionaron el modelo económico del Gobierno tras el mensaje del Papa",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/la-vida-humana-queda-subordinada-a-la-renta-y-la-ganancia-en-rdeco-cuestionaron-el-modelo-economico-del-gobierno-tras-el-mensaje-del-papa-ayyNL0w0NWyM",
+      "published_date": "2026-11-10T23:18:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: qué mira el mercado tras la pausa financiera y cuáles son los riesgos para los bonos",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdeco-que-mira-el-mercado-tras-la-pausa-financiera-y-cuales-son-los-riesgos-para-los-bonos-aZlEw7F2999w",
+      "published_date": "2026-11-10T23:14:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Declaró el bombero que quiso llegar al escenario del Papa, “dio explicaciones atendibles” y, por ahora, seguirá preso",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/seguridad/declaro-el-bombero-que-quiso-llegar-al-escenario-del-papa-dio-explicaciones-atendibles-y-por-ahora-nid10112026/",
+      "published_date": "2026-11-10T23:08:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Recuperación en las acciones de Wall Street: “Tuvimos un mercado de capitales en el exterior en Estados Unidos muy positivo”",
+      "source": "Perfil",
+      "url": "https://perfil.com/canal-e/recuperacion-en-las-acciones-de-wall-street-tuvimos-un-mercado-de-capitales-en-el-exterior-en-estados-unidos-muy-positivo-aDi2V4e0gLd9",
+      "published_date": "2026-11-10T22:58:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "“La decisión que tiene que tomar no le resulta simple”: Fernando Alonso analizó en RDEco el dilema financiero del Gobierno",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/la-decision-que-tiene-que-tomar-no-le-resulta-simple-fernando-alonso-analizo-en-rdeco-el-dilema-financiero-del-gobierno-aUEaE9J7Hul3",
+      "published_date": "2026-11-10T22:57:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La pobreza según la UCA y las consultoras: un número que el Indec no muestra",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/la-pobreza-segun-la-uca-y-las-consultoras-un-numero-que-el-indec-no-muestra-adWyD0M3J03P",
+      "published_date": "2026-11-10T22:55:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Anthropic prepara su salida a la bolsa mientras advierte sobre los peligros de la IA sin control",
+      "source": "Perfil",
+      "url": "https://perfil.com/economia/anthropic-prepara-su-salida-a-la-bolsa-mientras-advierte-sobre-los-peligros-de-la-ia-sin-control-aCjGi3F3Bq0i",
+      "published_date": "2026-11-10T22:47:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDEco: qué beneficios recibió Mercado Libre del Estado argentino",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdeco-que-beneficios-recibio-mercado-libre-del-estado-argentino-a95kI2f53moK",
+      "published_date": "2026-11-10T22:45:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "La reflexión de Gabriel Rolón sobre la felicidad desde una nueva mirada: “Podemos alcanzar la faltacidad”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-gabriel-rolon-sobre-la-felicidad-desde-una-nueva-mirada-podemos-alcanzar-la-nid10112026/",
+      "published_date": "2026-11-10T22:43:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "RDC: crece la presión del mercado financiero brasileño sobre Lula da Silva",
+      "source": "Perfil",
+      "url": "https://perfil.com/mas-perfil/rdc-crece-la-presion-del-mercado-financiero-brasileno-sobre-lula-da-silva-amgvf0Z2xau3",
+      "published_date": "2026-11-10T22:41:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Se disparó la soja: el precio en el mercado internacional aumentó US$14,6 por tonelada",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/campo/se-disparo-la-soja-el-precio-en-el-mercado-internacional-aumento-us146-por-tonelada-nid10112026/",
+      "published_date": "2026-11-10T22:20:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El discurso completo de León XIV ante los jóvenes en Palermo",
+      "source": "Página/12 — El País",
+      "url": "https://www.pagina12.com.ar/2026/11/11/el-discurso-completo-de-leon-xiv-ante-los-jovenes-en-palermo/",
+      "published_date": "2026-11-11T02:25:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Una amenaza latente: el trágico desenlace de un yaguareté reavivó la preocupación por la reintroducción de la especie",
+      "title": "El emotivo discurso de León XIV ante una multitud de jóvenes: “No permitan que nada ni nadie les arrebate la libertad”",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/sociedad/una-amenaza-latente-un-yaguarete-que-era-monitoreado-murio-atropellado-y-reavivo-la-preocupacion-por-nid10112026/",
-      "published_date": "2026-11-10T17:43:35Z",
+      "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-encabezo-una-vigilia-en-palermo-y-llamo-a-los-jovenes-a-desconfiar-de-los-idolos-nid10112026/",
+      "published_date": "2026-11-11T02:24:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Horarios de los partidos amistosos de la selección argentina vs. Uruguay y Costa Rica",
+      "title": "El comunicado de Los Palmeras tras la trágica muerte de Marcos Camino: \"Profundo dolor\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/el-comunicado-de-los-palmeras-tras-la-tragica-muerte-de-marcos-camino-profundo-dolor-asEqV3v4dkMJ",
+      "published_date": "2026-11-11T02:22:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Se rompe McLaren? El escándalo con Oscar Piastri que podría beneficiar a Franco Colapinto",
+      "source": "Perfil",
+      "url": "https://perfil.com/deportes/oscar-piastri-evalua-dejar-mclaren-los-motivos-y-por-que-beneficiaria-a-franco-colapinto-aOyqc8Y4bh4T",
+      "published_date": "2026-11-11T02:21:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Papa León XIV en la Argentina, EN VIVO: visita a la Catedral en Córdoba y todo sobre la vigilia joven en el Monumento de los Españoles",
       "source": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-los-partidos-amistosos-de-la-seleccion-argentina-vs-uruguay-y-costa-rica-nid10112026/",
-      "published_date": "2026-11-10T17:41:52Z",
+      "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-visita-a-cordoba-y-todo-sobre-la-vigilia-joven-en-monumento-nid10112026/",
+      "published_date": "2026-11-11T02:18:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luciano Pereyra mostró cómo se prepara Luján para la visita del papa León XIV",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/luciano-pereyra-mostro-como-se-prepara-lujan-para-la-visita-del-papa-leon-xiv-a6Nqz7I6GpJL",
+      "published_date": "2026-11-11T02:15:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lejos de la moda, Ana Paula Dutil mostró su otro oficio, que la conecta con la naturaleza",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/lejos-de-la-moda-ana-paula-dutil-mostro-su-otro-oficio-que-la-conecta-con-la-naturaleza-axBN29g32R9K",
+      "published_date": "2026-11-11T02:13:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lali Espósito sorprendió con un radical cambio de look: se sumó al flixie, el corte de pelo que será tendencia en 2027",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/lali-esposito-sorprendio-con-un-radical-cambio-de-look-se-sumo-al-flixie-el-corte-de-pelo-que-sera-tendencia-en-2027-adRPn7B2I9Nk",
+      "published_date": "2026-11-11T02:13:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“La juventud está muy necesitada”: tienen entre 15 y 35, y dan la bienvenida al Papa en la cita que él pidió expresamente",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/sociedad/la-juventud-esta-muy-necesitada-tienen-entre-15-y-35-y-esperan-ansiosos-la-cita-que-el-papa-pidio-nid10112026/",
+      "published_date": "2026-11-11T02:11:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marina Señuk mostró el look de Malaika, por el Día de la Tradición: “Tenemos una paisana en casa”",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/marina-senuk-mostro-el-look-de-malaika-por-el-dia-de-la-tradicion-tenemos-una-paisana-en-casa-aYrpt2t7gzew",
+      "published_date": "2026-11-11T02:11:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fiscalía de Chihuahua niega que la gobernadora conociera las operaciones de EE.UU.",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/fiscalia-de-chihuahua-niega-que-la-gobernadora-conociera-las-operaciones-de-ee-uu_0_Sd7Qnpqmxf.html",
+      "published_date": "2026-11-11T02:10:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murió la exvecina de Cristina Kirchner: este es el dúplex desde donde desplegaba sus banderas",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-exvecina-de-cristina-kirchner-este-es-el-duplex-desde-donde-desplegaba-sus-banderas-nid10112026/",
+      "published_date": "2026-11-11T02:05:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El descargo del relator apuntado por el festejo fallido de Rosario Central en la definición del Torneo Clausura: \"Las redes son crueles\"",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/deportes/descargo-relator-apuntado-festejo-fallido-rosario-central-definicion-torneo-clausura-redes-crueles_0_nlodIfOYAG.html",
+      "published_date": "2026-11-11T02:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leandro Paredes y su noche inolvidable en Boca ante Vasco da Gama: “Sabíamos que el riesgo era alto”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/leandro-paredes-y-su-noche-inolvidable-en-boca-ante-vasco-da-gama-sabiamos-que-el-riesgo-era-alto-nid10112026/",
+      "published_date": "2026-11-11T01:54:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los americanos según “Bobby Brown”",
+      "source": "Perfil",
+      "url": "https://perfil.com/sociedad/los-americanos-segun-bobby-brown-aNs7Y7Q8oLGC",
+      "published_date": "2026-11-11T01:48:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El video de un niño al saludar al Papa León XIV que se hizo viral: \"¡Alto anillito, eh!\"",
+      "source": "Perfil",
+      "url": "https://perfil.com/entretenimiento/el-video-de-un-nino-al-saludar-al-papa-leon-xiv-que-se-hizo-viral-alto-anillito-eh-alTva6h1mmz4",
+      "published_date": "2026-11-11T01:45:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Una vista majestuosa”: la emoción de Reid Wiseman al observar la Tierra desde Artemis II",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/una-vista-majestuosa-la-emocion-de-reid-wiseman-al-observar-la-tierra-desde-artemis-ii-nid09112026/",
+      "published_date": "2026-11-11T01:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conrado Estol explica cómo mantener la mente activa a los 80 años: “Hay que hacer lo mismo que a los 40”",
+      "source": "La Nación",
+      "url": "https://www.lanacion.com.ar/lnmas/conrado-estol-explica-como-mantener-la-mente-activa-a-los-80-anos-hay-que-hacer-lo-mismo-que-a-los-nid10112026/",
+      "published_date": "2026-11-11T01:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La familia Kennedy pide bloquear proyecto de Trump de construir un arco de triunfo",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/la-familia-kennedy-pide-bloquear-proyecto-de-trump-de-construir-un-arco-de-triunfo_0_K6CuBkA5HH.html",
+      "published_date": "2026-11-11T01:40:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juez de EEUU rechaza recurso de la BBC y mantiene demanda por difamación de Trump",
+      "source": "Clarín",
+      "url": "https://www.clarin.com/estados-unidos/juez-de-eeuu-rechaza-recurso-de-la-bbc-y-mantiene-demanda-por-difamacion-de-trump_0_8V6RSkZp4Q.html",
+      "published_date": "2026-11-11T01:40:15Z",
       "category": "Local Events"
     }
   ]
